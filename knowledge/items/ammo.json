@@ -1,0 +1,200 @@
+[
+  {
+    "HeaderOffset": 986,
+    "StartTextOffset": 992,
+    "EndTextOffset": 1027,
+    "Text": "Reload the current weapon with {0}s."
+  },
+  {
+    "HeaderOffset": 1046,
+    "StartTextOffset": 1052,
+    "EndTextOffset": 1077,
+    "Text": "Reload a weapon with {0}s."
+  },
+  {
+    "HeaderOffset": 1091,
+    "StartTextOffset": 1097,
+    "EndTextOffset": 1166,
+    "Text": "Loads a single {0} into a weapon. Can only be performed out of combat."
+  },
+  {
+    "HeaderOffset": 1187,
+    "StartTextOffset": 1193,
+    "EndTextOffset": 1272,
+    "Text": "Loads a single {0} into the current weapon. Can only be performed out of combat."
+  },
+  {
+    "HeaderOffset": 1291,
+    "StartTextOffset": 1297,
+    "EndTextOffset": 1332,
+    "Text": "Unload all the ammo from the weapon."
+  },
+  {
+    "HeaderOffset": 1352,
+    "StartTextOffset": 1358,
+    "EndTextOffset": 1458,
+    "Text": "Ignores 30% of target's mechanical damage resistance and 65% of target's mechanical damage threshold."
+  },
+  {
+    "HeaderOffset": 1478,
+    "StartTextOffset": 1484,
+    "EndTextOffset": 1628,
+    "Text": "Incurs 150% of mechanical damage resistance and threshold, but the damage that penetrates the armor is increased by 40% against organic targets."
+  },
+  {
+    "HeaderOffset": 1650,
+    "StartTextOffset": 1656,
+    "EndTextOffset": 1756,
+    "Text": "Ignores 30% of target's mechanical damage resistance and 65% of target's mechanical damage threshold."
+  },
+  {
+    "HeaderOffset": 1778,
+    "StartTextOffset": 1784,
+    "EndTextOffset": 1928,
+    "Text": "Incurs 150% of mechanical damage resistance and threshold, but the damage that penetrates the armor is increased by 40% against organic targets."
+  },
+  {
+    "HeaderOffset": 1949,
+    "StartTextOffset": 1955,
+    "EndTextOffset": 2055,
+    "Text": "Ignores 35% of target's mechanical damage resistance and 65% of target's mechanical damage threshold."
+  },
+  {
+    "HeaderOffset": 2076,
+    "StartTextOffset": 2082,
+    "EndTextOffset": 2226,
+    "Text": "Incurs 150% of mechanical damage resistance and threshold, but the damage that penetrates the armor is increased by 40% against organic targets."
+  },
+  {
+    "HeaderOffset": 2246,
+    "StartTextOffset": 2252,
+    "EndTextOffset": 2352,
+    "Text": "Ignores 35% of target's mechanical damage resistance and 65% of target's mechanical damage threshold."
+  },
+  {
+    "HeaderOffset": 2372,
+    "StartTextOffset": 2378,
+    "EndTextOffset": 2522,
+    "Text": "Incurs 150% of mechanical damage resistance and threshold, but the damage that penetrates the armor is increased by 40% against organic targets."
+  },
+  {
+    "HeaderOffset": 2543,
+    "StartTextOffset": 2549,
+    "EndTextOffset": 2649,
+    "Text": "Ignores 40% of target's mechanical damage resistance and 65% of target's mechanical damage threshold."
+  },
+  {
+    "HeaderOffset": 2670,
+    "StartTextOffset": 2676,
+    "EndTextOffset": 2820,
+    "Text": "Incurs 150% of mechanical damage resistance and threshold, but the damage that penetrates the armor is increased by 40% against organic targets."
+  },
+  {
+    "HeaderOffset": 2842,
+    "StartTextOffset": 2848,
+    "EndTextOffset": 2948,
+    "Text": "Ignores 45% of target's mechanical damage resistance and 65% of target's mechanical damage threshold."
+  },
+  {
+    "HeaderOffset": 2970,
+    "StartTextOffset": 2976,
+    "EndTextOffset": 3120,
+    "Text": "Incurs 150% of mechanical damage resistance and threshold, but the damage that penetrates the armor is increased by 40% against organic targets."
+  },
+  {
+    "HeaderOffset": 3141,
+    "StartTextOffset": 3147,
+    "EndTextOffset": 3227,
+    "Text": "The damage that penetrates the armor is increased by 25% against organic targets."
+  },
+  {
+    "HeaderOffset": 3246,
+    "StartTextOffset": 3252,
+    "EndTextOffset": 3318,
+    "Text": "Ignores mechanical damage threshold when attacking organic targets."
+  },
+  {
+    "HeaderOffset": 3330,
+    "StartTextOffset": 3336,
+    "EndTextOffset": 3393,
+    "Text": "Incurs 125% of mechanical damage resistance and threshold."
+  },
+  {
+    "HeaderOffset": 3406,
+    "StartTextOffset": 3412,
+    "EndTextOffset": 3552,
+    "Text": "Incurs 125% of mechanical damage resistance and threshold, but damage that penetrates the armor is increased by 25% against organic targets."
+  },
+  {
+    "HeaderOffset": 3564,
+    "StartTextOffset": 3570,
+    "EndTextOffset": 3627,
+    "Text": "Incurs 125% of mechanical damage resistance and threshold."
+  },
+  {
+    "HeaderOffset": 3641,
+    "StartTextOffset": 3647,
+    "EndTextOffset": 3704,
+    "Text": "Incurs 140% of mechanical damage resistance and threshold."
+  },
+  {
+    "HeaderOffset": 3721,
+    "StartTextOffset": 3727,
+    "EndTextOffset": 3784,
+    "Text": "Incurs 140% of mechanical damage resistance and threshold."
+  },
+  {
+    "HeaderOffset": 3804,
+    "StartTextOffset": 3810,
+    "EndTextOffset": 3867,
+    "Text": "Incurs 130% of mechanical damage resistance and threshold."
+  },
+  {
+    "HeaderOffset": 3879,
+    "StartTextOffset": 3885,
+    "EndTextOffset": 3976,
+    "Text": "Ignores 25% (multiplicative) of mechanical damage resistance when attacking organic targets."
+  },
+  {
+    "HeaderOffset": 3988,
+    "StartTextOffset": 3994,
+    "EndTextOffset": 4051,
+    "Text": "Incurs 125% of mechanical damage resistance and threshold."
+  },
+  {
+    "HeaderOffset": 4071,
+    "StartTextOffset": 4077,
+    "EndTextOffset": 4232,
+    "Text": "Incurs 150% of mechanical damage resistance and threshold, but the mechanical damage that penetrates the armor is increased by 40% against organic targets."
+  },
+  {
+    "HeaderOffset": 4253,
+    "StartTextOffset": 4259,
+    "EndTextOffset": 4422,
+    "Text": "Each of the 6 pellets does 15% of the nominal shotgun damage. Ignores 70% of target's mechanical damage threshold and 30% of target's mechanical damage resistance."
+  },
+  {
+    "HeaderOffset": 4444,
+    "StartTextOffset": 4450,
+    "EndTextOffset": 4563,
+    "Text": "Each of the 12 pellets does 9% of the nominal shotgun damage. Ignores 55% of target's mechanical damage threshold."
+  },
+  {
+    "HeaderOffset": 4585,
+    "StartTextOffset": 4591,
+    "EndTextOffset": 4704,
+    "Text": "Each of the 20 pellets does 6% of the nominal shotgun damage. Ignores 40% of target's mechanical damage threshold."
+  },
+  {
+    "HeaderOffset": 4725,
+    "StartTextOffset": 4731,
+    "EndTextOffset": 5060,
+    "Text": "Each of the 3 pellets does 25% of the nominal shotgun damage. Ignores 80% of target's mechanical damage threshold and 50% of target's mechanical damage resistance. It has 50% chance to daze the target, reducing their action points by 15 and movement points by 30 for 1 turn. If the target is already dazed, it is stunned instead."
+  },
+  {
+    "HeaderOffset": 5084,
+    "StartTextOffset": 5090,
+    "EndTextOffset": 5138,
+    "Text": "Damage to vehicles and machines increased by 35%."
+  }
+]

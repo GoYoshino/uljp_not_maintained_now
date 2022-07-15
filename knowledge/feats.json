@@ -1,0 +1,1448 @@
+[
+  {
+    "HeaderOffset": 7084,
+    "StartTextOffset": 7090,
+    "EndTextOffset": 7174,
+    "Text": "Feats are special traits or tricks of the trade your character has learned over time."
+  },
+  {
+    "HeaderOffset": 7183,
+    "StartTextOffset": 7189,
+    "EndTextOffset": 7336,
+    "Text": "ステルス 状態で ないときだけ 使用できる。 {1} の間 MPが {1} 増加する。ステルス状態では 使用できない。\r\n\r\nクールダウン: {2}"
+  },
+  {
+    "HeaderOffset": 7345,
+    "StartTextOffset": 7351,
+    "EndTextOffset": 7465,
+    "Text": "単体攻撃武器を 装備中に 使用できる。 必ず クリティカルヒット する。\r\n\r\nクールダウン: {0}."
+  },
+  {
+    "HeaderOffset": 7477,
+    "StartTextOffset": 7483,
+    "EndTextOffset": 7678,
+    "Text": "クロスボウか スナイパーライフルを 装備中に 使用できる。 Stealth　スキルに 応じた 追加ダメージを 与える。 ステルス中しか 使用できない。 このアビリティは クリティカルヒットしない。\r\n\r\nクールダウン: {0}"
+  },
+  {
+    "HeaderOffset": 7686,
+    "StartTextOffset": 7692,
+    "EndTextOffset": 7916,
+    "Text": "クロスボウか スナイパーライフルを 装備中に 使用できる。　武器ダメージの 100%を　与え、 Stealth スキル 1ポイントに つき {1}% の ダメージを 与える。　このアビリティは クリティカルヒットしない。\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 7933,
+    "StartTextOffset": 7939,
+    "EndTextOffset": 8180,
+    "Text": "毒液ピストルを装備中に使用できる。目標地点に巨大なスライムを撃ち出し、小範囲内のすべての敵に通常の武器ダメージを与える。APコストは通常攻撃の{0}%。\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 8188,
+    "StartTextOffset": 8194,
+    "EndTextOffset": 8390,
+    "Text": "If your snipe attack deals over {0}% of the target's remaining health it will be instantly killed. Target must be unaware of your presence prior to the attack.\r\n\r\nOnly works on biological targets."
+  },
+  {
+    "HeaderOffset": 8404,
+    "StartTextOffset": 8410,
+    "EndTextOffset": 8780,
+    "Text": "ピストル、クロスボウ、サブマシンガンのいずれかを装備中に使用できる。敵を出血状態にし、{2}ターンの間ダメージを与える。出血ダメージは攻撃ダメージの{0}%を基本値とし、キャラクターのPER1ポイントごとに{1}%追加される。出血中の敵はMPが0になる。(APは残るので行動することはできる)\r\n\r\nかかとのある生命体にしか効果がない。クールダウン: {3}."
+  },
+  {
+    "HeaderOffset": 8790,
+    "StartTextOffset": 8796,
+    "EndTextOffset": 9072,
+    "Text": "ピストル、クロスボウ、サブマシンガンのいずれかを装備中に使用できる。敵を出血状態にし、{1}の間ダメージを与える。出血ダメージは攻撃ダメージの{0}%。出血中の敵はMPが0になる。(APは残るので行動することはできる)\r\n\r\nかかとのある生命体にしか効果がない。\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 9087,
+    "StartTextOffset": 9093,
+    "EndTextOffset": 9378,
+    "Text": "An attack with a pistol, crossbow, SMG or shotgun that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.\r\n\r\nOnly works on living targets (that have knees).\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 9391,
+    "StartTextOffset": 9397,
+    "EndTextOffset": 9509,
+    "Text": "Increases your weapon critical bonuses when fully focused:\r\n\r\nPistols +{0}%\r\nCrossbows +{1}%\r\nSniper Rifles +{2}%"
+  },
+  {
+    "HeaderOffset": 9518,
+    "StartTextOffset": 9524,
+    "EndTextOffset": 9700,
+    "Text": "Increases your critical damage bonus with pistols, crossbows and sniper rifles when fully focused by {0}%. Firearm pistols receive this bonus at all times, regardless of focus."
+  },
+  {
+    "HeaderOffset": 9708,
+    "StartTextOffset": 9714,
+    "EndTextOffset": 9907,
+    "Text": "Increases damage against rooted, stunned and incapacitated targets by {0}% and against slowed targets by {1}% with weapons, unarmed attacks and throwing knives.\r\n\r\nOnly works on living targets."
+  },
+  {
+    "HeaderOffset": 9915,
+    "StartTextOffset": 9921,
+    "EndTextOffset": 10066,
+    "Text": "Reduces the amount of action points required to fire pistols by {0} and increases initiative by {1} while wielding one. Only applies to firearms."
+  },
+  {
+    "HeaderOffset": 10075,
+    "StartTextOffset": 10081,
+    "EndTextOffset": 10125,
+    "Text": "Increases attack speed with crossbows by 20%."
+  },
+  {
+    "HeaderOffset": 10134,
+    "StartTextOffset": 10140,
+    "EndTextOffset": 10236,
+    "Text": "Allows the character to learn and invoke psi abilities, but their base health is reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 10245,
+    "StartTextOffset": 10251,
+    "EndTextOffset": 10555,
+    "Text": "Increases the duration of all cold effects of your psi abilities by {0} and allows you to shatter targets caught in your cryostasis if the attack deals over {1}% of target's remaining health (only mechanical and cold damage dealt is considered).\r\n\r\nAlso increases the health of cryogenic barrier by {2}%."
+  },
+  {
+    "HeaderOffset": 10564,
+    "StartTextOffset": 10570,
+    "EndTextOffset": 10845,
+    "Text": "Grants you a special close range attack with the pistol that deals {0}% weapon damage against stunned and incapacitated targets. Does not work with pistols that deal their primary damage to multiple targets. Costs 5 action points more than a regular attack.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 10853,
+    "StartTextOffset": 10859,
+    "EndTextOffset": 11132,
+    "Text": "Your cold based metathermic psi abilities also reduce target's constitution by {0}. This effect stacks up to {1} times and lasts up to {2}.\r\n\r\nCan be mitigated with cold resistance and targets that are immune to chilling and freezing effects are also immune to hypothermia."
+  },
+  {
+    "HeaderOffset": 11140,
+    "StartTextOffset": 11146,
+    "EndTextOffset": 11272,
+    "Text": "Lowers the stealth movement speed penalty to {0}% and allows you to retain up to {1} movement points in combat while stealthed."
+  },
+  {
+    "HeaderOffset": 11281,
+    "StartTextOffset": 11287,
+    "EndTextOffset": 11456,
+    "Text": "If you spend more than {0} seconds in stealth, you will gain {1}% displacement. This effect will persist for the duration of the stealth mode and {2} seconds afterwards."
+  },
+  {
+    "HeaderOffset": 11469,
+    "StartTextOffset": 11475,
+    "EndTextOffset": 11662,
+    "Text": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces all target's psi point gains by {1}% for {2} turns. This effect stacks {3} times."
+  },
+  {
+    "HeaderOffset": 11671,
+    "StartTextOffset": 11677,
+    "EndTextOffset": 11847,
+    "Text": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces target's psi point reserves by {1}% of their maximum psi points."
+  },
+  {
+    "HeaderOffset": 11856,
+    "StartTextOffset": 11862,
+    "EndTextOffset": 12006,
+    "Text": "Each offensive mind affecting psi ability you land on the target reduces its resolve by a small percentage, but can ultimately stack up to {0}%."
+  },
+  {
+    "HeaderOffset": 12015,
+    "StartTextOffset": 12021,
+    "EndTextOffset": 12131,
+    "Text": "Reduces all mechanical, heat and cold damage taken by {0}% plus {1}% for every point in constitution above {2}."
+  },
+  {
+    "HeaderOffset": 12144,
+    "StartTextOffset": 12150,
+    "EndTextOffset": 12254,
+    "Text": "Increases precision with the crossbow when firing special bolts and removes additional action point cost."
+  },
+  {
+    "HeaderOffset": 12263,
+    "StartTextOffset": 12269,
+    "EndTextOffset": 12331,
+    "Text": "Removes additional action point cost when firing special bolts."
+  },
+  {
+    "HeaderOffset": 12344,
+    "StartTextOffset": 12350,
+    "EndTextOffset": 12543,
+    "Text": "After invoking heat based psi ability you gain thermodynamicity which reduces the psi cost of your next cold based psi ability by {0}% and vice versa.\r\n\r\nIf unused, the bonus expires after {1}."
+  },
+  {
+    "HeaderOffset": 12552,
+    "StartTextOffset": 12558,
+    "EndTextOffset": 12760,
+    "Text": "After invoking heat based psi ability you gain thermodynamicity which reduces the action point cost of your next cold based psi ability by {0}% and vice versa.\r\n\r\nIf unused, the bonus expires after {1}."
+  },
+  {
+    "HeaderOffset": 12773,
+    "StartTextOffset": 12779,
+    "EndTextOffset": 13013,
+    "Text": "Whenever you deal damage with your fire based psi abilities you have a {0}% chance to set the target on fire, dealing {1}% of that damage again over {2} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic."
+  },
+  {
+    "HeaderOffset": 13022,
+    "StartTextOffset": 13028,
+    "EndTextOffset": 13257,
+    "Text": "Whenever you deal damage with your fire based psi abilities you have a chance to set the target on fire, dealing {0}% of that damage again over {1} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic."
+  },
+  {
+    "HeaderOffset": 13272,
+    "StartTextOffset": 13278,
+    "EndTextOffset": 13400,
+    "Text": "You can fire two extra rounds during your assault rifle and SMG burst attack if you are strong enough to take the kickback."
+  },
+  {
+    "HeaderOffset": 13420,
+    "StartTextOffset": 13426,
+    "EndTextOffset": 13591,
+    "Text": "You can fire two extra rounds during your assault rifle and SMG burst attack and one extra shell during shotgun bursts if you are strong enough to take the kickback."
+  },
+  {
+    "HeaderOffset": 13604,
+    "StartTextOffset": 13610,
+    "EndTextOffset": 13829,
+    "Text": "When attacking an illuminated target from out of the darkness with a single-target ranged weapon you ignore half the target's evasion and your critical chance is increased by {0}% plus {1}% for each stealth skill point."
+  },
+  {
+    "HeaderOffset": 13845,
+    "StartTextOffset": 13851,
+    "EndTextOffset": 14062,
+    "Text": "Telekinesis is strong with you.\r\n\r\nDamage from your telekinetic punch is increased by {0}%, your force field has {1}% more health and lasts {2} additional turns, and your force emission costs {3} less psi point."
+  },
+  {
+    "HeaderOffset": 14083,
+    "StartTextOffset": 14089,
+    "EndTextOffset": 14391,
+    "Text": "You are the master of your own fate.\r\n\r\nActivate this ability to remove and gain immunity to stun, fear, incapacitation, and mind control for {0}.\r\n\r\nWhile this effect is active you can invoke any thought control psi ability as an area of effect ability, but that will end the effect.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 14413,
+    "StartTextOffset": 14419,
+    "EndTextOffset": 14534,
+    "Text": "Reduces the psi point cost of all psi abilities by {0}%, but increases the action point cost by the same percentage."
+  },
+  {
+    "HeaderOffset": 14552,
+    "StartTextOffset": 14558,
+    "EndTextOffset": 14636,
+    "Text": "Reduces the action point cost of all psi abilities by {0} while at full health."
+  },
+  {
+    "HeaderOffset": 14652,
+    "StartTextOffset": 14658,
+    "EndTextOffset": 14761,
+    "Text": "Increases critical chance of all psi abilities by {0}%, but also increases their psi point cost by {1}%."
+  },
+  {
+    "HeaderOffset": 14785,
+    "StartTextOffset": 14791,
+    "EndTextOffset": 14924,
+    "Text": "When activated this ability will make your next psi ability cost no psi points and have its range increased by {0}.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 14944,
+    "StartTextOffset": 14950,
+    "EndTextOffset": 15167,
+    "Text": "When activated this ability will reduce the psi cost of your next psi ability by {0}%, its action point cost by {1}% and increase its range by {2}. The range is not increased for channeled abilities.\r\n\r\nクールダウン: {3}."
+  },
+  {
+    "HeaderOffset": 15183,
+    "StartTextOffset": 15189,
+    "EndTextOffset": 15579,
+    "Text": "You can perform a powerful knife stealth attack from behind the target that bypasses all resistances and shields, applies a bleeding wound that deals extra {0}% damage over {1} and stuns the target for the same duration.\r\n\r\nYou must either be hidden from your target through stealth or the target needs to be incapacitated. Only works on humanoids.\r\n\r\nAction point cost: {2}. クールダウン: {3}."
+  },
+  {
+    "HeaderOffset": 15592,
+    "StartTextOffset": 15598,
+    "EndTextOffset": 15700,
+    "Text": "残りHP割合による包帯の使用制限がなくなる。また、薬によるHP回復が{0}%増加する。"
+  },
+  {
+    "HeaderOffset": 15722,
+    "StartTextOffset": 15728,
+    "EndTextOffset": 15790,
+    "Text": "Electronic devices you craft have {0}% greater energy capacity."
+  },
+  {
+    "HeaderOffset": 15817,
+    "StartTextOffset": 15823,
+    "EndTextOffset": 15921,
+    "Text": "Reduces the action point cost of your unarmed attack by {0} while your armor penalty is below {1}%."
+  },
+  {
+    "HeaderOffset": 15944,
+    "StartTextOffset": 15950,
+    "EndTextOffset": 16065,
+    "Text": "Reduces the action point cost of your unarmed and fist weapon attacks by {0} while your armor penalty is below {1}%."
+  },
+  {
+    "HeaderOffset": 16082,
+    "StartTextOffset": 16088,
+    "EndTextOffset": 16179,
+    "Text": "While unarmed or wielding fist weapons, your dodge is increased by {0}% of your melee skill."
+  },
+  {
+    "HeaderOffset": 16199,
+    "StartTextOffset": 16205,
+    "EndTextOffset": 16493,
+    "Text": "You can perform a powerful roundhouse kick that deals {0}% unarmed weapon damage and has a chance of breaking target's ribs (humans only), reducing their action points by {1} for {2}.\r\n\r\nYou also gain a small amount of fame and infamy first time you perform this attack.\r\n\r\nクールダウン: {3}."
+  },
+  {
+    "HeaderOffset": 16507,
+    "StartTextOffset": 16513,
+    "EndTextOffset": 16639,
+    "Text": "ロックピッキング・ハッキングの解錠に要する時間を{0}%軽減する。領土にいるとき、Stealthスキルが+{1}増加する。"
+  },
+  {
+    "HeaderOffset": 16657,
+    "StartTextOffset": 16663,
+    "EndTextOffset": 16783,
+    "Text": "Reduces pickpocketing time by {0}%. Also reduces suspicion raised when pickpocketing by {1}% when hidden from the target."
+  },
+  {
+    "HeaderOffset": 16802,
+    "StartTextOffset": 16808,
+    "EndTextOffset": 16922,
+    "Text": "Provides you with an extra utility slot and reduces the action point cost of equipping items during combat by {0}%."
+  },
+  {
+    "HeaderOffset": 16937,
+    "StartTextOffset": 16943,
+    "EndTextOffset": 17033,
+    "Text": "隠されたオブジェクトを発見する際、PER+{0}で判定を行う。"
+  },
+  {
+    "HeaderOffset": 17052,
+    "StartTextOffset": 17058,
+    "EndTextOffset": 17249,
+    "Text": "武器および素手攻撃の クリティカル率を {0}% 向上させるが、 武器攻撃・ 素手攻撃・ PSI能力によって 敵から クリティカルを 受ける 確率も {1}% 増加する。"
+  },
+  {
+    "HeaderOffset": 17262,
+    "StartTextOffset": 17268,
+    "EndTextOffset": 17373,
+    "Text": "Reduces armor penalty by {0}% and grants {1}% bonus to dodge and evasion if your armor penalty is at zero."
+  },
+  {
+    "HeaderOffset": 17394,
+    "StartTextOffset": 17400,
+    "EndTextOffset": 17591,
+    "Text": "Grants you an ability that when activated will remove the action point cost of your next special bolt attack. This ability can only be activated while out of combat.\r\n\r\nクールダウン: {0} seconds."
+  },
+  {
+    "HeaderOffset": 17604,
+    "StartTextOffset": 17610,
+    "EndTextOffset": 17910,
+    "Text": "You can perform a special attack with a sledgehammer that deals {0}% weapon damage and does not ignore damage threshold, but puts living targets off balance for {1} if it lands and costs only {2} action points.\r\n\r\nOff-balanced characters have their dodge and evasion reduced to zero.\r\n\r\nクールダウン: {3}"
+  },
+  {
+    "HeaderOffset": 17931,
+    "StartTextOffset": 17937,
+    "EndTextOffset": 18032,
+    "Text": "You regenerate psi points in presence of mindshrooms when below {0}% of your psi point capacity."
+  },
+  {
+    "HeaderOffset": 18049,
+    "StartTextOffset": 18055,
+    "EndTextOffset": 18178,
+    "Text": "Your subconscious is tuned into the fungal surroundings so well that you recover {0} psi points when picking up mindshrooms."
+  },
+  {
+    "HeaderOffset": 18189,
+    "StartTextOffset": 18195,
+    "EndTextOffset": 18468,
+    "Text": "You can issue an intimidating shout in an attempt to reduce combat readiness of surrounding enemies and remove them from stealth . All affected enemies will have their offensive skills reduced by an amount equal to {0}% of your intimidation skill for {1}.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 18484,
+    "StartTextOffset": 18490,
+    "EndTextOffset": 18650,
+    "Text": "Every time you kill an enemy with your melee or ranged weapon your movement points are reset to {0} (cannot exceed your maximum) if they were below that number."
+  },
+  {
+    "HeaderOffset": 18670,
+    "StartTextOffset": 18676,
+    "EndTextOffset": 18852,
+    "Text": "You can perform a special unarmed attack that deals normal damage and stuns living targets for {0}. If the target is human male, it's stunned for {1} instead.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 18868,
+    "StartTextOffset": 18874,
+    "EndTextOffset": 19215,
+    "Text": "You can perform a special melee attack for {3} action points that deals increased unarmed damage and stuns living targets for {0}. If the target is humanoid male, it's stunned for {1} instead.\r\n\r\nThis attack can be performed regardless of the currently equipped weapon. The damage scales up with your unarmed attack damage.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 19232,
+    "StartTextOffset": 19238,
+    "EndTextOffset": 19349,
+    "Text": "You can perform an unconditional unarmed or fist weapon attack that deals {0}% damage at {1}% action point cost."
+  },
+  {
+    "HeaderOffset": 19371,
+    "StartTextOffset": 19377,
+    "EndTextOffset": 19584,
+    "Text": "An unarmed, fist weapon or knife attack that deals {0}% damage and reduces the target's strength by {1} if it penetrates armor. Lasts {2}. Stacks {3} times.\r\n\r\nOnly works on living targets.\r\n\r\nクールダウン: {4}."
+  },
+  {
+    "HeaderOffset": 19602,
+    "StartTextOffset": 19608,
+    "EndTextOffset": 19929,
+    "Text": "Critical hits from your blunt melee attacks break ribs if they deal at least {0}% of target's maximal health through mechanical damage. Targets with broken ribs receive additional {1}% mechanical damage from all sources. \r\n\r\nThis effect lasts {2} and stacks up to {3} times. Only works on targets that actually have ribs."
+  },
+  {
+    "HeaderOffset": 19954,
+    "StartTextOffset": 19960,
+    "EndTextOffset": 20259,
+    "Text": "If the attack deals at least {0}% of target's maximal health through mechanical damage, it will break their ribs. Targets with broken ribs receive additional {1}% mechanical damage from all sources. \r\n\r\nThis effect lasts {2} and stacks up to {3} times. Only works on targets that actually have ribs."
+  },
+  {
+    "HeaderOffset": 20276,
+    "StartTextOffset": 20282,
+    "EndTextOffset": 20420,
+    "Text": "Increases critical damage bonus of your melee attacks by {0}% and gives your melee attacks {1}% chance to incapacitate the target for {2}."
+  },
+  {
+    "HeaderOffset": 20435,
+    "StartTextOffset": 20441,
+    "EndTextOffset": 20695,
+    "Text": "Everyone is out to get you and you know it. Detection increased by {0}%, initiative by {1} and chance to get critically hit by weapon and unarmed attacks reduced by {2}%. Also your weapon and unarmed damage is increased by {3}% against stealthed targets."
+  },
+  {
+    "HeaderOffset": 20714,
+    "StartTextOffset": 20720,
+    "EndTextOffset": 20927,
+    "Text": "Grants you an ability that when activated will cause you to dodge the next {0} regular or special melee attacks targeted against you, plus an additional attack for each {1} points in dodge.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 20950,
+    "StartTextOffset": 20956,
+    "EndTextOffset": 21087,
+    "Text": "Grants you an ability that when activated converts all remaining movement points into thrice the evasion for {0}.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 21103,
+    "StartTextOffset": 21109,
+    "EndTextOffset": 21222,
+    "Text": "Reduces the cooldown of fragmentation, high explosive, and incendiary grenades by {0} and special grenades by {1}."
+  },
+  {
+    "HeaderOffset": 21239,
+    "StartTextOffset": 21245,
+    "EndTextOffset": 21366,
+    "Text": "Reduces time required to arm and disarm traps by {0}% and increases the detection difficulty of the traps you set by {1}%."
+  },
+  {
+    "HeaderOffset": 21389,
+    "StartTextOffset": 21395,
+    "EndTextOffset": 21532,
+    "Text": "Gives your damage dealing grenades {0}% chance to critically hit. This chance is increased by {1}% for each point in dexterity above {2}."
+  },
+  {
+    "HeaderOffset": 21551,
+    "StartTextOffset": 21557,
+    "EndTextOffset": 21703,
+    "Text": "Gives your damage dealing grenades {0}% chance to critically hit. This chance is increased by {1}% for each 10 points in throwing skill above {2}."
+  },
+  {
+    "HeaderOffset": 21722,
+    "StartTextOffset": 21728,
+    "EndTextOffset": 21952,
+    "Text": "Whenever you cause a bleeding wound with a cold weapon, armor enhancement or trap you also apply infected wound which increases the damage taken from all sources by {0}% and reduces healing effects by {1}%. Stacks {2} times."
+  },
+  {
+    "HeaderOffset": 21973,
+    "StartTextOffset": 21979,
+    "EndTextOffset": 22146,
+    "Text": "You can perform a special melee attack that deals normal damage and reduces target's mechanical resistance and threshold by {0}% for {1} if it lands.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 22165,
+    "StartTextOffset": 22171,
+    "EndTextOffset": 22279,
+    "Text": "Increases critical hit chance with a pistol by {0}% for each base action point required to fire it above {1}."
+  },
+  {
+    "HeaderOffset": 22293,
+    "StartTextOffset": 22299,
+    "EndTextOffset": 22459,
+    "Text": "Reduces action point cost modifier for burst attack from {0}% to {1}% when using SMGs. Also reduces cooldown of flashbangs and similar tactical grenades by {2}."
+  },
+  {
+    "HeaderOffset": 22481,
+    "StartTextOffset": 22487,
+    "EndTextOffset": 22712,
+    "Text": "Enemies caught in your assault rifle or SMG burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}."
+  },
+  {
+    "HeaderOffset": 22739,
+    "StartTextOffset": 22745,
+    "EndTextOffset": 22979,
+    "Text": "Enemies caught in your assault rifle, SMG or shotgun burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}."
+  },
+  {
+    "HeaderOffset": 23004,
+    "StartTextOffset": 23010,
+    "EndTextOffset": 23177,
+    "Text": "Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost no action points.\r\n\r\nクールダウン: {0}"
+  },
+  {
+    "HeaderOffset": 23198,
+    "StartTextOffset": 23204,
+    "EndTextOffset": 23372,
+    "Text": "Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost {0} action points.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 23392,
+    "StartTextOffset": 23398,
+    "EndTextOffset": 23568,
+    "Text": "When you land a melee attack you gain up to {0} movement points, depending on your armor penalty. This cannot raise your movement points beyond twice your normal maximum."
+  },
+  {
+    "HeaderOffset": 23592,
+    "StartTextOffset": 23598,
+    "EndTextOffset": 23993,
+    "Text": "Whenever you attack a bleeding target with a melee weapon or an unarmed attack, you increase your melee damage by {0}% and reduce action point cost of melee weapons by {1} for each bleeding wound the target has. This can stack up to {2} times. Killing blows against living targets will also grant a single stack regardless of the number of bleeding wounds.\r\n\r\nExpires after {3} if not refreshed."
+  },
+  {
+    "HeaderOffset": 24013,
+    "StartTextOffset": 24019,
+    "EndTextOffset": 24340,
+    "Text": "Whenever you attack a bleeding target with a melee weapon, you increase your melee damage by {0}% for each bleeding wound the target has. This can stack up to {1} times. Killing blows against living targets will also grant a single stack regardless of the number of bleeding wounds.\r\n\r\nExpires after {2} if not refreshed."
+  },
+  {
+    "HeaderOffset": 24357,
+    "StartTextOffset": 24363,
+    "EndTextOffset": 24525,
+    "Text": "Grants you a special knife attack that removes all bleeding wounds from the target and deals {0}% bonus damage for each bleeding wound removed. \r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 24545,
+    "StartTextOffset": 24551,
+    "EndTextOffset": 24601,
+    "Text": "Increases damage done by poisons you apply by {0}%."
+  },
+  {
+    "HeaderOffset": 24614,
+    "StartTextOffset": 24620,
+    "EndTextOffset": 24688,
+    "Text": "Increases damage dealt to critters with crossbows and knives by {0}%."
+  },
+  {
+    "HeaderOffset": 24706,
+    "StartTextOffset": 24712,
+    "EndTextOffset": 24788,
+    "Text": "Increases damage dealt to critters with crossbows, knives and spears by {0}%."
+  },
+  {
+    "HeaderOffset": 24804,
+    "StartTextOffset": 24810,
+    "EndTextOffset": 25030,
+    "Text": "When you strike a living target with fist weapon or unarmed attack you have {0}% chance to reduce target's movement points by {1}, action points by {2} and chance to hit with all ranged weapons by {3}%. Stacks {4} times."
+  },
+  {
+    "HeaderOffset": 25042,
+    "StartTextOffset": 25048,
+    "EndTextOffset": 25259,
+    "Text": "If you land three consecutive damage dealing unarmed or fist weapon attacks against a single target in a single turn, the third attack will deal {0}% bonus damage and have {1}% chance to stun the target for {2}."
+  },
+  {
+    "HeaderOffset": 25278,
+    "StartTextOffset": 25284,
+    "EndTextOffset": 25315,
+    "Text": "Increases carry capacity by {0}."
+  },
+  {
+    "HeaderOffset": 25335,
+    "StartTextOffset": 25341,
+    "EndTextOffset": 25627,
+    "Text": "Grants you an ability that when activated will provide your character with additional {0} health immediately and reduce damage taken from all sources by {1}% for {2}. After this effect expires, the character will lose this extra health but this event cannot kill them.\r\n\r\nクールダウン: {3}."
+  },
+  {
+    "HeaderOffset": 25643,
+    "StartTextOffset": 25649,
+    "EndTextOffset": 25828,
+    "Text": "Grants you an ability that when activated will temporarily reset your health to your maximum for {0}. After the effect expires, your health will be reduced to 1.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 25843,
+    "StartTextOffset": 25849,
+    "EndTextOffset": 25935,
+    "Text": "Increases the amount of goods merchants will buy from you by {0}% per mercantile skill."
+  },
+  {
+    "HeaderOffset": 25953,
+    "StartTextOffset": 25959,
+    "EndTextOffset": 26172,
+    "Text": "Grants you a blueprint that enables you to disassemble items that are marked as disassemble-able, obtaining the components from which it was constructed. The retreived components have {0}% of the original quality."
+  },
+  {
+    "HeaderOffset": 26189,
+    "StartTextOffset": 26195,
+    "EndTextOffset": 26343,
+    "Text": "Whenever you should be stunned, you're dazed instead which reduces your action points by {0} and movement points by {1} but still allows you to act."
+  },
+  {
+    "HeaderOffset": 26366,
+    "StartTextOffset": 26372,
+    "EndTextOffset": 26520,
+    "Text": "Each hit from assault rifle burst attack increases the damage from further burst hits by {0}%. Stacks {1} times and lasts until the end of the turn."
+  },
+  {
+    "HeaderOffset": 26535,
+    "StartTextOffset": 26541,
+    "EndTextOffset": 26720,
+    "Text": "Killing an opponent using assault rifle or SMG burst attack will grant you an extra free burst attack that can be performed in the same turn. This can only happen once every turn."
+  },
+  {
+    "HeaderOffset": 26734,
+    "StartTextOffset": 26740,
+    "EndTextOffset": 26826,
+    "Text": "Your throwing knives have {0}% chance to pin living targets to the ground for one turn."
+  },
+  {
+    "HeaderOffset": 26843,
+    "StartTextOffset": 26849,
+    "EndTextOffset": 27025,
+    "Text": "Throwing knives always critically hit against targets below {0}% health. Killing a target with a knife throw will refund {1} action points (this can only happen once per turn)."
+  },
+  {
+    "HeaderOffset": 27042,
+    "StartTextOffset": 27048,
+    "EndTextOffset": 27140,
+    "Text": "When throwing knives you throw an extra one at a nearby target that's within the attack cone."
+  },
+  {
+    "HeaderOffset": 27153,
+    "StartTextOffset": 27159,
+    "EndTextOffset": 27333,
+    "Text": "Critical hit damage with knives and throwing knives increased by {0}% for each {1}% of the target's missing health. Applied multiplicatively to regular critical damage bonus."
+  },
+  {
+    "HeaderOffset": 27351,
+    "StartTextOffset": 27357,
+    "EndTextOffset": 27539,
+    "Text": "Critical hit damage with knives, swords and throwing knives increased by {0}% for each {1}% of the target's missing health. Applied multiplicatively to regular critical damage bonus."
+  },
+  {
+    "HeaderOffset": 27559,
+    "StartTextOffset": 27565,
+    "EndTextOffset": 27690,
+    "Text": "For each {0}% of weapon or unarmed attack critical damage bonus above {1}%, you gain an additional {2}% critical damage bonus."
+  },
+  {
+    "HeaderOffset": 27706,
+    "StartTextOffset": 27712,
+    "EndTextOffset": 27866,
+    "Text": "Your non-critical crossbow, melee, and bullet-based firearm attacks deal additional mechanical damage equal to your level, up to maximum {0} bonus damage."
+  },
+  {
+    "HeaderOffset": 27878,
+    "StartTextOffset": 27884,
+    "EndTextOffset": 28101,
+    "Text": "Grants you an ability that when invoked will instantly convert all your movement points to action points, granting you 1 action point for each {0} movement points, up to maximum of {1} action points.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 28117,
+    "StartTextOffset": 28123,
+    "EndTextOffset": 28295,
+    "Text": "Grants you the ability to perform a quick pistol, SMG or assault rifle attack that costs {0}% of the standard action point cost but has reduced precision.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 28319,
+    "StartTextOffset": 28325,
+    "EndTextOffset": 28443,
+    "Text": "Increases the chance to critically hit with weapons, unarmed attacks and psi abilities by {0}% while under {1}% health."
+  },
+  {
+    "HeaderOffset": 28458,
+    "StartTextOffset": 28464,
+    "EndTextOffset": 28538,
+    "Text": "You receive {0}% less damage from all sources for each {1}% health missing."
+  },
+  {
+    "HeaderOffset": 28555,
+    "StartTextOffset": 28561,
+    "EndTextOffset": 28666,
+    "Text": "Total health increased by {0}% while wearing armor suit with (unmodified) armor penalty of {1}% or higher."
+  },
+  {
+    "HeaderOffset": 28687,
+    "StartTextOffset": 28693,
+    "EndTextOffset": 28761,
+    "Text": "全ての回復効果が{0}%増加する。PSIブースターを使用した際に{1}psiを追加で回復する。"
+  },
+  {
+    "HeaderOffset": 28780,
+    "StartTextOffset": 28786,
+    "EndTextOffset": 28863,
+    "Text": "Grants you the ability to remove all immobilization effects.\r\n\r\nクールダウン: {0}"
+  },
+  {
+    "HeaderOffset": 28879,
+    "StartTextOffset": 28885,
+    "EndTextOffset": 29069,
+    "Text": "Grants you the ability to rapidly fire {0} bullets from firearm pistols, SMGs, and assault rifles at reduced precision for {1}% action point cost of a regular attack.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 29087,
+    "StartTextOffset": 29093,
+    "EndTextOffset": 29203,
+    "Text": "You add your total armor penalty to the critical damage bonus of sledgehammer, fist weapon and unarmed attacks."
+  },
+  {
+    "HeaderOffset": 29218,
+    "StartTextOffset": 29224,
+    "EndTextOffset": 29276,
+    "Text": "まきびし・酸溜まりの影響を受けない。"
+  },
+  {
+    "HeaderOffset": 29292,
+    "StartTextOffset": 29298,
+    "EndTextOffset": 29461,
+    "Text": "Grants you a special attack with the sledgehammer that does normal damage plus {0}% of attacker's maximum health as additional mechanical damage.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 29473,
+    "StartTextOffset": 29479,
+    "EndTextOffset": 29616,
+    "Text": "You have {0}% chance to block melee mechanical damage equal to twice your strength. Does not work if stunned or otherwise fully disabled."
+  },
+  {
+    "HeaderOffset": 29635,
+    "StartTextOffset": 29641,
+    "EndTextOffset": 29750,
+    "Text": "Your crossbow attacks always critically hit against the targets caught in bear traps and acidic entanglements."
+  },
+  {
+    "HeaderOffset": 29763,
+    "StartTextOffset": 29769,
+    "EndTextOffset": 29835,
+    "Text": "クラフトの際、全ての火器の最大ダメージが{0}%増加する。"
+  },
+  {
+    "HeaderOffset": 29849,
+    "StartTextOffset": 29855,
+    "EndTextOffset": 29922,
+    "Text": "The quality of leathers counts as if {0}% higher in all your crafts."
+  },
+  {
+    "HeaderOffset": 29941,
+    "StartTextOffset": 29947,
+    "EndTextOffset": 30047,
+    "Text": "アーマーをクラフトする際、金属板を素材に使用した場合の重装ペナルティを{0}%下げる。(累積)."
+  },
+  {
+    "HeaderOffset": 30062,
+    "StartTextOffset": 30068,
+    "EndTextOffset": 30134,
+    "Text": "クラフト時、繊維素材の品質が{0}%増加する。"
+  },
+  {
+    "HeaderOffset": 30151,
+    "StartTextOffset": 30157,
+    "EndTextOffset": 30221,
+    "Text": "On-hit effects of chemical pistols you craft are twice as strong."
+  },
+  {
+    "HeaderOffset": 30239,
+    "StartTextOffset": 30245,
+    "EndTextOffset": 30319,
+    "Text": "Non-fist melee weapons that you craft have {0}% higher critical hit chance."
+  },
+  {
+    "HeaderOffset": 30344,
+    "StartTextOffset": 30350,
+    "EndTextOffset": 30431,
+    "Text": "Critical damage bonus of energy weapons you craft is increased by {0}% (additive)."
+  },
+  {
+    "HeaderOffset": 30448,
+    "StartTextOffset": 30454,
+    "EndTextOffset": 30537,
+    "Text": "Carrier vests give additional {0} mechanical damage threshold when used in crafting."
+  },
+  {
+    "HeaderOffset": 30553,
+    "StartTextOffset": 30559,
+    "EndTextOffset": 30629,
+    "Text": "Psi headbands you craft also provide additional {0} maximum psi points."
+  },
+  {
+    "HeaderOffset": 30650,
+    "StartTextOffset": 30656,
+    "EndTextOffset": 30727,
+    "Text": "Increases electrical, acid and heat damage of all special bolts by {0}%."
+  },
+  {
+    "HeaderOffset": 30749,
+    "StartTextOffset": 30755,
+    "EndTextOffset": 30928,
+    "Text": "When you deal mechanical damage with your crossbow bolts you have {0}% chance to daze living targets, reducing their action points by {1} and movement points by {2} for {3}."
+  },
+  {
+    "HeaderOffset": 30945,
+    "StartTextOffset": 30951,
+    "EndTextOffset": 30986,
+    "Text": "Maximum psi points increased by {0}."
+  },
+  {
+    "HeaderOffset": 31011,
+    "StartTextOffset": 31017,
+    "EndTextOffset": 31077,
+    "Text": "Critical damage bonus of all psi abilities increased by {0}%."
+  },
+  {
+    "HeaderOffset": 31096,
+    "StartTextOffset": 31102,
+    "EndTextOffset": 31323,
+    "Text": "Grants you an ability that when activated makes your next offensive psi ability an automatic critical hit. Activating this ability will also remove up to {0}% of your maximum health, but cannot kill you.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 31351,
+    "StartTextOffset": 31357,
+    "EndTextOffset": 31467,
+    "Text": "When you damage a living target by moving your telekinetic proxy, there's {0}% chance it will be dazed for {1}."
+  },
+  {
+    "HeaderOffset": 31493,
+    "StartTextOffset": 31499,
+    "EndTextOffset": 31576,
+    "Text": "STRが5を超えていれば、超えている分の1ポイントにつき全てのテレキネシスダメージが{0}%増加する。"
+  },
+  {
+    "HeaderOffset": 31606,
+    "StartTextOffset": 31612,
+    "EndTextOffset": 31830,
+    "Text": "When you damage a target with your electrical psionics you apply a debuff that increases the chance for the target to be critically hit by weapon and unarmed attacks and psi abilities by {0}% for {1}. Stacks {2} times."
+  },
+  {
+    "HeaderOffset": 31853,
+    "StartTextOffset": 31859,
+    "EndTextOffset": 31930,
+    "Text": "Slows down the rate at which the unspeakable things penetrate your mind."
+  },
+  {
+    "HeaderOffset": 31946,
+    "StartTextOffset": 31952,
+    "EndTextOffset": 31987,
+    "Text": "You never fail to reel the catch in."
+  },
+  {
+    "HeaderOffset": 32006,
+    "StartTextOffset": 32012,
+    "EndTextOffset": 32049,
+    "Text": "Reduces all heat damage taken by {0}%."
+  },
+  {
+    "HeaderOffset": 32068,
+    "StartTextOffset": 32074,
+    "EndTextOffset": 32111,
+    "Text": "Reduces all cold damage taken by {0}%."
+  },
+  {
+    "HeaderOffset": 32130,
+    "StartTextOffset": 32136,
+    "EndTextOffset": 32173,
+    "Text": "Reduces all acid damage taken by {0}%."
+  },
+  {
+    "HeaderOffset": 32199,
+    "StartTextOffset": 32205,
+    "EndTextOffset": 32248,
+    "Text": "Reduces all electrical damage taken by {0}%."
+  },
+  {
+    "HeaderOffset": 32273,
+    "StartTextOffset": 32279,
+    "EndTextOffset": 32429,
+    "Text": "Base health reduced by additional {0}% (additive to the original penalty) and psi cost of invoking psionic abilities reduced by {1}% (multiplicative)."
+  },
+  {
+    "HeaderOffset": 32448,
+    "StartTextOffset": 32454,
+    "EndTextOffset": 32477,
+    "Text": "Health increased by {0}."
+  },
+  {
+    "HeaderOffset": 32499,
+    "StartTextOffset": 32505,
+    "EndTextOffset": 32572,
+    "Text": "Increases the chance you'll dodge a melee attack by {0}% (additive)."
+  },
+  {
+    "HeaderOffset": 32594,
+    "StartTextOffset": 32600,
+    "EndTextOffset": 32668,
+    "Text": "Increases the chance you'll evade a ranged attack by {0}% (additive)."
+  },
+  {
+    "HeaderOffset": 32691,
+    "StartTextOffset": 32697,
+    "EndTextOffset": 32744,
+    "Text": "Increases throwing precision by {0}% (additive)."
+  },
+  {
+    "HeaderOffset": 32763,
+    "StartTextOffset": 32769,
+    "EndTextOffset": 32830,
+    "Text": "Unarmed and weapon damage increased by {0}% against humanoids."
+  },
+  {
+    "HeaderOffset": 32850,
+    "StartTextOffset": 32856,
+    "EndTextOffset": 32917,
+    "Text": "Unarmed and weapon damage increased by {0}% against creatures."
+  },
+  {
+    "HeaderOffset": 32938,
+    "StartTextOffset": 32944,
+    "EndTextOffset": 33004,
+    "Text": "Unarmed and weapon damage increased by {0}% against machines."
+  },
+  {
+    "HeaderOffset": 33024,
+    "StartTextOffset": 33030,
+    "EndTextOffset": 33120,
+    "Text": "When starting a turn below {0}% of maximum health, your action points are increased by {1}."
+  },
+  {
+    "HeaderOffset": 33141,
+    "StartTextOffset": 33147,
+    "EndTextOffset": 33280,
+    "Text": "When starting a turn below {0}% of maximum health, your movement points are increased by up to {1} (depending on your armor penalty)."
+  },
+  {
+    "HeaderOffset": 33295,
+    "StartTextOffset": 33301,
+    "EndTextOffset": 33390,
+    "Text": "Reduces the damage taken from area of effect attacks by 20% (additive to regular evasion)."
+  },
+  {
+    "HeaderOffset": 33415,
+    "StartTextOffset": 33421,
+    "EndTextOffset": 33450,
+    "Text": "Reduces armor penalty by {0}%."
+  },
+  {
+    "HeaderOffset": 33470,
+    "StartTextOffset": 33476,
+    "EndTextOffset": 33589,
+    "Text": "Increases the amount of money the merchants are willing to use when trading with you by {0}% per mercantile skill."
+  },
+  {
+    "HeaderOffset": 33602,
+    "StartTextOffset": 33608,
+    "EndTextOffset": 33641,
+    "Text": "Increases psi regeneration by {0}."
+  },
+  {
+    "HeaderOffset": 33661,
+    "StartTextOffset": 33667,
+    "EndTextOffset": 33990,
+    "Text": "Grants you an ability that when activated will cause your next sniper rifle attack to refund 100% of its action point cost if it kills the target. This will expire at the end of the turn if unused.\r\n\r\nクールダウン: {1}.\r\n\r\nAlso, killing a target with a sniper rifle reduces the cooldown of Shooting Spree and Aimed Shot by {0}."
+  },
+  {
+    "HeaderOffset": 34014,
+    "StartTextOffset": 34020,
+    "EndTextOffset": 34098,
+    "Text": "Killing a target with a sniper rifle reduces the cooldown of Aimed Shot by {0}."
+  },
+  {
+    "HeaderOffset": 34111,
+    "StartTextOffset": 34117,
+    "EndTextOffset": 34155,
+    "Text": "移動射撃ペナルティを {0}%軽減する。"
+  },
+  {
+    "HeaderOffset": 34168,
+    "StartTextOffset": 34174,
+    "EndTextOffset": 34260,
+    "Text": "Crossbows that you craft have their critical damage bonus increased by {0}% (additive)."
+  },
+  {
+    "HeaderOffset": 34276,
+    "StartTextOffset": 34282,
+    "EndTextOffset": 34392,
+    "Text": "When you kill a target with a melee attack, there's a {0}% chance to instill fear in each nearby enemy for {1}."
+  },
+  {
+    "HeaderOffset": 34408,
+    "StartTextOffset": 34414,
+    "EndTextOffset": 34506,
+    "Text": "Increases the chance to block with shields by {0}% (additive) and the amount blocked by {1}%."
+  },
+  {
+    "HeaderOffset": 34525,
+    "StartTextOffset": 34531,
+    "EndTextOffset": 34558,
+    "Text": "Initiative increased by {0}."
+  },
+  {
+    "HeaderOffset": 34578,
+    "StartTextOffset": 34584,
+    "EndTextOffset": 34730,
+    "Text": "Grants you an ability that when activated will make all your psi abilities cost health instead of psi until the end of the turn.\r\n\r\nクールダウン: {0}"
+  },
+  {
+    "HeaderOffset": 34748,
+    "StartTextOffset": 34754,
+    "EndTextOffset": 34856,
+    "Text": "Increases unarmed and weapon attack damage by {0}% while in stealth and one turn after exiting stealth."
+  },
+  {
+    "HeaderOffset": 34878,
+    "StartTextOffset": 34884,
+    "EndTextOffset": 35066,
+    "Text": "When your temporal distortion triggers, it has {0}% chance to be applied to each nearby enemy. Distortions that came about in this way can now themselves trigger further distortions."
+  },
+  {
+    "HeaderOffset": 35099,
+    "StartTextOffset": 35105,
+    "EndTextOffset": 35214,
+    "Text": "Increases action point modification of all psycho-temporal effects by {0} and increases their duration by {1}."
+  },
+  {
+    "HeaderOffset": 35238,
+    "StartTextOffset": 35244,
+    "EndTextOffset": 35434,
+    "Text": "Reduces cooldowns of all temporal manipulation psi abilities that have cooldown by {0}, and increases action point cost for those psi abilities by {1}, providing they have action point cost."
+  },
+  {
+    "HeaderOffset": 35445,
+    "StartTextOffset": 35451,
+    "EndTextOffset": 35621,
+    "Text": "Grants you an ability to immediately gain Spear Guard that can block {0}% more damage than normal for {1}% of the action point cost of a regular attack.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 35641,
+    "StartTextOffset": 35647,
+    "EndTextOffset": 35696,
+    "Text": "Increases the block chance of Spear Guard by {0}%."
+  },
+  {
+    "HeaderOffset": 35709,
+    "StartTextOffset": 35715,
+    "EndTextOffset": 35822,
+    "Text": "Grants you a special attack with the spear that automatically critically hits if it lands.\r\n\r\nクールダウン: {0}"
+  },
+  {
+    "HeaderOffset": 35835,
+    "StartTextOffset": 35841,
+    "EndTextOffset": 36200,
+    "Text": "Grants you an ability to launch {0} consecutive attacks with a sword. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. \r\n\r\nIf any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed."
+  },
+  {
+    "HeaderOffset": 36217,
+    "StartTextOffset": 36223,
+    "EndTextOffset": 36605,
+    "Text": "Grants you an ability to launch {0} consecutive attacks with a sword with reduced precision. Each attack reduces the action point cost of further Flurry activations by {1} action points (this stacks {2} times) until the end of next turn. \r\n\r\nIf any of the attacks misses or deals no damage, the flurry will stop and be put on cooldown for {3} and the cost reduction will be removed."
+  },
+  {
+    "HeaderOffset": 36622,
+    "StartTextOffset": 36628,
+    "EndTextOffset": 36990,
+    "Text": "Grants you the ability to throw a spear at the target, dealing {0}%, plus additional {1}% per unit of range, of normal weapon damage. The precision of this attack is dependent on throwing skill. Costs {2} action points.\r\n\r\nクールダウン: {3}.\r\n\r\nYou will usually be able to retrieve the thrown spear afterwards, as it lands nearby the target, at no action point cost."
+  },
+  {
+    "HeaderOffset": 37006,
+    "StartTextOffset": 37012,
+    "EndTextOffset": 37192,
+    "Text": "Your successful sword attacks increase the damage of further sword attacks by {0}% for {1}. Stacks {2} times. This bonus will be removed if a sword attack misses or does no damage."
+  },
+  {
+    "HeaderOffset": 37209,
+    "StartTextOffset": 37215,
+    "EndTextOffset": 37440,
+    "Text": "Grants you a special sword attack that deals {0}% of normal weapon damage and can instantly kill a living target if it deals more than {1}% of its remaining health (providing the target has an exposed head).\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 37454,
+    "StartTextOffset": 37460,
+    "EndTextOffset": 37633,
+    "Text": "When you block any damage while holding a sword, you can perform a special sword attack with increased chance to hit that deals normal weapon damage at no action point cost."
+  },
+  {
+    "HeaderOffset": 37651,
+    "StartTextOffset": 37657,
+    "EndTextOffset": 37771,
+    "Text": "Your shotgun attacks ignore {0}% of target's evasion as long as there are no enemies in melee range to disrupt you."
+  },
+  {
+    "HeaderOffset": 37789,
+    "StartTextOffset": 37795,
+    "EndTextOffset": 37891,
+    "Text": "Increases the damage done by your shotgun attacks to targets at close (near-melee) range by {0}%."
+  },
+  {
+    "HeaderOffset": 37915,
+    "StartTextOffset": 37921,
+    "EndTextOffset": 38004,
+    "Text": "Each shotgun pellet you fire does additional {0} to {1} points of mechanical damage."
+  },
+  {
+    "HeaderOffset": 38026,
+    "StartTextOffset": 38032,
+    "EndTextOffset": 38130,
+    "Text": "Increases critical damage bonus of your shotgun attacks by {0}% divided by number of pellets fired."
+  },
+  {
+    "HeaderOffset": 38149,
+    "StartTextOffset": 38155,
+    "EndTextOffset": 38267,
+    "Text": "Your shotgun attacks grant you additional {0}% critical chance for each target you hit for the next shotgun shot."
+  },
+  {
+    "HeaderOffset": 38285,
+    "StartTextOffset": 38291,
+    "EndTextOffset": 38422,
+    "Text": "Dipping your feet into philosophy has given you a fresh outlook on life.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}."
+  },
+  {
+    "HeaderOffset": 38440,
+    "StartTextOffset": 38446,
+    "EndTextOffset": 38595,
+    "Text": "You might not be a fully trained philosopher, but you have a good grasp of the essentials.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}."
+  },
+  {
+    "HeaderOffset": 38613,
+    "StartTextOffset": 38619,
+    "EndTextOffset": 38788,
+    "Text": "You are starting to put the pieces together... There might yet be some meaning behind this wretched existence.\r\n\r\nIncreases resolve by {0} and maximum psi points by {1}."
+  },
+  {
+    "HeaderOffset": 38813,
+    "StartTextOffset": 38819,
+    "EndTextOffset": 38904,
+    "Text": "Increases damage done by energy pistols by {0}% for each intelligence point above {1}."
+  },
+  {
+    "HeaderOffset": 38916,
+    "StartTextOffset": 38922,
+    "EndTextOffset": 39186,
+    "Text": "While holding a sword or a knife, the character has {0}% plus {1}% per point of dexterity above {2} chance to block a melee attack. The amount blocked is equal to the average base mechanical damage of the current weapon in case of swords and twice that for knives."
+  },
+  {
+    "HeaderOffset": 39204,
+    "StartTextOffset": 39210,
+    "EndTextOffset": 39435,
+    "Text": "Increases effective stability by {0}% and maneuverability by {1}% when piloting jet skis. Reduces action point cost of disembarking by {2}. Also increases precision of mounted jet ski weapons for those unproficient with guns."
+  },
+  {
+    "HeaderOffset": 39461,
+    "StartTextOffset": 39467,
+    "EndTextOffset": 39708,
+    "Text": "Further increases effective stability by {0}% and maneuverability by {1}% when piloting jet skis. Further reduces action point cost of disembarking by {2}. Also increases precision of mounted jet ski weapons for those unproficient with guns."
+  },
+  {
+    "HeaderOffset": 39724,
+    "StartTextOffset": 39730,
+    "EndTextOffset": 39840,
+    "Text": "Removes the additional {0}% precision penalty with knife, fist weapon and unarmed attacks when riding jet skis."
+  },
+  {
+    "HeaderOffset": 39860,
+    "StartTextOffset": 39866,
+    "EndTextOffset": 39921,
+    "Text": "Increases damage with spears when riding jet skis by 30%"
+  },
+  {
+    "HeaderOffset": 39934,
+    "StartTextOffset": 39940,
+    "EndTextOffset": 40065,
+    "Text": "Increases unarmed and weapon damage by {0}% and effective stability and maneuverability by {1}% when attacking from a jet ski."
+  },
+  {
+    "HeaderOffset": 40083,
+    "StartTextOffset": 40089,
+    "EndTextOffset": 40218,
+    "Text": "銃・クロスボウ・近接スキルのうち、最も高いものの{0}%まで他のスキルを底上げする。"
+  },
+  {
+    "HeaderOffset": 40235,
+    "StartTextOffset": 40241,
+    "EndTextOffset": 40304,
+    "Text": "Increases critical chance of unarmed and weapon attacks by {0}%."
+  },
+  {
+    "HeaderOffset": 40323,
+    "StartTextOffset": 40329,
+    "EndTextOffset": 40373,
+    "Text": "Sprint now also grants you {0} action points."
+  },
+  {
+    "HeaderOffset": 40400,
+    "StartTextOffset": 40406,
+    "EndTextOffset": 40516,
+    "Text": "{0} increased by {1}. This feat increases the base value of {2} and will count towards other feat requirements."
+  },
+  {
+    "HeaderOffset": 40530,
+    "StartTextOffset": 40536,
+    "EndTextOffset": 40632,
+    "Text": "Increase unstealthed movement points by {0} and out of combat unstealthed movement speed by {1}%."
+  },
+  {
+    "HeaderOffset": 40647,
+    "StartTextOffset": 40653,
+    "EndTextOffset": 40678,
+    "Text": "Increases resolve by {0}%."
+  },
+  {
+    "HeaderOffset": 40706,
+    "StartTextOffset": 40712,
+    "EndTextOffset": 40813,
+    "Text": "Increases unarmed damage by {0}% and gives your unarmed attack {1}% chance to daze the target for {2}."
+  },
+  {
+    "HeaderOffset": 40839,
+    "StartTextOffset": 40845,
+    "EndTextOffset": 40969,
+    "Text": "Further increases unarmed damage by {0}% and gives your unarmed attack {1}% chance to stun the organic target target for {2}."
+  },
+  {
+    "HeaderOffset": 40995,
+    "StartTextOffset": 41001,
+    "EndTextOffset": 41183,
+    "Text": "Grants you the empowered invocation ability that increases the {0} skill by {1}% until the end of the turn, but drains away all the remaining psi points afterwards.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 41200,
+    "StartTextOffset": 41206,
+    "EndTextOffset": 41376,
+    "Text": "Grants you a melee attack that deals mechanical damage equal to {0}%-{1}% of the amount blocked by the carried riot shield and dazes the target for {2}.\r\n\r\nクールダウン: {3}."
+  },
+  {
+    "HeaderOffset": 41393,
+    "StartTextOffset": 41399,
+    "EndTextOffset": 41538,
+    "Text": "Landing a melee attack while wearing a riot shield increases the amount blocked by the riot shield by {0}% for {1}. Stacks up to {2} times."
+  },
+  {
+    "HeaderOffset": 41550,
+    "StartTextOffset": 41556,
+    "EndTextOffset": 41812,
+    "Text": "Grants you a special spear attack with deals {0}% of normal weapon damage to all enemies adjacent to you and puts living targets off balance for {1} if they are hit.\r\n\r\nOff-balanced characters have their dodge and evasion reduced to zero.\r\n\r\nクールダウン: {2}."
+  },
+  {
+    "HeaderOffset": 41829,
+    "StartTextOffset": 41835,
+    "EndTextOffset": 42059,
+    "Text": "After what you have seen, you'll never look at the fleshly form the same again.\r\n\r\nCritical hit chance with weapons and unarmed attacks against humanoids and non-insectoid critters increased by {0}%. Resolve reduced by {1}%."
+  },
+  {
+    "HeaderOffset": 42078,
+    "StartTextOffset": 42084,
+    "EndTextOffset": 42339,
+    "Text": "You've seen the wonderous possibilities of the Outer Expanses, both the beautiful and the abominable, and you're now less inclined to believe in the necessity of the limits of this particular physical world.\r\n\r\nRange of all psi abilities increased by {0}."
+  },
+  {
+    "HeaderOffset": 42354,
+    "StartTextOffset": 42360,
+    "EndTextOffset": 42484,
+    "Text": "Allows you to wield spears in one hand when wearing a suit of armor with a riot shield, but at {0}% penalty to weapon damage."
+  },
+  {
+    "HeaderOffset": 42501,
+    "StartTextOffset": 42507,
+    "EndTextOffset": 42682,
+    "Text": "Each shotgun shot will grant {0}% bonus damage to shotgun attacks. When stacked up to 5, this damage bonus will change to {1}% and after the sixth attack the bonus will reset."
+  },
+  {
+    "HeaderOffset": 42709,
+    "StartTextOffset": 42715,
+    "EndTextOffset": 43039,
+    "Text": "You conditioned your mind for psionic powers the raw way and it left its mark on you. You use your Will base ability instead of Intelligence to determine the number of psi slots, but your max psi points are reduced by {0}.\r\n\r\nYou obtained the rare golden pill that might undo this, but you are not sure if you should use it."
+  },
+  {
+    "HeaderOffset": 43070,
+    "StartTextOffset": 43076,
+    "EndTextOffset": 43169,
+    "Text": "While having only one psi school innervated, the psi cost of all abilities is reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 43199,
+    "StartTextOffset": 43205,
+    "EndTextOffset": 43293,
+    "Text": "One psi school is ignored when determining the multi-school innervation psi cost penalty."
+  },
+  {
+    "HeaderOffset": 43322,
+    "StartTextOffset": 43328,
+    "EndTextOffset": 43358,
+    "Text": "Psi reserves increased by {0}%."
+  },
+  {
+    "HeaderOffset": 43383,
+    "StartTextOffset": 43389,
+    "EndTextOffset": 43435,
+    "Text": "At ease, Corporal.\r\n\r\nIncreases health by {0}%."
+  },
+  {
+    "HeaderOffset": 43451,
+    "StartTextOffset": 43457,
+    "EndTextOffset": 43524,
+    "Text": "You are one tactful operative.\r\n\r\nIncreases persuasion skill by {0}."
+  },
+  {
+    "HeaderOffset": 43544,
+    "StartTextOffset": 43550,
+    "EndTextOffset": 43652,
+    "Text": "You bow to no authority.\r\n\r\nIncreases chance to critically hit with weapon and unarmed attacks by {0}%."
+  },
+  {
+    "HeaderOffset": 43673,
+    "StartTextOffset": 43679,
+    "EndTextOffset": 43795,
+    "Text": "State-of-the-art equipment amounts to a state-of-the-art agent.\r\n\r\nIncreases mechanics and electronics skills by {0}."
+  },
+  {
+    "HeaderOffset": 43826,
+    "StartTextOffset": 43832,
+    "EndTextOffset": 43935,
+    "Text": "Order through strength.\r\n\r\nDecreases chance to get critically hit by weapon and unarmed attacks by {0}%."
+  },
+  {
+    "HeaderOffset": 43965,
+    "StartTextOffset": 43971,
+    "EndTextOffset": 44057,
+    "Text": "You will go anywhere, provided it be forward.\r\n\r\nIncreases all offensive skills by {0}."
+  },
+  {
+    "HeaderOffset": 44081,
+    "StartTextOffset": 44087,
+    "EndTextOffset": 44162,
+    "Text": "The king is dead, long live the king!\r\n\r\nIncreases dodge and evasion by {0}."
+  },
+  {
+    "HeaderOffset": 44185,
+    "StartTextOffset": 44191,
+    "EndTextOffset": 44303,
+    "Text": "The monoliths malicious influence has been removed, but not from your skin.\r\n\r\nIncreases psi regeneration by {0}."
+  },
+  {
+    "HeaderOffset": 44324,
+    "StartTextOffset": 44330,
+    "EndTextOffset": 44426,
+    "Text": "To be Man is to fight monsters.\r\n\r\nUnarmed and weapon damage increased by {0}% against creatures."
+  },
+  {
+    "HeaderOffset": 44445,
+    "StartTextOffset": 44451,
+    "EndTextOffset": 44560,
+    "Text": "Whether it was a monster or a god, it's dead now.\r\n\r\nIncreases resolve by {0}%, but reduces detection by {1}%."
+  },
+  {
+    "HeaderOffset": 44588,
+    "StartTextOffset": 44594,
+    "EndTextOffset": 44684,
+    "Text": "Tchort is evolution. Evolution is Tchort.\r\n\r\nIncreases biology and chemistry skills by {0}."
+  },
+  {
+    "HeaderOffset": 44706,
+    "StartTextOffset": 44712,
+    "EndTextOffset": 44816,
+    "Text": "The only thing this electric eye couldn't see is Balor's untimely demise.\r\n\r\nIncreases detection by {0}%."
+  },
+  {
+    "HeaderOffset": 44832,
+    "StartTextOffset": 44838,
+    "EndTextOffset": 44906,
+    "Text": "There's no station like home station.\r\n\r\nIncreases all skills by {0}."
+  },
+  {
+    "HeaderOffset": 44925,
+    "StartTextOffset": 44931,
+    "EndTextOffset": 45086,
+    "Text": "Sometimes you just have to hoist the black flag and start slitting throats.\r\n\r\nIncreases all offensive and defensive skills by {0}% while riding a jet ski."
+  },
+  {
+    "HeaderOffset": 45106,
+    "StartTextOffset": 45112,
+    "EndTextOffset": 45322,
+    "Text": "You can't seem to settle anywhere. Just as soon as you get involved with a faction or a place, something urges you to move on.\r\n\r\nIncreases movement speed by {0}% and movement points by {1} when not in stealth."
+  },
+  {
+    "HeaderOffset": 45343,
+    "StartTextOffset": 45349,
+    "EndTextOffset": 45490,
+    "Text": "The caustic stench of the vile fluid is ever with you and your skin tingles with memories of pain.\r\n\r\nIncreases acid damage threshold by {0}."
+  },
+  {
+    "HeaderOffset": 45508,
+    "StartTextOffset": 45514,
+    "EndTextOffset": 45640,
+    "Text": "Eat and drink your fill. Gorge yourself on the cave's bounty. Become large.\r\n\r\nDuration of food items increased by {0} minutes."
+  },
+  {
+    "HeaderOffset": 45665,
+    "StartTextOffset": 45671,
+    "EndTextOffset": 45820,
+    "Text": "You can still make out its large red eyes if you stare into the darkest corners of Underrail long enough.\r\n\r\nStealth increased by {0}% of base value."
+  },
+  {
+    "HeaderOffset": 45844,
+    "StartTextOffset": 45850,
+    "EndTextOffset": 46009,
+    "Text": "Life force - primordial, lasting, potent - twisted into a gruesome form.\r\n\r\nChanges the health percentage above which you receive natural regeneration to {0}%."
+  },
+  {
+    "HeaderOffset": 46029,
+    "StartTextOffset": 46035,
+    "EndTextOffset": 46130,
+    "Text": "Your Yell makes such a disturbing sound that it also has {0}% chance to to instill fear for {1}."
+  },
+  {
+    "HeaderOffset": 46156,
+    "StartTextOffset": 46162,
+    "EndTextOffset": 46229,
+    "Text": "Allows you to spit acid blobs that damage and entangle your targets."
+  },
+  {
+    "HeaderOffset": 46241,
+    "StartTextOffset": 46247,
+    "EndTextOffset": 46423,
+    "Text": "When attacking with firearm pistols in melee range, your effective attack skill is increased by {0}% of your unmodified melee skill for all purposes, including the damage done."
+  },
+  {
+    "HeaderOffset": 46440,
+    "StartTextOffset": 46446,
+    "EndTextOffset": 46630,
+    "Text": "When activated, reduces action point cost of firing firearm pistols by {0}% until the end of the turn. \r\n\r\nCannot reduce the action point cost below the hard minimum.\r\n\r\nクールダウン: {1}."
+  },
+  {
+    "HeaderOffset": 46650,
+    "StartTextOffset": 46656,
+    "EndTextOffset": 46734,
+    "Text": "Increases the unresisted damage modifier of throwing knives by additional {0}%."
+  },
+  {
+    "HeaderOffset": 46764,
+    "StartTextOffset": 46770,
+    "EndTextOffset": 46898,
+    "Text": "Increases the range of your telekinetic psi abilities, and also the number of links in psychokinetic chains you produce, by one."
+  },
+  {
+    "HeaderOffset": 46915,
+    "StartTextOffset": 46921,
+    "EndTextOffset": 47362,
+    "Text": "You've experienced that terrible feeling that lies on the other side of extreme cold, at the threshold of complete stillness, where the living body is drained of all energy.\r\n\r\nWhen chilled or frozen, you will gain a buff that will increase your will by {4}, reduce all the cold damage taken by {0}% and all the mechanical damage taken by {1}%, and make you immune to further chilling or freezing for {2}. This can occur only once every {3}."
+  },
+  {
+    "HeaderOffset": 47377,
+    "StartTextOffset": 47383,
+    "EndTextOffset": 47575,
+    "Text": "You abused this dangerous substance one too many times and now your brain has suffered long-term damage.\r\n\r\nYour intelligence is reduced by {0} and you occasionally suffer worse acute effects."
+  },
+  {
+    "HeaderOffset": 47591,
+    "StartTextOffset": 47597,
+    "EndTextOffset": 47672,
+    "Text": "The quality of leather counts as if {0}% higher when crafting leather boots."
+  },
+  {
+    "HeaderOffset": 47688,
+    "StartTextOffset": 47694,
+    "EndTextOffset": 47883,
+    "Text": "You're starting to develop an ear for the subtle differences in sound. In a world comprised largely of dark caves and metro tunnels, this is no small a boon.\r\n\r\nDetection increased by {0}%."
+  }
+]
