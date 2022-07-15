@@ -32,7 +32,7 @@
 5,2=>'::You hear nothing but static.:: (a7e200b4-675e-4e9e-bd12-2c32b7edbe40)'
 5,6=>'::You hear nothing but static.::'
 6,2=>'Can you hear me? (19de11af-e0d1-483e-a36e-15c8461d87ff)'
-6,7=>'Can you hear me?'
+6,7=>'聞こえるか？'
 7,3=>'Good job, $(context.player.Name). Now I  (f09c72f2-4e8e-4af1-bb60-1fd140a36455)'
 7,8=>'Good job, $(context.player.Name). Now I want you to pick up the items from that locker. There should be a battery, a haxxor and two lockpicks inside.'
 8,3=>'Good, good. Now for the final room:  (59a64e58-e604-4921-a2cb-51763198de2e)*'
@@ -44,9 +44,9 @@
 12,0=>'687065fe-42b6-4d7a-8fd2-dba2630686c0'
 12,1=>'context.interface_sgs_tutorial_first'
 13,3=>'Loud and clear. (67a780fb-48fa-4cd0-9f5d-cb6d0443b055)'
-13,7=>'Loud and clear.'
+13,7=>'音量も音質も問題なさそうだ。'
 14,3=>'No. (d0d2f41d-6006-4287-8370-5e9ac9bd9e7d)'
-14,7=>'No.'
+14,7=>'聞こえない！'
 16,3=>'::He yawns.:: What am I talking about? U (c52abed2-0d15-4e07-8361-941f8a453546)'
 16,7=>'::He yawns.:: Use the lockpick to unlock the door. In the next room you will have to unlock the footlocker as well as that box before I let you through.
 
@@ -79,35 +79,35 @@
 31,3=>'Vencel, how do I unlock things? (a78b6f8c-723e-4dac-8112-0ea61bc54bc6)'
 31,7=>'Vencel, how do I unlock things?'
 32,3=>'Got any combat tips for me? (7563b790-d165-47b8-9fee-1a62056faa3d)'
-32,7=>'Got any combat tips for me?'
+32,7=>'戦闘のアドバイスをくれ。'
 33,3=>'Hey, Vencel, what weapons should I use a (e9a8db25-f0c1-46d8-86d4-79bf2d04bd1b)'
-33,7=>'Hey, Vencel, what weapons should I use against bots?'
+33,7=>'機械相手には何の武器を使うのがいい？'
 34,3=>'I sure like the idea of disabling enemie (c1a01620-e6d1-480e-8fda-3cc186fa98a6)'
-34,7=>'What are some effective ways for me to temporarily disable my enemies?'
+34,7=>'敵を一時的に行動不能にする方法は？'
 35,3=>'How do I hold a weapon? (4997e2e1-960f-40a8-b134-fdbef02cff9a)'
-35,7=>'How do I hold a weapon?'
+35,7=>'武器は装備する方法は？'
 36,3=>'How do I use my weapons and devices more (f2e9c7fd-02a3-4f69-826b-fe20fbfcd620)'
-36,7=>'How do I use my weapons and devices more effectively?'
+36,7=>'武器やアイテムの有効な使い方を教えてくれ。'
 37,3=>'How do I reload my weapon? (40157af2-87bb-4070-bdff-bc94a04383f8)'
-37,7=>'How do I reload my weapon?'
+37,7=>'武器をリロードする方法は？'
 38,2=>'Got it. I'll ring you if I have any more (10e7df1d-e1b7-4ba7-8ffd-1a221a4297c5)'
-38,6=>'That would be all for now. I'll ring you if I have any more questions.'
+38,6=>'十分だ。質問があったらまた連絡する。'
 39,2=>'I'm ready. Open the gate. (28ef684c-2a42-44cf-ae3c-3f51f15c9892)'
-39,8=>'I'm ready. Open the gate.'
+39,8=>'準備ができた。次のゲートを開けてくれ。'
 40,3=>'Now pick up your weapons and armor from  (a47e4b91-600c-4804-b1ad-0ba28b6f3c3d)'
-40,7=>'Now pick up your weapons and armor from the cabinet. I think there's also a few EMP's left on the shelf as well.
+40,7=>'棚から武器とアーマーを取ってくれ。記憶が正しければ、多分戸棚にEMPグレネードもあるはずだ。
 
-::[Press TAB to highlight all interactable objects, or Z to reverse the order of highlighted objects. Contents of any container can be picked up by either double-clicking them in the container window or dragging them into your inventory, which can be opened in a separate window by pressing I. You can also press A to take all items from a container.]
+::[TABキーかZキーを押すと、インタラクト可能なすべてのオブジェクトをハイライトできます。Zキーを使った場合、オブジェクトの順番が逆になります。アイテムコンテナの中身はIキーで開くインベントリウィンドウにドラッグ＆ドロップするか、ダブルクリックすることで拾えます。また、アイテムコンテナ画面でAを押すとすべてのアイテムをインベントリに移動します。]
 
-[All hotkeys presented in this tutorial are default values and can be changed in the options menu.]::'
+[チュートリアル中で説明されているホットキーはすべてデフォルトであり、オプションから変更することができます。]::'
 41,3=>'Oh, and yeah, the container has an elect (054308d6-c83d-449a-98b3-8f201db290c0)*'
-41,7=>'Oh, and yeah, the container has an electronic lock, so charge your haxxor first if you wanna open that thing.
+41,7=>'ワーオびっくりだ、そのコンテナには電子錠がかかっているようだな。開けたいなら、まずハッカーコンソールを充電しないとな。
 
-::[Using a haxxor is similar to using a lockpick, with the exception that it needs to be charged first. You can use any battery to charge it. Simply right-click a battery, select "Recharge item" from the radial menu and then left-click the item you want to charge.]::'
+::[ハッカーコンソールはロックピックと同じように機能しますが、充電がなければ使えません。充電には電池を使用します。電池を右クリックして、リングメニューから「アイテムを充電する」を選択し、充電したいアイテムを選択します。]::'
 42,3=>'That tactical vest might be the most app (cb01b926-88d8-4441-9edc-73af61fa54eb)*'
-42,7=>'That tactical vest might not be the most appropriate thing for sneaking, but it'll do for now.
+42,7=>'そのタクティカルベストはステルス向きではないが、まあこの試験では大丈夫だろう。That tactical vest might not be the most appropriate thing for sneaking, but it'll do for now.
 
-::[Of course, there are drawbacks too, most important of which is the armor penalty. Wearing heavy armor can severely reduce your effective stealth skill or even downright make it useless, so being aware of what gear you use is crucial.]::'
+::[もちろん、重装備にはデメリットもあります。Of course, there are drawbacks too, most important of which is the armor penalty. Wearing heavy armor can severely reduce your effective stealth skill or even downright make it useless, so being aware of what gear you use is crucial.]::'
 43,1=>'context.loc_sgs_tutorial_enteredStealth'
 44,3=>'Okay. I will. (d2e34c6a-2858-4c4f-8630-7c2fb95e5bec)*'
 44,7=>'Okay. I will. '
@@ -117,9 +117,9 @@
 
 ::By left-clicking a locked object, the game will display the skill necessary to unlock that particular type of lock. To open mechanical locks you will need high enough lockpicking skill, and for electronic, high enough hacking skill.::'
 47,3=>'Be prepared and fight smart. Brute force (694c3719-4023-42c5-b55a-54bbecedf690)'
-47,7=>'Always be prepared and fight smart. Brute force will only get you so far.
+47,7=>'事前準備を怠らないことと、頭を使うことだな。ごり押しではそう簡単には進めないぞ。
 
-::[You can initiate combat manually (either by pressing ENTER or clicking the button in the lower right corner of the screen) or when an enemy spots you. Hovering over any characters will reveal their name, remaining health and attitude toward the player in the form of a colored name tag; right-clicking will display more info regarding health and active effects at the top of the screen.]::'
+::[敵に発見されると、ゲームが戦闘モードに切り替わります。それとは別にENTERキーを押すか、画面右下のボタンをクリックすることで、手動で戦闘モードに切り替えることができます。キャラクターにマウスカーソルを合わせるとネームタグが表示され、そのキャラクターの名前と残りHPがわかります。また、ネームタグの色はプレイヤーに対する態度(有効/中立/敵対)を表します。キャラクターを右クリックすることで、画面の上部にHPや有効なバフ/デバフなどのさらなる情報を表示することができます。]::'
 48,3=>'Technically, you can use whatever you fe (f31fc30d-bd58-4d70-8c89-ad0a58372a97)'
 48,7=>'Technically, you can use whatever you feel suits you the best, but as you know bots in general are pretty well armored. Knives might work if you wanna slash rathounds, but against bots you better use something like high-caliber or armor-piercing bullets, explosives or even sledgehammers rather than, say, JHP rounds and bolts. Those ain't gonna work as well.'
 49,3=>'There's loads of ways one can deal with  (f2e85c50-5f16-462d-badf-8a353efb6618)'
@@ -149,7 +149,7 @@
 57,3=>'::[Using a lockpick can be done either f (b8a74e8c-d71c-4a6e-ab60-cde0fb6d80d5)'
 57,7=>'::[Using a lockpick can be done either from the inventory or more easily from the action bar. In the first case, right-click a lockpick and then left-click an object you want to unlock, while in the second, drag the lockpick into an action bar slot, left-click it and then use it on an object.]::'
 58,3=>'::[The combat is turn-based, which means (f903eb3e-83fc-4a3b-8784-34cdfd0f1266)'
-58,7=>'::[Combat in Underrail is turn-based, which means that different characters take turns at performing their actions. Every time combat begins, whoever has the highest initiative will get to act first; the initiative stat has a base value which can be influenced by both agility and dexterity. However, should the player manually initiate combat, the player will always be the one to move first.]::'
+58,7=>'::[underrailの戦闘はターン制です。各キャラクターはターンごとに行動することができます。戦闘開始時は、イニシアティブの高いキャラクターから順に行動します。イニシアティブの基本値はキャラクターのAGIとDEXによって決まります。ただしプレイヤーが手動で戦闘を開始した場合、イニシアティブに関係なく一度だけ最初に行動することができます。]::'
 59,2=>'Now, EMP weapons are best if you wanna d (e417b729-d336-46a7-907b-d574ea60fe4a)'
 59,6=>'Now, EMP weapons are best if you wanna do some serious damage or even short-circuit bots. These don't work so well against living enemies, unless you want to drain someone's energy shield, for example.'
 60,3=>'...you can use traps, or if you're good  (8fcd932f-e571-4570-8099-1c9142b3e437)*'
