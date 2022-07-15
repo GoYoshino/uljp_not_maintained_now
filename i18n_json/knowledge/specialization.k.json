@@ -1,0 +1,1154 @@
+[
+  {
+    "HeaderOffset": 5614,
+    "StartTextOffset": 5620,
+    "EndTextOffset": 5812,
+    "Text": "You can further improve the effects of your feats by spending specialization points.\r\n\r\nThe benefits of specialization are always listed in regards to the original effects of the related feat."
+  },
+  {
+    "HeaderOffset": 5830,
+    "StartTextOffset": 5836,
+    "EndTextOffset": 5926,
+    "Text": "Increases the movement points bonus granted by Sprint by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 5952,
+    "StartTextOffset": 5958,
+    "EndTextOffset": 6106,
+    "Text": "Further increases the critical damage bonus when using Aimed Shot by {0}% (additive to regular critical damage bonus) for each specialization point."
+  },
+  {
+    "HeaderOffset": 6129,
+    "StartTextOffset": 6135,
+    "EndTextOffset": 6239,
+    "Text": "Further increases the critical chance bonus from Ambush by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 6258,
+    "StartTextOffset": 6264,
+    "EndTextOffset": 6331,
+    "Text": "Further reduces armor penalty by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 6348,
+    "StartTextOffset": 6354,
+    "EndTextOffset": 6439,
+    "Text": "Further increases the bonus mechanical threshold by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 6459,
+    "StartTextOffset": 6465,
+    "EndTextOffset": 6518,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 6535,
+    "StartTextOffset": 6541,
+    "EndTextOffset": 6632,
+    "Text": "Increases the maximum action points that can be gained by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 6656,
+    "StartTextOffset": 6662,
+    "EndTextOffset": 6760,
+    "Text": "Increases bonus damage from broken ribs by additional {0}% per stack for each specialization point."
+  },
+  {
+    "HeaderOffset": 6783,
+    "StartTextOffset": 6789,
+    "EndTextOffset": 6866,
+    "Text": "Further increases bonus critical damage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 6885,
+    "StartTextOffset": 6891,
+    "EndTextOffset": 6985,
+    "Text": "Further reduces the time it takes to pick and hack locks by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 7006,
+    "StartTextOffset": 7012,
+    "EndTextOffset": 7084,
+    "Text": "Further increases the stealth bonus by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 7111,
+    "StartTextOffset": 7117,
+    "EndTextOffset": 7207,
+    "Text": "Further increases the base damage of Neural Overload by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 7235,
+    "StartTextOffset": 7241,
+    "EndTextOffset": 7334,
+    "Text": "Increases the amount of psi points reduction by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 7371,
+    "StartTextOffset": 7377,
+    "EndTextOffset": 7473,
+    "Text": "Increases the chance to incapacitate the target by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 7500,
+    "StartTextOffset": 7506,
+    "EndTextOffset": 7583,
+    "Text": "Further increases critical damage bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 7598,
+    "StartTextOffset": 7604,
+    "EndTextOffset": 7681,
+    "Text": "Further increases the effective quality by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 7699,
+    "StartTextOffset": 7705,
+    "EndTextOffset": 7780,
+    "Text": "Increases the bonus damage by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 7802,
+    "StartTextOffset": 7808,
+    "EndTextOffset": 7896,
+    "Text": "Increases the chance to stun the target by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 7917,
+    "StartTextOffset": 7923,
+    "EndTextOffset": 8094,
+    "Text": "Killing an opponent using assault rifle or SMG burst attack will also grant you {0} action points for each specialization point. This, also, can only happen once per turn."
+  },
+  {
+    "HeaderOffset": 8123,
+    "StartTextOffset": 8129,
+    "EndTextOffset": 8228,
+    "Text": "Further increases damage bonus of concentrated fire by {0}% per stack for each specialization point."
+  },
+  {
+    "HeaderOffset": 8260,
+    "StartTextOffset": 8266,
+    "EndTextOffset": 8340,
+    "Text": "Further increases the chance to daze by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 8359,
+    "StartTextOffset": 8365,
+    "EndTextOffset": 8431,
+    "Text": "Further reduces damage taken by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 8462,
+    "StartTextOffset": 8468,
+    "EndTextOffset": 8572,
+    "Text": "Further increases bonus damage by {0}% for each point of intelligence above {1} per specialization point."
+  },
+  {
+    "HeaderOffset": 8595,
+    "StartTextOffset": 8601,
+    "EndTextOffset": 8674,
+    "Text": "Increases the damage of Cooked Shot by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 8706,
+    "StartTextOffset": 8712,
+    "EndTextOffset": 8807,
+    "Text": "Reduces the action point cost modifier of the Cooked Shot by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 8839,
+    "StartTextOffset": 8845,
+    "EndTextOffset": 8955,
+    "Text": "Further increases all telekinetic damage by {0}% for each point of strength above {1} per specialization point."
+  },
+  {
+    "HeaderOffset": 8983,
+    "StartTextOffset": 8989,
+    "EndTextOffset": 9064,
+    "Text": "Further increases the damage modifier by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 9094,
+    "StartTextOffset": 9100,
+    "EndTextOffset": 9203,
+    "Text": "Further increases the critical damage gain by {0}% for each specialization point (per stated condition)."
+  },
+  {
+    "HeaderOffset": 9237,
+    "StartTextOffset": 9243,
+    "EndTextOffset": 9313,
+    "Text": "Reduces the shattering threshold by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 9335,
+    "StartTextOffset": 9341,
+    "EndTextOffset": 9438,
+    "Text": "Further increases the extra bleeding damage from the attack by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 9462,
+    "StartTextOffset": 9468,
+    "EndTextOffset": 9521,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 9549,
+    "StartTextOffset": 9555,
+    "EndTextOffset": 9608,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 9633,
+    "StartTextOffset": 9639,
+    "EndTextOffset": 9684,
+    "Text": "Increases the number of refunded shots by one."
+  },
+  {
+    "HeaderOffset": 9713,
+    "StartTextOffset": 9719,
+    "EndTextOffset": 9845,
+    "Text": "Critical hits caused by Deadly Snares have their critical damage bonus further increased by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 9867,
+    "StartTextOffset": 9873,
+    "EndTextOffset": 9973,
+    "Text": "Further increases the dodge bonus originating from melee skill by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 9995,
+    "StartTextOffset": 10001,
+    "EndTextOffset": 10055,
+    "Text": "Increases damage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 10080,
+    "StartTextOffset": 10086,
+    "EndTextOffset": 10195,
+    "Text": "Increases the percentage of original quality of disassembled components by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 10220,
+    "StartTextOffset": 10226,
+    "EndTextOffset": 10299,
+    "Text": "Further increases the healing bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 10326,
+    "StartTextOffset": 10332,
+    "EndTextOffset": 10404,
+    "Text": "Further increases the damage bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 10428,
+    "StartTextOffset": 10434,
+    "EndTextOffset": 10536,
+    "Text": "Succeeding in escaping bonds will now also grant you {0} movement points for each specialization point."
+  },
+  {
+    "HeaderOffset": 10569,
+    "StartTextOffset": 10575,
+    "EndTextOffset": 10655,
+    "Text": "You gain additional {0} evasion per movement point for each specialization point."
+  },
+  {
+    "HeaderOffset": 10678,
+    "StartTextOffset": 10684,
+    "EndTextOffset": 10767,
+    "Text": "Increases the bonus damage per bleeding wound by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 10787,
+    "StartTextOffset": 10793,
+    "EndTextOffset": 10868,
+    "Text": "Further increases the damage modifier by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 10890,
+    "StartTextOffset": 10896,
+    "EndTextOffset": 10949,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 10973,
+    "StartTextOffset": 10979,
+    "EndTextOffset": 11050,
+    "Text": "Increases the maximum damage bonus by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 11079,
+    "StartTextOffset": 11085,
+    "EndTextOffset": 11144,
+    "Text": "Increases the duration by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 11180,
+    "StartTextOffset": 11186,
+    "EndTextOffset": 11304,
+    "Text": "Increases the amount of mechanical resistance and threshold reduction by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 11338,
+    "StartTextOffset": 11344,
+    "EndTextOffset": 11455,
+    "Text": "Increases the maximum amount of movement points you can receive per attack by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 11483,
+    "StartTextOffset": 11489,
+    "EndTextOffset": 11556,
+    "Text": "Further increases all healing by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 11580,
+    "StartTextOffset": 11586,
+    "EndTextOffset": 11662,
+    "Text": "Psi boosters restore additional {0} psi points for each specialization point."
+  },
+  {
+    "HeaderOffset": 11694,
+    "StartTextOffset": 11700,
+    "EndTextOffset": 11792,
+    "Text": "Raises the health threshold for triggering Fatal Throw by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 11821,
+    "StartTextOffset": 11827,
+    "EndTextOffset": 11918,
+    "Text": "Further increases the amount of action points restored by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 11940,
+    "StartTextOffset": 11946,
+    "EndTextOffset": 12032,
+    "Text": "Telekinetic punch damage is increased by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 12064,
+    "StartTextOffset": 12070,
+    "EndTextOffset": 12144,
+    "Text": "Forcefield health bonus is increased by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 12167,
+    "StartTextOffset": 12173,
+    "EndTextOffset": 12237,
+    "Text": "Increases the block chance by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 12260,
+    "StartTextOffset": 12266,
+    "EndTextOffset": 12364,
+    "Text": "Increases the amount blocked by additional {0} for each point in strength per specialization point."
+  },
+  {
+    "HeaderOffset": 12383,
+    "StartTextOffset": 12389,
+    "EndTextOffset": 12467,
+    "Text": "Further increases the upper damage range by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 12494,
+    "StartTextOffset": 12500,
+    "EndTextOffset": 12575,
+    "Text": "Further increases the initiative bonus by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 12602,
+    "StartTextOffset": 12608,
+    "EndTextOffset": 12692,
+    "Text": "Increases critical damage bonus of Heavy Punch by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 12720,
+    "StartTextOffset": 12726,
+    "EndTextOffset": 12837,
+    "Text": "Provides additional {0}% critical damage bonus for each percent of total armor penalty per specialization point."
+  },
+  {
+    "HeaderOffset": 12858,
+    "StartTextOffset": 12864,
+    "EndTextOffset": 13052,
+    "Text": "Increases the limit of movement point reset by {0} for each specialization point. The character will still have to have sufficient maximum movement points to make use of this raised limit."
+  },
+  {
+    "HeaderOffset": 13078,
+    "StartTextOffset": 13084,
+    "EndTextOffset": 13153,
+    "Text": "Further increases poison damage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 13180,
+    "StartTextOffset": 13186,
+    "EndTextOffset": 13273,
+    "Text": "Increases the maximum number of Hypothermia stacks by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 13298,
+    "StartTextOffset": 13304,
+    "EndTextOffset": 13477,
+    "Text": "Each point of specialization further reduces the movement speed penalty in stealth by {0}% and allows you to retain up to {1} more movement points in combat while stealthed."
+  },
+  {
+    "HeaderOffset": 13500,
+    "StartTextOffset": 13506,
+    "EndTextOffset": 13574,
+    "Text": "Further increases health bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 13602,
+    "StartTextOffset": 13608,
+    "EndTextOffset": 13754,
+    "Text": "Each point of specialization increases the base bleeding damage percentage by {0}% and bleeding damage percentage per point in perception by {1}%."
+  },
+  {
+    "HeaderOffset": 13778,
+    "StartTextOffset": 13784,
+    "EndTextOffset": 13858,
+    "Text": "Bleeding damage percentage increased by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 13884,
+    "StartTextOffset": 13890,
+    "EndTextOffset": 13943,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 13967,
+    "StartTextOffset": 13973,
+    "EndTextOffset": 14026,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 14050,
+    "StartTextOffset": 14056,
+    "EndTextOffset": 14111,
+    "Text": "Increases duration by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 14140,
+    "StartTextOffset": 14146,
+    "EndTextOffset": 14199,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 14228,
+    "StartTextOffset": 14234,
+    "EndTextOffset": 14289,
+    "Text": "Increases duration by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 14311,
+    "StartTextOffset": 14317,
+    "EndTextOffset": 14424,
+    "Text": "Further increases the strength of on-hit effects of chemical pistols by {0}%  for each specialization point."
+  },
+  {
+    "HeaderOffset": 14450,
+    "StartTextOffset": 14456,
+    "EndTextOffset": 14529,
+    "Text": "Further increases maximum psi points by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 14564,
+    "StartTextOffset": 14570,
+    "EndTextOffset": 14638,
+    "Text": "Further increases critical damage bonus of all psi abilities by {0}%."
+  },
+  {
+    "HeaderOffset": 14663,
+    "StartTextOffset": 14669,
+    "EndTextOffset": 14742,
+    "Text": "Further increases maximum psi points by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 14770,
+    "StartTextOffset": 14776,
+    "EndTextOffset": 14862,
+    "Text": "Increases the dodge and evasion bonus by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 14885,
+    "StartTextOffset": 14891,
+    "EndTextOffset": 14963,
+    "Text": "Further reduces pickpocketing time by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 14990,
+    "StartTextOffset": 14996,
+    "EndTextOffset": 15066,
+    "Text": "Further reduces suspicion raised by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 15098,
+    "StartTextOffset": 15104,
+    "EndTextOffset": 15216,
+    "Text": "Further increases damage against rooted, stunned and incapacitated targets by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 15246,
+    "StartTextOffset": 15252,
+    "EndTextOffset": 15337,
+    "Text": "Further increases damage against slowed targets by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 15369,
+    "StartTextOffset": 15375,
+    "EndTextOffset": 15444,
+    "Text": "Further increases carry capacity by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 15473,
+    "StartTextOffset": 15479,
+    "EndTextOffset": 15544,
+    "Text": "Further increases detection by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 15578,
+    "StartTextOffset": 15584,
+    "EndTextOffset": 15670,
+    "Text": "Further reduces the chance to get critically hit by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 15691,
+    "StartTextOffset": 15697,
+    "EndTextOffset": 15805,
+    "Text": "Further increasess weapon and unarmed damage against stealthed targets by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 15830,
+    "StartTextOffset": 15836,
+    "EndTextOffset": 15901,
+    "Text": "Further increases initiative by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 15921,
+    "StartTextOffset": 15927,
+    "EndTextOffset": 15989,
+    "Text": "Increases pinning chance by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 16011,
+    "StartTextOffset": 16017,
+    "EndTextOffset": 16095,
+    "Text": "Reduces the action point cost by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 16125,
+    "StartTextOffset": 16131,
+    "EndTextOffset": 16202,
+    "Text": "Further increases energy capacity by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 16237,
+    "StartTextOffset": 16243,
+    "EndTextOffset": 16320,
+    "Text": "Further increases bonus critical damage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 16356,
+    "StartTextOffset": 16362,
+    "EndTextOffset": 16428,
+    "Text": "Further reduces the psi cost by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 16456,
+    "StartTextOffset": 16462,
+    "EndTextOffset": 16515,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 16553,
+    "StartTextOffset": 16559,
+    "EndTextOffset": 16620,
+    "Text": "Reduces the health cost by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 16647,
+    "StartTextOffset": 16653,
+    "EndTextOffset": 16706,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 16735,
+    "StartTextOffset": 16741,
+    "EndTextOffset": 16794,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 16817,
+    "StartTextOffset": 16823,
+    "EndTextOffset": 16924,
+    "Text": "Reduces action point cost of setting traps while quick tinkering by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 16956,
+    "StartTextOffset": 16962,
+    "EndTextOffset": 17035,
+    "Text": "Reduces the psi point cost modifier by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 17061,
+    "StartTextOffset": 17067,
+    "EndTextOffset": 17144,
+    "Text": "Further increases critical chance bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 17184,
+    "StartTextOffset": 17190,
+    "EndTextOffset": 17297,
+    "Text": "Further increases the target's chance to get critically hit by {0}% per stack for each specialization point."
+  },
+  {
+    "HeaderOffset": 17335,
+    "StartTextOffset": 17341,
+    "EndTextOffset": 17400,
+    "Text": "Increases the duration by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 17419,
+    "StartTextOffset": 17425,
+    "EndTextOffset": 17492,
+    "Text": "Increases the damage modifier by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 17517,
+    "StartTextOffset": 17523,
+    "EndTextOffset": 17589,
+    "Text": "Reduces the action point cost by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 17612,
+    "StartTextOffset": 17618,
+    "EndTextOffset": 17718,
+    "Text": "Increases the burning damage by additional {0}% of the original damage for each specialization point."
+  },
+  {
+    "HeaderOffset": 17743,
+    "StartTextOffset": 17749,
+    "EndTextOffset": 17824,
+    "Text": "Further reduces the action point cost by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 17846,
+    "StartTextOffset": 17852,
+    "EndTextOffset": 17928,
+    "Text": "Reduces the action point cost modifier by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 17957,
+    "StartTextOffset": 17963,
+    "EndTextOffset": 18132,
+    "Text": "Each specialization point further increases your chance to critically hit with all weapons by {0}%, but also further increases your chance to get critically hit by {1}%."
+  },
+  {
+    "HeaderOffset": 18155,
+    "StartTextOffset": 18161,
+    "EndTextOffset": 18299,
+    "Text": "Further increases the critical damage bonus modifier by {0}% per the specified percentage of missing health for each specialization point."
+  },
+  {
+    "HeaderOffset": 18314,
+    "StartTextOffset": 18320,
+    "EndTextOffset": 18444,
+    "Text": "Further increases the amount of goods merchants will buy from you by {0}% per mercantile skill for each specialization point."
+  },
+  {
+    "HeaderOffset": 18473,
+    "StartTextOffset": 18479,
+    "EndTextOffset": 18556,
+    "Text": "Further increases critical damage bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 18570,
+    "StartTextOffset": 18576,
+    "EndTextOffset": 18653,
+    "Text": "Further increases the effective quality by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 18671,
+    "StartTextOffset": 18677,
+    "EndTextOffset": 18777,
+    "Text": "Each specialization point further increases the additional damage per point in stealth skill by {0}%."
+  },
+  {
+    "HeaderOffset": 18806,
+    "StartTextOffset": 18812,
+    "EndTextOffset": 18865,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 18894,
+    "StartTextOffset": 18900,
+    "EndTextOffset": 18992,
+    "Text": "Further increases critical hit chance per action point by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 19007,
+    "StartTextOffset": 19013,
+    "EndTextOffset": 19129,
+    "Text": "Increases the damage reduction percentage per stated missing health by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 19151,
+    "StartTextOffset": 19157,
+    "EndTextOffset": 19245,
+    "Text": "Increases the amount of health added to the damage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 19279,
+    "StartTextOffset": 19285,
+    "EndTextOffset": 19368,
+    "Text": "Further reduces target's ranged chance to hit by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 19402,
+    "StartTextOffset": 19408,
+    "EndTextOffset": 19483,
+    "Text": "Further reduces target's action points by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 19519,
+    "StartTextOffset": 19525,
+    "EndTextOffset": 19602,
+    "Text": "Further reduces target's movement points by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 19641,
+    "StartTextOffset": 19647,
+    "EndTextOffset": 19715,
+    "Text": "Increases the health threshold by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 19749,
+    "StartTextOffset": 19755,
+    "EndTextOffset": 19839,
+    "Text": "Further increases the chance to critically hit by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 19865,
+    "StartTextOffset": 19871,
+    "EndTextOffset": 19959,
+    "Text": "Further increases the melee damage bonus per stack by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 19997,
+    "StartTextOffset": 20003,
+    "EndTextOffset": 20080,
+    "Text": "Increases the chance to daze the target by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 20115,
+    "StartTextOffset": 20121,
+    "EndTextOffset": 20192,
+    "Text": "Further reduces action point cost by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 20221,
+    "StartTextOffset": 20227,
+    "EndTextOffset": 20328,
+    "Text": "Each specialization point further increases critical chance by {0}% per stated amount of skill points."
+  },
+  {
+    "HeaderOffset": 20346,
+    "StartTextOffset": 20352,
+    "EndTextOffset": 20426,
+    "Text": "Further reduces the action point cost by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 20448,
+    "StartTextOffset": 20454,
+    "EndTextOffset": 20545,
+    "Text": "Further reduces time required to arm and disarm traps by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 20571,
+    "StartTextOffset": 20577,
+    "EndTextOffset": 20678,
+    "Text": "Further increases the detection difficulty of the traps you set by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 20697,
+    "StartTextOffset": 20703,
+    "EndTextOffset": 20804,
+    "Text": "Reduces the amount of skill points required for additional dodge by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 20829,
+    "StartTextOffset": 20835,
+    "EndTextOffset": 20934,
+    "Text": "Further increases the damage taken from all sources by {0}% per stack for each specialization point."
+  },
+  {
+    "HeaderOffset": 20969,
+    "StartTextOffset": 20975,
+    "EndTextOffset": 21054,
+    "Text": "Further reduces healing effects by {0}% per stack for each specialization point."
+  },
+  {
+    "HeaderOffset": 21082,
+    "StartTextOffset": 21088,
+    "EndTextOffset": 21163,
+    "Text": "Further increases critical hit chance by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 21190,
+    "StartTextOffset": 21196,
+    "EndTextOffset": 21274,
+    "Text": "Increases the chance to apply the debuff by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 21294,
+    "StartTextOffset": 21300,
+    "EndTextOffset": 21378,
+    "Text": "Increases the skill reduction percentage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 21402,
+    "StartTextOffset": 21408,
+    "EndTextOffset": 21470,
+    "Text": "Further increases damage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 21496,
+    "StartTextOffset": 21502,
+    "EndTextOffset": 21576,
+    "Text": "Increases the chance to instill fear by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 21608,
+    "StartTextOffset": 21614,
+    "EndTextOffset": 21683,
+    "Text": "Increases the chance to reapply by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 21713,
+    "StartTextOffset": 21719,
+    "EndTextOffset": 21797,
+    "Text": "Reduces the health cost of psi abilities by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 21825,
+    "StartTextOffset": 21831,
+    "EndTextOffset": 21884,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 21929,
+    "StartTextOffset": 21935,
+    "EndTextOffset": 22015,
+    "Text": "Further increases action point modification by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 22042,
+    "StartTextOffset": 22048,
+    "EndTextOffset": 22120,
+    "Text": "Further increases the block chance by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 22147,
+    "StartTextOffset": 22153,
+    "EndTextOffset": 22227,
+    "Text": "Further increases the amount blocked by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 22240,
+    "StartTextOffset": 22246,
+    "EndTextOffset": 22322,
+    "Text": "Further reduces move and shoot penalty by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 22341,
+    "StartTextOffset": 22347,
+    "EndTextOffset": 22412,
+    "Text": "Further increases initiative by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 22433,
+    "StartTextOffset": 22439,
+    "EndTextOffset": 22513,
+    "Text": "Increases the damage of burst attack by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 22545,
+    "StartTextOffset": 22551,
+    "EndTextOffset": 22626,
+    "Text": "Increases the armor penalty threshold by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 22650,
+    "StartTextOffset": 22656,
+    "EndTextOffset": 22732,
+    "Text": "Increases chance to hit with crossbows by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 22757,
+    "StartTextOffset": 22763,
+    "EndTextOffset": 22850,
+    "Text": "Further increases perception for specified purpose by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 22881,
+    "StartTextOffset": 22887,
+    "EndTextOffset": 22992,
+    "Text": "Further reduces cooldown of flashbangs and similar tactical grenades by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 23015,
+    "StartTextOffset": 23021,
+    "EndTextOffset": 23130,
+    "Text": "When throwing knives at two targets, damage of both knives is increased by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 23153,
+    "StartTextOffset": 23159,
+    "EndTextOffset": 23228,
+    "Text": "Gives you {0}% chance per specialization point to dodge any bear trap."
+  },
+  {
+    "HeaderOffset": 23245,
+    "StartTextOffset": 23251,
+    "EndTextOffset": 23307,
+    "Text": "Increases fortitude by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 23333,
+    "StartTextOffset": 23339,
+    "EndTextOffset": 23409,
+    "Text": "Lessens the action point increase by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 23431,
+    "StartTextOffset": 23437,
+    "EndTextOffset": 23519,
+    "Text": "Increases the bonus amount of damage blocked by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 23536,
+    "StartTextOffset": 23542,
+    "EndTextOffset": 23609,
+    "Text": "Reduces the action point cost by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 23629,
+    "StartTextOffset": 23635,
+    "EndTextOffset": 23705,
+    "Text": "Increases the block chance bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 23728,
+    "StartTextOffset": 23734,
+    "EndTextOffset": 23870,
+    "Text": "Further increases the critical damage bonus of Impale by {0}% (additive to regular critical damage bonus) for each specialization point."
+  },
+  {
+    "HeaderOffset": 23893,
+    "StartTextOffset": 23899,
+    "EndTextOffset": 23997,
+    "Text": "Increases the damage multiplier by additional {0}% per unit of range for each specialization point."
+  },
+  {
+    "HeaderOffset": 24020,
+    "StartTextOffset": 24026,
+    "EndTextOffset": 24088,
+    "Text": "Reduces action point cost by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 24110,
+    "StartTextOffset": 24116,
+    "EndTextOffset": 24168,
+    "Text": "Increases range by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 24189,
+    "StartTextOffset": 24195,
+    "EndTextOffset": 24248,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 24267,
+    "StartTextOffset": 24273,
+    "EndTextOffset": 24309,
+    "Text": "Reduces the action point cost by {0}."
+  },
+  {
+    "HeaderOffset": 24331,
+    "StartTextOffset": 24337,
+    "EndTextOffset": 24411,
+    "Text": "Increases the damage bonus per stack by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 24437,
+    "StartTextOffset": 24443,
+    "EndTextOffset": 24515,
+    "Text": "Reduces the decapitation threshold by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 24538,
+    "StartTextOffset": 24544,
+    "EndTextOffset": 24602,
+    "Text": "Increases the damage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 24626,
+    "StartTextOffset": 24632,
+    "EndTextOffset": 24706,
+    "Text": "Increases critical chance of Riposte by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 24724,
+    "StartTextOffset": 24730,
+    "EndTextOffset": 24829,
+    "Text": "Additively increases the amount of evasion ignored by additional {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 24857,
+    "StartTextOffset": 24863,
+    "EndTextOffset": 24945,
+    "Text": "Increases the damage of shotgun burst attack by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 24969,
+    "StartTextOffset": 24975,
+    "EndTextOffset": 25058,
+    "Text": "Further increases the damage bonus by {0}% (additive) for each specialization point."
+  },
+  {
+    "HeaderOffset": 25082,
+    "StartTextOffset": 25088,
+    "EndTextOffset": 25159,
+    "Text": "Increases the maximum bonus damage by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 25191,
+    "StartTextOffset": 25197,
+    "EndTextOffset": 25272,
+    "Text": "Increases total critical damage bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 25297,
+    "StartTextOffset": 25303,
+    "EndTextOffset": 25383,
+    "Text": "Increases critical chance bonus per target by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 25401,
+    "StartTextOffset": 25407,
+    "EndTextOffset": 25470,
+    "Text": "Increases chance to block by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 25493,
+    "StartTextOffset": 25499,
+    "EndTextOffset": 25561,
+    "Text": "Increases amount blocked by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 25579,
+    "StartTextOffset": 25585,
+    "EndTextOffset": 25679,
+    "Text": "Further increases the percentage of the skill value used by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 25713,
+    "StartTextOffset": 25719,
+    "EndTextOffset": 25783,
+    "Text": "Increases the damage bonus by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 25821,
+    "StartTextOffset": 25827,
+    "EndTextOffset": 25904,
+    "Text": "Increases the chance to daze the target by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 25927,
+    "StartTextOffset": 25933,
+    "EndTextOffset": 26002,
+    "Text": "Increases the damage percentage by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 26027,
+    "StartTextOffset": 26033,
+    "EndTextOffset": 26086,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 26109,
+    "StartTextOffset": 26115,
+    "EndTextOffset": 26177,
+    "Text": "Reduces action point cost by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 26194,
+    "StartTextOffset": 26200,
+    "EndTextOffset": 26285,
+    "Text": "Increases the block amount by additional {0}% per stack for each specialization point."
+  },
+  {
+    "HeaderOffset": 26303,
+    "StartTextOffset": 26309,
+    "EndTextOffset": 26376,
+    "Text": "Increases the damage modifier by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 26396,
+    "StartTextOffset": 26402,
+    "EndTextOffset": 26455,
+    "Text": "Reduces cooldown by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 26475,
+    "StartTextOffset": 26481,
+    "EndTextOffset": 26567,
+    "Text": "Increases the duration of the off-balanced effect by {0} for each specialization point."
+  },
+  {
+    "HeaderOffset": 26582,
+    "StartTextOffset": 26588,
+    "EndTextOffset": 26652,
+    "Text": "Reduces the damage penalty by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 26675,
+    "StartTextOffset": 26681,
+    "EndTextOffset": 26802,
+    "Text": "Increases the progressive bonus damage per stack by {0}% and the final bonus damage by {1}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 26833,
+    "StartTextOffset": 26839,
+    "EndTextOffset": 26905,
+    "Text": "Further reduces the psi cost by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 26934,
+    "StartTextOffset": 26940,
+    "EndTextOffset": 27014,
+    "Text": "Psi reserves bonus further increased by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 27026,
+    "StartTextOffset": 27032,
+    "EndTextOffset": 27126,
+    "Text": "Further increases the percentage of the skill value used by {0}% for each specialization point."
+  },
+  {
+    "HeaderOffset": 27143,
+    "StartTextOffset": 27149,
+    "EndTextOffset": 27231,
+    "Text": "Further reduces action point cost by {0}% (additive) for each specialization point."
+  },
+  {
+    "HeaderOffset": 27251,
+    "StartTextOffset": 27257,
+    "EndTextOffset": 27354,
+    "Text": "Further increases the unresisted damage modifier by {0}% (additive) for each specialization point."
+  },
+  {
+    "HeaderOffset": 27392,
+    "StartTextOffset": 27398,
+    "EndTextOffset": 27479,
+    "Text": "Cryogenic Barrier health bonus is increased by {0}% for each specialization point."
+  }
+]

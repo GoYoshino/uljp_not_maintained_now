@@ -1,0 +1,20 @@
+[
+  {
+    "HeaderOffset": 157,
+    "StartTextOffset": 163,
+    "EndTextOffset": 257,
+    "Text": "The wearer regenerates {0} health for the cost of {1} energy every turn when below {2}% health."
+  },
+  {
+    "HeaderOffset": 274,
+    "StartTextOffset": 280,
+    "EndTextOffset": 312,
+    "Text": "Regenerates {0} health each turn."
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 369,
+    "Text": "Regains {0} shield each turn."
+  }
+]

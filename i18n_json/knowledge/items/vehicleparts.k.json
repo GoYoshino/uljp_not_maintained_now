@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 172,
+    "StartTextOffset": 178,
+    "EndTextOffset": 177,
+    "Text": ""
+  },
+  {
+    "HeaderOffset": 190,
+    "StartTextOffset": 196,
+    "EndTextOffset": 277,
+    "Text": "The more powerful the engine, the faster the vehicle can move under greater loads."
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 368,
+    "Text": "The bigger the battery, the longer the vehicle can move at normal speed."
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 511,
+    "Text": "The better the suspension system, the easier the driver can fight and perform other actions that require balancing."
+  }
+]

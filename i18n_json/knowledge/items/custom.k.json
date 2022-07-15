@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 442,
+    "Text": "Attempt to track the signal of necklace's counterpart."
+  },
+  {
+    "HeaderOffset": 481,
+    "StartTextOffset": 487,
+    "EndTextOffset": 671,
+    "Text": "Attempt to release Abram's cybernetic spawn into the ventilation ducts of United Stations embassy. You must either be inside the ducts yourself or standing next to a ventilation shaft."
+  },
+  {
+    "HeaderOffset": 706,
+    "StartTextOffset": 712,
+    "EndTextOffset": 861,
+    "Text": "Attempt to release cybernetic spawn into the ventilation ducts. You must either be inside the ducts yourself or standing next to a ventilation shaft."
+  },
+  {
+    "HeaderOffset": 888,
+    "StartTextOffset": 894,
+    "EndTextOffset": 958,
+    "Text": "Plant the explosives in the cavern beneath the Old Junkyard gate."
+  },
+  {
+    "HeaderOffset": 982,
+    "StartTextOffset": 988,
+    "EndTextOffset": 1089,
+    "Text": "Place the psi amplifier on the floor in preparation to lure the Beast. (Must be below the arc furnace)"
+  },
+  {
+    "HeaderOffset": 1128,
+    "StartTextOffset": 1134,
+    "EndTextOffset": 1196,
+    "Text": "Attempt to track the signal from the runaway Coretech employee."
+  },
+  {
+    "HeaderOffset": 1225,
+    "StartTextOffset": 1231,
+    "EndTextOffset": 1286,
+    "Text": "Place the charge on a load-bearing pillar in Epione Lab."
+  },
+  {
+    "HeaderOffset": 1317,
+    "StartTextOffset": 1323,
+    "EndTextOffset": 1405,
+    "Text": "Detonate explosive charges in Epione Lab. All five charges need to be set up first."
+  },
+  {
+    "HeaderOffset": 1431,
+    "StartTextOffset": 1437,
+    "EndTextOffset": 1494,
+    "Text": "Power off and exit the dreadnought. Must be out of combat."
+  },
+  {
+    "HeaderOffset": 1510,
+    "StartTextOffset": 1516,
+    "EndTextOffset": 1571,
+    "Text": "Disembark the vessel to the targeted place on the shore."
+  },
+  {
+    "HeaderOffset": 1601,
+    "StartTextOffset": 1607,
+    "EndTextOffset": 1635,
+    "Text": "Insert the crank in its slot."
+  }
+]

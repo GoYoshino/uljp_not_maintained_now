@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 177,
+    "StartTextOffset": 183,
+    "EndTextOffset": 234,
+    "Text": "Restores up to {0} mechanical durability to an item."
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 300,
+    "Text": "Restores up to {0} fabric durability to an item."
+  },
+  {
+    "HeaderOffset": 317,
+    "StartTextOffset": 323,
+    "EndTextOffset": 374,
+    "Text": "Restores up to {0} electronic durability to an item."
+  },
+  {
+    "HeaderOffset": 388,
+    "StartTextOffset": 394,
+    "EndTextOffset": 436,
+    "Text": "Restores up to {0} durability to a vehicle."
+  }
+]

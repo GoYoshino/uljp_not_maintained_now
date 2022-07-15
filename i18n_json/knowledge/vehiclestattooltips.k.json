@@ -1,0 +1,128 @@
+[
+  {
+    "HeaderOffset": 641,
+    "StartTextOffset": 647,
+    "EndTextOffset": 917,
+    "Text": "Shows current and maximum durability points of the vehicle. When the current durability points reach zero, the vehicle is destroyed and the driver dies. Many vehicle parts, items in the trunk and the driver itself are likely to be completely destroyed when this happens."
+  },
+  {
+    "HeaderOffset": 930,
+    "StartTextOffset": 936,
+    "EndTextOffset": 1095,
+    "Text": "Shows current stored energy and the maximum battery capacity. When the vehicle runs out of energy it will engage the auxiliary power and move extremely slowly."
+  },
+  {
+    "HeaderOffset": 1113,
+    "StartTextOffset": 1119,
+    "EndTextOffset": 1463,
+    "Text": "Engine power determines how fast the vehicle will move under certain weight. The number represents the maximum total weight (including the vehicle parts, items in the trunk and the driver) the vehicle can take on and move at the nominal speed for the vehicle type.\r\n\r\nHaving excess or deficit of power will modify the vehicle speed accordingly."
+  },
+  {
+    "HeaderOffset": 1481,
+    "StartTextOffset": 1487,
+    "EndTextOffset": 1633,
+    "Text": "Some engines are more efficient than others. The number represents the effective engine power when it comes to determining the energy consumption."
+  },
+  {
+    "HeaderOffset": 1653,
+    "StartTextOffset": 1659,
+    "EndTextOffset": 1790,
+    "Text": "The amount of energy the vehicle consumes when it moves the distance of one kilometer. Some engines are more efficient than others."
+  },
+  {
+    "HeaderOffset": 1803,
+    "StartTextOffset": 1809,
+    "EndTextOffset": 2050,
+    "Text": "Vehicle weight is the total weight of the vehicle chasis plus the vehicle parts installed. Total weight is vehicle weight plus the weight of items stored in the trunk, plus the weight of the driver if they are currently mounting the vehicle."
+  },
+  {
+    "HeaderOffset": 2066,
+    "StartTextOffset": 2072,
+    "EndTextOffset": 2239,
+    "Text": "This is the base speed for the vehicle type (e.g. standing jetski). This speed is further modified by engine power, loaded weight and the chassis aero/hydo-dynamicity."
+  },
+  {
+    "HeaderOffset": 2259,
+    "StartTextOffset": 2265,
+    "EndTextOffset": 2534,
+    "Text": "This is the speed modifier of the current vehicle chassis. Some models are more aero/hydro-dynamic than others.\r\n\r\nPositive speed modifiers are only applied if the vehicle is not out of energy and is not carrying more weight than it can normaly support with its engine."
+  },
+  {
+    "HeaderOffset": 2554,
+    "StartTextOffset": 2560,
+    "EndTextOffset": 2700,
+    "Text": "This is the current theoretical unmanned vehicle speed and evasion modifier (which is dependent of the vehicle's speed and maneuverability)."
+  },
+  {
+    "HeaderOffset": 2718,
+    "StartTextOffset": 2724,
+    "EndTextOffset": 2849,
+    "Text": "This is the current actual vehicle speed and evasion modifier (which is dependent of the vehicle's speed and maneuverability)."
+  },
+  {
+    "HeaderOffset": 2865,
+    "StartTextOffset": 2871,
+    "EndTextOffset": 3256,
+    "Text": "Stability indicates how stable and easy to do combat from the vehicle is, influencing both ranged and melee (though to a lesser degree), as well as throwing, precision. Precision of melee attacks is further modified by the vehicle's maneuverability, and precision of short range melee weapons (knives and fist weapons), as well as unarmed attacks, is further reduces by additional 10%."
+  },
+  {
+    "HeaderOffset": 3279,
+    "StartTextOffset": 3285,
+    "EndTextOffset": 3360,
+    "Text": "Bonus to melee damage when attacking from this vehicle due to vehicle speed."
+  },
+  {
+    "HeaderOffset": 3372,
+    "StartTextOffset": 3378,
+    "EndTextOffset": 3577,
+    "Text": "The chance that the incoming attack will hit the vehicle instead of the driver.\r\n\r\nIn case of an area of effect attack it represents the amount of damage that the vehicle will bear in driver's stead."
+  },
+  {
+    "HeaderOffset": 3605,
+    "StartTextOffset": 3611,
+    "EndTextOffset": 3802,
+    "Text": "The armor either absorbs the amount indicated by the percentage OR the flat number, whichever will result in more damage being absorbed. The unabsorbed amount reduces the vehicles durability."
+  },
+  {
+    "HeaderOffset": 3829,
+    "StartTextOffset": 3835,
+    "EndTextOffset": 3897,
+    "Text": "The amount of mechanical damage the vehicle's armor can absorb."
+  },
+  {
+    "HeaderOffset": 3918,
+    "StartTextOffset": 3924,
+    "EndTextOffset": 3980,
+    "Text": "The amount of heat damage the vehicle's armor can absorb."
+  },
+  {
+    "HeaderOffset": 4001,
+    "StartTextOffset": 4007,
+    "EndTextOffset": 4063,
+    "Text": "The amount of cold damage the vehicle's armor can absorb."
+  },
+  {
+    "HeaderOffset": 4091,
+    "StartTextOffset": 4097,
+    "EndTextOffset": 4159,
+    "Text": "The amount of electrical damage the vehicle's armor can absorb."
+  },
+  {
+    "HeaderOffset": 4180,
+    "StartTextOffset": 4186,
+    "EndTextOffset": 4242,
+    "Text": "The amount of acid damage the vehicle's armor can absorb."
+  },
+  {
+    "HeaderOffset": 4265,
+    "StartTextOffset": 4271,
+    "EndTextOffset": 4329,
+    "Text": "The amount of energy damage the vehicle's armor can absorb."
+  },
+  {
+    "HeaderOffset": 4349,
+    "StartTextOffset": 4355,
+    "EndTextOffset": 4410,
+    "Text": "The amount of bio damage the vehicle's armor can absorb."
+  }
+]

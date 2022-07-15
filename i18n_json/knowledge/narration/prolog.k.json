@@ -1,0 +1,14 @@
+[
+  {
+    "HeaderOffset": 148,
+    "StartTextOffset": 154,
+    "EndTextOffset": 211,
+    "Text": "You pull the switch down, but it automatically snaps back."
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 288,
+    "Text": "You've restored power to this station."
+  }
+]

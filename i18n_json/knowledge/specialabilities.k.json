@@ -1,0 +1,344 @@
+[
+  {
+    "HeaderOffset": 1646,
+    "StartTextOffset": 1652,
+    "EndTextOffset": 2224,
+    "Text": "You enter stealth mode which allows you to hide from others, but reduces your movement speed by {0}%.\r\n\r\nTo successfully hide from someone, you need to keep out of their sight for a while. Once you are hidden from someone, they will need to pass a perception check to detect you.\r\n\r\nEntering the stealth mode in combat will immediately drain all your remaining action and movement points. While in combat your movement points are reduced to {1} and you can receive no extra movement points from any source.\r\n\r\nMost hostile actions will immediately remove you from stealth."
+  },
+  {
+    "HeaderOffset": 2241,
+    "StartTextOffset": 2247,
+    "EndTextOffset": 2301,
+    "Text": "You attempt to steal an item from the target's pockets."
+  },
+  {
+    "HeaderOffset": 2312,
+    "StartTextOffset": 2318,
+    "EndTextOffset": 2388,
+    "Text": "Locks a mechanical or electronic lock providing you have the right key."
+  },
+  {
+    "HeaderOffset": 2409,
+    "StartTextOffset": 2415,
+    "EndTextOffset": 2504,
+    "Text": "Once you are hidden from someone, they will need to pass a perception check to detect you."
+  },
+  {
+    "HeaderOffset": 2517,
+    "StartTextOffset": 2523,
+    "EndTextOffset": 2589,
+    "Text": "Increases movement points by {0} for {1}. Does not work in stealth."
+  },
+  {
+    "HeaderOffset": 2610,
+    "StartTextOffset": 2616,
+    "EndTextOffset": 2707,
+    "Text": "Increases movement points by {0} and action points by {1} for {2}. Does not work in stealth."
+  },
+  {
+    "HeaderOffset": 2723,
+    "StartTextOffset": 2729,
+    "EndTextOffset": 2777,
+    "Text": "Increases movement speed by {0}% for {1} seconds."
+  },
+  {
+    "HeaderOffset": 2798,
+    "StartTextOffset": 2804,
+    "EndTextOffset": 3048,
+    "Text": "Activate this ability to remove and gain immunity to stun, fear, incapacitation, and mind control for {0}.\r\n\r\nWhile this effect is active you can invoke any thought control psi ability as an area of effect ability, but that will end the effect."
+  },
+  {
+    "HeaderOffset": 3072,
+    "StartTextOffset": 3078,
+    "EndTextOffset": 3192,
+    "Text": "When activated this ability will make your next psi ability cost no psi points and have its range increased by {0}."
+  },
+  {
+    "HeaderOffset": 3212,
+    "StartTextOffset": 3218,
+    "EndTextOffset": 3417,
+    "Text": "When activated this ability will reduce the psi cost of your next psi ability by {0}%, its action point cost by {1}% and increase its range by {2}. The range is not increased for channeled abilities."
+  },
+  {
+    "HeaderOffset": 3436,
+    "StartTextOffset": 3442,
+    "EndTextOffset": 3618,
+    "Text": "When activated makes your next offensive psi ability an automatic critical hit. Activating this ability will also remove up to {0}% of your maximum health, but cannot kill you."
+  },
+  {
+    "HeaderOffset": 3639,
+    "StartTextOffset": 3645,
+    "EndTextOffset": 3783,
+    "Text": "When activated this ability will remove the action point cost of your next special bolt attack. Can only be activated while out of combat."
+  },
+  {
+    "HeaderOffset": 3794,
+    "StartTextOffset": 3800,
+    "EndTextOffset": 3995,
+    "Text": "You issue an intimidating shout in an attempt to reduce combat readiness of surrounding enemies and remove them from stealth. All affected enemies have their combat skills reduced by {0} for {1}."
+  },
+  {
+    "HeaderOffset": 4015,
+    "StartTextOffset": 4021,
+    "EndTextOffset": 4125,
+    "Text": "Additionally, all affected enemies have {0}% chance to be overwhelmed with fear and run in panic for {1}."
+  },
+  {
+    "HeaderOffset": 4144,
+    "StartTextOffset": 4150,
+    "EndTextOffset": 4267,
+    "Text": "When activated this ability will cause you to dodge the next {0} regular or special melee attack targeted against you."
+  },
+  {
+    "HeaderOffset": 4290,
+    "StartTextOffset": 4296,
+    "EndTextOffset": 4379,
+    "Text": "Converts all remaining movement points into evasion at {0}% conversion rate for {1}."
+  },
+  {
+    "HeaderOffset": 4400,
+    "StartTextOffset": 4406,
+    "EndTextOffset": 4528,
+    "Text": "When activated will allow you to arm your next trap instantly, even in combat in which case it will cost {0} action points."
+  },
+  {
+    "HeaderOffset": 4548,
+    "StartTextOffset": 4554,
+    "EndTextOffset": 4795,
+    "Text": "When activated will provide your character with additional {0} health immediately and reduce damage taken from all sources by {1}% for {2}. After this effect expires, the character will lose this extra health but this event cannot kill them."
+  },
+  {
+    "HeaderOffset": 4811,
+    "StartTextOffset": 4817,
+    "EndTextOffset": 4964,
+    "Text": "When activated this ability will temporarily reset your health to your maximum for {0}. After the effect expires, your health will be reduced to 1."
+  },
+  {
+    "HeaderOffset": 4980,
+    "StartTextOffset": 4986,
+    "EndTextOffset": 5085,
+    "Text": "Hurls {0} acid blobs at the target dealing {1} damage per blob and leaving acid pools on the ground."
+  },
+  {
+    "HeaderOffset": 5109,
+    "StartTextOffset": 5115,
+    "EndTextOffset": 5471,
+    "Text": "Hurls {0} blobs of rusting acid at the target dealing {1} damage and applying one Rusting debuff per blob, and leaving acid pools on the ground.\r\n\r\nRusting debuff reduces durability of all mechanical items in target's posession by {2} per stack each turn for {3}. Stacks {4} times.\r\n\r\nRusting acid damage is increased by {5}% against vehicles and machines."
+  },
+  {
+    "HeaderOffset": 5492,
+    "StartTextOffset": 5498,
+    "EndTextOffset": 5684,
+    "Text": "Spit a large acid blob at the target, dealing {0} damage and entangling them in acid for {1} if it lands. While entangled in acid, the victim suffers additional {2} acid damage per turn."
+  },
+  {
+    "HeaderOffset": 5713,
+    "StartTextOffset": 5719,
+    "EndTextOffset": 6216,
+    "Text": "Spit a large blob of rusting acid at the target, dealing {0} damage, entangling them in rusting acid for {1}, and applying Rusting debuff if it lands. While entangled in acid, the victim suffers additional {2} acid damage and receives additional {3} stacks of Rusting debuff per turn.\r\n\r\nRusting debuff reduces durability of all mechanical items in target's posession by {4} per stack each turn for {5}. Stacks {6} times. \r\n\r\nRusting acid damage is increased by {7}% against vehicles and machines."
+  },
+  {
+    "HeaderOffset": 6228,
+    "StartTextOffset": 6234,
+    "EndTextOffset": 6387,
+    "Text": "You instantly convert all your movement points to action points, gaining 1 action point for each {0} movement points, up to maximum of {1} action points."
+  },
+  {
+    "HeaderOffset": 6405,
+    "StartTextOffset": 6411,
+    "EndTextOffset": 6454,
+    "Text": "Instantly remove all immobilization effects."
+  },
+  {
+    "HeaderOffset": 6474,
+    "StartTextOffset": 6480,
+    "EndTextOffset": 6580,
+    "Text": "When activated will make all your psi abilities cost health instead of psi until the end of the turn."
+  },
+  {
+    "HeaderOffset": 6609,
+    "StartTextOffset": 6615,
+    "EndTextOffset": 6729,
+    "Text": "Shoot 30mm dreadnought rocket at the targeted location dealing {0} and {1} damage to everything in {2} tile radius."
+  },
+  {
+    "HeaderOffset": 6752,
+    "StartTextOffset": 6758,
+    "EndTextOffset": 6862,
+    "Text": "Shoot Harp-1 rocket at the targeted location dealing {0} and {1} damage to everything in {2} tile radius."
+  },
+  {
+    "HeaderOffset": 6881,
+    "StartTextOffset": 6887,
+    "EndTextOffset": 7096,
+    "Text": "Instantly consumes {0} vehicle energy and increases the movement speed and movement points of the vehicle by {1}% and energy consumption by {2}% for {3}. The bonuses only work if vehicle is not overencumbered."
+  },
+  {
+    "HeaderOffset": 7116,
+    "StartTextOffset": 7122,
+    "EndTextOffset": 7235,
+    "Text": "Put your finger on the other trigger of the double-barreled shotgun in preparation to shoot the other shell first."
+  },
+  {
+    "HeaderOffset": 7246,
+    "StartTextOffset": 7252,
+    "EndTextOffset": 7377,
+    "Text": "Instantly grants you Spear Guard status effect that can block {0}% more damage than normal (with current spear and skill {1})."
+  },
+  {
+    "HeaderOffset": 7394,
+    "StartTextOffset": 7400,
+    "EndTextOffset": 7571,
+    "Text": "Throws the spear at the target, dealing {0}%, plus additional {1}% per unit of range, of normal weapon damage. The precision of this attack is dependent on throwing skill."
+  },
+  {
+    "HeaderOffset": 7603,
+    "StartTextOffset": 7609,
+    "EndTextOffset": 7710,
+    "Text": "Fire one of the plasma cannons, dealing {0} and {1} damage to the target. Consumes {2} vehicle energy."
+  },
+  {
+    "HeaderOffset": 7744,
+    "StartTextOffset": 7750,
+    "EndTextOffset": 7862,
+    "Text": "Fire the fusion cannon, dealing {0} and {1} damage to everything in {2} tile radius. Consumes {3} vehicle energy."
+  },
+  {
+    "HeaderOffset": 7892,
+    "StartTextOffset": 7898,
+    "EndTextOffset": 7997,
+    "Text": "Rapidly fires {0} shots from the twin laser guns, dealing {1} per shot. Consumes {2} vehicle energy."
+  },
+  {
+    "HeaderOffset": 8020,
+    "StartTextOffset": 8026,
+    "EndTextOffset": 8518,
+    "Text": "When activated it will drain {0} energy from the armor and hit adjacent characters for {1} damage at the end of every turn at the cost of additional {2} energy per character. This will occur at the start of the wearer's turn instead of at the end. Additionally, whenever the wearer is attacked by a melee attack, the attacker will be hit by the same electrical damage at the same energy cost. Whenever this aura deals electrical damage, there's {3}% chance the target will be stunned for {4}."
+  },
+  {
+    "HeaderOffset": 8546,
+    "StartTextOffset": 8552,
+    "EndTextOffset": 8663,
+    "Text": "When activated it will drain {1} energy each turn in order to reduce the wearer's overall armor penalty by {0}%."
+  },
+  {
+    "HeaderOffset": 8693,
+    "StartTextOffset": 8699,
+    "EndTextOffset": 8805,
+    "Text": "When activated it will drain {1} energy each turn in order to increase all energy shielding values by {0}%."
+  },
+  {
+    "HeaderOffset": 8830,
+    "StartTextOffset": 8836,
+    "EndTextOffset": 8937,
+    "Text": "Fire the spear's inbuilt plasma cannon, dealing {0} and {1} damage to the target. Consumes {2} energy."
+  },
+  {
+    "HeaderOffset": 8965,
+    "StartTextOffset": 8971,
+    "EndTextOffset": 9169,
+    "Text": "Fire the spear's inbuilt plasma cannon, dealing {0} and {1} damage to the target. Consumes {2} energy. You are able to apply your special knowledge of high-tech weaponry here to increase its damage."
+  },
+  {
+    "HeaderOffset": 9192,
+    "StartTextOffset": 9198,
+    "EndTextOffset": 9416,
+    "Text": "Shoot a plasma flare that burns everything along its path for {0} and {1} damage. Consumes {2} energy.\r\n\r\nWhen it lands, it immediately reveals all nearby stealthed targets, and then lights up the area for {3} seconds."
+  },
+  {
+    "HeaderOffset": 9442,
+    "StartTextOffset": 9448,
+    "EndTextOffset": 9646,
+    "Text": "Shoot a plasma flare that burns everything along its path for {0} and {1} damage. Consumes {2} energy. You are able to apply your special knowledge of high-tech weaponry here to increase its damage."
+  },
+  {
+    "HeaderOffset": 9662,
+    "StartTextOffset": 9668,
+    "EndTextOffset": 9704,
+    "Text": "Tow another jet ski or naval vehicle."
+  },
+  {
+    "HeaderOffset": 9727,
+    "StartTextOffset": 9733,
+    "EndTextOffset": 9773,
+    "Text": "Stop towing what you're currently towing."
+  },
+  {
+    "HeaderOffset": 9799,
+    "StartTextOffset": 9805,
+    "EndTextOffset": 9935,
+    "Text": "When activated increases the {0} skill by {1}% until the end of the turn, but drains away all the remaining psi points afterwards."
+  },
+  {
+    "HeaderOffset": 9959,
+    "StartTextOffset": 9965,
+    "EndTextOffset": 10014,
+    "Text": "Picks up the closest thrown spear from the ground."
+  },
+  {
+    "HeaderOffset": 10030,
+    "StartTextOffset": 10036,
+    "EndTextOffset": 10184,
+    "Text": "Attempts to incapacitate a humanoid target for {0}. Chance to succeed depends on the invoker's persuasion and the target's resolve. Uses {1} energy."
+  },
+  {
+    "HeaderOffset": 10197,
+    "StartTextOffset": 10203,
+    "EndTextOffset": 10326,
+    "Text": "Immediately enter stealth, disappearing from everyone's sight, and convert all remaining action points into movement points."
+  },
+  {
+    "HeaderOffset": 10353,
+    "StartTextOffset": 10359,
+    "EndTextOffset": 10541,
+    "Text": "When activated it will transfer up to {0} energy at {1}% efficiency from the source item to all other equipped items that require recharging, splitting the energy equally among them."
+  },
+  {
+    "HeaderOffset": 10565,
+    "StartTextOffset": 10571,
+    "EndTextOffset": 10686,
+    "Text": "When activated it will immediately drain {0} energy and additional {1} every turn to provide light in radius of {2}."
+  },
+  {
+    "HeaderOffset": 10715,
+    "StartTextOffset": 10721,
+    "EndTextOffset": 10870,
+    "Text": "You attempt to use the mounted drill to hit the target {0} times for {1} damage. Can only be activated when the suit's power is on. Costs {2} energy."
+  },
+  {
+    "HeaderOffset": 10902,
+    "StartTextOffset": 10908,
+    "EndTextOffset": 11179,
+    "Text": "Increases strength by {0} and movement points by {1}, and negates the movement speed and agility penalties of the armor. When activated it will immediately drain {2} energy and additional {3} energy every turn, as well as additional {4} energy for every tile of movement."
+  },
+  {
+    "HeaderOffset": 11199,
+    "StartTextOffset": 11205,
+    "EndTextOffset": 11378,
+    "Text": "When activated it will cause your next sniper rifle attack to refund 100% of its action point cost if it kills the target. This will expire at the end of the turn if unused."
+  },
+  {
+    "HeaderOffset": 11399,
+    "StartTextOffset": 11405,
+    "EndTextOffset": 11600,
+    "Text": "When activated it will cause your next two sniper rifle attacks to refund 100% of their action point cost if they kill their respective targets. This will expire at the end of the turn if unused."
+  },
+  {
+    "HeaderOffset": 11617,
+    "StartTextOffset": 11623,
+    "EndTextOffset": 11724,
+    "Text": "When activated, reduces action point cost of firing firearm pistols by {0}% until the end of the turn."
+  },
+  {
+    "HeaderOffset": 11743,
+    "StartTextOffset": 11749,
+    "EndTextOffset": 12181,
+    "Text": "Perform a melee touch attack that drains {0}-{1} energy from the target's equipped gear, using {2}% of that energy to recharge attacker's equipped gear, and dealing damage equal to {3}% of energy drained as unresistable electrical damage. When performed against a machine, it will instead deal {4} damage which cannot be resisted, converting {5}% of that damage to energy used to recharge attacker's equipped gear. Costs {6} energy."
+  },
+  {
+    "HeaderOffset": 12196,
+    "StartTextOffset": 12202,
+    "EndTextOffset": 12301,
+    "Text": "Provoke the cat to shoot a laser beam towards a target dealing {0} damage at the cost of {1} energy."
+  }
+]

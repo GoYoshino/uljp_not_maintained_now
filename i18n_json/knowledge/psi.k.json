@@ -1,0 +1,296 @@
+[
+  {
+    "HeaderOffset": 1426,
+    "StartTextOffset": 1432,
+    "EndTextOffset": 1650,
+    "Text": "Materializes an ice shard and shoots it towards the target, dealing {0}-{1} cold and {2}-{3} mechanical damage, and applying Chill debuff which decreases target's movement points by {4} for {5} turns. Stacks {6} times."
+  },
+  {
+    "HeaderOffset": 1671,
+    "StartTextOffset": 1677,
+    "EndTextOffset": 1896,
+    "Text": "Materializes an ice shard and shoots it towards the target, dealing {0}-{1} cold and {2}-{3} mechanical damage, and applying Chill debuff which decreases target's movement speed by 10% for {4} seconds. Stacks {5} times."
+  },
+  {
+    "HeaderOffset": 1913,
+    "StartTextOffset": 1919,
+    "EndTextOffset": 2133,
+    "Text": "Suspends the target in cryostasis for {0} turns plus an additional turn per Chill effect currently on the target. Any damage will undo cryostasis.\r\n\r\nThe effect can be lessened or mitigated through cold resistance."
+  },
+  {
+    "HeaderOffset": 2153,
+    "StartTextOffset": 2159,
+    "EndTextOffset": 2379,
+    "Text": "Suspends the target in cryostasis for {0} seconds plus additional {1} seconds per Chill effect currently on the target. Any damage will undo cryostasis.\r\n\r\nThe effect can be lessened or mitigated through cold resistance."
+  },
+  {
+    "HeaderOffset": 2402,
+    "StartTextOffset": 2408,
+    "EndTextOffset": 2580,
+    "Text": "Telekinetical force strikes the target, dealing {0}-{1} mechanical damage and stunning it for {2} unless it passes a fortitude check. The stun only affects organic targets."
+  },
+  {
+    "HeaderOffset": 2606,
+    "StartTextOffset": 2612,
+    "EndTextOffset": 2788,
+    "Text": "Telekinetical force strikes the target, dealing {0}-{1} mechanical damage and stunning it for {2} seconds unless it passes resolve check. The stun affects only organic targets."
+  },
+  {
+    "HeaderOffset": 2806,
+    "StartTextOffset": 2812,
+    "EndTextOffset": 2936,
+    "Text": "Creates a ball of superheated gas and hurls it to the designated area. Everyone caught in the blast take {0}-{1} heat damage."
+  },
+  {
+    "HeaderOffset": 2964,
+    "StartTextOffset": 2970,
+    "EndTextOffset": 3084,
+    "Text": "There's a {0}% chance for each target to catch on fire, suffering {1}% of the original damage dealt again over {2}."
+  },
+  {
+    "HeaderOffset": 3105,
+    "StartTextOffset": 3111,
+    "EndTextOffset": 3409,
+    "Text": "Short circuits the central nervous system of a living target dealing {0}-{1} electrical damage. Damage is increased by {2}% for every target's point of intelligence above {3}.\r\n\r\nThis damage cannot be shielded and bypasses standard electrical resistance, but can be lowered by the target's resolve."
+  },
+  {
+    "HeaderOffset": 3442,
+    "StartTextOffset": 3448,
+    "EndTextOffset": 3523,
+    "Text": "Also intimidates the target, reducing their offensive skills by {0} for {1}."
+  },
+  {
+    "HeaderOffset": 3563,
+    "StartTextOffset": 3569,
+    "EndTextOffset": 3647,
+    "Text": "Deals another {0}% of the original damage over {1} as unresistable acid damage."
+  },
+  {
+    "HeaderOffset": 3668,
+    "StartTextOffset": 3674,
+    "EndTextOffset": 3760,
+    "Text": "Places an impenetrable force field on the designated unoccupied location for {0} turns."
+  },
+  {
+    "HeaderOffset": 3777,
+    "StartTextOffset": 3783,
+    "EndTextOffset": 4011,
+    "Text": "Places a force field on the designated unoccupied location and all unoccupied tiles adjecent to it that has {0} health. Lasts until destroyed or up to {1} turns.\r\n\r\nDestroying one segment of the force field will break all of it."
+  },
+  {
+    "HeaderOffset": 4026,
+    "StartTextOffset": 4032,
+    "EndTextOffset": 4136,
+    "Text": "Projects terrifying images into the target's mind in an attempt to cause it to panic for up to {0} turns."
+  },
+  {
+    "HeaderOffset": 4160,
+    "StartTextOffset": 4166,
+    "EndTextOffset": 4316,
+    "Text": "While this ability is active, your unarmed attacks deal additional {0} damage and have the range of {1}, but at the cost of {2} psi points per attack."
+  },
+  {
+    "HeaderOffset": 4336,
+    "StartTextOffset": 4342,
+    "EndTextOffset": 4482,
+    "Text": "While this ability is active, your unarmed and fist weapon attacks deal additional {0} damage, but at the cost of {1} psi points per attack."
+  },
+  {
+    "HeaderOffset": 4506,
+    "StartTextOffset": 4512,
+    "EndTextOffset": 4796,
+    "Text": "Creates a stream of fire towards the targeted location, damaging everything in its path for {0}-{1} heat damage every tick. The stream hits the targets {2} times plus an additional time for every {3} spare action points and {4} spare psi points remaining after the initial invocation."
+  },
+  {
+    "HeaderOffset": 4830,
+    "StartTextOffset": 4836,
+    "EndTextOffset": 4971,
+    "Text": "Every time a target is damaged there's a {0}% chance it will catch on fire, suffering {1}% of the original damage dealt again over {2}."
+  },
+  {
+    "HeaderOffset": 4992,
+    "StartTextOffset": 4998,
+    "EndTextOffset": 5398,
+    "Text": "Projects an electrical bolt that deals {0}-{1} electrical damage to the primary target and stuns it for {2} before jumping to a nearby target (unless fully resisted). It can jump up to {3} times, but the damage decreases by {4}% of the original amount with each jump. It can strike the same target multiple times, but it needs at least two targets to jump between. Only the primary target is stunned."
+  },
+  {
+    "HeaderOffset": 5420,
+    "StartTextOffset": 5426,
+    "EndTextOffset": 5658,
+    "Text": "Incapacitates the target for up to {0} and reduces its resolve by {1}%. If a detrimental thought control psi ability is invoked against the target during this period it will have double the effect, but will end the mental breakdown."
+  },
+  {
+    "HeaderOffset": 5675,
+    "StartTextOffset": 5681,
+    "EndTextOffset": 5889,
+    "Text": "Creates a doppelganger of a human target bent on their destruction. The doppelganger is immune to all physical attacks and deals {0}-{1} mental damage that bypasses all shields and resistances. Lasts for {2}."
+  },
+  {
+    "HeaderOffset": 5912,
+    "StartTextOffset": 5918,
+    "EndTextOffset": 6370,
+    "Text": "Moves the telekinetic proxy from its current location to the specified location, dealing {0} damage to everything in its path. If the proxy is not present, is too far away, or doesn't have a clear straight line path to the destination, a new one will be spawned.\r\n\r\nTelekinetic proxy will mimic your damaging telekinetic psi abilities and effects if the target is within its radius. The proxy lasts {1}, but the timer refreshes with each move or mimic."
+  },
+  {
+    "HeaderOffset": 6405,
+    "StartTextOffset": 6411,
+    "EndTextOffset": 6687,
+    "Text": "Afflicts the target with thermodynamical destabilization for {0}. If the target is destroyed during this period it explodes, dealing heat and mechanical damage to surrounding characters that (in total) equals {1}% of the target's health at the point in which it was afflicted."
+  },
+  {
+    "HeaderOffset": 6732,
+    "StartTextOffset": 6738,
+    "EndTextOffset": 6877,
+    "Text": "For each target caught in the explosion there's a {0}% chance to catch on fire, suffering {1}% of the original damage dealt again over {2}."
+  },
+  {
+    "HeaderOffset": 6890,
+    "StartTextOffset": 6896,
+    "EndTextOffset": 6979,
+    "Text": "Enrages a living target for up to {0} which causes it to turn hostile to everything."
+  },
+  {
+    "HeaderOffset": 7010,
+    "StartTextOffset": 7016,
+    "EndTextOffset": 7346,
+    "Text": "Burns up {0}-{1} of target's psi points, dealing damage equal to {2}% of psi burned. This damage cannot be shielded and bypasses standard resistance, but can be lowered by the target's resolve.\r\n\r\nIt also applies psionic inhibition to the target for up to {3}, preventing it from invoking psi abilities or regenerating psi points."
+  },
+  {
+    "HeaderOffset": 7376,
+    "StartTextOffset": 7382,
+    "EndTextOffset": 7735,
+    "Text": "In the minds of your enemies you project {0} additional copies of yourself in your immediate vicinity that last up to {1}. Each time you are attacked by a weapon or unarmed attack, there's a chance (depending on attacker's resolve) that the attack will hit a copy instead, removing it from play. \r\n\r\nMachines and true-sighted attackers are not affected."
+  },
+  {
+    "HeaderOffset": 7763,
+    "StartTextOffset": 7769,
+    "EndTextOffset": 8137,
+    "Text": "You disappear from the sight of the target, removing its ability to detect for {0} and immediately entering stealth. Target also has its perception reduced by {1} and detection by {2}% for {3}.\r\n\r\nInvoking this ability immediately drains all your remaining action and movement points. Does not work on machines or true-sighted creatures. Can only be invoked in combat."
+  },
+  {
+    "HeaderOffset": 8165,
+    "StartTextOffset": 8171,
+    "EndTextOffset": 8429,
+    "Text": "Generates an electrokinetic imprint at the target location that deals {0} damage to the first character that steps on it and stuns it for {1}. If you try to place the imprint on top of a trap, it will backfire. You can only have one imprint active at a time."
+  },
+  {
+    "HeaderOffset": 8445,
+    "StartTextOffset": 8451,
+    "EndTextOffset": 8595,
+    "Text": "Deals mechanical damage equal to {0}% of target's current health. This attack bypasses damage thresholds and shields, but cannot critically hit."
+  },
+  {
+    "HeaderOffset": 8617,
+    "StartTextOffset": 8623,
+    "EndTextOffset": 8747,
+    "Text": "Creates a disruptive field around the target that reduces their chance to hit with ranged and thrown weapons by {0}% for {1}."
+  },
+  {
+    "HeaderOffset": 8768,
+    "StartTextOffset": 8774,
+    "EndTextOffset": 9321,
+    "Text": "You launch a large frozen orb which shatters on impact, sending ice shards flying in all directions. Each shard deals {0} and {1} damage and chills the target. \r\n\r\nChilled characters have their movement points decreased by {2} for {3}. This effect stacks {4} times.\r\n\r\nDue to shards fanning out, targets closer to the place of impact may be hit by multiple shards, while those farther away might not be hit at all.\r\n\r\nEach shard has {5}% chance to inflict a bleeding wound that does additional {6}% of the original mechanical damage done over {7}."
+  },
+  {
+    "HeaderOffset": 9342,
+    "StartTextOffset": 9348,
+    "EndTextOffset": 9772,
+    "Text": "Makes you immune to heat damage and generates flames around you and in your wake. Lasts {0}, but the flames won't be generated on the last turn.\r\n\r\nCreatures standing in the fire suffer heat damage equal to {1}%-{2}% of their maximal health (up to maximum of {3}-{4}), plus additional {5}-{6}, depending on the intensity of fire at that spot, while creatures moving through the fire suffer one third of that damage per tile."
+  },
+  {
+    "HeaderOffset": 9789,
+    "StartTextOffset": 9795,
+    "EndTextOffset": 10047,
+    "Text": "Creates {0} frozen shards around the invoker. Each time the character suffers a melee attack, there's a {1}% chance that one of the shards will block {2} of mechanical damage and be destroyed in the process. Lasts {3} or until all shards are destroyed."
+  },
+  {
+    "HeaderOffset": 10076,
+    "StartTextOffset": 10082,
+    "EndTextOffset": 10509,
+    "Text": "Places a debuff on the target that lasts {0} and deals {1} and {2} damage when it expires. In the case the target is already affected by temporal distortion, its duration will be increased by {3} and damage by {4}% and the newly applied temporal distortion will have the same duration and damage bonus. Damage dealt by this ability ignores shield and {5}% of damage resistance and threshold. This ability cannot critically hit."
+  },
+  {
+    "HeaderOffset": 10534,
+    "StartTextOffset": 10540,
+    "EndTextOffset": 10947,
+    "Text": "Places a debuff on the target that lasts {0} and deals {1} and {2} damage when it expires. In the case the target is already affected by temporal distortion, its damage will be increased by {3}% and the newly applied temporal distortion will have the same duration and damage bonus. Damage dealt by this ability ignores shield and {4}% of damage resistance and threshold. This ability cannot critically hit."
+  },
+  {
+    "HeaderOffset": 10972,
+    "StartTextOffset": 10978,
+    "EndTextOffset": 11183,
+    "Text": "Repeats {0}% of the last unit of damage taken by the target over {1}. This damage ignores shields and resistances. In cases when the original damage was very slight, the recurrence may actually empower it."
+  },
+  {
+    "HeaderOffset": 11212,
+    "StartTextOffset": 11218,
+    "EndTextOffset": 11293,
+    "Text": "Reduces target's action points by {0} and movement points by {1}. Lasts {2}."
+  },
+  {
+    "HeaderOffset": 11325,
+    "StartTextOffset": 11331,
+    "EndTextOffset": 11519,
+    "Text": "Increases target's action points by {0} and movement points by {1}. Lasts {2}. After the effect ends, there's a {3}% chance of it reversing into a psychotemporal dilation of varying power."
+  },
+  {
+    "HeaderOffset": 11550,
+    "StartTextOffset": 11556,
+    "EndTextOffset": 11594,
+    "Text": "Reduces all remaining cooldowns by {0}."
+  },
+  {
+    "HeaderOffset": 11616,
+    "StartTextOffset": 11622,
+    "EndTextOffset": 11776,
+    "Text": "Reverses the last damage done to the target, up to maximum of {0} health points. After two turns this health is lost and this may cause the target to die."
+  },
+  {
+    "HeaderOffset": 11795,
+    "StartTextOffset": 11801,
+    "EndTextOffset": 11938,
+    "Text": "While this ability is active, your chance to dodge and evade attacks is increased by {0}% (additively). Drains {1} psi points every turn."
+  },
+  {
+    "HeaderOffset": 11951,
+    "StartTextOffset": 11957,
+    "EndTextOffset": 12200,
+    "Text": "Places the target in stasis for {0}, making it immune to all damage and most disabling effects, but also preventing it from acting. While in stasis, the target's status effects will not progress (except the stasis one), but the cooldowns will."
+  },
+  {
+    "HeaderOffset": 12225,
+    "StartTextOffset": 12231,
+    "EndTextOffset": 12526,
+    "Text": "Links up to {0} enemies into psychokinetic chain which transfers {1}% of all direct mechanical and electrical damage down the chain to the next link as mechanical damage that bypasses energy shields. Maximum total damage transferred from link to link is {2}. The chain lasts {3} or until broken."
+  },
+  {
+    "HeaderOffset": 12553,
+    "StartTextOffset": 12559,
+    "EndTextOffset": 12861,
+    "Text": "Immobilizes the target for up to {0}. This ability cannot be resisted, but the victim has a chance to free itself at the end of every turn. This chance starts out small but increases steadily as the telekinetic chains weaken over time. Also, the higher your strength, the easier it is to free yourself."
+  },
+  {
+    "HeaderOffset": 12878,
+    "StartTextOffset": 12884,
+    "EndTextOffset": 13078,
+    "Text": "Projects a beam of superheated plasma that intensifies towards its maximum range. It reaches maximum power 2/3 of the way there, where it can deal {0} and {1} damage to anyone in its trajectory."
+  },
+  {
+    "HeaderOffset": 13107,
+    "StartTextOffset": 13113,
+    "EndTextOffset": 13598,
+    "Text": "Creates a predatory focus in the invoker against a living enemy, granting {0}% bonus damage to the predator's weapon and unarmed attacks, but reduces the damage of these attacks against everyone else by {1}%. The damage bonus is double if the attack is melee, and again doubled if performed against a frightened enemy. Lasts up to {2}, as long as the predator and prey stay relatively near each other.\r\n\r\nIf the predator kills the target with a direct attack, they will regain {3} psi."
+  },
+  {
+    "HeaderOffset": 13631,
+    "StartTextOffset": 13637,
+    "EndTextOffset": 13979,
+    "Text": "Reduces each of the target's offensive skills base values by up to {0}% (capped at {1}) and then transfers half of this amount to invoker's base skill value or changes the invoker's base skill value to up to {2}% of that of the target (capped at {3}), whichever will yield the higher effective skill. Lasts up to {4}. Only works on humanoids."
+  },
+  {
+    "HeaderOffset": 14002,
+    "StartTextOffset": 14008,
+    "EndTextOffset": 14444,
+    "Text": "Causes shards of ice to be formed from the water taken from the primary target tile that deal {0} and {1} damage to all characters on those tiles. If the tile is treversable and empty, an ice barrier will be left behind that has {2} health and lasts {3} or until destroyed.\r\n\r\nTargets that suffer cold damage will also become chilled. Chilled characters have their movement points decreased by {4} for {5}. This effect stacks {6} times."
+  }
+]

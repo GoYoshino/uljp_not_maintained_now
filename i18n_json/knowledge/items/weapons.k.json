@@ -1,0 +1,152 @@
+[
+  {
+    "HeaderOffset": 753,
+    "StartTextOffset": 759,
+    "EndTextOffset": 883,
+    "Text": "Regular handguns come in various shapes and sizes. They all deal mechanical damage, but their fire rate varies significantly."
+  },
+  {
+    "HeaderOffset": 896,
+    "StartTextOffset": 902,
+    "EndTextOffset": 939,
+    "Text": "This is a {0}caliber {1} type handgun."
+  },
+  {
+    "HeaderOffset": 949,
+    "StartTextOffset": 955,
+    "EndTextOffset": 999,
+    "Text": "This is a {0}caliber {1} type submachine gun."
+  },
+  {
+    "HeaderOffset": 1012,
+    "StartTextOffset": 1018,
+    "EndTextOffset": 1060,
+    "Text": "This is a {0}caliber {1} type sniper rifle."
+  },
+  {
+    "HeaderOffset": 1079,
+    "StartTextOffset": 1085,
+    "EndTextOffset": 1128,
+    "Text": "This is a {0}caliber {1} type assault rifle."
+  },
+  {
+    "HeaderOffset": 1146,
+    "StartTextOffset": 1152,
+    "EndTextOffset": 1555,
+    "Text": "Most common laser attack mode is achieved by applying intense Q-switching which packs the normal power of the laser beam into much shorter time frames, practically launching a laser bolt. While this bolt is not as powerful as a plasma beam, laser weaponry recharges faster allowing for higher fire rate.\r\n\r\nLaser pistols have been around for quite some time and many pick them as their weapon of choice."
+  },
+  {
+    "HeaderOffset": 1574,
+    "StartTextOffset": 1580,
+    "EndTextOffset": 1944,
+    "Text": "Plasma technology based weapons inflict damage by performing high power thermal discharge. Generating temperatures nearly double that of Sun's surface, these weapons can be devastating. However, they usually have lower fire rates than their laser counterparts due to the longer recharge and cooling times.\r\n\r\nPlasma pistol is the most common type of plasma weapon."
+  },
+  {
+    "HeaderOffset": 1959,
+    "StartTextOffset": 1965,
+    "EndTextOffset": 2313,
+    "Text": "Although not as devastating as firearms or energy weapons, crossbow is still a dangerous device. The bolts it fires can be rigged with explosives or coated with poison, but are otherwise generally less efficient against heavily armored targets. On the other hand, since bolts fly at a relatively low speed they penetrate energy shields more easily."
+  },
+  {
+    "HeaderOffset": 2330,
+    "StartTextOffset": 2336,
+    "EndTextOffset": 2373,
+    "Text": "This is a Zephyr model light crossbow."
+  },
+  {
+    "HeaderOffset": 2390,
+    "StartTextOffset": 2396,
+    "EndTextOffset": 2430,
+    "Text": "This is a Hurricane model crossbow."
+  },
+  {
+    "HeaderOffset": 2447,
+    "StartTextOffset": 2453,
+    "EndTextOffset": 2485,
+    "Text": "This is a Tornado model crossbow."
+  },
+  {
+    "HeaderOffset": 2502,
+    "StartTextOffset": 2508,
+    "EndTextOffset": 2540,
+    "Text": "This is a Monsoon model crossbow."
+  },
+  {
+    "HeaderOffset": 2557,
+    "StartTextOffset": 2563,
+    "EndTextOffset": 2594,
+    "Text": "This is a Cyclon model crossbow."
+  },
+  {
+    "HeaderOffset": 2613,
+    "StartTextOffset": 2619,
+    "EndTextOffset": 2699,
+    "Text": "The sledgehammer can be a powerful melee weapon in the hands of a strong wielder."
+  },
+  {
+    "HeaderOffset": 2717,
+    "StartTextOffset": 2723,
+    "EndTextOffset": 3193,
+    "Text": "Having integrating itself in various industries, Light Amplification by Stimulated Emission of Radiation, or LASER for short, has also found its combat applications. \r\nMost common laser attack mode is achieved by applying intense Q-switching which packs the normal power of the laser beam into much shorter time frames, practically launching a laser bolt. While this bolt is not a powerful as a plasma beam, laser weaponry recharges faster allowing for higher fire rate."
+  },
+  {
+    "HeaderOffset": 3205,
+    "StartTextOffset": 3211,
+    "EndTextOffset": 3315,
+    "Text": "This {0} knife can be a quick and deadly close quarters weapon against unarmored or unsuspecting targets."
+  },
+  {
+    "HeaderOffset": 3335,
+    "StartTextOffset": 3341,
+    "EndTextOffset": 3400,
+    "Text": "This serrated {0} knife can inflict serious bleeding wounds."
+  },
+  {
+    "HeaderOffset": 3413,
+    "StartTextOffset": 3419,
+    "EndTextOffset": 3513,
+    "Text": "The long {0} blade of this dagger can pierce deep into target's body and puncture vital organs."
+  },
+  {
+    "HeaderOffset": 3536,
+    "StartTextOffset": 3542,
+    "EndTextOffset": 3572,
+    "Text": "This is a {0} powered by a {1}."
+  },
+  {
+    "HeaderOffset": 3591,
+    "StartTextOffset": 3597,
+    "EndTextOffset": 3625,
+    "Text": "This {0} is powered by a {1}."
+  },
+  {
+    "HeaderOffset": 3639,
+    "StartTextOffset": 3645,
+    "EndTextOffset": 3707,
+    "Text": "Nothing like beating the life out of them with your bare fists!"
+  },
+  {
+    "HeaderOffset": 3734,
+    "StartTextOffset": 3740,
+    "EndTextOffset": 3771,
+    "Text": "You punch people with your mind!"
+  },
+  {
+    "HeaderOffset": 3783,
+    "StartTextOffset": 3789,
+    "EndTextOffset": 3865,
+    "Text": "Primitive but versatile weapon that can be used for both offense and defense."
+  },
+  {
+    "HeaderOffset": 3879,
+    "StartTextOffset": 3885,
+    "EndTextOffset": 3977,
+    "Text": "This is a deadly close quarters weapon that can deliver devastating wounds if used correctly."
+  },
+  {
+    "HeaderOffset": 3991,
+    "StartTextOffset": 3997,
+    "EndTextOffset": 4032,
+    "Text": "This is a 12 gauge {0} type shotgun."
+  }
+]

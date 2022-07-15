@@ -1,0 +1,1562 @@
+[
+  {
+    "HeaderOffset": 7649,
+    "StartTextOffset": 7655,
+    "EndTextOffset": 7707,
+    "Text": "Movement points increased by {0} when not in stealth."
+  },
+  {
+    "HeaderOffset": 7722,
+    "StartTextOffset": 7728,
+    "EndTextOffset": 7833,
+    "Text": "Movement points increased by {0}. This character will deal {1}% bonus damage if their charge attack lands."
+  },
+  {
+    "HeaderOffset": 7856,
+    "StartTextOffset": 7862,
+    "EndTextOffset": 7987,
+    "Text": "Movement points increased by {0}. This character will deal {1}% bonus damage and stun the target if their charge attack lands."
+  },
+  {
+    "HeaderOffset": 8003,
+    "StartTextOffset": 8009,
+    "EndTextOffset": 8061,
+    "Text": "Movement speed increased by {0}% when not in stealth."
+  },
+  {
+    "HeaderOffset": 8074,
+    "StartTextOffset": 8080,
+    "EndTextOffset": 8165,
+    "Text": "Frozen solid. Cannot perform any action, but any direct damage will cancel the effect."
+  },
+  {
+    "HeaderOffset": 8179,
+    "StartTextOffset": 8185,
+    "EndTextOffset": 8215,
+    "Text": "Movement points reduced by {0}."
+  },
+  {
+    "HeaderOffset": 8240,
+    "StartTextOffset": 8246,
+    "EndTextOffset": 8278,
+    "Text": "This character is immune to slow."
+  },
+  {
+    "HeaderOffset": 8295,
+    "StartTextOffset": 8301,
+    "EndTextOffset": 8332,
+    "Text": "Movement speed decreased by {0}%"
+  },
+  {
+    "HeaderOffset": 8357,
+    "StartTextOffset": 8363,
+    "EndTextOffset": 8475,
+    "Text": "Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn."
+  },
+  {
+    "HeaderOffset": 8509,
+    "StartTextOffset": 8515,
+    "EndTextOffset": 8664,
+    "Text": "Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn and applies {1} stacks of corrosion."
+  },
+  {
+    "HeaderOffset": 8696,
+    "StartTextOffset": 8702,
+    "EndTextOffset": 8849,
+    "Text": "Character is caught in a sticky acidic blob which prevents them from moving and deals {0} acid damage every turn and applies {1} stacks of rusting."
+  },
+  {
+    "HeaderOffset": 8867,
+    "StartTextOffset": 8873,
+    "EndTextOffset": 9119,
+    "Text": "The character is currently in stealth mode which allows them to hide from others, but reduces their movement speed by {0}%.\r\n\r\nWhile in combat their movement points are reduced to {1} and they can receive no extra movement points from any source."
+  },
+  {
+    "HeaderOffset": 9138,
+    "StartTextOffset": 9144,
+    "EndTextOffset": 9161,
+    "Text": "{1}% displacement."
+  },
+  {
+    "HeaderOffset": 9176,
+    "StartTextOffset": 9182,
+    "EndTextOffset": 9208,
+    "Text": "Restores {0} psi each turn."
+  },
+  {
+    "HeaderOffset": 9227,
+    "StartTextOffset": 9233,
+    "EndTextOffset": 9276,
+    "Text": "Psi regeneration increased by {0}% plus {1}."
+  },
+  {
+    "HeaderOffset": 9293,
+    "StartTextOffset": 9299,
+    "EndTextOffset": 9377,
+    "Text": "Action points increased by {0}, dodge and evasion by {1}%, and strength by {2}."
+  },
+  {
+    "HeaderOffset": 9398,
+    "StartTextOffset": 9404,
+    "EndTextOffset": 9517,
+    "Text": "Movement speed increased by {0}%, time between attacks decreased by {1}%, and dodge and evasion increased by {2}%."
+  },
+  {
+    "HeaderOffset": 9537,
+    "StartTextOffset": 9543,
+    "EndTextOffset": 9621,
+    "Text": "Action points increased by {0}, dodge and evasion by {1}%, and strength by {2}."
+  },
+  {
+    "HeaderOffset": 9641,
+    "StartTextOffset": 9647,
+    "EndTextOffset": 9672,
+    "Text": "Loses {0} health per turn."
+  },
+  {
+    "HeaderOffset": 9686,
+    "StartTextOffset": 9692,
+    "EndTextOffset": 9722,
+    "Text": "Action points decreased by {0}."
+  },
+  {
+    "HeaderOffset": 9740,
+    "StartTextOffset": 9746,
+    "EndTextOffset": 9821,
+    "Text": "Movement speed decreased by {0}% and time between attacks increased by {1}%."
+  },
+  {
+    "HeaderOffset": 9845,
+    "StartTextOffset": 9851,
+    "EndTextOffset": 9932,
+    "Text": "Drains {0} psi every turn. Intelligence, Will and Perception are decreased by {1}."
+  },
+  {
+    "HeaderOffset": 9960,
+    "StartTextOffset": 9966,
+    "EndTextOffset": 10106,
+    "Text": "All bonuses to psi regeneration are nullified and psi regeneration is decreased by {0}%. Intelligence, Wisdom and Will are decreased by {1}."
+  },
+  {
+    "HeaderOffset": 10120,
+    "StartTextOffset": 10126,
+    "EndTextOffset": 10160,
+    "Text": "Cannot move or perform any actions."
+  },
+  {
+    "HeaderOffset": 10180,
+    "StartTextOffset": 10186,
+    "EndTextOffset": 10265,
+    "Text": "Cannot move or perform any actions, but any damage taken will remove the effect."
+  },
+  {
+    "HeaderOffset": 10290,
+    "StartTextOffset": 10296,
+    "EndTextOffset": 10369,
+    "Text": "Intelligence decreased by {0} and psi regeneration rate decreased by {1}%."
+  },
+  {
+    "HeaderOffset": 10400,
+    "StartTextOffset": 10406,
+    "EndTextOffset": 10435,
+    "Text": "Intelligence decreased by {0}."
+  },
+  {
+    "HeaderOffset": 10456,
+    "StartTextOffset": 10462,
+    "EndTextOffset": 10497,
+    "Text": "All psi point gains reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 10520,
+    "StartTextOffset": 10526,
+    "EndTextOffset": 10549,
+    "Text": "Resolve reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 10566,
+    "StartTextOffset": 10572,
+    "EndTextOffset": 10653,
+    "Text": "The character suffers {0} bleeding damage every turn and gains no movement points."
+  },
+  {
+    "HeaderOffset": 10670,
+    "StartTextOffset": 10676,
+    "EndTextOffset": 10715,
+    "Text": "This character gains no movement points."
+  },
+  {
+    "HeaderOffset": 10743,
+    "StartTextOffset": 10749,
+    "EndTextOffset": 10801,
+    "Text": "The character suffers {0} bleeding damage every turn."
+  },
+  {
+    "HeaderOffset": 10829,
+    "StartTextOffset": 10835,
+    "EndTextOffset": 10867,
+    "Text": "This character is immune to slow."
+  },
+  {
+    "HeaderOffset": 10888,
+    "StartTextOffset": 10894,
+    "EndTextOffset": 10986,
+    "Text": "The character suffers {0} bleeding damage every second and movement speed is reduced by {1}%."
+  },
+  {
+    "HeaderOffset": 11007,
+    "StartTextOffset": 11013,
+    "EndTextOffset": 11043,
+    "Text": "Movement speed reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 11061,
+    "StartTextOffset": 11067,
+    "EndTextOffset": 11096,
+    "Text": "Constitution decreased by {0}."
+  },
+  {
+    "HeaderOffset": 11118,
+    "StartTextOffset": 11124,
+    "EndTextOffset": 11135,
+    "Text": "Cannot move."
+  },
+  {
+    "HeaderOffset": 11148,
+    "StartTextOffset": 11154,
+    "EndTextOffset": 11165,
+    "Text": "Cannot move."
+  },
+  {
+    "HeaderOffset": 11197,
+    "StartTextOffset": 11203,
+    "EndTextOffset": 11258,
+    "Text": "Cost of the next heat based psi ability reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 11290,
+    "StartTextOffset": 11296,
+    "EndTextOffset": 11351,
+    "Text": "Cost of the next cold based psi ability reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 11379,
+    "StartTextOffset": 11385,
+    "EndTextOffset": 11453,
+    "Text": "Action point cost of the next heat based psi ability reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 11481,
+    "StartTextOffset": 11487,
+    "EndTextOffset": 11555,
+    "Text": "Action point cost of the next cold based psi ability reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 11577,
+    "StartTextOffset": 11583,
+    "EndTextOffset": 11751,
+    "Text": "This creature is a pack hunter. Its damage is increased against targets that are surrounded by more of its pack. Damage against the current target is increased by {0}%."
+  },
+  {
+    "HeaderOffset": 11769,
+    "StartTextOffset": 11775,
+    "EndTextOffset": 11998,
+    "Text": "This creature is a pack hunter. Its damage and attack skill are increased against targets that are surrounded by more of its pack. Damage against the current target is increased by {0}% and attack skill is increased by {1}."
+  },
+  {
+    "HeaderOffset": 12018,
+    "StartTextOffset": 12024,
+    "EndTextOffset": 12058,
+    "Text": "Bleeding for {0} damage every turn."
+  },
+  {
+    "HeaderOffset": 12082,
+    "StartTextOffset": 12088,
+    "EndTextOffset": 12121,
+    "Text": "Suffers {0} bio damage every turn."
+  },
+  {
+    "HeaderOffset": 12132,
+    "StartTextOffset": 12138,
+    "EndTextOffset": 12202,
+    "Text": "Overwhelming fear prevents this character from acting rationally."
+  },
+  {
+    "HeaderOffset": 12213,
+    "StartTextOffset": 12219,
+    "EndTextOffset": 12265,
+    "Text": "This character is raging and may attack anyone."
+  },
+  {
+    "HeaderOffset": 12279,
+    "StartTextOffset": 12285,
+    "EndTextOffset": 12324,
+    "Text": "Short term immunity to all fear effects."
+  },
+  {
+    "HeaderOffset": 12341,
+    "StartTextOffset": 12347,
+    "EndTextOffset": 12382,
+    "Text": "Short term immunity to stun effects."
+  },
+  {
+    "HeaderOffset": 12397,
+    "StartTextOffset": 12403,
+    "EndTextOffset": 12447,
+    "Text": "Short term immunity to all disabling effects."
+  },
+  {
+    "HeaderOffset": 12461,
+    "StartTextOffset": 12467,
+    "EndTextOffset": 12517,
+    "Text": "This character is burning for {0} damage each turn."
+  },
+  {
+    "HeaderOffset": 12539,
+    "StartTextOffset": 12545,
+    "EndTextOffset": 12626,
+    "Text": "This character is burning for {0} damage each turn, while running around in panic."
+  },
+  {
+    "HeaderOffset": 12639,
+    "StartTextOffset": 12645,
+    "EndTextOffset": 12716,
+    "Text": "This character is afflicted by {0}, suffering {1} bio damage every turn."
+  },
+  {
+    "HeaderOffset": 12736,
+    "StartTextOffset": 12742,
+    "EndTextOffset": 12868,
+    "Text": "This character is afflicted by cave ear poison. All biological damage received increased by {0}% and perception reduced by {1}."
+  },
+  {
+    "HeaderOffset": 12888,
+    "StartTextOffset": 12894,
+    "EndTextOffset": 13063,
+    "Text": "This character is afflicted by crawler poison, suffering {0} bio damage every turn. If the poison is not removed before it expires it will stun the victim for up to {1}."
+  },
+  {
+    "HeaderOffset": 13082,
+    "StartTextOffset": 13088,
+    "EndTextOffset": 13323,
+    "Text": "This character is afflicted by spirit poison, suffering {0} bio damage every turn and having its resolve reduced by {1}%. If the poison is not removed before it expires it will summon a psionic doppelganger of the victim if it's human."
+  },
+  {
+    "HeaderOffset": 13344,
+    "StartTextOffset": 13350,
+    "EndTextOffset": 13419,
+    "Text": "This machine is temporarily disabled and cannot perform any functions."
+  },
+  {
+    "HeaderOffset": 13442,
+    "StartTextOffset": 13448,
+    "EndTextOffset": 13501,
+    "Text": "Stealth increased by {0} and evasion increased by {1}."
+  },
+  {
+    "HeaderOffset": 13519,
+    "StartTextOffset": 13525,
+    "EndTextOffset": 13548,
+    "Text": "You can see in the dark."
+  },
+  {
+    "HeaderOffset": 13569,
+    "StartTextOffset": 13575,
+    "EndTextOffset": 13742,
+    "Text": "Immune to stun, fear, incapacitation, and mind control.\r\n\r\nNext thought control psi ability the character invokes will have an area of effect, but will end the effect."
+  },
+  {
+    "HeaderOffset": 13762,
+    "StartTextOffset": 13768,
+    "EndTextOffset": 13893,
+    "Text": "Character's next psi ability will cost {0}% less psi points, {1}% less action points and will have its range increased by {2}."
+  },
+  {
+    "HeaderOffset": 13912,
+    "StartTextOffset": 13918,
+    "EndTextOffset": 13990,
+    "Text": "Character's next offensive psi ability will be an automatic critical hit."
+  },
+  {
+    "HeaderOffset": 14011,
+    "StartTextOffset": 14017,
+    "EndTextOffset": 14179,
+    "Text": "Proximity of other psionically active Azuridae beetles increases this creature's psi skill levels by {0} and also allows it to invoke more powerful psi abilities."
+  },
+  {
+    "HeaderOffset": 14200,
+    "StartTextOffset": 14206,
+    "EndTextOffset": 14269,
+    "Text": "Character's next special bolt attack will cost no action points."
+  },
+  {
+    "HeaderOffset": 14297,
+    "StartTextOffset": 14303,
+    "EndTextOffset": 14326,
+    "Text": "Strength increased by 1."
+  },
+  {
+    "HeaderOffset": 14352,
+    "StartTextOffset": 14358,
+    "EndTextOffset": 14385,
+    "Text": "Constitution increased by 1."
+  },
+  {
+    "HeaderOffset": 14412,
+    "StartTextOffset": 14418,
+    "EndTextOffset": 14440,
+    "Text": "Agility increased by 1."
+  },
+  {
+    "HeaderOffset": 14463,
+    "StartTextOffset": 14469,
+    "EndTextOffset": 14493,
+    "Text": "Dexterity increased by 1."
+  },
+  {
+    "HeaderOffset": 14517,
+    "StartTextOffset": 14523,
+    "EndTextOffset": 14702,
+    "Text": "Strength increased by 1 and all mechanical damage taken reduced by 10%. Perception and dexterity reduced by 2. All psionic skills reduced by 20 and psi regeneration reduced by 30."
+  },
+  {
+    "HeaderOffset": 14720,
+    "StartTextOffset": 14726,
+    "EndTextOffset": 14845,
+    "Text": "Movement points increased by 5 and psi cost of all psi abilities reduced by 10%, but psi regeneration also reduced by 3."
+  },
+  {
+    "HeaderOffset": 14876,
+    "StartTextOffset": 14882,
+    "EndTextOffset": 14912,
+    "Text": "Maximum health increased by 20."
+  },
+  {
+    "HeaderOffset": 14934,
+    "StartTextOffset": 14940,
+    "EndTextOffset": 14972,
+    "Text": "Cold damage taken reduced by 15%."
+  },
+  {
+    "HeaderOffset": 14994,
+    "StartTextOffset": 15000,
+    "EndTextOffset": 15037,
+    "Text": "Mechanical damage taken reduced by 5%."
+  },
+  {
+    "HeaderOffset": 15064,
+    "StartTextOffset": 15070,
+    "EndTextOffset": 15101,
+    "Text": "Bio damage taken reduced by 15%."
+  },
+  {
+    "HeaderOffset": 15123,
+    "StartTextOffset": 15129,
+    "EndTextOffset": 15160,
+    "Text": "Heat damage taken reduced by 8%."
+  },
+  {
+    "HeaderOffset": 15189,
+    "StartTextOffset": 15195,
+    "EndTextOffset": 15229,
+    "Text": "Poison damage taken reduced by 35%."
+  },
+  {
+    "HeaderOffset": 15250,
+    "StartTextOffset": 15256,
+    "EndTextOffset": 15298,
+    "Text": "Weapon critical hit chance increased by 2%."
+  },
+  {
+    "HeaderOffset": 15323,
+    "StartTextOffset": 15329,
+    "EndTextOffset": 15432,
+    "Text": "Weapon critical hit chance increased by 5%, but chance to get critically hit by weapons increased by 2%."
+  },
+  {
+    "HeaderOffset": 15463,
+    "StartTextOffset": 15469,
+    "EndTextOffset": 15507,
+    "Text": "Healing effectiveness increased by 15%."
+  },
+  {
+    "HeaderOffset": 15532,
+    "StartTextOffset": 15538,
+    "EndTextOffset": 15563,
+    "Text": "Perception increased by 1."
+  },
+  {
+    "HeaderOffset": 15591,
+    "StartTextOffset": 15597,
+    "EndTextOffset": 15627,
+    "Text": "Carry capacity increased by 25."
+  },
+  {
+    "HeaderOffset": 15657,
+    "StartTextOffset": 15663,
+    "EndTextOffset": 15709,
+    "Text": "Psionic critical damage bonus increased by 40%."
+  },
+  {
+    "HeaderOffset": 15739,
+    "StartTextOffset": 15745,
+    "EndTextOffset": 15782,
+    "Text": "Psi ability psi cost decreased by 15%."
+  },
+  {
+    "HeaderOffset": 15802,
+    "StartTextOffset": 15808,
+    "EndTextOffset": 15833,
+    "Text": "Initiative increased by 5."
+  },
+  {
+    "HeaderOffset": 15855,
+    "StartTextOffset": 15861,
+    "EndTextOffset": 15887,
+    "Text": "Detection increased by 15%."
+  },
+  {
+    "HeaderOffset": 15907,
+    "StartTextOffset": 15913,
+    "EndTextOffset": 15938,
+    "Text": "All skills increased by 3."
+  },
+  {
+    "HeaderOffset": 15964,
+    "StartTextOffset": 15970,
+    "EndTextOffset": 16002,
+    "Text": "Heat damage taken reduced by 15%."
+  },
+  {
+    "HeaderOffset": 16026,
+    "StartTextOffset": 16032,
+    "EndTextOffset": 16076,
+    "Text": "Global mechanical threshold increased by 15%."
+  },
+  {
+    "HeaderOffset": 16094,
+    "StartTextOffset": 16100,
+    "EndTextOffset": 16263,
+    "Text": "Dodge increased by 50 and all mechanical damage taken reduced by 10%. Perception reduced by 2. All psionic skills reduced by 20 and psi regeneration reduced by 30."
+  },
+  {
+    "HeaderOffset": 16284,
+    "StartTextOffset": 16290,
+    "EndTextOffset": 16391,
+    "Text": "Acid damage taken reduced by 35%, but health reduced by 20 and healing effectiveness decreased by 35%."
+  },
+  {
+    "HeaderOffset": 16419,
+    "StartTextOffset": 16425,
+    "EndTextOffset": 16487,
+    "Text": "Poison damage taken reduced by 20% and evasion increased by 30."
+  },
+  {
+    "HeaderOffset": 16518,
+    "StartTextOffset": 16524,
+    "EndTextOffset": 16561,
+    "Text": "Maximum health points increased by 40."
+  },
+  {
+    "HeaderOffset": 16582,
+    "StartTextOffset": 16588,
+    "EndTextOffset": 16691,
+    "Text": "Strength increased by 1 and critical damage bonus of melee weapons and unarmed attacks increased by 25%."
+  },
+  {
+    "HeaderOffset": 16715,
+    "StartTextOffset": 16721,
+    "EndTextOffset": 16840,
+    "Text": "Critical chance with weapon, unarmed, and psi attacks increased by 5%, but will reduced by 1 and resolve reduced by 100."
+  },
+  {
+    "HeaderOffset": 16863,
+    "StartTextOffset": 16869,
+    "EndTextOffset": 16931,
+    "Text": "Metathermics increased by 20 but movement points reduced by 10."
+  },
+  {
+    "HeaderOffset": 16948,
+    "StartTextOffset": 16954,
+    "EndTextOffset": 17097,
+    "Text": "All base abilities increased by 3. Chance to get critically hit with weapons, unarmed attacks and psi abilities increased by 100% (additively)."
+  },
+  {
+    "HeaderOffset": 17118,
+    "StartTextOffset": 17124,
+    "EndTextOffset": 17210,
+    "Text": "Thought control increased by 20, but perception reduced by 1 and resolve reduced by 30."
+  },
+  {
+    "HeaderOffset": 17239,
+    "StartTextOffset": 17245,
+    "EndTextOffset": 17274,
+    "Text": "Pickpocketing increased by 15."
+  },
+  {
+    "HeaderOffset": 17294,
+    "StartTextOffset": 17300,
+    "EndTextOffset": 17441,
+    "Text": "Strength increased by 1 and character does 15% bonus damage with blunt melee weapons, fist weapons and unarmed attacks. Agility reduced by 1."
+  },
+  {
+    "HeaderOffset": 17460,
+    "StartTextOffset": 17466,
+    "EndTextOffset": 17496,
+    "Text": "Carry capacity increased by 30."
+  },
+  {
+    "HeaderOffset": 17515,
+    "StartTextOffset": 17521,
+    "EndTextOffset": 17591,
+    "Text": "Stability on jet skis increased by 10%, but action points reduced by 5."
+  },
+  {
+    "HeaderOffset": 17609,
+    "StartTextOffset": 17615,
+    "EndTextOffset": 17712,
+    "Text": "Evasion increased by 15% and stealth increased by 20. Also all bio damage received reduced by 10%."
+  },
+  {
+    "HeaderOffset": 17741,
+    "StartTextOffset": 17747,
+    "EndTextOffset": 17781,
+    "Text": "Maximum psi points increased by 10."
+  },
+  {
+    "HeaderOffset": 17802,
+    "StartTextOffset": 17808,
+    "EndTextOffset": 17943,
+    "Text": "Agility increased by 3, persuasion increased by 15, but dexterity and perception reduced by 2 and psi point regeneration reduced by 30."
+  },
+  {
+    "HeaderOffset": 17963,
+    "StartTextOffset": 17969,
+    "EndTextOffset": 18095,
+    "Text": "Strength and constitution increased by 1 and intimidation increased by 15, but intelligence reduced by 3 and will reduced by 1."
+  },
+  {
+    "HeaderOffset": 18114,
+    "StartTextOffset": 18120,
+    "EndTextOffset": 18437,
+    "Text": "Detection increased by 23.3%, chance to get crit with weapons, unarmed attacks and psi abilities reduced by 16.6%. To balance the transcendental scales this character has 16.6% increased critical chance with psi abilities and 33.3% increased psi cost. They can also fInAl1y PerC3ive the rE4lity as It TRUEly isŝş..."
+  },
+  {
+    "HeaderOffset": 18463,
+    "StartTextOffset": 18469,
+    "EndTextOffset": 18589,
+    "Text": "Health increased by 30, but reslove reduced by the same amount. Its disgusting taste will linger in your mouth for hours."
+  },
+  {
+    "HeaderOffset": 18611,
+    "StartTextOffset": 18617,
+    "EndTextOffset": 18781,
+    "Text": "This character does 15% bonus damage with melee weapons and unarmed attacks and also has a small chance to daze the target, themselves, or both on each such attack."
+  },
+  {
+    "HeaderOffset": 18803,
+    "StartTextOffset": 18809,
+    "EndTextOffset": 18834,
+    "Text": "All skills increased by 5."
+  },
+  {
+    "HeaderOffset": 18855,
+    "StartTextOffset": 18861,
+    "EndTextOffset": 18948,
+    "Text": "You feel the darkness clasp around you and an ominous presence in the back of your mind."
+  },
+  {
+    "HeaderOffset": 18972,
+    "StartTextOffset": 18978,
+    "EndTextOffset": 19008,
+    "Text": "Immune to all physical attacks."
+  },
+  {
+    "HeaderOffset": 19025,
+    "StartTextOffset": 19031,
+    "EndTextOffset": 19064,
+    "Text": "Dodge and evasion reduced to zero."
+  },
+  {
+    "HeaderOffset": 19081,
+    "StartTextOffset": 19087,
+    "EndTextOffset": 19124,
+    "Text": "Cold apparition. Immune to all damage."
+  },
+  {
+    "HeaderOffset": 19142,
+    "StartTextOffset": 19148,
+    "EndTextOffset": 19183,
+    "Text": "All offensive skills reduced by {0}."
+  },
+  {
+    "HeaderOffset": 19203,
+    "StartTextOffset": 19209,
+    "EndTextOffset": 19335,
+    "Text": "You feel a deep primordial fear creeping in the back of your head. All offensive, defensive and psionic skills reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 19356,
+    "StartTextOffset": 19362,
+    "EndTextOffset": 19406,
+    "Text": "You're getting dizzy. Health reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 19424,
+    "StartTextOffset": 19430,
+    "EndTextOffset": 19553,
+    "Text": "The eye of Tchort is upon you, nearly paralyzing you with fear. All offensive, defensive and psionic skills reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 19568,
+    "StartTextOffset": 19574,
+    "EndTextOffset": 19599,
+    "Text": "Strength decreased by {0}."
+  },
+  {
+    "HeaderOffset": 19613,
+    "StartTextOffset": 19619,
+    "EndTextOffset": 19743,
+    "Text": "Movement points decreased by {0}, action points decreased by {1} and chance to hit with all ranged weapons decreased by {2}%."
+  },
+  {
+    "HeaderOffset": 19762,
+    "StartTextOffset": 19768,
+    "EndTextOffset": 19896,
+    "Text": "All damage taken reduced by {0}%. After the effect expires the character will take damage equal to {1}% of their missing health."
+  },
+  {
+    "HeaderOffset": 19916,
+    "StartTextOffset": 19922,
+    "EndTextOffset": 20050,
+    "Text": "All damage taken reduced by {0}%. After the effect expires the character will take damage equal to {1}% of their missing health."
+  },
+  {
+    "HeaderOffset": 20072,
+    "StartTextOffset": 20078,
+    "EndTextOffset": 20217,
+    "Text": "Prolongs all bleeding effects and increases effectiveness of blood draining attacks by {0}%. Also, all healing effects are reduced by {1}%."
+  },
+  {
+    "HeaderOffset": 20233,
+    "StartTextOffset": 20239,
+    "EndTextOffset": 20309,
+    "Text": "The character takes additional {0}% mechanical damage from all sources."
+  },
+  {
+    "HeaderOffset": 20332,
+    "StartTextOffset": 20338,
+    "EndTextOffset": 20404,
+    "Text": "This character will dodge the next regular or special melee attack."
+  },
+  {
+    "HeaderOffset": 20423,
+    "StartTextOffset": 20429,
+    "EndTextOffset": 20518,
+    "Text": "This character will dodge a regular or special melee attack for each stack of this effect."
+  },
+  {
+    "HeaderOffset": 20539,
+    "StartTextOffset": 20545,
+    "EndTextOffset": 20642,
+    "Text": "This character will evade a regular or special ranged weapon attack for each stack of this effect."
+  },
+  {
+    "HeaderOffset": 20665,
+    "StartTextOffset": 20671,
+    "EndTextOffset": 20695,
+    "Text": "Evasion increased by {0}."
+  },
+  {
+    "HeaderOffset": 20717,
+    "StartTextOffset": 20723,
+    "EndTextOffset": 20926,
+    "Text": "This character is incapacitated and suffering {0}% reduced resolve. If a detrimental thought control psi ability is invoked against them it will have double the effect, but will end the mental breakdown."
+  },
+  {
+    "HeaderOffset": 20940,
+    "StartTextOffset": 20946,
+    "EndTextOffset": 20989,
+    "Text": "This character is rooted in place by a trap."
+  },
+  {
+    "HeaderOffset": 21003,
+    "StartTextOffset": 21009,
+    "EndTextOffset": 21051,
+    "Text": "This character can tell which way north is."
+  },
+  {
+    "HeaderOffset": 21075,
+    "StartTextOffset": 21081,
+    "EndTextOffset": 21115,
+    "Text": "Dodge and evasion increased by {0}."
+  },
+  {
+    "HeaderOffset": 21139,
+    "StartTextOffset": 21145,
+    "EndTextOffset": 21170,
+    "Text": "Strength increased by {0}."
+  },
+  {
+    "HeaderOffset": 21191,
+    "StartTextOffset": 21197,
+    "EndTextOffset": 21229,
+    "Text": "Movement points increased by {0}."
+  },
+  {
+    "HeaderOffset": 21250,
+    "StartTextOffset": 21256,
+    "EndTextOffset": 21290,
+    "Text": "All psionic skills increased by {0}"
+  },
+  {
+    "HeaderOffset": 21310,
+    "StartTextOffset": 21316,
+    "EndTextOffset": 21389,
+    "Text": "All damage taken increased by {0}%. Healing effectiveness reduced by {1}%."
+  },
+  {
+    "HeaderOffset": 21411,
+    "StartTextOffset": 21417,
+    "EndTextOffset": 21475,
+    "Text": "Mechanical damage resistance and threshold reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 21494,
+    "StartTextOffset": 21500,
+    "EndTextOffset": 21567,
+    "Text": "Mechanical and heat damage resistance and threshold reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 21584,
+    "StartTextOffset": 21590,
+    "EndTextOffset": 21691,
+    "Text": "Ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2}."
+  },
+  {
+    "HeaderOffset": 21712,
+    "StartTextOffset": 21718,
+    "EndTextOffset": 21826,
+    "Text": "This character will arm the next trap instantly, even in combat in which case it will cost {0} action points."
+  },
+  {
+    "HeaderOffset": 21846,
+    "StartTextOffset": 21852,
+    "EndTextOffset": 21882,
+    "Text": "Melee damage increased by {0}%."
+  },
+  {
+    "HeaderOffset": 21907,
+    "StartTextOffset": 21913,
+    "EndTextOffset": 22004,
+    "Text": "Melee damage increased by {0}% and action point cost for using melee weapons reduced by {1}."
+  },
+  {
+    "HeaderOffset": 22016,
+    "StartTextOffset": 22022,
+    "EndTextOffset": 22213,
+    "Text": "If you land three consecutive damage dealing unarmed or fist weapon attacks against a single target in a single turn, the third attack will deal {0}% bonus damage and stun the target for {1}."
+  },
+  {
+    "HeaderOffset": 22229,
+    "StartTextOffset": 22235,
+    "EndTextOffset": 22304,
+    "Text": "After this effect exipres the character's health will be reduced to 1."
+  },
+  {
+    "HeaderOffset": 22339,
+    "StartTextOffset": 22345,
+    "EndTextOffset": 22446,
+    "Text": "If this target is destroyed it will explode, dealing {0} and {1} damage to the surrounding characters."
+  },
+  {
+    "HeaderOffset": 22460,
+    "StartTextOffset": 22466,
+    "EndTextOffset": 22509,
+    "Text": "All biological damage taken reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 22529,
+    "StartTextOffset": 22535,
+    "EndTextOffset": 22631,
+    "Text": "Critical damage bonus of psi abilities increased by {0}%, but psi cost increased by {1}% as well."
+  },
+  {
+    "HeaderOffset": 22653,
+    "StartTextOffset": 22659,
+    "EndTextOffset": 22691,
+    "Text": "All damage taken reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 22708,
+    "StartTextOffset": 22714,
+    "EndTextOffset": 22789,
+    "Text": "Critical chance with weapons, unarmed combat and psionics increased by {0}%."
+  },
+  {
+    "HeaderOffset": 22808,
+    "StartTextOffset": 22814,
+    "EndTextOffset": 22904,
+    "Text": "Dodge and evasion increased by {0}%. Movement points increased by {1} while not in stealth."
+  },
+  {
+    "HeaderOffset": 22925,
+    "StartTextOffset": 22931,
+    "EndTextOffset": 22994,
+    "Text": "Strength, dexterity, agility, and constitution increased by {0}."
+  },
+  {
+    "HeaderOffset": 23020,
+    "StartTextOffset": 23026,
+    "EndTextOffset": 23231,
+    "Text": "You feel ill. Strength, dexterity, agility, and constitution decreased by {0}. Action points reduced by {0}. Movement points reduced by {2} and movement speed reduced by {3}%. Taking {1} damage every turn."
+  },
+  {
+    "HeaderOffset": 23252,
+    "StartTextOffset": 23258,
+    "EndTextOffset": 23305,
+    "Text": "This character is undergoing horrific mutations."
+  },
+  {
+    "HeaderOffset": 23331,
+    "StartTextOffset": 23337,
+    "EndTextOffset": 23367,
+    "Text": "You are piloting a dreadnought."
+  },
+  {
+    "HeaderOffset": 23388,
+    "StartTextOffset": 23394,
+    "EndTextOffset": 23420,
+    "Text": "You are piloting a jet ski."
+  },
+  {
+    "HeaderOffset": 23432,
+    "StartTextOffset": 23438,
+    "EndTextOffset": 23501,
+    "Text": "Action points reduced by {0} and movement points reduced by {1}."
+  },
+  {
+    "HeaderOffset": 23517,
+    "StartTextOffset": 23523,
+    "EndTextOffset": 23585,
+    "Text": "Cannot invoke psi abilities or regenerate psi points naturally."
+  },
+  {
+    "HeaderOffset": 23608,
+    "StartTextOffset": 23614,
+    "EndTextOffset": 23659,
+    "Text": "Receives {0}% extra damage from burst attacks."
+  },
+  {
+    "HeaderOffset": 23673,
+    "StartTextOffset": 23679,
+    "EndTextOffset": 23728,
+    "Text": "Your next burst attack will cost no action points."
+  },
+  {
+    "HeaderOffset": 23746,
+    "StartTextOffset": 23752,
+    "EndTextOffset": 23763,
+    "Text": "Cannot move."
+  },
+  {
+    "HeaderOffset": 23777,
+    "StartTextOffset": 23783,
+    "EndTextOffset": 23856,
+    "Text": "Next electrical psionic attack will deal additional {0} electrical damage."
+  },
+  {
+    "HeaderOffset": 23875,
+    "StartTextOffset": 23881,
+    "EndTextOffset": 23915,
+    "Text": "All damage taken increased by {0}%."
+  },
+  {
+    "HeaderOffset": 23941,
+    "StartTextOffset": 23947,
+    "EndTextOffset": 23968,
+    "Text": "{0} increased by {1}%."
+  },
+  {
+    "HeaderOffset": 23998,
+    "StartTextOffset": 24004,
+    "EndTextOffset": 24116,
+    "Text": "Unarmed and weapon attacks have a chance to miss this character, instead removing one of the psionic projections."
+  },
+  {
+    "HeaderOffset": 24136,
+    "StartTextOffset": 24142,
+    "EndTextOffset": 24189,
+    "Text": "Perception reduced by {0} and detection by {1}%."
+  },
+  {
+    "HeaderOffset": 24217,
+    "StartTextOffset": 24223,
+    "EndTextOffset": 24257,
+    "Text": "Cannot detect stealthed characters."
+  },
+  {
+    "HeaderOffset": 24279,
+    "StartTextOffset": 24285,
+    "EndTextOffset": 24344,
+    "Text": "Chance to hit with ranged and thrown weapon reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 24365,
+    "StartTextOffset": 24371,
+    "EndTextOffset": 24474,
+    "Text": "You are immune to heat damage and generate flames around you and in your wake (except on the last turn)."
+  },
+  {
+    "HeaderOffset": 24491,
+    "StartTextOffset": 24497,
+    "EndTextOffset": 24658,
+    "Text": "Each time the character suffers a melee attack, there's a {0}% chance that one of the shards will block {1} of mechanical damage and be destroyed in the process."
+  },
+  {
+    "HeaderOffset": 24673,
+    "StartTextOffset": 24679,
+    "EndTextOffset": 24719,
+    "Text": "Immune to stun, daze, and incapacitation."
+  },
+  {
+    "HeaderOffset": 24738,
+    "StartTextOffset": 24744,
+    "EndTextOffset": 24776,
+    "Text": "Regenerates {0} health each turn."
+  },
+  {
+    "HeaderOffset": 24798,
+    "StartTextOffset": 24804,
+    "EndTextOffset": 24833,
+    "Text": "Regenerates {0} psi each turn."
+  },
+  {
+    "HeaderOffset": 24856,
+    "StartTextOffset": 24862,
+    "EndTextOffset": 24974,
+    "Text": "Strength, dexterity, agility, constitution, and perception increased by {0}. All combat skills increased by {1}%."
+  },
+  {
+    "HeaderOffset": 24997,
+    "StartTextOffset": 25003,
+    "EndTextOffset": 25031,
+    "Text": "Regains {0} shield each turn."
+  },
+  {
+    "HeaderOffset": 25046,
+    "StartTextOffset": 25052,
+    "EndTextOffset": 25105,
+    "Text": "All damage resistances and thresholds reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 25129,
+    "StartTextOffset": 25135,
+    "EndTextOffset": 25219,
+    "Text": "Affected by poison which prevents psi ability invocation and psi points regeneration."
+  },
+  {
+    "HeaderOffset": 25249,
+    "StartTextOffset": 25255,
+    "EndTextOffset": 25351,
+    "Text": "Chance to get critically hit from weapon and unarmed attacks and psi abilities increased by {0}%."
+  },
+  {
+    "HeaderOffset": 25369,
+    "StartTextOffset": 25375,
+    "EndTextOffset": 25456,
+    "Text": "Perception increased by {0} and the character is granted the gift of second sight."
+  },
+  {
+    "HeaderOffset": 25476,
+    "StartTextOffset": 25482,
+    "EndTextOffset": 25534,
+    "Text": "Your psi abilities cost health instead of psi points."
+  },
+  {
+    "HeaderOffset": 25561,
+    "StartTextOffset": 25567,
+    "EndTextOffset": 25654,
+    "Text": "Your psi abilities cost health instead of psi points, but their cost is reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 25672,
+    "StartTextOffset": 25678,
+    "EndTextOffset": 25721,
+    "Text": "Unarmed and weapon damage increased by {0}%."
+  },
+  {
+    "HeaderOffset": 25746,
+    "StartTextOffset": 25752,
+    "EndTextOffset": 25896,
+    "Text": "When this effect expires, it will deal {0} and {1} damage to the target. This damage ignores shield and {2}% of damage resistance and threshold."
+  },
+  {
+    "HeaderOffset": 25921,
+    "StartTextOffset": 25927,
+    "EndTextOffset": 26015,
+    "Text": "The character suffers {0} damage every turn. This damage ignores shields and resistances."
+  },
+  {
+    "HeaderOffset": 26044,
+    "StartTextOffset": 26050,
+    "EndTextOffset": 26113,
+    "Text": "Action points reduced by {0} and movement points reduced by {1}."
+  },
+  {
+    "HeaderOffset": 26145,
+    "StartTextOffset": 26151,
+    "EndTextOffset": 26329,
+    "Text": "Action points increased by {0} and movement points increased by {1}. After the effect ends, there's a {2}% chance of it reversing into a psychotemporal dilation of varying power."
+  },
+  {
+    "HeaderOffset": 26351,
+    "StartTextOffset": 26357,
+    "EndTextOffset": 26460,
+    "Text": "After this effect ends, the character will take {0} damage. This damage ignores shields and resistances."
+  },
+  {
+    "HeaderOffset": 26479,
+    "StartTextOffset": 26485,
+    "EndTextOffset": 26583,
+    "Text": "Chance to dodge and evade attacks increased by {0}% (additively). Drains {1} psi points every turn."
+  },
+  {
+    "HeaderOffset": 26596,
+    "StartTextOffset": 26602,
+    "EndTextOffset": 26825,
+    "Text": "Immune to all damage and most disabling effects, but cannot act. The character's status effects do not progress, but the cooldowns do.\r\n\r\nThis will expire at the beginning of the last turn of duration instead of at the end."
+  },
+  {
+    "HeaderOffset": 26846,
+    "StartTextOffset": 26852,
+    "EndTextOffset": 26978,
+    "Text": "This character is afflicted by blinding poison, suffering {0} bio damage every turn. Their perception is also decreased by {1}."
+  },
+  {
+    "HeaderOffset": 27004,
+    "StartTextOffset": 27010,
+    "EndTextOffset": 27044,
+    "Text": "Psi regeneration increased by {0}%."
+  },
+  {
+    "HeaderOffset": 27063,
+    "StartTextOffset": 27069,
+    "EndTextOffset": 27099,
+    "Text": "Movement speed reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 27113,
+    "StartTextOffset": 27119,
+    "EndTextOffset": 27149,
+    "Text": "Movement speed reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 27173,
+    "StartTextOffset": 27179,
+    "EndTextOffset": 27288,
+    "Text": "This is what happens when you get wasted with Dude. All your base attributes have been reduced by {0}. Cheers!"
+  },
+  {
+    "HeaderOffset": 27304,
+    "StartTextOffset": 27310,
+    "EndTextOffset": 27369,
+    "Text": "Your hands are sore. Your dexterity has been reduced by {0}."
+  },
+  {
+    "HeaderOffset": 27393,
+    "StartTextOffset": 27399,
+    "EndTextOffset": 27428,
+    "Text": "Intelligence increased by {0}."
+  },
+  {
+    "HeaderOffset": 27450,
+    "StartTextOffset": 27456,
+    "EndTextOffset": 27483,
+    "Text": "Initiative increased by {0}."
+  },
+  {
+    "HeaderOffset": 27498,
+    "StartTextOffset": 27504,
+    "EndTextOffset": 27623,
+    "Text": "Detection increased by {0}%. Perception increased by {1} for the purpose of detecting hidden passages and other secrets."
+  },
+  {
+    "HeaderOffset": 27640,
+    "StartTextOffset": 27646,
+    "EndTextOffset": 27721,
+    "Text": "Has a {0}% chance to block up to {1} mechanical damage when holding a spear."
+  },
+  {
+    "HeaderOffset": 27741,
+    "StartTextOffset": 27747,
+    "EndTextOffset": 27903,
+    "Text": "Your drive to continue on is rapidly deteriorating. All base abilities reduced by {0}, all skills reduced by {1}, movement and action points reduced by {2}."
+  },
+  {
+    "HeaderOffset": 27918,
+    "StartTextOffset": 27924,
+    "EndTextOffset": 28037,
+    "Text": "Action points reduced by {0} and the chance to get critically hit by weapon and unarmed attacks increased by {1}%."
+  },
+  {
+    "HeaderOffset": 28067,
+    "StartTextOffset": 28073,
+    "EndTextOffset": 28136,
+    "Text": "The character takes additional {0}% {1} damage from all sources."
+  },
+  {
+    "HeaderOffset": 28174,
+    "StartTextOffset": 28180,
+    "EndTextOffset": 28337,
+    "Text": "Your successful chemical pistol attacks increase the amount of damage taken from the pistol's damage type by {0}% from all sources for {1}. Stacks {2} times."
+  },
+  {
+    "HeaderOffset": 28355,
+    "StartTextOffset": 28361,
+    "EndTextOffset": 28501,
+    "Text": "This character is afflicted by leper poison, suffering {0} bio damage every turn and receiving {1}% more mechanical damage from all sources."
+  },
+  {
+    "HeaderOffset": 28517,
+    "StartTextOffset": 28523,
+    "EndTextOffset": 28662,
+    "Text": "This character is submerged in water. Evasion is increased by {0}, dodge increased by {1} and all damage resistances are increased by {2}%."
+  },
+  {
+    "HeaderOffset": 28685,
+    "StartTextOffset": 28691,
+    "EndTextOffset": 28861,
+    "Text": "This character is afflicted by heartbreak poison, suffering {0} bio damage every turn. If the poison is not removed, it will deal additional {1} bio damage on expiration."
+  },
+  {
+    "HeaderOffset": 28875,
+    "StartTextOffset": 28881,
+    "EndTextOffset": 28958,
+    "Text": "Reduces durability of all mechanical items in your posession by {0} each turn."
+  },
+  {
+    "HeaderOffset": 28977,
+    "StartTextOffset": 28983,
+    "EndTextOffset": 29142,
+    "Text": "Vehicle movement speed and movement points increased by {0}%, but energy consumption increased by {1}%. The bonuses only work if vehicle is not overencumbered."
+  },
+  {
+    "HeaderOffset": 29155,
+    "StartTextOffset": 29161,
+    "EndTextOffset": 29203,
+    "Text": "Reduces action point cost of Flurry by {0}."
+  },
+  {
+    "HeaderOffset": 29219,
+    "StartTextOffset": 29225,
+    "EndTextOffset": 29319,
+    "Text": "Increases damage done by swords by {0}%. Will be removed if an attack misses or does no damage."
+  },
+  {
+    "HeaderOffset": 29333,
+    "StartTextOffset": 29339,
+    "EndTextOffset": 29385,
+    "Text": "This character can perform a free sword attack."
+  },
+  {
+    "HeaderOffset": 29404,
+    "StartTextOffset": 29410,
+    "EndTextOffset": 29486,
+    "Text": "Your next shotgun attack will have the critical hit chance increased by {0}%."
+  },
+  {
+    "HeaderOffset": 29509,
+    "StartTextOffset": 29515,
+    "EndTextOffset": 29912,
+    "Text": "Drains {0} energy from the armor and hits adjacent characters for {1} damage at the end of every turn at the cost of {2} energy per character.\r\n\r\nAdditionally, whenever this character is attacked by a melee attack, the attacker will be hit by the same electrical damage at the same energy cost.\r\n\r\nWhenever this aura deals electrical damage, there's {3}% chance the target will be stunned for {4}."
+  },
+  {
+    "HeaderOffset": 29940,
+    "StartTextOffset": 29946,
+    "EndTextOffset": 30037,
+    "Text": "Drains {0} energy from the armor, but reduces the character's overall armor penalty by {1}%."
+  },
+  {
+    "HeaderOffset": 30067,
+    "StartTextOffset": 30073,
+    "EndTextOffset": 30156,
+    "Text": "Draing {0} energy from the armor, but increases all energy shielding values by {1}%."
+  },
+  {
+    "HeaderOffset": 30183,
+    "StartTextOffset": 30189,
+    "EndTextOffset": 30349,
+    "Text": "Transfers up to {0} energy at {1}% efficiency from the source item to all other equipped items that require recharging, splitting the energy equally among them."
+  },
+  {
+    "HeaderOffset": 30371,
+    "StartTextOffset": 30377,
+    "EndTextOffset": 30416,
+    "Text": "Dexterity and perception reduced by {0}."
+  },
+  {
+    "HeaderOffset": 30435,
+    "StartTextOffset": 30441,
+    "EndTextOffset": 30555,
+    "Text": "There is something unwholesome lingering in the back of your mind. Will reduced by {0} and resolve reduced by {1}%."
+  },
+  {
+    "HeaderOffset": 30594,
+    "StartTextOffset": 30600,
+    "EndTextOffset": 30632,
+    "Text": "This character has been infested!"
+  },
+  {
+    "HeaderOffset": 30673,
+    "StartTextOffset": 30679,
+    "EndTextOffset": 30712,
+    "Text": "They take {4} bio damage per turn."
+  },
+  {
+    "HeaderOffset": 30753,
+    "StartTextOffset": 30759,
+    "EndTextOffset": 30782,
+    "Text": "Healing reduced by {0}%."
+  },
+  {
+    "HeaderOffset": 30823,
+    "StartTextOffset": 30829,
+    "EndTextOffset": 30860,
+    "Text": "Psi regeneration reduced by {1}."
+  },
+  {
+    "HeaderOffset": 30901,
+    "StartTextOffset": 30907,
+    "EndTextOffset": 30937,
+    "Text": "Movement points reduced by {2}."
+  },
+  {
+    "HeaderOffset": 30978,
+    "StartTextOffset": 30984,
+    "EndTextOffset": 31049,
+    "Text": "Action points reduced by {3}. The infested wound hurts abominably."
+  },
+  {
+    "HeaderOffset": 31067,
+    "StartTextOffset": 31073,
+    "EndTextOffset": 31194,
+    "Text": "This character has perception increased by {0} and regenerates {1} health points each turn. Also makes the character glow."
+  },
+  {
+    "HeaderOffset": 31210,
+    "StartTextOffset": 31216,
+    "EndTextOffset": 31366,
+    "Text": "Energy damage resistance and threshold reduced by {0}% and electrical ones reduced by {1}%. Chance to get critically hit by weapons increased by {2}%."
+  },
+  {
+    "HeaderOffset": 31388,
+    "StartTextOffset": 31394,
+    "EndTextOffset": 31504,
+    "Text": "Consuming any type of medicine will inflict {0} unavoidable bio damage to this character and daze them for {1}."
+  },
+  {
+    "HeaderOffset": 31523,
+    "StartTextOffset": 31529,
+    "EndTextOffset": 31579,
+    "Text": "All offensive and psionic skills increased by {0}%."
+  },
+  {
+    "HeaderOffset": 31593,
+    "StartTextOffset": 31599,
+    "EndTextOffset": 31665,
+    "Text": "Increases psi regeneration by {0}, but reduces constitution by {1}."
+  },
+  {
+    "HeaderOffset": 31691,
+    "StartTextOffset": 31697,
+    "EndTextOffset": 31745,
+    "Text": "This creature suffers {0} acid damage every turn."
+  },
+  {
+    "HeaderOffset": 31759,
+    "StartTextOffset": 31765,
+    "EndTextOffset": 31816,
+    "Text": "This character suffers {0} energy damage every turn."
+  },
+  {
+    "HeaderOffset": 31837,
+    "StartTextOffset": 31843,
+    "EndTextOffset": 31930,
+    "Text": "Movement points increased by {0} and action points increased by {1} when not in stealth."
+  },
+  {
+    "HeaderOffset": 31956,
+    "StartTextOffset": 31962,
+    "EndTextOffset": 32055,
+    "Text": "{0} skill increased by {1}%. When this effect expires, the character will lose all psi points."
+  },
+  {
+    "HeaderOffset": 32071,
+    "StartTextOffset": 32077,
+    "EndTextOffset": 32130,
+    "Text": "Increases the amount blocked by a riot shield by {0}%."
+  },
+  {
+    "HeaderOffset": 32147,
+    "StartTextOffset": 32153,
+    "EndTextOffset": 32198,
+    "Text": "Next shotgun shot will deal {0}% bonus damage."
+  },
+  {
+    "HeaderOffset": 32220,
+    "StartTextOffset": 32226,
+    "EndTextOffset": 32293,
+    "Text": "This machine is confused and may attack anyone or retreat at random."
+  },
+  {
+    "HeaderOffset": 32308,
+    "StartTextOffset": 32314,
+    "EndTextOffset": 32436,
+    "Text": "Chance to hit with ranged weapons reduced by {0}% and chance to hit with melee weapons and unarmed attacks reduced by {1}%."
+  },
+  {
+    "HeaderOffset": 32460,
+    "StartTextOffset": 32466,
+    "EndTextOffset": 32530,
+    "Text": "Drains {0} energy every turn and provides light in radius of {1}."
+  },
+  {
+    "HeaderOffset": 32554,
+    "StartTextOffset": 32560,
+    "EndTextOffset": 32624,
+    "Text": "Drains {0} energy every turn and provides light in radius of {1}."
+  },
+  {
+    "HeaderOffset": 32656,
+    "StartTextOffset": 32662,
+    "EndTextOffset": 32861,
+    "Text": "Strength increased by {0} and movement points increased by {1}. Movement speed penalty of the armor negated. Drains {2} energy every turn, as well as additional {3} energy for every tile of movement."
+  },
+  {
+    "HeaderOffset": 32881,
+    "StartTextOffset": 32887,
+    "EndTextOffset": 32981,
+    "Text": "Your next sniper rifle attack will refund 100% of the action point cost if it kills the target."
+  },
+  {
+    "HeaderOffset": 33008,
+    "StartTextOffset": 33014,
+    "EndTextOffset": 33114,
+    "Text": "Flames engulf your left claw, causing it to deal additional 10-15 heat damage with each melee attack."
+  },
+  {
+    "HeaderOffset": 33142,
+    "StartTextOffset": 33148,
+    "EndTextOffset": 33335,
+    "Text": "Dipping your right claw into a liquid nitrogen freezer has encased it in solid ice, causing it do deal additional 20-35 cold damage with each melee attack, chilling the target in process."
+  },
+  {
+    "HeaderOffset": 33373,
+    "StartTextOffset": 33379,
+    "EndTextOffset": 33501,
+    "Text": "Consuming a mysterious concoction has altered your acidic glands, causing your Acid Spray to inflict rusting acid upon use."
+  },
+  {
+    "HeaderOffset": 33518,
+    "StartTextOffset": 33524,
+    "EndTextOffset": 33643,
+    "Text": "Reduces action point cost of firing firearm pistols by {0}%. Cannot reduce the action point cost below the hard minimum."
+  },
+  {
+    "HeaderOffset": 33674,
+    "StartTextOffset": 33680,
+    "EndTextOffset": 33732,
+    "Text": "You shouldn't be seeing this. Look at something else."
+  },
+  {
+    "HeaderOffset": 33747,
+    "StartTextOffset": 33753,
+    "EndTextOffset": 33852,
+    "Text": "The fire warms you up and relaxes you. Movement points are increased by {0}, movement speed by {1}%."
+  },
+  {
+    "HeaderOffset": 33876,
+    "StartTextOffset": 33882,
+    "EndTextOffset": 34006,
+    "Text": "It's freezing in here. Your cold resistance and threshold is reduced by {0}%, and all cold damage taken is increased by {1}%."
+  },
+  {
+    "HeaderOffset": 34035,
+    "StartTextOffset": 34041,
+    "EndTextOffset": 34253,
+    "Text": "This character is linked into a psychokinetic chain so {0}% of all direct mechanical and electrical damage taken will be transferred to the next link in the chain, up to maximum of {1} damage per single transfer."
+  },
+  {
+    "HeaderOffset": 34280,
+    "StartTextOffset": 34286,
+    "EndTextOffset": 34374,
+    "Text": "This character is immobilized for now by telekinetic force, but may manage to break free."
+  },
+  {
+    "HeaderOffset": 34402,
+    "StartTextOffset": 34408,
+    "EndTextOffset": 34585,
+    "Text": "This character is on the hunt for a specific prey, dealing bonus damage to them with weapon and unarmed attacks. The same damage is reduced by overall {0}% against other targts."
+  },
+  {
+    "HeaderOffset": 34609,
+    "StartTextOffset": 34615,
+    "EndTextOffset": 34827,
+    "Text": "This character is being hunted and will receive {0}% bonus damage from its hunter's weapon and unarmed attacks. This damage is doubled if the attack is melee, and again doubled while this character is frightened."
+  },
+  {
+    "HeaderOffset": 34852,
+    "StartTextOffset": 34858,
+    "EndTextOffset": 34923,
+    "Text": "Psionic skills increased by {0} due to presence of other psionics."
+  },
+  {
+    "HeaderOffset": 34946,
+    "StartTextOffset": 34952,
+    "EndTextOffset": 35130,
+    "Text": "Will increased by {2}. All cold damage taken reduced by {0}% and all mechanical damage taken reduced by {1}%. The character is immune to any further chilling or freezing effects."
+  },
+  {
+    "HeaderOffset": 35143,
+    "StartTextOffset": 35149,
+    "EndTextOffset": 35358,
+    "Text": "This cat is in motion, which means that intelligence and perception are reduced by {0}, while maximum psi points are increased by {1} and psi regeneration is increased by {2}. Also, resolve is reduced by {3}%."
+  },
+  {
+    "HeaderOffset": 35381,
+    "StartTextOffset": 35387,
+    "EndTextOffset": 35616,
+    "Text": "This cat is suffering from severe motion deficiency, which means that intelligence and perception are reduced by {0}, maximum psi points are reduced by {1} and psi regeneration is reduced by {2}. Also, resolve is reduced by {3}%."
+  },
+  {
+    "HeaderOffset": 35630,
+    "StartTextOffset": 35636,
+    "EndTextOffset": 35694,
+    "Text": "Intelligence reduced by {0} and psi cost increased by {1}%."
+  },
+  {
+    "HeaderOffset": 35734,
+    "StartTextOffset": 35740,
+    "EndTextOffset": 36039,
+    "Text": "Restores {0}-{1} health each turn while standing inside a toxic gas cloud at the cost of up to {2} energy. The healing amount depends on the thickness of the cloud and the energy cost depends on the healing amount. Cannot heal above {3}% of the maximum health. Does not work while frozen or chilled."
+  },
+  {
+    "HeaderOffset": 36054,
+    "StartTextOffset": 36060,
+    "EndTextOffset": 36118,
+    "Text": "Suffering {0} damage every turn. Perception reduced by {1}."
+  },
+  {
+    "HeaderOffset": 36141,
+    "StartTextOffset": 36147,
+    "EndTextOffset": 36234,
+    "Text": "Scan time increased by {0}%, which makes the camera slower to find and report intruders."
+  },
+  {
+    "HeaderOffset": 36257,
+    "StartTextOffset": 36263,
+    "EndTextOffset": 36299,
+    "Text": "Sweep attack deals {0}% bonus damage."
+  }
+]

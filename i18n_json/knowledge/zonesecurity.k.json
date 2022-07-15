@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 393,
+    "Text": "- Setting traps or planting explosives near other characters might provoke them\r\n- Setting traps or planting explosives out of sight cannot be traced to you"
+  },
+  {
+    "HeaderOffset": 419,
+    "StartTextOffset": 425,
+    "EndTextOffset": 647,
+    "Text": "- Setting traps or planting explosives near other characters might provoke them\r\n- If members of certain factions take damage from your traps or explosives they will automatically track it back to you and will turn hostile"
+  },
+  {
+    "HeaderOffset": 664,
+    "StartTextOffset": 670,
+    "EndTextOffset": 1037,
+    "Text": "- Setting traps or planting explosives near other characters might provoke them\r\n- If members of certain factions take damage from your traps or explosives they will automatically track it back to you and will turn hostile\r\n- If members of certain factions discover traps or explosives planted by you they will automatically track it back to you and will turn hostile"
+  },
+  {
+    "HeaderOffset": 1057,
+    "StartTextOffset": 1063,
+    "EndTextOffset": 1207,
+    "Text": "If you are spotted by the cameras in this zone, you might later trigger hostilities from certain factions if the footage is not promptly erased."
+  },
+  {
+    "HeaderOffset": 1230,
+    "StartTextOffset": 1236,
+    "EndTextOffset": 1423,
+    "Text": "If you trigger hostilities with characters in this zone and leave the zone before disposing of the witnesses, the hostilities may propagate to the entire faction and even allied factions."
+  },
+  {
+    "HeaderOffset": 1444,
+    "StartTextOffset": 1450,
+    "EndTextOffset": 1493,
+    "Text": "You cannot save the game while in this zone."
+  }
+]

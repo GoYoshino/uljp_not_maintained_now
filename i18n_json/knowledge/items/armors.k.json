@@ -1,0 +1,8 @@
+[
+  {
+    "HeaderOffset": 104,
+    "StartTextOffset": 110,
+    "EndTextOffset": 131,
+    "Text": "This is a {0} {1}. {2}"
+  }
+]

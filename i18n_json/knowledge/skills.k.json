@@ -1,0 +1,152 @@
+[
+  {
+    "HeaderOffset": 754,
+    "StartTextOffset": 760,
+    "EndTextOffset": 1277,
+    "Text": "As your character levels up, they will receive a number of skill points that you can distribute in various areas. You may not invest more than 5 skill points (three times that at level one) per level in any given skill.\r\n\r\nEach skill is affected by one of your character's base ability scores, but the amount of points you may invest in any skill is not restricted by them.\r\n\r\nSome skills may benefit from others through skill synergy.\r\n\r\nThe number in brackets represents the skill level with all factors counted in."
+  },
+  {
+    "HeaderOffset": 1288,
+    "StartTextOffset": 1294,
+    "EndTextOffset": 1506,
+    "Text": "Increases your precision and damage with any type of pistol, SMG or rifle. This includes both firearms and energy weapons.\r\n\r\nAlso, the higher your skill level the more advanced weapons you can wield effectively."
+  },
+  {
+    "HeaderOffset": 1522,
+    "StartTextOffset": 1528,
+    "EndTextOffset": 1578,
+    "Text": "Increases your precision and damage with crossbows."
+  },
+  {
+    "HeaderOffset": 1597,
+    "StartTextOffset": 1603,
+    "EndTextOffset": 1684,
+    "Text": "Allows you to throw grenades more quickly, more often and across greater distance."
+  },
+  {
+    "HeaderOffset": 1699,
+    "StartTextOffset": 1705,
+    "EndTextOffset": 1787,
+    "Text": "Increases your precision with all thrown weapons and utilities, including grenades."
+  },
+  {
+    "HeaderOffset": 1799,
+    "StartTextOffset": 1805,
+    "EndTextOffset": 1921,
+    "Text": "Increases mechanical damage with melee weapons and unarmed attacks and helps you overcome your target's dodge rating."
+  },
+  {
+    "HeaderOffset": 1933,
+    "StartTextOffset": 1939,
+    "EndTextOffset": 1983,
+    "Text": "Increases your chance to avoid melee attacks."
+  },
+  {
+    "HeaderOffset": 1997,
+    "StartTextOffset": 2003,
+    "EndTextOffset": 2105,
+    "Text": "Increases your chance to avoid a ranged attack. Reduces damage you receive from area of effect attacks."
+  },
+  {
+    "HeaderOffset": 2119,
+    "StartTextOffset": 2125,
+    "EndTextOffset": 2239,
+    "Text": "Decreases the chance that you'll be spotted while in stealth mode. Also affects numerous aspects of stealth combat."
+  },
+  {
+    "HeaderOffset": 2253,
+    "StartTextOffset": 2259,
+    "EndTextOffset": 2363,
+    "Text": "Allows you to hack all kinds of computer devices, such as electronic locks, cameras, sentry turrets, etc."
+  },
+  {
+    "HeaderOffset": 2381,
+    "StartTextOffset": 2387,
+    "EndTextOffset": 2489,
+    "Text": "Allows you to pick mechanical locks and dismantle other mechanical barriers such as ventilation shafts."
+  },
+  {
+    "HeaderOffset": 2509,
+    "StartTextOffset": 2515,
+    "EndTextOffset": 2562,
+    "Text": "Allows you to steal items from other characters."
+  },
+  {
+    "HeaderOffset": 2578,
+    "StartTextOffset": 2584,
+    "EndTextOffset": 2714,
+    "Text": "Represents your knowledge of mechanics. This skill is primarily used in crafting various items, such as weapons, armors and traps."
+  },
+  {
+    "HeaderOffset": 2732,
+    "StartTextOffset": 2738,
+    "EndTextOffset": 2892,
+    "Text": "Represents your knowledge of electronics. This skill is primarily used in crafting various items, such as various electronic utilities and energy weapons."
+  },
+  {
+    "HeaderOffset": 2908,
+    "StartTextOffset": 2914,
+    "EndTextOffset": 3028,
+    "Text": "Represents your knowledge of chemistry. This skill is primarily used in crafting various items, such as explosives."
+  },
+  {
+    "HeaderOffset": 3042,
+    "StartTextOffset": 3048,
+    "EndTextOffset": 3262,
+    "Text": "Represents your knowledge of biology. This skill is primarily used in crafting various items, such as healing and psi restoring concoctions. It also enables you to extract useful substances from plants and animals."
+  },
+  {
+    "HeaderOffset": 3278,
+    "StartTextOffset": 3284,
+    "EndTextOffset": 3367,
+    "Text": "Represents your skill in tailoring leather and cloth materials into pieces of armor."
+  },
+  {
+    "HeaderOffset": 3389,
+    "StartTextOffset": 3395,
+    "EndTextOffset": 3599,
+    "Text": "Ability to influence the minds of other living creatures through mental suggestion and domination. Also the ability to focus and enhance your own mental processes and to take greater control of your body."
+  },
+  {
+    "HeaderOffset": 3619,
+    "StartTextOffset": 3625,
+    "EndTextOffset": 3743,
+    "Text": "Ability of the mind to exert mechanical force, as well as to emit electric currents and project electromagnetic fields."
+  },
+  {
+    "HeaderOffset": 3762,
+    "StartTextOffset": 3768,
+    "EndTextOffset": 3881,
+    "Text": "Ability of mind to initiate and control rapid temperature changes and harness exothermic and endothermic energies."
+  },
+  {
+    "HeaderOffset": 3909,
+    "StartTextOffset": 3915,
+    "EndTextOffset": 4049,
+    "Text": "Ability of mind to manipulate time or time perception on very local level, including partial time suspension, reversal and recurrence."
+  },
+  {
+    "HeaderOffset": 4066,
+    "StartTextOffset": 4072,
+    "EndTextOffset": 4161,
+    "Text": "Your ability to convince the other party to see things your way through non-violent means."
+  },
+  {
+    "HeaderOffset": 4180,
+    "StartTextOffset": 4186,
+    "EndTextOffset": 4230,
+    "Text": "Your ability to make someone act out of fear."
+  },
+  {
+    "HeaderOffset": 4247,
+    "StartTextOffset": 4253,
+    "EndTextOffset": 4320,
+    "Text": "Your ability to work out favorable prices in a business transaction."
+  },
+  {
+    "HeaderOffset": 4332,
+    "StartTextOffset": 4338,
+    "EndTextOffset": 4522,
+    "Text": "Allows you to plant and disarm increasingly more powerful traps. The higher your skill is the harder your traps are to spot and disarm.\r\n\r\nAlso increases your chance of spotting traps."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 399,
+    "StartTextOffset": 405,
+    "EndTextOffset": 487,
+    "Text": "Mechanical damage resistance and threshold increased by {0}% against melee attacks."
+  },
+  {
+    "HeaderOffset": 522,
+    "StartTextOffset": 528,
+    "EndTextOffset": 589,
+    "Text": "Mechanical damage threshold increased by {0}% against bullets."
+  },
+  {
+    "HeaderOffset": 633,
+    "StartTextOffset": 639,
+    "EndTextOffset": 719,
+    "Text": "Mechanical damage threshold increased by {0}% against bullets and shotgun shells."
+  },
+  {
+    "HeaderOffset": 742,
+    "StartTextOffset": 748,
+    "EndTextOffset": 802,
+    "Text": "Your successful melee attacks inflict extra {0} damage."
+  },
+  {
+    "HeaderOffset": 831,
+    "StartTextOffset": 837,
+    "EndTextOffset": 893,
+    "Text": "Your successful unarmed attacks inflict extra {0} damage."
+  },
+  {
+    "HeaderOffset": 931,
+    "StartTextOffset": 937,
+    "EndTextOffset": 1009,
+    "Text": "Your successful unarmed and fist weapon attacks inflict extra {0} damage."
+  },
+  {
+    "HeaderOffset": 1041,
+    "StartTextOffset": 1047,
+    "EndTextOffset": 1158,
+    "Text": "Your successful melee attacks have {0}% chance to inflict a bleeding wound that deals {1} damage over {2} turns."
+  },
+  {
+    "HeaderOffset": 1192,
+    "StartTextOffset": 1198,
+    "EndTextOffset": 1311,
+    "Text": "Your successful unarmed attacks have {0}% chance to inflict a bleeding wound that deals {1} damage over {2} turns."
+  },
+  {
+    "HeaderOffset": 1358,
+    "StartTextOffset": 1364,
+    "EndTextOffset": 1405,
+    "Text": "Reduces damage from critical hits by {0}%."
+  },
+  {
+    "HeaderOffset": 1458,
+    "StartTextOffset": 1464,
+    "EndTextOffset": 1512,
+    "Text": "Reduces bullet damage from critical hits by {0}%."
+  },
+  {
+    "HeaderOffset": 1539,
+    "StartTextOffset": 1545,
+    "EndTextOffset": 1627,
+    "Text": "Mechanical damage resistance and threshold increased by {0}% against knife attacks."
+  },
+  {
+    "HeaderOffset": 1659,
+    "StartTextOffset": 1665,
+    "EndTextOffset": 1777,
+    "Text": "Mechanical damage resistance and threshold increased by {0}% against attacks by melee weapon with a cutting edge."
+  }
+]

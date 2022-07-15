@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 179,
+    "StartTextOffset": 185,
+    "EndTextOffset": 354,
+    "Text": "Ignores mechanical damage threshold and half the mechanical damage resistance. Attempts to deal 35% of the original non-critical damage to the targets it passes through."
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 464,
+    "Text": "Half of the damage bonus of Improved and Expert Unarmed Combat applies to this weapon."
+  },
+  {
+    "HeaderOffset": 481,
+    "StartTextOffset": 487,
+    "EndTextOffset": 546,
+    "Text": "Deals normal weapon damage to the targets it passes through."
+  },
+  {
+    "HeaderOffset": 566,
+    "StartTextOffset": 572,
+    "EndTextOffset": 631,
+    "Text": "Deals normal weapon damage to the targets it passes through."
+  }
+]

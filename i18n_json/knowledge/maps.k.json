@@ -1,0 +1,644 @@
+[
+  {
+    "HeaderOffset": 3056,
+    "StartTextOffset": 3062,
+    "EndTextOffset": 3161,
+    "Text": "This is your home base. It's a vertical compound that spans between Lower Underrail and lower caves."
+  },
+  {
+    "HeaderOffset": 3184,
+    "StartTextOffset": 3190,
+    "EndTextOffset": 3289,
+    "Text": "This is your home base. It's a vertical compound that spans between Lower Underrail and lower caves."
+  },
+  {
+    "HeaderOffset": 3310,
+    "StartTextOffset": 3316,
+    "EndTextOffset": 3364,
+    "Text": "Cave tunnels connecting SGS with the lower caves."
+  },
+  {
+    "HeaderOffset": 3388,
+    "StartTextOffset": 3394,
+    "EndTextOffset": 3467,
+    "Text": "Caves containing series of small outposts once used by South Gate Station."
+  },
+  {
+    "HeaderOffset": 3479,
+    "StartTextOffset": 3485,
+    "EndTextOffset": 3585,
+    "Text": "There is an intricate network of cave tunnels below, above and all around the Underrail metro system."
+  },
+  {
+    "HeaderOffset": 3598,
+    "StartTextOffset": 3604,
+    "EndTextOffset": 3726,
+    "Text": "You can purchase weapons and armors from Lucas at the armory here, and also practice your gun skills at the shooting range."
+  },
+  {
+    "HeaderOffset": 3739,
+    "StartTextOffset": 3745,
+    "EndTextOffset": 3830,
+    "Text": "Purchase food and gossip around in the cantina. Tanner's office is also on this level."
+  },
+  {
+    "HeaderOffset": 3843,
+    "StartTextOffset": 3849,
+    "EndTextOffset": 3879,
+    "Text": "Vera's office is on this level."
+  },
+  {
+    "HeaderOffset": 3892,
+    "StartTextOffset": 3898,
+    "EndTextOffset": 3991,
+    "Text": "This level contains the private quarters of many of the stations inhabitants, including yours."
+  },
+  {
+    "HeaderOffset": 4004,
+    "StartTextOffset": 4010,
+    "EndTextOffset": 4056,
+    "Text": "You can get medical and psionic attention here."
+  },
+  {
+    "HeaderOffset": 4069,
+    "StartTextOffset": 4075,
+    "EndTextOffset": 4189,
+    "Text": "This is where mechanical, electronic and computer engineering takes place. You can purchase related equipment here."
+  },
+  {
+    "HeaderOffset": 4202,
+    "StartTextOffset": 4208,
+    "EndTextOffset": 4326,
+    "Text": "This is where the animals are kept and plants and fungi are grown. You can purchase various biological components here."
+  },
+  {
+    "HeaderOffset": 4339,
+    "StartTextOffset": 4345,
+    "EndTextOffset": 4396,
+    "Text": "You can exit into the caves here or go to the docks."
+  },
+  {
+    "HeaderOffset": 4414,
+    "StartTextOffset": 4420,
+    "EndTextOffset": 4493,
+    "Text": "The GMS compound used to belong to Omega station, before it was abandoned."
+  },
+  {
+    "HeaderOffset": 4510,
+    "StartTextOffset": 4516,
+    "EndTextOffset": 4571,
+    "Text": "Old coal mining outpost that turned into a hunting camp."
+  },
+  {
+    "HeaderOffset": 4588,
+    "StartTextOffset": 4594,
+    "EndTextOffset": 4607,
+    "Text": "Old coal mine."
+  },
+  {
+    "HeaderOffset": 4630,
+    "StartTextOffset": 4636,
+    "EndTextOffset": 4756,
+    "Text": "You have a creepy feeling that someone is staring at you intensely from some dark corner as you move through these caves."
+  },
+  {
+    "HeaderOffset": 4784,
+    "StartTextOffset": 4790,
+    "EndTextOffset": 4830,
+    "Text": "An old abandoned battery recycling plant."
+  },
+  {
+    "HeaderOffset": 4845,
+    "StartTextOffset": 4851,
+    "EndTextOffset": 4917,
+    "Text": "From here you can set sail to Junkyard, Camp Hathor, and Core City."
+  },
+  {
+    "HeaderOffset": 4936,
+    "StartTextOffset": 4942,
+    "EndTextOffset": 5060,
+    "Text": "Many smaller rivers and streams converge here to create one large body of water from which the river Celeritas springs."
+  },
+  {
+    "HeaderOffset": 5080,
+    "StartTextOffset": 5086,
+    "EndTextOffset": 5144,
+    "Text": "You can hear the sound of water bubbling up all around you."
+  },
+  {
+    "HeaderOffset": 5159,
+    "StartTextOffset": 5165,
+    "EndTextOffset": 5289,
+    "Text": "A scrappy settlement off the grid, built around, and from, an old junkyard. It's a dangerous place run by two rivaling gangs."
+  },
+  {
+    "HeaderOffset": 5309,
+    "StartTextOffset": 5315,
+    "EndTextOffset": 5425,
+    "Text": "Controlled by ruthless Black Eels. From here you can set sail to South Gate Station, Camp Hathor and Core City."
+  },
+  {
+    "HeaderOffset": 5447,
+    "StartTextOffset": 5453,
+    "EndTextOffset": 5516,
+    "Text": "The original junkyard. Now a dangerous place overrun by mutants."
+  },
+  {
+    "HeaderOffset": 5535,
+    "StartTextOffset": 5541,
+    "EndTextOffset": 5581,
+    "Text": "Gate to the settlement known as Junkyard."
+  },
+  {
+    "HeaderOffset": 5596,
+    "StartTextOffset": 5602,
+    "EndTextOffset": 5712,
+    "Text": "The largest city of the South Underrail. Formerly a Biocorp megalopolis, now ruled by an independent oligarchy."
+  },
+  {
+    "HeaderOffset": 5732,
+    "StartTextOffset": 5738,
+    "EndTextOffset": 5756,
+    "Text": "Gates to Core City."
+  },
+  {
+    "HeaderOffset": 5778,
+    "StartTextOffset": 5784,
+    "EndTextOffset": 5826,
+    "Text": "Entrance to the industrial town of Foundry."
+  },
+  {
+    "HeaderOffset": 5840,
+    "StartTextOffset": 5846,
+    "EndTextOffset": 5990,
+    "Text": "This industrial complex, in addition of being a foundry, also houses its workers, as well as a number of traders and the renowned Foundry Guard."
+  },
+  {
+    "HeaderOffset": 6008,
+    "StartTextOffset": 6014,
+    "EndTextOffset": 6071,
+    "Text": "People of Foundry extract valuable ore from these caverns."
+  },
+  {
+    "HeaderOffset": 6092,
+    "StartTextOffset": 6098,
+    "EndTextOffset": 6210,
+    "Text": "Upper metro system of South Underrail. It used to connect mostly commercial, research and educational facilities."
+  },
+  {
+    "HeaderOffset": 6241,
+    "StartTextOffset": 6247,
+    "EndTextOffset": 6323,
+    "Text": "Entrance to the Institute of Tchort, an esoteric sciento-religious community."
+  },
+  {
+    "HeaderOffset": 6347,
+    "StartTextOffset": 6353,
+    "EndTextOffset": 6392,
+    "Text": "An esoteric sciento-religious community."
+  },
+  {
+    "HeaderOffset": 6419,
+    "StartTextOffset": 6425,
+    "EndTextOffset": 6456,
+    "Text": "An old decrepit shopping center."
+  },
+  {
+    "HeaderOffset": 6472,
+    "StartTextOffset": 6478,
+    "EndTextOffset": 6526,
+    "Text": "Old research lab, now used for... other purposes."
+  },
+  {
+    "HeaderOffset": 6551,
+    "StartTextOffset": 6557,
+    "EndTextOffset": 6588,
+    "Text": "Entrance to an old research lab."
+  },
+  {
+    "HeaderOffset": 6605,
+    "StartTextOffset": 6611,
+    "EndTextOffset": 6659,
+    "Text": "Old research lab, now used for... other purposes."
+  },
+  {
+    "HeaderOffset": 6676,
+    "StartTextOffset": 6682,
+    "EndTextOffset": 6729,
+    "Text": "Biggest Protectorate outpost in South Underrail."
+  },
+  {
+    "HeaderOffset": 6750,
+    "StartTextOffset": 6756,
+    "EndTextOffset": 6842,
+    "Text": "Lower metro system of South Underrail. It used to connect mostly industrial facilities."
+  },
+  {
+    "HeaderOffset": 6869,
+    "StartTextOffset": 6875,
+    "EndTextOffset": 6932,
+    "Text": "Protectorate's outpost in the farthest south of Underrail."
+  },
+  {
+    "HeaderOffset": 6960,
+    "StartTextOffset": 6966,
+    "EndTextOffset": 6990,
+    "Text": "A secluded metro station."
+  },
+  {
+    "HeaderOffset": 7009,
+    "StartTextOffset": 7015,
+    "EndTextOffset": 7041,
+    "Text": "A small peaceful community."
+  },
+  {
+    "HeaderOffset": 7066,
+    "StartTextOffset": 7072,
+    "EndTextOffset": 7119,
+    "Text": "This storage block is now occupied by Ironheads."
+  },
+  {
+    "HeaderOffset": 7147,
+    "StartTextOffset": 7153,
+    "EndTextOffset": 7201,
+    "Text": "Old research lab, now used for... other purposes."
+  },
+  {
+    "HeaderOffset": 7221,
+    "StartTextOffset": 7227,
+    "EndTextOffset": 7300,
+    "Text": "A network of utility passages sprawling underneath the lower metro system."
+  },
+  {
+    "HeaderOffset": 7313,
+    "StartTextOffset": 7319,
+    "EndTextOffset": 7339,
+    "Text": "The eye of Underrail."
+  },
+  {
+    "HeaderOffset": 7364,
+    "StartTextOffset": 7370,
+    "EndTextOffset": 7418,
+    "Text": "Old research lab, now used for... other purposes."
+  },
+  {
+    "HeaderOffset": 7435,
+    "StartTextOffset": 7441,
+    "EndTextOffset": 7467,
+    "Text": "A weird out-of-the-way inn."
+  },
+  {
+    "HeaderOffset": 7480,
+    "StartTextOffset": 7486,
+    "EndTextOffset": 7504,
+    "Text": "Abominable thing..."
+  },
+  {
+    "HeaderOffset": 7523,
+    "StartTextOffset": 7529,
+    "EndTextOffset": 7587,
+    "Text": "Large, often badly damaged, mutagen tanks litter this area."
+  },
+  {
+    "HeaderOffset": 7605,
+    "StartTextOffset": 7611,
+    "EndTextOffset": 7685,
+    "Text": "Old decrepit Biocorp research complex. It seems to have met a gruesome end."
+  },
+  {
+    "HeaderOffset": 7709,
+    "StartTextOffset": 7715,
+    "EndTextOffset": 7731,
+    "Text": "Caved-in passage."
+  },
+  {
+    "HeaderOffset": 7753,
+    "StartTextOffset": 7759,
+    "EndTextOffset": 7792,
+    "Text": "Tchortists outpost in Deep Cavern."
+  },
+  {
+    "HeaderOffset": 7810,
+    "StartTextOffset": 7816,
+    "EndTextOffset": 7869,
+    "Text": "Something very wrong seems to be going on in this lab."
+  },
+  {
+    "HeaderOffset": 7888,
+    "StartTextOffset": 7894,
+    "EndTextOffset": 7964,
+    "Text": "What is this scrappy shack doing in this secluded part of Deep Caverns."
+  },
+  {
+    "HeaderOffset": 7987,
+    "StartTextOffset": 7993,
+    "EndTextOffset": 8038,
+    "Text": "It seems to be still working in some capacity."
+  },
+  {
+    "HeaderOffset": 8072,
+    "StartTextOffset": 8078,
+    "EndTextOffset": 8108,
+    "Text": "A series of storage facilities."
+  },
+  {
+    "HeaderOffset": 8127,
+    "StartTextOffset": 8133,
+    "EndTextOffset": 8167,
+    "Text": "This old outpost has new residents."
+  },
+  {
+    "HeaderOffset": 8191,
+    "StartTextOffset": 8197,
+    "EndTextOffset": 8251,
+    "Text": "There is a number of ruined residential buildings here."
+  },
+  {
+    "HeaderOffset": 8270,
+    "StartTextOffset": 8276,
+    "EndTextOffset": 8306,
+    "Text": "Red beedy eyes in the darkness."
+  },
+  {
+    "HeaderOffset": 8322,
+    "StartTextOffset": 8328,
+    "EndTextOffset": 8381,
+    "Text": "A system of small caves connected with narrow tunnels."
+  },
+  {
+    "HeaderOffset": 8402,
+    "StartTextOffset": 8408,
+    "EndTextOffset": 8459,
+    "Text": "This is not right. Mushrooms should not be this big."
+  },
+  {
+    "HeaderOffset": 8477,
+    "StartTextOffset": 8483,
+    "EndTextOffset": 8555,
+    "Text": "So it is true, there is a system of large caverns deep beneath Underrail."
+  },
+  {
+    "HeaderOffset": 8584,
+    "StartTextOffset": 8590,
+    "EndTextOffset": 8620,
+    "Text": "Old abandoned Biocorp facility."
+  },
+  {
+    "HeaderOffset": 8641,
+    "StartTextOffset": 8647,
+    "EndTextOffset": 8693,
+    "Text": "This is the base of operations for Free Drones."
+  },
+  {
+    "HeaderOffset": 8707,
+    "StartTextOffset": 8713,
+    "EndTextOffset": 8744,
+    "Text": "You're not sure where you are..."
+  },
+  {
+    "HeaderOffset": 8759,
+    "StartTextOffset": 8765,
+    "EndTextOffset": 8863,
+    "Text": "Black Sea is a giant lake resting in the equally big cavern. This area is also known as Hell's Gut."
+  },
+  {
+    "HeaderOffset": 8884,
+    "StartTextOffset": 8890,
+    "EndTextOffset": 8907,
+    "Text": "A secluded grotto."
+  },
+  {
+    "HeaderOffset": 8934,
+    "StartTextOffset": 8940,
+    "EndTextOffset": 8990,
+    "Text": "There's a village of savage Black Sea natives here."
+  },
+  {
+    "HeaderOffset": 9016,
+    "StartTextOffset": 9022,
+    "EndTextOffset": 9115,
+    "Text": "Something that you can only describe as an aura of evil weighs heavily upon you in this place."
+  },
+  {
+    "HeaderOffset": 9133,
+    "StartTextOffset": 9139,
+    "EndTextOffset": 9187,
+    "Text": "This island is now home to a community of muties."
+  },
+  {
+    "HeaderOffset": 9208,
+    "StartTextOffset": 9214,
+    "EndTextOffset": 9260,
+    "Text": "The waters here are very quick and treacherous."
+  },
+  {
+    "HeaderOffset": 9271,
+    "StartTextOffset": 9277,
+    "EndTextOffset": 9394,
+    "Text": "The numerous stalagmites and stalactites here give jaw-like appearance to this passageway that leads to the Black Sea."
+  },
+  {
+    "HeaderOffset": 9423,
+    "StartTextOffset": 9429,
+    "EndTextOffset": 9473,
+    "Text": "A group of Northerners have set up camp here."
+  },
+  {
+    "HeaderOffset": 9496,
+    "StartTextOffset": 9502,
+    "EndTextOffset": 9560,
+    "Text": "This large makeshift port is home to the Black Sea pirates."
+  },
+  {
+    "HeaderOffset": 9575,
+    "StartTextOffset": 9581,
+    "EndTextOffset": 9639,
+    "Text": "This large makeshift port is home to the Black Sea pirates."
+  },
+  {
+    "HeaderOffset": 9671,
+    "StartTextOffset": 9677,
+    "EndTextOffset": 9735,
+    "Text": "This large makeshift port is home to the Black Sea pirates."
+  },
+  {
+    "HeaderOffset": 9760,
+    "StartTextOffset": 9766,
+    "EndTextOffset": 9887,
+    "Text": "This large makeshift port is home to the Black Sea pirates. It seems to have been built around an old decrepit battleship."
+  },
+  {
+    "HeaderOffset": 9925,
+    "StartTextOffset": 9931,
+    "EndTextOffset": 9976,
+    "Text": "It's overgrown with some type of reddish weed."
+  },
+  {
+    "HeaderOffset": 9991,
+    "StartTextOffset": 9997,
+    "EndTextOffset": 10115,
+    "Text": "It's hard to image the creatures these bones once belonged to. Surely nothing this big exists anymore in the Black Sea."
+  },
+  {
+    "HeaderOffset": 10144,
+    "StartTextOffset": 10150,
+    "EndTextOffset": 10211,
+    "Text": "One can indubitably sense a restless and malicious numen here."
+  },
+  {
+    "HeaderOffset": 10233,
+    "StartTextOffset": 10239,
+    "EndTextOffset": 10260,
+    "Text": "There be pirates here."
+  },
+  {
+    "HeaderOffset": 10275,
+    "StartTextOffset": 10281,
+    "EndTextOffset": 10316,
+    "Text": "The smaller of the two pirate ports."
+  },
+  {
+    "HeaderOffset": 10328,
+    "StartTextOffset": 10334,
+    "EndTextOffset": 10379,
+    "Text": "Large waterfront of an old industrial complex."
+  },
+  {
+    "HeaderOffset": 10396,
+    "StartTextOffset": 10402,
+    "EndTextOffset": 10423,
+    "Text": "A natural basalt cave."
+  },
+  {
+    "HeaderOffset": 10440,
+    "StartTextOffset": 10446,
+    "EndTextOffset": 10525,
+    "Text": "This foul-smelling marsh is overrun with insects, snakes and other undesirables."
+  },
+  {
+    "HeaderOffset": 10549,
+    "StartTextOffset": 10555,
+    "EndTextOffset": 10598,
+    "Text": "Entrance to some sort of high-tech facility."
+  },
+  {
+    "HeaderOffset": 10621,
+    "StartTextOffset": 10627,
+    "EndTextOffset": 10732,
+    "Text": "The ground here is muddy and the area is littered with pools of boiling greenish water and active geysers."
+  },
+  {
+    "HeaderOffset": 10771,
+    "StartTextOffset": 10777,
+    "EndTextOffset": 10916,
+    "Text": "The ground here is muddy and the area is littered with pools of boiling greenish water and active geysers. There's a facility here, though."
+  },
+  {
+    "HeaderOffset": 10939,
+    "StartTextOffset": 10945,
+    "EndTextOffset": 10983,
+    "Text": "You can hear skittering all around you."
+  },
+  {
+    "HeaderOffset": 11015,
+    "StartTextOffset": 11021,
+    "EndTextOffset": 11126,
+    "Text": "Due to all the automated combat machinery, you can also surmise that this is some sort of a military base."
+  },
+  {
+    "HeaderOffset": 11149,
+    "StartTextOffset": 11155,
+    "EndTextOffset": 11188,
+    "Text": "It appears someone is living here."
+  },
+  {
+    "HeaderOffset": 11212,
+    "StartTextOffset": 11218,
+    "EndTextOffset": 11273,
+    "Text": "Even by Core City standards this place is really stinky."
+  },
+  {
+    "HeaderOffset": 11288,
+    "StartTextOffset": 11294,
+    "EndTextOffset": 11364,
+    "Text": "The circular waterway near the Core City is popularly called Core Ring."
+  },
+  {
+    "HeaderOffset": 11398,
+    "StartTextOffset": 11404,
+    "EndTextOffset": 11523,
+    "Text": "The circular waterway near the Core City is popularly called Core Ring. Protectorate likes to set up its outposts there."
+  },
+  {
+    "HeaderOffset": 11542,
+    "StartTextOffset": 11548,
+    "EndTextOffset": 11670,
+    "Text": "Too close to the Rig for pirates, but too far from it to get drawn into a bar fight - probably the safest part of any sail."
+  },
+  {
+    "HeaderOffset": 11686,
+    "StartTextOffset": 11692,
+    "EndTextOffset": 11744,
+    "Text": "This pass separates the Core Ring from the Dreadpool."
+  },
+  {
+    "HeaderOffset": 11762,
+    "StartTextOffset": 11768,
+    "EndTextOffset": 11813,
+    "Text": "This is as far as most people would dare sail."
+  },
+  {
+    "HeaderOffset": 11832,
+    "StartTextOffset": 11838,
+    "EndTextOffset": 11892,
+    "Text": "This is the longest known navigable river in the south."
+  },
+  {
+    "HeaderOffset": 11913,
+    "StartTextOffset": 11919,
+    "EndTextOffset": 11983,
+    "Text": "There are large numbers of hoppers and boars in these here caves."
+  },
+  {
+    "HeaderOffset": 11996,
+    "StartTextOffset": 12002,
+    "EndTextOffset": 12097,
+    "Text": "Large platform made by Black Eels to control the nearby waterways and facilitate Junkyard trade."
+  },
+  {
+    "HeaderOffset": 12113,
+    "StartTextOffset": 12119,
+    "EndTextOffset": 12139,
+    "Text": "Look out for pirates."
+  },
+  {
+    "HeaderOffset": 12159,
+    "StartTextOffset": 12165,
+    "EndTextOffset": 12227,
+    "Text": "All the scrap that is traded out from Junkyard passes this way."
+  },
+  {
+    "HeaderOffset": 12246,
+    "StartTextOffset": 12252,
+    "EndTextOffset": 12315,
+    "Text": "The infamous bay where the pirates fence off their stolen goods."
+  },
+  {
+    "HeaderOffset": 12347,
+    "StartTextOffset": 12353,
+    "EndTextOffset": 12424,
+    "Text": "The remains of an old naval facility, intersected by numerous waterways."
+  },
+  {
+    "HeaderOffset": 12442,
+    "StartTextOffset": 12448,
+    "EndTextOffset": 12490,
+    "Text": "The place for all your hopper racing needs!"
+  },
+  {
+    "HeaderOffset": 12512,
+    "StartTextOffset": 12518,
+    "EndTextOffset": 12557,
+    "Text": "A soaring, abandoned, deep-frozen tower."
+  }
+]

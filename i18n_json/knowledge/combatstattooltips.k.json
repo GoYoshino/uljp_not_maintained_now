@@ -1,0 +1,344 @@
+[
+  {
+    "HeaderOffset": 1645,
+    "StartTextOffset": 1651,
+    "EndTextOffset": 1743,
+    "Text": "Shows current and maximum health points. When your current health points reach zero, you die."
+  },
+  {
+    "HeaderOffset": 1770,
+    "StartTextOffset": 1776,
+    "EndTextOffset": 1839,
+    "Text": "Shows the number by which any incoming healing will be modified."
+  },
+  {
+    "HeaderOffset": 1852,
+    "StartTextOffset": 1858,
+    "EndTextOffset": 2113,
+    "Text": "Shows current and maximum shield points. Whenever you're hit, the shield will absorb certain amount of damage depending on the impact speed of the attack as long as you have shield points left. Shield will also slowly deplete on their own while turned on."
+  },
+  {
+    "HeaderOffset": 2123,
+    "StartTextOffset": 2129,
+    "EndTextOffset": 2244,
+    "Text": "Shows current and maximum psi points, as well as psi regeneration per turn. Psi is used to invoke psionic abilities."
+  },
+  {
+    "HeaderOffset": 2261,
+    "StartTextOffset": 2267,
+    "EndTextOffset": 2387,
+    "Text": "Shows current and maximum psi point reserves. These points are used to naturally regenerate regular psi points over time."
+  },
+  {
+    "HeaderOffset": 2399,
+    "StartTextOffset": 2405,
+    "EndTextOffset": 2449,
+    "Text": "Increases your chance to avoid melee attacks."
+  },
+  {
+    "HeaderOffset": 2463,
+    "StartTextOffset": 2469,
+    "EndTextOffset": 2585,
+    "Text": "Increases your chance to avoid ranged weapon attacks and also decreases the damage taken from area of effect attacks."
+  },
+  {
+    "HeaderOffset": 2601,
+    "StartTextOffset": 2607,
+    "EndTextOffset": 2768,
+    "Text": "Increases the chance to resist some negative status effects, such as stun and incapacitation, caused by direct physical trauma. Also increases poison resistance."
+  },
+  {
+    "HeaderOffset": 2782,
+    "StartTextOffset": 2788,
+    "EndTextOffset": 2999,
+    "Text": "Increases the chance to resist some negative status effects, such as stun and incapacitation, caused by mental stress and also reduces damage or duration of certain psionic attacks that target the mind directly."
+  },
+  {
+    "HeaderOffset": 3030,
+    "StartTextOffset": 3036,
+    "EndTextOffset": 3114,
+    "Text": "Modifies the chance you'll get critically hit with weapons and unarmed attacks."
+  },
+  {
+    "HeaderOffset": 3142,
+    "StartTextOffset": 3148,
+    "EndTextOffset": 3212,
+    "Text": "Modifies the chance you'll get critically hit with psi abilities."
+  },
+  {
+    "HeaderOffset": 3231,
+    "StartTextOffset": 3237,
+    "EndTextOffset": 3288,
+    "Text": "Reduces dodge, evasion, stealth and movement points."
+  },
+  {
+    "HeaderOffset": 3309,
+    "StartTextOffset": 3315,
+    "EndTextOffset": 3382,
+    "Text": "The total amount of damage the shield can absorb when fully charged."
+  },
+  {
+    "HeaderOffset": 3409,
+    "StartTextOffset": 3415,
+    "EndTextOffset": 3537,
+    "Text": "Keep in mind that certain attacks can ignore a percentage of the shielding amount, or even ignore the shielding altogether."
+  },
+  {
+    "HeaderOffset": 3560,
+    "StartTextOffset": 3566,
+    "EndTextOffset": 3695,
+    "Text": "Maximum amount of damage that the shield can absorb per attack from very low impact speed attacks (such as melee weapon attacks)."
+  },
+  {
+    "HeaderOffset": 3714,
+    "StartTextOffset": 3720,
+    "EndTextOffset": 3837,
+    "Text": "Maximum amount of damage that the shield can absorb per attack from low impact speed attacks (such as crossbow bolts)."
+  },
+  {
+    "HeaderOffset": 3859,
+    "StartTextOffset": 3865,
+    "EndTextOffset": 3987,
+    "Text": "Maximum amount of damage that the shield can absorb per attack from medium impact speed attacks (such as regular firearms)."
+  },
+  {
+    "HeaderOffset": 4007,
+    "StartTextOffset": 4013,
+    "EndTextOffset": 4130,
+    "Text": "Maximum amount of damage that the shield can absorb per attack from high impact speed attacks (such as sniper rifles)."
+  },
+  {
+    "HeaderOffset": 4154,
+    "StartTextOffset": 4160,
+    "EndTextOffset": 4283,
+    "Text": "Maximum amount of damage that the shield can absorb per attack from very high impact speed attacks (such as energy weapons)."
+  },
+  {
+    "HeaderOffset": 4311,
+    "StartTextOffset": 4317,
+    "EndTextOffset": 4681,
+    "Text": "The armor either absorbs the amount indicated by the percentage OR the flat number, whichever will result in more damage being absorbed. Keep in mind that certain damages (such as poison or direct mind damage, completely ignore armor).\r\n\r\nThe number in the brackets is the percentage by which the damage that goes through the shield and the resistance is modified."
+  },
+  {
+    "HeaderOffset": 4708,
+    "StartTextOffset": 4714,
+    "EndTextOffset": 4767,
+    "Text": "The amount of mechanical damage your armor can absorb."
+  },
+  {
+    "HeaderOffset": 4788,
+    "StartTextOffset": 4794,
+    "EndTextOffset": 4841,
+    "Text": "The amount of heat damage your armor can absorb."
+  },
+  {
+    "HeaderOffset": 4862,
+    "StartTextOffset": 4868,
+    "EndTextOffset": 4915,
+    "Text": "The amount of cold damage your armor can absorb."
+  },
+  {
+    "HeaderOffset": 4943,
+    "StartTextOffset": 4949,
+    "EndTextOffset": 5002,
+    "Text": "The amount of electrical damage your armor can absorb."
+  },
+  {
+    "HeaderOffset": 5023,
+    "StartTextOffset": 5029,
+    "EndTextOffset": 5076,
+    "Text": "The amount of acid damage your armor can absorb."
+  },
+  {
+    "HeaderOffset": 5099,
+    "StartTextOffset": 5105,
+    "EndTextOffset": 5154,
+    "Text": "The amount of energy damage your armor can absorb."
+  },
+  {
+    "HeaderOffset": 5174,
+    "StartTextOffset": 5180,
+    "EndTextOffset": 5226,
+    "Text": "The amount of bio damage your armor can absorb."
+  },
+  {
+    "HeaderOffset": 5240,
+    "StartTextOffset": 5246,
+    "EndTextOffset": 5510,
+    "Text": "Indicates how well you can move undetected. The higher your stealth rating is in comparison to enemy's the longer it will take for you to be discovered. If your stealth is much too lower than the detection rating, you will be discovered instantly at maximum range."
+  },
+  {
+    "HeaderOffset": 5526,
+    "StartTextOffset": 5532,
+    "EndTextOffset": 5584,
+    "Text": "Indicates how quickly you discover hidden characters."
+  },
+  {
+    "HeaderOffset": 5604,
+    "StartTextOffset": 5610,
+    "EndTextOffset": 5704,
+    "Text": "Indicates how well you discover traps. It's derived from your detection rating and traps skill."
+  },
+  {
+    "HeaderOffset": 5723,
+    "StartTextOffset": 5729,
+    "EndTextOffset": 5843,
+    "Text": "Current weapon normal attack damage range. Only includes bonuses from skill level and strength (for melee weapons)."
+  },
+  {
+    "HeaderOffset": 5871,
+    "StartTextOffset": 5877,
+    "EndTextOffset": 5950,
+    "Text": "Action points required to perform a normal attack with the current weapon."
+  },
+  {
+    "HeaderOffset": 5974,
+    "StartTextOffset": 5980,
+    "EndTextOffset": 6013,
+    "Text": "Impact speed of the weapon attack."
+  },
+  {
+    "HeaderOffset": 6036,
+    "StartTextOffset": 6042,
+    "EndTextOffset": 6115,
+    "Text": "Chance to score a critical hit with a normal attack of the current weapon."
+  },
+  {
+    "HeaderOffset": 6137,
+    "StartTextOffset": 6143,
+    "EndTextOffset": 6209,
+    "Text": "Damage bonus applied when the current weapon scores a critical hit."
+  },
+  {
+    "HeaderOffset": 6226,
+    "StartTextOffset": 6232,
+    "EndTextOffset": 6298,
+    "Text": "Influences how quickly you'll get your turn when the combat starts."
+  },
+  {
+    "HeaderOffset": 6319,
+    "StartTextOffset": 6325,
+    "EndTextOffset": 6360,
+    "Text": "Maximum range of the current weapon."
+  },
+  {
+    "HeaderOffset": 6385,
+    "StartTextOffset": 6391,
+    "EndTextOffset": 6488,
+    "Text": "Optimal range of the current weapon. Beyond this point the precision starts dropping more quickly."
+  },
+  {
+    "HeaderOffset": 6512,
+    "StartTextOffset": 6518,
+    "EndTextOffset": 6583,
+    "Text": "Effective skill level when invoking metathermic psionic abilities."
+  },
+  {
+    "HeaderOffset": 6612,
+    "StartTextOffset": 6618,
+    "EndTextOffset": 6692,
+    "Text": "Chance to score a critical hit when invoking metathermic psionic abilities."
+  },
+  {
+    "HeaderOffset": 6720,
+    "StartTextOffset": 6726,
+    "EndTextOffset": 6811,
+    "Text": "Damage bonus applied when you score a critical hit with a metathermic psionic ability."
+  },
+  {
+    "HeaderOffset": 6837,
+    "StartTextOffset": 6843,
+    "EndTextOffset": 6901,
+    "Text": "Base psi point cost modifier for metathermic psi abilities."
+  },
+  {
+    "HeaderOffset": 6926,
+    "StartTextOffset": 6932,
+    "EndTextOffset": 6999,
+    "Text": "Effective skill level when invoking psychokinetic psionic abilities."
+  },
+  {
+    "HeaderOffset": 7029,
+    "StartTextOffset": 7035,
+    "EndTextOffset": 7111,
+    "Text": "Chance to score a critical hit when invoking psychokinetic psionic abilities."
+  },
+  {
+    "HeaderOffset": 7140,
+    "StartTextOffset": 7146,
+    "EndTextOffset": 7233,
+    "Text": "Damage bonus applied when you score a critical hit with a psychokinetic psionic ability."
+  },
+  {
+    "HeaderOffset": 7260,
+    "StartTextOffset": 7266,
+    "EndTextOffset": 7326,
+    "Text": "Base psi point cost modifier for psychokinetic psi abilities."
+  },
+  {
+    "HeaderOffset": 7352,
+    "StartTextOffset": 7358,
+    "EndTextOffset": 7427,
+    "Text": "Effective skill level when invoking thought control psionic abilities."
+  },
+  {
+    "HeaderOffset": 7458,
+    "StartTextOffset": 7464,
+    "EndTextOffset": 7542,
+    "Text": "Chance to score a critical hit when invoking thought control psionic abilities."
+  },
+  {
+    "HeaderOffset": 7572,
+    "StartTextOffset": 7578,
+    "EndTextOffset": 7667,
+    "Text": "Damage bonus applied when you score a critical hit with a thought control psionic ability."
+  },
+  {
+    "HeaderOffset": 7695,
+    "StartTextOffset": 7701,
+    "EndTextOffset": 7763,
+    "Text": "Base psi point cost modifier for thought control psi abilities."
+  },
+  {
+    "HeaderOffset": 7795,
+    "StartTextOffset": 7801,
+    "EndTextOffset": 7876,
+    "Text": "Effective skill level when invoking temporal manipulation psionic abilities."
+  },
+  {
+    "HeaderOffset": 7913,
+    "StartTextOffset": 7919,
+    "EndTextOffset": 8003,
+    "Text": "Chance to score a critical hit when invoking temporal manipulation psionic abilities."
+  },
+  {
+    "HeaderOffset": 8039,
+    "StartTextOffset": 8045,
+    "EndTextOffset": 8140,
+    "Text": "Damage bonus applied when you score a critical hit with a temporal manipulation psionic ability."
+  },
+  {
+    "HeaderOffset": 8174,
+    "StartTextOffset": 8180,
+    "EndTextOffset": 8248,
+    "Text": "Base psi point cost modifier for temporal manipulation psi abilities."
+  },
+  {
+    "HeaderOffset": 8279,
+    "StartTextOffset": 8285,
+    "EndTextOffset": 8399,
+    "Text": "Increases the damage done by special weapon or unarmed attacks. This does not affect unconditional special attacks."
+  },
+  {
+    "HeaderOffset": 8418,
+    "StartTextOffset": 8424,
+    "EndTextOffset": 8577,
+    "Text": "Number of action points the character has at the beginning of their turn. These points can be used for performing any kind of action, including movement."
+  },
+  {
+    "HeaderOffset": 8598,
+    "StartTextOffset": 8604,
+    "EndTextOffset": 8722,
+    "Text": "Number of movement points the character has at the beginning of their turn. These points can only be used for movement."
+  }
+]

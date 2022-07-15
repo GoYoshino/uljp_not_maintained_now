@@ -1,0 +1,614 @@
+[
+  {
+    "HeaderOffset": 2915,
+    "StartTextOffset": 2921,
+    "EndTextOffset": 3079,
+    "Text": "Though they offer only light protection against mechanical attacks, leather armors often have other benefits based on the type of skin used in their crafting."
+  },
+  {
+    "HeaderOffset": 3096,
+    "StartTextOffset": 3102,
+    "EndTextOffset": 3323,
+    "Text": "This concoction contains moderate levels of psycho-catalytic substances that enhance psionic regeneration with no known side effects. It requires the extract from Lacesso Gigantus mushroom, commonly known as 'Mindshroom'."
+  },
+  {
+    "HeaderOffset": 3341,
+    "StartTextOffset": 3347,
+    "EndTextOffset": 3517,
+    "Text": "A disposable psi inhalant is the safest and most common way of replenishing psi reserves. It requires unsaturated psionic catalyst, pure oxygen and some sort of a filter."
+  },
+  {
+    "HeaderOffset": 3533,
+    "StartTextOffset": 3539,
+    "EndTextOffset": 3970,
+    "Text": "'Mind Dart' is a variation of psi booster with addition of toxic and hallucinogenic substances extracted from the Red Dream mushroom. This mixture is highly dangerous to the consumer and should be taken in multiple smaller doses (if at all). It provides an instant surge of psionic activity as well as increases psi regeneration greatly for a short period of time, but is inevitably followed by a long period of psionic withdrawal."
+  },
+  {
+    "HeaderOffset": 3992,
+    "StartTextOffset": 3998,
+    "EndTextOffset": 4367,
+    "Text": "While activate shield emitters cannot recharge their batteries by siphoning from their energy core, but they can however be recharged directly with adequate electromagnetic waves.\r\n\r\nShield recharger is a portable device that can emit these waves. It consists of two major parts: its own energy core and electromagnetic emitter.\r\n\r\nThis device also supports modulation."
+  },
+  {
+    "HeaderOffset": 4378,
+    "StartTextOffset": 4384,
+    "EndTextOffset": 4643,
+    "Text": "Timer triggered TNT charges are often used to clear up passages and bust open sealed doors of abandoned (or not so abandoned) stations to make way for scavengers.\r\n\r\nIt is easy to build and relatively inexpensive compared to its more powerful C-4 counterpart."
+  },
+  {
+    "HeaderOffset": 4652,
+    "StartTextOffset": 4658,
+    "EndTextOffset": 5011,
+    "Text": "There are two types of conventional explosive hand grenades: \r\n\r\n- Fragmentation (frag) grenade which is used as an anti-personnel weapon\r\n\r\n- High-explosive grenade which is primarily used against heavily armored targets.\r\n\r\nThe type of the grenade created is dictated by its case, while its power depends on the combination of explosive fillings used."
+  },
+  {
+    "HeaderOffset": 5022,
+    "StartTextOffset": 5028,
+    "EndTextOffset": 5376,
+    "Text": "Although not as devastating as firearms or energy weapons, crossbow is still a dangerous device. The bolts it fires can be rigged with explosives or coated with poison, but are otherwise generally less efficient against heavily armored targets. On the other hand, since bolts fly at a relatively low speed they penetrate energy shields more easily."
+  },
+  {
+    "HeaderOffset": 5389,
+    "StartTextOffset": 5395,
+    "EndTextOffset": 5716,
+    "Text": "Pistols can be created from frame and barrel parts. The type and quality of the frame will determine the pistol's overall damage potential, while the barrel will dictate the payload. Not all frame types support all barrel types, however.\r\n\r\nA number of optional components can also be added to further enhance the weapon."
+  },
+  {
+    "HeaderOffset": 5729,
+    "StartTextOffset": 5735,
+    "EndTextOffset": 6098,
+    "Text": "Sniper rifles can be created from frame, barrel and scope parts. The type and quality of the frame will determine the rifle's overall damage potential, while the barrel will dictate the payload. Scope will influence the rifle's precision, critical hit chance and other qualities.\r\n\r\nA number of optional components can also be added to further enhance the weapon."
+  },
+  {
+    "HeaderOffset": 6117,
+    "StartTextOffset": 6123,
+    "EndTextOffset": 6361,
+    "Text": "Tactical vest is a type of ballistic vest intended to be used as personal armor when engaging in firearm combat. \r\n\r\nIt consists of ballistic panel placed inside a carrier vest and optionally reinforced with heavy metal or ceramic plates."
+  },
+  {
+    "HeaderOffset": 6376,
+    "StartTextOffset": 6382,
+    "EndTextOffset": 6638,
+    "Text": "Riot armor is a special type of tactical armor that is efficient against both firearms and melee attacks.\r\n\r\nIt consists of ballistic panel placed inside a carrier vest. It may also include a shield for added protection against melee attacks and/or a coat."
+  },
+  {
+    "HeaderOffset": 6655,
+    "StartTextOffset": 6661,
+    "EndTextOffset": 6869,
+    "Text": "Metal armors provide excellent protection against mechanical attacks of all kinds and good protection against high energy attacks.\r\n\r\nWith right enhancements they can also be used offensively in melee combat."
+  },
+  {
+    "HeaderOffset": 6879,
+    "StartTextOffset": 6885,
+    "EndTextOffset": 7299,
+    "Text": "Submachine gun, sometimes called personal defense weapon (PDW), is a compact automatic weapon.\r\n\r\nIt can be created from frame and barrel parts. The type and quality of the frame will determine the weapon's overall damage potential, while the barrel will dictate the payload. Not all frame types support all barrel types, however.\r\n\r\nA number of optional components can also be added to further enhance the weapon."
+  },
+  {
+    "HeaderOffset": 7318,
+    "StartTextOffset": 7324,
+    "EndTextOffset": 7592,
+    "Text": "Sledgehammer can be a powerful melee weapon in the hands of strong wielder.\r\n\r\nA powerful sledgehammer strike can send damaging mechanical waves even through the thickest of armors.\r\n\r\nIt can even carry some manner of power module for when the cold steel isn't enough."
+  },
+  {
+    "HeaderOffset": 7610,
+    "StartTextOffset": 7616,
+    "EndTextOffset": 7823,
+    "Text": "Combat knives can be crafted out of any metal and come in number of different shapes depending on the mold used.\r\n\r\nThey are quick and deadly close quarters weapons against unarmored or unsuspecting targets."
+  },
+  {
+    "HeaderOffset": 7842,
+    "StartTextOffset": 7848,
+    "EndTextOffset": 8244,
+    "Text": "Assault rifle is a light automatic rifle designed for mobile individual use.\r\n\r\nIt can be created from frame and barrel parts. The type and quality of the frame will determine the weapon's overall damage potential, while the barrel will dictate the payload. Not all frame types support all barrel types, however.\r\n\r\nA number of optional components can also be added to further enhance the weapon."
+  },
+  {
+    "HeaderOffset": 8263,
+    "StartTextOffset": 8269,
+    "EndTextOffset": 8616,
+    "Text": "Energy weapons are generally less devastating than firearms, but they are more precise and can easily pierce most armor types.\r\n\r\nEnergy pistol can be constructed from an energy projector, such as laser emitter or plasma discharger, and energy core. The quality of the former affects the output power, while the latter determines battery capacity."
+  },
+  {
+    "HeaderOffset": 8637,
+    "StartTextOffset": 8643,
+    "EndTextOffset": 8891,
+    "Text": "Chemical pistol can be crafted by mounting a chemical collector and a dispenser onto a special pistol frame. \r\n\r\nType of collector will determine the substance the pistol can fire, while dispenser will determine in what form the substance is fired."
+  },
+  {
+    "HeaderOffset": 8910,
+    "StartTextOffset": 8916,
+    "EndTextOffset": 9025,
+    "Text": "A number of bodily fluids, such as blood, toxins, and acid, can extracted be from organs of various creatures."
+  },
+  {
+    "HeaderOffset": 9044,
+    "StartTextOffset": 9050,
+    "EndTextOffset": 9117,
+    "Text": "Various useful chemicals can be extracted from plants and mushrooms."
+  },
+  {
+    "HeaderOffset": 9140,
+    "StartTextOffset": 9146,
+    "EndTextOffset": 9202,
+    "Text": "Toxins can be extracted from organs of various creatures."
+  },
+  {
+    "HeaderOffset": 9221,
+    "StartTextOffset": 9227,
+    "EndTextOffset": 9334,
+    "Text": "Crossbow bolts can carry various substances that they inject upon impact, such as poisons and tranquilizers."
+  },
+  {
+    "HeaderOffset": 9359,
+    "StartTextOffset": 9365,
+    "EndTextOffset": 9473,
+    "Text": "You can create special mechanical bolts by adding extra features to the bolt's head, such as serrated blades."
+  },
+  {
+    "HeaderOffset": 9494,
+    "StartTextOffset": 9500,
+    "EndTextOffset": 9574,
+    "Text": "You can create serrated bolts by adding serrated blades to the bolt's head."
+  },
+  {
+    "HeaderOffset": 9594,
+    "StartTextOffset": 9600,
+    "EndTextOffset": 9663,
+    "Text": "You can create broadhead bolts if you have appropriate bolt tip."
+  },
+  {
+    "HeaderOffset": 9679,
+    "StartTextOffset": 9685,
+    "EndTextOffset": 9961,
+    "Text": "A shock bolt is created by attaching a number of micro electroshock dischargers to a regular bolt. The number of dischargers determines the power of the shock bolt, but also the crafting difficulty. \r\n\r\nA sufficiently powerful energy battery is required to charge up the bolt."
+  },
+  {
+    "HeaderOffset": 9982,
+    "StartTextOffset": 9988,
+    "EndTextOffset": 10101,
+    "Text": "An incendiary bolt is created by attaching a vial of any highly incendiary substance to the tip of a regular bolt."
+  },
+  {
+    "HeaderOffset": 10118,
+    "StartTextOffset": 10124,
+    "EndTextOffset": 10278,
+    "Text": "EMP grenades are created by combining electromagnetic dischargers with any high energy battery (such as plasma or fusion cell) inside a thin grenade case."
+  },
+  {
+    "HeaderOffset": 10299,
+    "StartTextOffset": 10305,
+    "EndTextOffset": 10612,
+    "Text": "A visible light deflection field generator, commonly known as stealth generator or cloaking device, is created by attaching electromagnetic deflector to a high energy core. The quality of the former determines the cloaking potential. Finally, electromagnetic field stabilizer is added to improve efficiency."
+  },
+  {
+    "HeaderOffset": 10630,
+    "StartTextOffset": 10636,
+    "EndTextOffset": 10777,
+    "Text": "Metal helmets provide decent protection against mechanical and energy attacks and also reduce the chance for the wearer to be critically hit."
+  },
+  {
+    "HeaderOffset": 10791,
+    "StartTextOffset": 10797,
+    "EndTextOffset": 11055,
+    "Text": "Goggles have two main components: the pair of lenses that provide various advantages (sometimes coupled with disadvantages) to the wearer at all times; and an optional vision processing module that also requires a power core to be installed in order to work."
+  },
+  {
+    "HeaderOffset": 11067,
+    "StartTextOffset": 11073,
+    "EndTextOffset": 11162,
+    "Text": "Boots can be made out of leather or metal and padded with a number of different materials."
+  },
+  {
+    "HeaderOffset": 11173,
+    "StartTextOffset": 11179,
+    "EndTextOffset": 11525,
+    "Text": "There are two types of conventional explosive land mines: \r\n\r\n- Fragmentation (frag) mine which is used as an anti-personnel weapon\r\n\r\n- High-explosive mine which is primarily used against heavily armored targets.\r\n\r\nThe type of the land mine created is dictated by its case, while its power depends on the combination of explosive fillings used."
+  },
+  {
+    "HeaderOffset": 11543,
+    "StartTextOffset": 11549,
+    "EndTextOffset": 11718,
+    "Text": "EMP mines are created by combining two electromagnetic dischargers with a pair of any high energy battery (such as plasma or fusion cell) inside a special EMP mine case."
+  },
+  {
+    "HeaderOffset": 11732,
+    "StartTextOffset": 11738,
+    "EndTextOffset": 11898,
+    "Text": "An EMP mine can be created by combining electromagnetic dischargers with any high energy battery (such as plasma or fusion cell) inside a special EMP mine case."
+  },
+  {
+    "HeaderOffset": 11917,
+    "StartTextOffset": 11923,
+    "EndTextOffset": 12089,
+    "Text": "Ammunition for chemical weapons can be created by mixing the targeted chemical with bonding agent and storing it inside a vial that can later be loaded into a weapon."
+  },
+  {
+    "HeaderOffset": 12112,
+    "StartTextOffset": 12118,
+    "EndTextOffset": 12485,
+    "Text": "Chemical blob traps can entangle their victims in deadly sludge formed out of various substances. \r\n\r\nThey are created by combining blob dispenser, special chemical trap case and the desired substance mixed with a bonding agent.\r\n\r\nDifferent substances have different side effects, while the quality of the blob dispenser determines the overall lethality of the trap."
+  },
+  {
+    "HeaderOffset": 12502,
+    "StartTextOffset": 12508,
+    "EndTextOffset": 12633,
+    "Text": "Health hypo can be created by mixing healthy animal blood with insectoid saliva and preserving the mixture with anticoagulant."
+  },
+  {
+    "HeaderOffset": 12658,
+    "StartTextOffset": 12664,
+    "EndTextOffset": 12763,
+    "Text": "Advanced health hypo can be created by mixing healthy animal blood with gel electrolyte and taurine."
+  },
+  {
+    "HeaderOffset": 12784,
+    "StartTextOffset": 12790,
+    "EndTextOffset": 12870,
+    "Text": "Adrenaline shot can easily be created by a skilled biologist from raw adrenaline."
+  },
+  {
+    "HeaderOffset": 12889,
+    "StartTextOffset": 12895,
+    "EndTextOffset": 12971,
+    "Text": "Morphine shot can easily be created by a skilled biologist from raw morphine."
+  },
+  {
+    "HeaderOffset": 12991,
+    "StartTextOffset": 12997,
+    "EndTextOffset": 13086,
+    "Text": "Nervosomnifer is an experimental pain reducing drug that requires rare exotic ingredients."
+  },
+  {
+    "HeaderOffset": 13101,
+    "StartTextOffset": 13107,
+    "EndTextOffset": 13263,
+    "Text": "Caltrops can be crafted out of any metal. The quality of the metal does not influence the end product.\r\n\r\nOptionally the caltrops can be tipped with poison."
+  },
+  {
+    "HeaderOffset": 13278,
+    "StartTextOffset": 13284,
+    "EndTextOffset": 13484,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim.\r\n\r\nOptionally, the metal jaws of a bear trap can be tipped with poison in order to inflict even more harm to the unsuspecting victim."
+  },
+  {
+    "HeaderOffset": 13500,
+    "StartTextOffset": 13506,
+    "EndTextOffset": 13787,
+    "Text": "You can create repair kits from pieces of scrap. The type of scrap you use (metal, electronic, fabric) will determine the type of repair kit. Using additional scraps during construction will allow you to create more advanced repair kits.\r\n\r\nYou cannot mix different types of scrap."
+  },
+  {
+    "HeaderOffset": 13810,
+    "StartTextOffset": 13816,
+    "EndTextOffset": 13930,
+    "Text": "You can create vehicle repair kit from pieces of mechanical and electronic scrap, providing you are skilled enough."
+  },
+  {
+    "HeaderOffset": 13948,
+    "StartTextOffset": 13954,
+    "EndTextOffset": 14161,
+    "Text": "You can recycle repairable items to gain scraps that you can later use in crafting. \r\n\r\nThe type of scrap gained depends on the item's durability type and the amount depends on the item's current durability."
+  },
+  {
+    "HeaderOffset": 14183,
+    "StartTextOffset": 14189,
+    "EndTextOffset": 14534,
+    "Text": "Psionic headband augments, and sometimes inhibits, various aspects of psionic invocation, depending on parts used in constructing it.\r\n\r\nThe basic psionic headband consists of the frame and a modulator. The latter determines which areas of psionic potential (psi schools) the headband focuses on.\r\n\r\nHeadband can also sport various enhancements."
+  },
+  {
+    "HeaderOffset": 14553,
+    "StartTextOffset": 14559,
+    "EndTextOffset": 14785,
+    "Text": "Combat gloves can be created from leather or metal. They can be reinforced with additional metal plating or sport enhancements such as spikes and blades.\r\n\r\nThey can even carry some manner of power module for that extra punch."
+  },
+  {
+    "HeaderOffset": 14811,
+    "StartTextOffset": 14817,
+    "EndTextOffset": 15468,
+    "Text": "Energy shield emitters are used to absorb all or part of the damage directed at the user by expending electrical energy. The amount absorbed varies depending on the quality of the components used and the impact speed of an attack.\r\n\r\nThey can be crafted from a base, one or two modulators, energy core and optional enchancement.\r\n\r\nThe type modulator will determine how the absorbing capabilities are spread across the impact speed spectrum, though all shields generally perform better against higher impact speeds (high speed ballistic projectiles, energy weapons, explosions).\r\n\r\nQuality of the energy core will determine the capacity of the shield."
+  },
+  {
+    "HeaderOffset": 15484,
+    "StartTextOffset": 15490,
+    "EndTextOffset": 15636,
+    "Text": "A balaclava is a form of cloth headwear that covers the whole head, exposing only part of the face.\r\n\r\nIt can be created out of any type of cloth."
+  },
+  {
+    "HeaderOffset": 15652,
+    "StartTextOffset": 15658,
+    "EndTextOffset": 15838,
+    "Text": "Tabi Boots are light form of footwear that offer little to no mechanical protection from attacks, but allow for agile movement.\r\n\r\nThey can be crafted from either cloth or leather."
+  },
+  {
+    "HeaderOffset": 15850,
+    "StartTextOffset": 15856,
+    "EndTextOffset": 15993,
+    "Text": "Taser can be used to harm and stun living creatures and machines.\r\n\r\nIt can be crafted from an electroshock generator and an energy core."
+  },
+  {
+    "HeaderOffset": 16014,
+    "StartTextOffset": 16020,
+    "EndTextOffset": 16186,
+    "Text": "Throwing knives can be crafted out of any metal. The quality of the metal does not influence the end product.\r\n\r\nOptionally throwing knives can be tipped with poison."
+  },
+  {
+    "HeaderOffset": 16207,
+    "StartTextOffset": 16213,
+    "EndTextOffset": 16363,
+    "Text": "Shock shurikens can be crafted out of any metal and a number of micro electroshock dischargers.\r\n\r\nAny battery can be used to charge up the shurikens."
+  },
+  {
+    "HeaderOffset": 16377,
+    "StartTextOffset": 16383,
+    "EndTextOffset": 16479,
+    "Text": "Irongut protects you from biological hazards. It can be created from taurine and gizzard enzymes."
+  },
+  {
+    "HeaderOffset": 16492,
+    "StartTextOffset": 16498,
+    "EndTextOffset": 16700,
+    "Text": "Trance used to be a popular drug among psi users, but fell out of use due to rarity of its ingredients. You can bring it back though if you manage to extract black vitreous and mix it with psi catalyst."
+  },
+  {
+    "HeaderOffset": 16712,
+    "StartTextOffset": 16718,
+    "EndTextOffset": 16866,
+    "Text": "Aegis is a combat drug developed by the Biocorp for the Protectorate army. It can be created by combining morphine, adrenaline, and gizzard enzymes."
+  },
+  {
+    "HeaderOffset": 16882,
+    "StartTextOffset": 16888,
+    "EndTextOffset": 16982,
+    "Text": "Focus stim is a combat drug that can be created by mixing adrenaline, taurine, and fresh blood."
+  },
+  {
+    "HeaderOffset": 17000,
+    "StartTextOffset": 17006,
+    "EndTextOffset": 17153,
+    "Text": "Agility booster pill, popularly known as \"Jumping Bean\", can be created by mixing organic gel electrolyte with insectoid saliva. May cause hiccups."
+  },
+  {
+    "HeaderOffset": 17177,
+    "StartTextOffset": 17183,
+    "EndTextOffset": 17293,
+    "Text": "A makeshift incendiary grenade can be crafted from an empty bottle, a rag and any kind of incendiary substance."
+  },
+  {
+    "HeaderOffset": 17310,
+    "StartTextOffset": 17316,
+    "EndTextOffset": 17419,
+    "Text": "You can create a gas grenade by combining a substance with a starter mixture inside a thin grenade case."
+  },
+  {
+    "HeaderOffset": 17438,
+    "StartTextOffset": 17444,
+    "EndTextOffset": 17560,
+    "Text": "You can create 5mm shock bullets using bullet cases, any metal plate, and a number of micro electroshock dischargers."
+  },
+  {
+    "HeaderOffset": 17584,
+    "StartTextOffset": 17590,
+    "EndTextOffset": 17704,
+    "Text": "You can create 8.6mm incendiary bullets using bullet cases, any metal plate, and a high level incendiary substance."
+  },
+  {
+    "HeaderOffset": 17731,
+    "StartTextOffset": 17737,
+    "EndTextOffset": 17855,
+    "Text": "You can create 7.62mm micro-shrapnel bullets using bullet cases, any metal plate, and large quantities of metal scraps."
+  },
+  {
+    "HeaderOffset": 17873,
+    "StartTextOffset": 17879,
+    "EndTextOffset": 17974,
+    "Text": "You can create 9mm acid bullets using bullet cases, any metal plate, and a vial of regular acid."
+  },
+  {
+    "HeaderOffset": 17997,
+    "StartTextOffset": 18003,
+    "EndTextOffset": 18108,
+    "Text": "You can create .44 explosive bullets using bullet cases, any metal plate, and a certain amount of hexogen."
+  },
+  {
+    "HeaderOffset": 18134,
+    "StartTextOffset": 18140,
+    "EndTextOffset": 18250,
+    "Text": "You can create 12.7mm contaminated bullets using bullet cases, any metal plate, and a canister of toxic sludge."
+  },
+  {
+    "HeaderOffset": 18272,
+    "StartTextOffset": 18278,
+    "EndTextOffset": 18428,
+    "Text": "Enables you to disassemble items that are marked as disassemble-able, obtaining the components from which it was constructed but with reduced quality."
+  },
+  {
+    "HeaderOffset": 18449,
+    "StartTextOffset": 18455,
+    "EndTextOffset": 18509,
+    "Text": "Infusing leather with fiber can enhance its properties."
+  },
+  {
+    "HeaderOffset": 18525,
+    "StartTextOffset": 18531,
+    "EndTextOffset": 18618,
+    "Text": "You can create a flashbang grenade by filling a thin grenade case with magnesium powder."
+  },
+  {
+    "HeaderOffset": 18633,
+    "StartTextOffset": 18639,
+    "EndTextOffset": 18882,
+    "Text": "Bullhead pill is a preventive medicament that stabilizes neural pathways and improves concentration, allowing you to handle physical and psychological stress better. It can be created by combining morphine, nidamental gel, and gizzard enzymes."
+  },
+  {
+    "HeaderOffset": 18904,
+    "StartTextOffset": 18910,
+    "EndTextOffset": 19031,
+    "Text": "Super health hypo can be created by mixing healthy animal blood, fusing enzyme, gyromitrin and, curiously, crawler poison."
+  },
+  {
+    "HeaderOffset": 19057,
+    "StartTextOffset": 19063,
+    "EndTextOffset": 19272,
+    "Text": "You can create a highly potent regenerative by mixing correct amounts of biofusive scoby, animal blood, and macrophage fluid. A clean blastema should then be soaked in this mixture before consuming the liquid."
+  },
+  {
+    "HeaderOffset": 19295,
+    "StartTextOffset": 19301,
+    "EndTextOffset": 19476,
+    "Text": "This pill should only be consumed to combat psi inhibiting conditions and disorders. It can be created by combining unsaturated psionic catalyst with adrenaline and statolith."
+  },
+  {
+    "HeaderOffset": 19499,
+    "StartTextOffset": 19505,
+    "EndTextOffset": 19751,
+    "Text": "According to this blueprint you can create some sort of a \"Supersoldier Drug\" by combining the right amounts of muscarine, adrenaline, kynurenic acid, and prednisone solution. Considering the nature of these substances, this could be dangerous..."
+  },
+  {
+    "HeaderOffset": 19766,
+    "StartTextOffset": 19772,
+    "EndTextOffset": 19975,
+    "Text": "According to Dude and this blueprint, you should be able to concoct the mythical serum known only as \"The Juice\".\r\n\r\nYou'll need some mushroom brew, unsaturated psionic catalyst, morphine and gyromitrin."
+  },
+  {
+    "HeaderOffset": 19998,
+    "StartTextOffset": 20004,
+    "EndTextOffset": 20124,
+    "Text": "You can create a stingball grenade by filling a thin grenade case with hard rubber balls and adding some starter mixture."
+  },
+  {
+    "HeaderOffset": 20146,
+    "StartTextOffset": 20152,
+    "EndTextOffset": 20250,
+    "Text": "You can create a spying endoscope by combining adaptive lens, optical fiber and endoscope eyepiece."
+  },
+  {
+    "HeaderOffset": 20264,
+    "StartTextOffset": 20270,
+    "EndTextOffset": 20341,
+    "Text": "This blueprint describes how to reload a standard bullet of any caliber."
+  },
+  {
+    "HeaderOffset": 20358,
+    "StartTextOffset": 20364,
+    "EndTextOffset": 20458,
+    "Text": "This blueprint describes how to reload a tungsten carbide armor piercing bullet of any caliber."
+  },
+  {
+    "HeaderOffset": 20475,
+    "StartTextOffset": 20481,
+    "EndTextOffset": 20565,
+    "Text": "This blueprint describes how to reload a jacketed hollow point bullet of any caliber."
+  },
+  {
+    "HeaderOffset": 20585,
+    "StartTextOffset": 20591,
+    "EndTextOffset": 20745,
+    "Text": "Plasma grenades are created by combining plasma micro-dischargers with any high energy battery (such as plasma or fusion cell) inside a thin grenade case."
+  },
+  {
+    "HeaderOffset": 20762,
+    "StartTextOffset": 20768,
+    "EndTextOffset": 20936,
+    "Text": "Plasma mines are created by combining plasma micro-dischargers with a pair of any high energy battery (such as plasma or fusion cell) inside a special plasma mine case."
+  },
+  {
+    "HeaderOffset": 20961,
+    "StartTextOffset": 20967,
+    "EndTextOffset": 21077,
+    "Text": "You can create Psionic Accelerator by combining unsaturated psionic catalyst, gyromitrin and psi-somatic agent."
+  },
+  {
+    "HeaderOffset": 21097,
+    "StartTextOffset": 21103,
+    "EndTextOffset": 21193,
+    "Text": "You can create Hypercerebrix pill by combining cave ear poison, gyromitrin and phototannin."
+  },
+  {
+    "HeaderOffset": 21215,
+    "StartTextOffset": 21221,
+    "EndTextOffset": 21330,
+    "Text": "You can create a coagulation shot by combining blood, some type of organic gel electrolyte and black collagen."
+  },
+  {
+    "HeaderOffset": 21343,
+    "StartTextOffset": 21349,
+    "EndTextOffset": 21473,
+    "Text": "You can create reflex boosting concoction, popularly known as Twitch, by combining adrenaline, dexytol and retrolytic enzyme."
+  },
+  {
+    "HeaderOffset": 21488,
+    "StartTextOffset": 21494,
+    "EndTextOffset": 21596,
+    "Text": "You can create the so-called \"Third Eye\" pill by combining salivinine, black vitreous and lophimidrine."
+  },
+  {
+    "HeaderOffset": 21608,
+    "StartTextOffset": 21614,
+    "EndTextOffset": 21862,
+    "Text": "Spear is a primitive but versatile weapon that can be used for both offense and defense.\r\n\r\nPrecise spear strikes can bypass some of the living target's defense.\r\n\r\nIt can even carry some manner of power module for when the cold steel isn't enough."
+  },
+  {
+    "HeaderOffset": 21876,
+    "StartTextOffset": 21882,
+    "EndTextOffset": 22119,
+    "Text": "Machetes can be crafted out of any metal and come in number of two variants depending on the mold used.\r\n\r\nIt's a deadly close quarters weapon that can deliver devastating wounds if used correctly, especially against an unarmored target."
+  },
+  {
+    "HeaderOffset": 22139,
+    "StartTextOffset": 22145,
+    "EndTextOffset": 22229,
+    "Text": "This blueprint describes how to reload a shotgun shell with pellets of various sizes."
+  },
+  {
+    "HeaderOffset": 22243,
+    "StartTextOffset": 22249,
+    "EndTextOffset": 22534,
+    "Text": "Shotguns can be created from frame and barrel parts. The type and quality of the frame will determine the shotgun's overall damage potential, while the barrel will dictate the spread and will also modify damage.\r\n\r\nAn optional component can also be added to further enhance the weapon."
+  },
+  {
+    "HeaderOffset": 22552,
+    "StartTextOffset": 22558,
+    "EndTextOffset": 22605,
+    "Text": "You can create throwing nets from fabric scraps."
+  },
+  {
+    "HeaderOffset": 22627,
+    "StartTextOffset": 22633,
+    "EndTextOffset": 22738,
+    "Text": "You can create thin grenade cases (that are used in making certain grenades) from any type of metal plate."
+  },
+  {
+    "HeaderOffset": 22760,
+    "StartTextOffset": 22766,
+    "EndTextOffset": 22828,
+    "Text": "You can create frag grenade cases from any type of metal plate."
+  },
+  {
+    "HeaderOffset": 22847,
+    "StartTextOffset": 22853,
+    "EndTextOffset": 22952,
+    "Text": "You can create thin mine cases (that are used in making certain mines) from any type of metal plate."
+  },
+  {
+    "HeaderOffset": 22971,
+    "StartTextOffset": 22977,
+    "EndTextOffset": 23036,
+    "Text": "You can create frag mine cases from any type of metal plate."
+  },
+  {
+    "HeaderOffset": 23052,
+    "StartTextOffset": 23058,
+    "EndTextOffset": 23276,
+    "Text": "You can create a set mechanical lockpicks from any type of metal plate. The quality of the plate will determine the lockpick quality. You'll also be able to create extra lockpicks when using metal of very best quality."
+  },
+  {
+    "HeaderOffset": 23287,
+    "StartTextOffset": 23293,
+    "EndTextOffset": 23410,
+    "Text": "With enough skill and effort you might be able to craft an actual shiv from a metal spike by adding a dirty rag to it."
+  },
+  {
+    "HeaderOffset": 23423,
+    "StartTextOffset": 23429,
+    "EndTextOffset": 23617,
+    "Text": "This strange unconventional blueprint instructs you how to concoct the notorious Motion drug by combining psionic catalyst, gyromitrin, and psychodelic spores inside an inhalant container."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 403,
+    "StartTextOffset": 409,
+    "EndTextOffset": 537,
+    "Text": "This weapon is also equipped with an electroshock generator that discharges electricity on impact that strikes multiple targets."
+  },
+  {
+    "HeaderOffset": 561,
+    "StartTextOffset": 567,
+    "EndTextOffset": 702,
+    "Text": "This weapon is also equipped with an electroshock generator that discharges electricity when it connects that strikes multiple targets."
+  },
+  {
+    "HeaderOffset": 727,
+    "StartTextOffset": 733,
+    "EndTextOffset": 844,
+    "Text": "The electroshock generator mounted on the gloves discharges electricity on impact that strikes multiple targets."
+  },
+  {
+    "HeaderOffset": 866,
+    "StartTextOffset": 872,
+    "EndTextOffset": 1006,
+    "Text": "The pneumatic hammer unit mounted on the gloves will, when powered, occasionally inflict additional damage and even knock targets out."
+  },
+  {
+    "HeaderOffset": 1030,
+    "StartTextOffset": 1036,
+    "EndTextOffset": 1144,
+    "Text": "The electroshock generator mounted on the {0} discharges electricity on impact that strikes multiple targets."
+  },
+  {
+    "HeaderOffset": 1170,
+    "StartTextOffset": 1176,
+    "EndTextOffset": 1302,
+    "Text": "The electricity that's discharged from the electroshock generator, mounted on the blade, on impact may strike multiple targets."
+  },
+  {
+    "HeaderOffset": 1324,
+    "StartTextOffset": 1330,
+    "EndTextOffset": 1479,
+    "Text": "Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy."
+  },
+  {
+    "HeaderOffset": 1503,
+    "StartTextOffset": 1509,
+    "EndTextOffset": 1658,
+    "Text": "Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy."
+  },
+  {
+    "HeaderOffset": 1680,
+    "StartTextOffset": 1686,
+    "EndTextOffset": 1835,
+    "Text": "Though the energy edge emitter lined along the edge of the blade reduces its cutting power, it more than compensates with its own destructive energy."
+  },
+  {
+    "HeaderOffset": 1853,
+    "StartTextOffset": 1859,
+    "EndTextOffset": 1958,
+    "Text": "The stabilization wings mounted on the sides allows the spear to fly farther and faster when thrown."
+  },
+  {
+    "HeaderOffset": 1983,
+    "StartTextOffset": 1989,
+    "EndTextOffset": 2055,
+    "Text": "The hammer's head is lined up with vicious spikes for extra mayhem."
+  },
+  {
+    "HeaderOffset": 2080,
+    "StartTextOffset": 2086,
+    "EndTextOffset": 2169,
+    "Text": "The serrated blade worked into the hammer's head can inflict deadly bleeding wounds."
+  }
+]

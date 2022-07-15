@@ -1,0 +1,98 @@
+[
+  {
+    "HeaderOffset": 508,
+    "StartTextOffset": 514,
+    "EndTextOffset": 523,
+    "Text": "Game Rules"
+  },
+  {
+    "HeaderOffset": 539,
+    "StartTextOffset": 545,
+    "EndTextOffset": 617,
+    "Text": "Set the difficulty and the experience point system for this play-through."
+  },
+  {
+    "HeaderOffset": 646,
+    "StartTextOffset": 652,
+    "EndTextOffset": 666,
+    "Text": "Easy Difficulty"
+  },
+  {
+    "HeaderOffset": 687,
+    "StartTextOffset": 693,
+    "EndTextOffset": 1077,
+    "Text": "This is for people who find the combat on normal difficulty a bit too hard for their taste.\r\n\r\n- Player character has double the normal amount of health, while medical consumables heal for more and have reduced cooldown.\r\n- Some encounters have been made easier either in enemy numbers or through other means.\r\n- NPCs will on occasion act less intelligently than on normal difficulty."
+  },
+  {
+    "HeaderOffset": 1108,
+    "StartTextOffset": 1114,
+    "EndTextOffset": 1130,
+    "Text": "Normal Difficulty"
+  },
+  {
+    "HeaderOffset": 1153,
+    "StartTextOffset": 1159,
+    "EndTextOffset": 1299,
+    "Text": "Provides a lot of challenge to an average hardcore gamer with less room for error in combat. This is the way the game is meant to be played."
+  },
+  {
+    "HeaderOffset": 1328,
+    "StartTextOffset": 1334,
+    "EndTextOffset": 1348,
+    "Text": "Hard Difficulty"
+  },
+  {
+    "HeaderOffset": 1369,
+    "StartTextOffset": 1375,
+    "EndTextOffset": 1781,
+    "Text": "This difficulty is meant for experienced players as it leaves very little room for error.\r\n\r\n- Player character has reduced health, while medical consumables heal for less and have increased cooldown.\r\n- Some encounters have been made harder either in enemy numbers or through other means.\r\n- NPCs will on occasion act more intelligently than on normal difficulty.\r\n- Items are sold for 50% of their value."
+  },
+  {
+    "HeaderOffset": 1816,
+    "StartTextOffset": 1822,
+    "EndTextOffset": 1842,
+    "Text": "DOMINATING Difficulty"
+  },
+  {
+    "HeaderOffset": 1869,
+    "StartTextOffset": 1875,
+    "EndTextOffset": 2457,
+    "Text": "This difficulty is for the Underrail veterans that no longer find the game challenging enough.\r\n\r\n- In addition to player health and cooldown modifications and additional NPC intelligence, it also increases the regular NPC health by 50% and their skill levels by 30% (this bonus is even greater for certain special \"boss\" NPCs).\r\n- A lot of encounters have been spiced up with many additional enemies or made extremely hard through other means.\r\n- Items are sold for 25% of their value.\r\n\r\nWe do not guarantee that the game can be completed in this mode so choose at your own peril."
+  },
+  {
+    "HeaderOffset": 2480,
+    "StartTextOffset": 2486,
+    "EndTextOffset": 2501,
+    "Text": "Oddity XP System"
+  },
+  {
+    "HeaderOffset": 2516,
+    "StartTextOffset": 2522,
+    "EndTextOffset": 2816,
+    "Text": "You gain experience up by collecting \"oddities\" scattered across Underrail and by completing quests. Higher end oddities are found in progressively more dangerous and hard to access areas. No experience is granted for skill usage or killing (though some oddities are only dropped by creatures)."
+  },
+  {
+    "HeaderOffset": 2840,
+    "StartTextOffset": 2846,
+    "EndTextOffset": 2862,
+    "Text": "Classic XP System"
+  },
+  {
+    "HeaderOffset": 2878,
+    "StartTextOffset": 2884,
+    "EndTextOffset": 2970,
+    "Text": "You gain experience by killing enemies, completing quests and utilizing certain skills."
+  },
+  {
+    "HeaderOffset": 2984,
+    "StartTextOffset": 2990,
+    "EndTextOffset": 3176,
+    "Text": "You have reached veteran levels and will no longer gain base ability points.\r\n\r\nHowever, you'll be able to choose previously unavailable veteran feats, in addition to the standard feats."
+  },
+  {
+    "HeaderOffset": 3197,
+    "StartTextOffset": 3203,
+    "EndTextOffset": 3300,
+    "Text": "Your character has gained access to specialization points which can be used to improve your feats."
+  }
+]

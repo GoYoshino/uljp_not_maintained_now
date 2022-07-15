@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 422,
+    "StartTextOffset": 428,
+    "EndTextOffset": 445,
+    "Text": "South Gate Station"
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 468,
+    "Text": "5"
+  },
+  {
+    "HeaderOffset": 485,
+    "StartTextOffset": 491,
+    "EndTextOffset": 492,
+    "Text": "10"
+  },
+  {
+    "HeaderOffset": 509,
+    "StartTextOffset": 515,
+    "EndTextOffset": 516,
+    "Text": "30"
+  },
+  {
+    "HeaderOffset": 538,
+    "StartTextOffset": 544,
+    "EndTextOffset": 555,
+    "Text": "GMS Compound"
+  },
+  {
+    "HeaderOffset": 572,
+    "StartTextOffset": 578,
+    "EndTextOffset": 579,
+    "Text": "25"
+  },
+  {
+    "HeaderOffset": 601,
+    "StartTextOffset": 607,
+    "EndTextOffset": 615,
+    "Text": "Warehouse"
+  },
+  {
+    "HeaderOffset": 632,
+    "StartTextOffset": 638,
+    "EndTextOffset": 639,
+    "Text": "30"
+  },
+  {
+    "HeaderOffset": 656,
+    "StartTextOffset": 662,
+    "EndTextOffset": 663,
+    "Text": "60"
+  },
+  {
+    "HeaderOffset": 694,
+    "StartTextOffset": 700,
+    "EndTextOffset": 722,
+    "Text": "Rail Crossing Warehouse"
+  },
+  {
+    "HeaderOffset": 748,
+    "StartTextOffset": 754,
+    "EndTextOffset": 755,
+    "Text": "50"
+  },
+  {
+    "HeaderOffset": 783,
+    "StartTextOffset": 789,
+    "EndTextOffset": 798,
+    "Text": "Odis Vault"
+  },
+  {
+    "HeaderOffset": 821,
+    "StartTextOffset": 827,
+    "EndTextOffset": 828,
+    "Text": "70"
+  }
+]

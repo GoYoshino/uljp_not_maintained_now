@@ -1,0 +1,14 @@
+[
+  {
+    "HeaderOffset": 119,
+    "StartTextOffset": 125,
+    "EndTextOffset": 158,
+    "Text": "This is {0} energy shield emitter."
+  },
+  {
+    "HeaderOffset": 183,
+    "StartTextOffset": 189,
+    "EndTextOffset": 234,
+    "Text": "It's augmented with a secondary {0} modulator."
+  }
+]

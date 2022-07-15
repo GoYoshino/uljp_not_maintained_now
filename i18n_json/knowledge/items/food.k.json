@@ -1,0 +1,290 @@
+[
+  {
+    "HeaderOffset": 1391,
+    "StartTextOffset": 1397,
+    "EndTextOffset": 1449,
+    "Text": "Consuming food will remove effects of previous meals."
+  },
+  {
+    "HeaderOffset": 1472,
+    "StartTextOffset": 1478,
+    "EndTextOffset": 1515,
+    "Text": "When consumed increases strength by 1."
+  },
+  {
+    "HeaderOffset": 1536,
+    "StartTextOffset": 1542,
+    "EndTextOffset": 1583,
+    "Text": "When consumed increases constitution by 1."
+  },
+  {
+    "HeaderOffset": 1605,
+    "StartTextOffset": 1611,
+    "EndTextOffset": 1647,
+    "Text": "When consumed increases agility by 1."
+  },
+  {
+    "HeaderOffset": 1665,
+    "StartTextOffset": 1671,
+    "EndTextOffset": 1709,
+    "Text": "When consumed increases dexterity by 1."
+  },
+  {
+    "HeaderOffset": 1728,
+    "StartTextOffset": 1734,
+    "EndTextOffset": 1968,
+    "Text": "When consumed increases strength by 1 and reduces all mechanical damage taken by 10%, but also reduces perception and dexterity by 2. Additionally, all psionic skills will be reduced by 20 and psi regeneration will be decreased by 30."
+  },
+  {
+    "HeaderOffset": 1991,
+    "StartTextOffset": 1997,
+    "EndTextOffset": 2047,
+    "Text": "There's no telling what this might do to your guts."
+  },
+  {
+    "HeaderOffset": 2060,
+    "StartTextOffset": 2066,
+    "EndTextOffset": 2205,
+    "Text": "When consumed increases movement points by 5. It also reduces the cost of all psi abilities by 10%, but also reduces psi regeneration by 3."
+  },
+  {
+    "HeaderOffset": 2222,
+    "StartTextOffset": 2228,
+    "EndTextOffset": 2278,
+    "Text": "When consumed reduces all cold damage taken by 15%."
+  },
+  {
+    "HeaderOffset": 2295,
+    "StartTextOffset": 2301,
+    "EndTextOffset": 2356,
+    "Text": "When consumed reduces all mechanical damage taken by 5%."
+  },
+  {
+    "HeaderOffset": 2378,
+    "StartTextOffset": 2384,
+    "EndTextOffset": 2433,
+    "Text": "When consumed reduces all bio damage taken by 15%."
+  },
+  {
+    "HeaderOffset": 2450,
+    "StartTextOffset": 2456,
+    "EndTextOffset": 2505,
+    "Text": "When consumed reduces all heat damage taken by 8%."
+  },
+  {
+    "HeaderOffset": 2531,
+    "StartTextOffset": 2537,
+    "EndTextOffset": 2581,
+    "Text": "When consumed increases maximum health by 20."
+  },
+  {
+    "HeaderOffset": 2605,
+    "StartTextOffset": 2611,
+    "EndTextOffset": 2663,
+    "Text": "When consumed reduces all poison damage taken by 35%."
+  },
+  {
+    "HeaderOffset": 2679,
+    "StartTextOffset": 2685,
+    "EndTextOffset": 2760,
+    "Text": "When consumed increases weapon and unarmed attack critical hit chance by 2%."
+  },
+  {
+    "HeaderOffset": 2780,
+    "StartTextOffset": 2786,
+    "EndTextOffset": 2932,
+    "Text": "When consumed increases weapon and unarmed attack critical hit chance by 5%, but also increases the chance to get critically hit by weapons by 2%."
+  },
+  {
+    "HeaderOffset": 2958,
+    "StartTextOffset": 2964,
+    "EndTextOffset": 3016,
+    "Text": "When consumed increases healing effectiveness by 15%."
+  },
+  {
+    "HeaderOffset": 3036,
+    "StartTextOffset": 3042,
+    "EndTextOffset": 3081,
+    "Text": "When consumed increases perception by 1."
+  },
+  {
+    "HeaderOffset": 3104,
+    "StartTextOffset": 3110,
+    "EndTextOffset": 3154,
+    "Text": "When consumed increases carry capacity by 25."
+  },
+  {
+    "HeaderOffset": 3179,
+    "StartTextOffset": 3185,
+    "EndTextOffset": 3245,
+    "Text": "When consumed increases psionic critical damage bonus by 40%."
+  },
+  {
+    "HeaderOffset": 3270,
+    "StartTextOffset": 3276,
+    "EndTextOffset": 3327,
+    "Text": "When consumed decreases psi ability psi cost by 15%."
+  },
+  {
+    "HeaderOffset": 3342,
+    "StartTextOffset": 3348,
+    "EndTextOffset": 3387,
+    "Text": "When consumed increases initiative by 5."
+  },
+  {
+    "HeaderOffset": 3404,
+    "StartTextOffset": 3410,
+    "EndTextOffset": 3450,
+    "Text": "When consumed increases detection by 15%."
+  },
+  {
+    "HeaderOffset": 3465,
+    "StartTextOffset": 3471,
+    "EndTextOffset": 3510,
+    "Text": "When consumed increases all skills by 3."
+  },
+  {
+    "HeaderOffset": 3531,
+    "StartTextOffset": 3537,
+    "EndTextOffset": 3587,
+    "Text": "When consumed reduces all heat damage taken by 15%."
+  },
+  {
+    "HeaderOffset": 3606,
+    "StartTextOffset": 3612,
+    "EndTextOffset": 3670,
+    "Text": "When consumed increases global mechanical threshold by 15%."
+  },
+  {
+    "HeaderOffset": 3683,
+    "StartTextOffset": 3689,
+    "EndTextOffset": 3907,
+    "Text": "When consumed increases dodge by 50 and reduces all mechanical damage taken by 10%, but also reduces perception by 2. Additionally, all psionic skills will be reduced by 20 and psi regeneration will be decreased by 30."
+  },
+  {
+    "HeaderOffset": 3926,
+    "StartTextOffset": 3932,
+    "EndTextOffset": 4150,
+    "Text": "When consumed increases dodge by 70 and reduces all mechanical damage taken by 15%, but also reduces perception by 3. Additionally, all psionic skills will be reduced by 40 and psi regeneration will be decreased by 30."
+  },
+  {
+    "HeaderOffset": 4166,
+    "StartTextOffset": 4172,
+    "EndTextOffset": 4281,
+    "Text": "When consumed reduces all acid damage taken by 35%, but reduces health by 20 and healing effectiveness by 35%."
+  },
+  {
+    "HeaderOffset": 4304,
+    "StartTextOffset": 4310,
+    "EndTextOffset": 4386,
+    "Text": "When consumed reduces poison damage taken by 20% and increases evasion by 30."
+  },
+  {
+    "HeaderOffset": 4412,
+    "StartTextOffset": 4418,
+    "EndTextOffset": 4469,
+    "Text": "When consumed increases maximum health points by 40."
+  },
+  {
+    "HeaderOffset": 4485,
+    "StartTextOffset": 4491,
+    "EndTextOffset": 4598,
+    "Text": "When consumed increases strength by 1 and critical damage bonus of melee weapons and unarmed attacks by 25%."
+  },
+  {
+    "HeaderOffset": 4617,
+    "StartTextOffset": 4623,
+    "EndTextOffset": 4748,
+    "Text": "When consumed increases critical chance with weapon, unarmed, and psi attacks by 5%, but reduces will by 1 and resolve by 100."
+  },
+  {
+    "HeaderOffset": 4766,
+    "StartTextOffset": 4772,
+    "EndTextOffset": 4848,
+    "Text": "When consumed increases metathermics by 20 but reduces movement points by 10."
+  },
+  {
+    "HeaderOffset": 4860,
+    "StartTextOffset": 4866,
+    "EndTextOffset": 5085,
+    "Text": "When consumed increases all base abilities by 3, except intelligence which is reduced by the same amount. Also increases chance to get critically hit with weapons, unarmed attacks and psi abilities by 100% (additively)."
+  },
+  {
+    "HeaderOffset": 5101,
+    "StartTextOffset": 5107,
+    "EndTextOffset": 5199,
+    "Text": "When consumed increases thought control by 20, but reduces perception by 1 and resolve by 30."
+  },
+  {
+    "HeaderOffset": 5223,
+    "StartTextOffset": 5229,
+    "EndTextOffset": 5272,
+    "Text": "When consumed increases pickpocketing by 15."
+  },
+  {
+    "HeaderOffset": 5287,
+    "StartTextOffset": 5293,
+    "EndTextOffset": 5449,
+    "Text": "When consumed increases strength by 1 and grants 15% bonus damage with blunt melee weapons, fist weapons and unarmed attacks, but also reduces agility by 1."
+  },
+  {
+    "HeaderOffset": 5463,
+    "StartTextOffset": 5469,
+    "EndTextOffset": 5513,
+    "Text": "When consumed increases carry capacity by 30."
+  },
+  {
+    "HeaderOffset": 5527,
+    "StartTextOffset": 5533,
+    "EndTextOffset": 5617,
+    "Text": "When consumed increases stability on jet skis by 10%, but reduces action points by 5."
+  },
+  {
+    "HeaderOffset": 5630,
+    "StartTextOffset": 5636,
+    "EndTextOffset": 5732,
+    "Text": "When consumed increases evasion by 15% and stealth by 20 and reduces all bio damage taken by 10%."
+  },
+  {
+    "HeaderOffset": 5756,
+    "StartTextOffset": 5762,
+    "EndTextOffset": 5810,
+    "Text": "When consumed increases maximum psi points by 10."
+  },
+  {
+    "HeaderOffset": 5826,
+    "StartTextOffset": 5832,
+    "EndTextOffset": 5963,
+    "Text": "When consumed increases agility by 3, persuasion by 15, but reduces dexterity and perception by 2 and psi point regeneration by 30."
+  },
+  {
+    "HeaderOffset": 5978,
+    "StartTextOffset": 5984,
+    "EndTextOffset": 6106,
+    "Text": "When consumed increases strength and constitution by 1 and intimidation by 15, but reduces intelligence by 3 and will by 1."
+  },
+  {
+    "HeaderOffset": 6120,
+    "StartTextOffset": 6126,
+    "EndTextOffset": 6173,
+    "Text": "When consumed usually takes you down a bad trip."
+  },
+  {
+    "HeaderOffset": 6194,
+    "StartTextOffset": 6200,
+    "EndTextOffset": 6276,
+    "Text": "When consumed increases health by 30, but reduces resolve by the same amount."
+  },
+  {
+    "HeaderOffset": 6293,
+    "StartTextOffset": 6299,
+    "EndTextOffset": 6463,
+    "Text": "When consumed grants 15% bonus damage with melee weapons and unarmed attacks, as well as a small chance to daze the target, yourself, or both with each such attack."
+  },
+  {
+    "HeaderOffset": 6480,
+    "StartTextOffset": 6486,
+    "EndTextOffset": 6525,
+    "Text": "When consumed increases all skills by 5."
+  }
+]

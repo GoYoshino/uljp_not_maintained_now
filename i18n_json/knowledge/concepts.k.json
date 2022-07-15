@@ -1,0 +1,20 @@
+[
+  {
+    "HeaderOffset": 155,
+    "StartTextOffset": 161,
+    "EndTextOffset": 203,
+    "Text": "These points can only be used for movement."
+  },
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 398,
+    "Text": "These points can be used for performing actions or for movement if there are no movement points left. You can carry over up to {0} unspent action points to the next turn."
+  },
+  {
+    "HeaderOffset": 414,
+    "StartTextOffset": 420,
+    "EndTextOffset": 577,
+    "Text": "Applies the changes made to the psi ability selection. This will instantly drain all of your psi points and reserves.\r\n\r\nThis can only be done out of combat."
+  }
+]
