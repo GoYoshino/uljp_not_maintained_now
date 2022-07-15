@@ -1,0 +1,69 @@
+1,0=>'dun_cvw_hr_leaflet'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+2,3=>'Start Element'
+3,0=>'leaflet'
+4,0=>'player'
+5,2=>'::Welcome to *Hopperdrome*, the place fo (afb8e007-7c18-43b6-bfad-f72cf4ce07cf)'
+5,7=>'::Welcome to *Hopperdrome*, the place for all your hopper racing needs!
+
+*Third South Underrail Hop-off - final day events*:
+        - Pentapus Tom's scrap juggling act
+        - Brew drinking contest
+        - *Hop-off Final - 10-lap race*
+        - Musical program: The Traveling Septaphonists, Metal Fatigue, 10011001
+*Hoppers*:
+        $(interfacing_xpbl_hopperRacing_hopper1info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper2info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper3info)
+        ------------------------------------------------------------------
+        $(interfacing_xpbl_hopperRacing_hopper4info)
+        ------------------------------------------------------------------
+*Wager types*:
+        On the nose - back the hopper to finish first only
+        At the tail - back the hopper to finish second only
+        Slow show - back the hopper to finish third only
+        In the coins - back the hopper to finish either first or second; first place means full payment, second place is reduced payment::'
+6,0=>'0de6b40f-134f-4706-a7c1-c462297c69b4'
+7,3=>'::Flip the leaflet.:: (ac3b9238-25fe-45af-beb5-630940784491)'
+7,7=>'::Flip the leaflet.::'
+8,2=>'leaflet'
+8,3=>'BandageApply'
+9,2=>'::*How does fixed-odds betting work*: He (9e0927d3-d79f-4532-8eaa-d4a42e3b8056)'
+9,7=>'::*How does fixed-odds betting work*: Here at the Hopperdrome we use decimal odds. This type of odds takes into account that the bettor must first part with their part of the stake to make a bet. Therefore, the decimal odds of an outcome are equivalent to one plus the decimal value of the fractional odds.
+Example: Betting at 1.01 odds means that for every 100 charons the bettor earns one charon, or 1% of the wager.
+
+Below is a list of odds for each racing hopper, ordered by wager types (on the nose, at the tail, slow show and in the coins, respectively).
+
+-------------------------------------------------
+$(interfacing_xpbl_hopperRacing_hopper1quotas)
+-------------------------------------------------
+$(interfacing_xpbl_hopperRacing_hopper2quotas)
+-------------------------------------------------
+$(interfacing_xpbl_hopperRacing_hopper3quotas)
+-------------------------------------------------
+$(interfacing_xpbl_hopperRacing_hopper4quotas)
+-------------------------------------------------::'
+10,0=>'53d5801c-060c-4f22-a287-88cb85d35b9a'
+10,1=>'context.interfacing_xpbl_hopperRacing_readLeaflet'
+11,3=>'::Flip the leaflet.:: (5a805054-575a-4a1c-ba73-e15c298c7233)'
+11,6=>'English'
+11,7=>'::Flip the leaflet.::'
+12,2=>'::Done.:: (66a507fd-c45d-4f62-afde-ac17d9c3b399)'
+12,6=>'::Put it away.::'

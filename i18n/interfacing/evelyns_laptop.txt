@@ -1,0 +1,224 @@
+1,0=>'evelyns_laptop'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+2,4=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Welcome, Evelyn Ingram. Please enter y (dfdefc7b-3d0a-4d98-addd-617b37e98f03)*'
+5,7=>'::Welcome, Evelyn Ingram. 
+
+Please enter your password: ::'
+6,3=>'::Welcome, Evelyn Ingram. Please select  (b55ca12f-30c6-4f90-a2ea-729b4333fd21)*'
+6,7=>'::Welcome, Evelyn Ingram. Please select one of the following options: ::'
+7,1=>'context.evelynlap_signedin'
+8,2=>' (8a03c5a5-e6e1-47da-b2ee-1c25f31a27e0)'
+8,6=>''
+9,2=>' (cc1d61a7-010e-4101-92db-6c6758dfd761)'
+10,3=>'::evelynin76543:: (564a80f0-9b26-4da7-81d9-c538e7ba2e76)'
+10,8=>'::evelynin76543::'
+11,4=>'::[Hacking] Gain access to the laptop.:: (4f7abbbc-0767-418f-a88c-7602c9d564c9)'
+11,8=>'::[Hacking] Gain access to the laptop.::'
+12,3=>'::$(context.player.Name)Rocks:: (51e412c8-562f-4275-b9a1-6f04376e7fd9)'
+12,7=>'::$(context.player.Name)Rocks::'
+13,3=>'::12345:: (e9da5c51-65a6-456f-9dd8-1de5b80fa915)'
+13,7=>'::12345::'
+14,3=>'::your password:: (428404b8-d39c-43e1-a3ea-9b32ffb5b43a)'
+14,7=>'::your password::'
+15,3=>'::IloveMyMom:: (d215f5cd-591c-484d-9f60-0a83d6d06dfb)'
+15,7=>'::IloveMyMom::'
+16,3=>'::PapyrusContainingTheIncantationsToPres (f3b13cca-22ff-4a25-9132-e63ff307cca8)'
+16,7=>'::PapyrusContainingTheIncantationsToPreserveItsBlackSeedsOfVengeanceAgainstHereticsFromSebekWhoIsInTheUnderworld::'
+17,3=>'::letmeinyoustupidpieceoftrash:: (5081694f-52d3-462c-bd4e-7b378237644e)'
+17,7=>'::letmeinyoustupidpieceoftrash::'
+18,3=>'::Type something random.:: (dc282670-034d-4e63-9612-21b76680ff15)'
+18,7=>'::Type something random.::'
+19,2=>'::Exit:: (7cc44f3c-3052-4886-9fde-c817ace80611)'
+19,6=>'::Exit::'
+20,3=>'::Documents:: (ff769262-ac28-41c5-96e7-c7f523816112)'
+20,7=>'::Documents::'
+21,3=>'::Games:: (4a3e0b95-6c40-455c-abf4-dcc337ea18bc)'
+21,7=>'::Games::'
+22,2=>'::Exit:: (b1261d15-6efc-4c3c-b2f0-1546d163062e)'
+22,6=>'::Exit::'
+24,3=>'::The password is correct. Please select (7e55eb39-b77b-4a18-bc7a-5c07c676d400)*'
+24,7=>'::The password is correct. Please select one of the following options: ::'
+25,0=>'39816d8b-c339-410e-b606-d58ea0c78454'
+25,1=>'context.evelynlap_signedin'
+26,3=>'::Access Granted:: (537f4c10-e642-4381-9273-582fe08f3730)'
+26,8=>'::Access Granted::'
+27,3=>'::Access Denied!:: (7911b44d-5002-40d8-9564-70953e73329d)*'
+27,7=>'::Access Denied!::'
+28,3=>'::The password you typed is incorrect. P (0cbe65ea-92a9-428d-a1af-7fa786344ec1)*'
+28,7=>'::The password you typed is incorrect. Please, try again: ::'
+29,2=>'::Documents:: (7a8914e9-9d73-41d1-8bd0-bd37814859f5)'
+29,6=>'::Documents::'
+30,4=>'::Games:: (b7c6de9d-3157-4865-b370-6dc37ebb94f4)*'
+30,8=>'::Games::'
+31,1=>'plot.evelyns_password'
+33,0=>'9dfdd9e8-c6af-4a17-984f-66317ff62cd4'
+33,1=>'context.evelynlap_signedin'
+34,3=>'::Diary - Entry 1 - 27.03:: (457fc65f-9359-4c1d-b2dc-864ec1353412)'
+34,7=>'::Diary - Entry 1 - 27.03::'
+35,3=>'::Diary - Entry 3 - 02.04:: (f3bc3bfc-7e45-410c-8cd4-ccd357e2763f)'
+35,7=>'::Diary - Entry 3 - 02.04::'
+36,3=>'::Diary - Entry 46 - 11.07:: (fac8f2dc-3c9a-4c11-b192-f7543d7980f0)'
+36,7=>'::Diary - Entry 46 - 11.07::'
+37,3=>'::Diary - Entry 48 - 15.09:: (9b8419a7-0936-471c-bc8e-de8514c8586d)'
+37,7=>'::Diary - Entry 48 - 15.09::'
+38,3=>'::Diary - Entry 55 - 29.09:: (3d52637b-0f4e-46de-9608-1f34358cd948)'
+38,7=>'::Diary - Entry 55 - 29.09::'
+39,3=>'::Diary - Entry 68 - 20.11:: (fc542c5b-b5aa-4092-8223-9477de3a3482)'
+39,7=>'::Diary - Entry 68 - 20.11::'
+40,3=>'::Diary - Entry 97 - 03.02:: (b7eb55ad-1297-46f0-9489-2d06f10162a4)'
+40,7=>'::Diary - Entry 97 - 03.02::'
+41,3=>'::Diary - Entry 103 - 15.02:: (0206f40e-67a4-4e17-8fb3-b5de296d449c)'
+41,7=>'::Diary - Entry 103 - 15.02::'
+42,3=>'::Back to Main:: (c5b79375-f036-4ed1-9931-758dc0440124)'
+42,7=>'::Back to Main::'
+43,2=>' (084b3f73-3578-48d7-962d-f69a9ea2c360)'
+44,2=>' (080c260d-f8c3-41b0-a342-d04433826389)'
+45,2=>'::Entry 1 - 27.03Dear Diary,This is so s (0c1aeea5-df38-437a-9d8c-6ed0e230a73a)'
+45,6=>'::Entry 1 - 27.03
+
+Dear Diary,
+
+This is so silly, I don't even know why I'm writing this. I suppose with Michael spending all his free time working on his damn bunker, I too need something to do to pass the time. Better than wasting it with my boring neighbors - DUH! I don't know what to write, so I'll call it a day for now.
+
+Evelyn :D
+::'
+46,2=>'::Entry 3 - 02.04Dear Diary,Yup, he's do (556474d0-6a96-4206-8601-aa9e9fcbd76d)'
+46,6=>'::Entry 3 - 02.04
+
+Dear Diary,
+
+Yup, he's down there again. He made me swear I won't tell anyone about it. Who does he think I am, some blabbermouth? I don't even socialize that much, duh, so he doesn't have to worry. At all! But I understand him, I mean, you know, he's been worried about this Cahort, Tchord, Tchort thing, whatever it 's called, and he just wants what's best for the two of us. Oh, gotta go, he's back. This diary thing isn't so bad after all, now that I think about it. :)
+
+Evelyn::'
+47,2=>'::Entry 46 - 11.07Ugh! Why!? WHY!? Why i (0c471e17-303c-47bb-895b-641725f2fac8)'
+47,6=>'::Entry 46 - 11.07
+
+Ugh! Why!? WHY!? Why is he doing this to me!? I had another argument with him. I told him I'm tired of not ever seeing him and that I'm bored to death. If I go down there, I'm disturbing him. "Oh, Evelyn sweetie, this is important - blah blah blah, Tchort!". Go to hell, Michael, you're the only one in Foundry who's obsessed with that. It's not going to happen - please spend some time with me! I simply don't fit in with the rest of Foundry. The Parkers are boring, the Stevensons are depressing, the Greenwalds... no comment on the Greenwalds. I'm just sad here. Maybe I should've listened to my mother and stayed in Dis. I better go lie down.
+
+Evelyn. :(::'
+48,3=>'::Entry 48 - 15.09Dear Diary,It's me aga (342e913b-8e4f-4db1-b375-1c887fbbc270)'
+48,7=>'::Entry 48 - 15.09
+
+Dear Diary,
+
+It's me again. I have decided to continue writing after his death. It's strange, but this diary thing seems so foreign to me, even though it's been what? A month and a half? It's all upside down in my head. I read my previous entries and what I wrote about Michael. If someone else was reading it, he or she would've thought I hated that man. But, a black hole in my heart says otherwise. I just wanted some attention. He was busy working on this bunker all the time, worried about that stupid Tchort. Funny, even now I don't fully understand what it was all about. I simply trusted him and his judgment.:: '
+49,2=>'::Entry 55 - 29.09Dear Diary,Life has be (50c98703-1a7b-4e3c-b79a-4c73c3d1908b)'
+49,6=>'::Entry 55 - 29.09
+
+Dear Diary,
+
+Life has become living hell. Being alone is not working out for me, go figure. I simply can't take it anymore! I'm too young and can't be stuck in this block of concrete for the rest of my life. I need company. I really need someone to hug me again.
+
+Michael, I hope you forgive me. I love you.
+
+Evelyn::'
+50,2=>'::Entry 68 - 20.11Dear Diary,Jeremy left (f99e3e47-30a5-400e-a0fe-a9c2e711b63f)'
+50,6=>'::Entry 68 - 20.11
+
+Dear Diary,
+
+Jeremy left me today. When I first met him, I felt something I hadn't felt in a long time. A long, long time... He made me laugh, he made me happy - he made me forget. I thought he was the right one to pull me out. But, today he told me we're breaking up. To tell you the truth, he said something about me being a recluse, depressive or whatever. At some point I just stopped listening. I had to. I felt betrayed, infuriated, I felt like I was about to explode! And I felt the urge to grab a knife, and so I did. I'm going to lie down now. I feel tired.
+
+Evelyn::'
+51,2=>'::Entry 97 - 03.02Dear Diary,It's Evelyn (3f485724-6941-4711-baa9-937934ea2ff5)'
+51,7=>'::Entry 97 - 03.02
+
+Dear Diary,
+
+It's Evelyn again, just came to tell you I got another one. Men, they're all the same, haha. They always fall for a sad, lonely widow that needs a new man in her life. Awww. I told him what he wanted to hear and puppeteered him into my bedroom. I got him naked -his eyes were like fires - tied the naive bastard to the bed - and then I pulled out a knife and stabbed him! Right through his right eye! Fire extinguished! He wasn't expecting that, hahaha! He was squirming as I pushed the knife through his eye and into his brain, finally ending his miserable life. So much fun! A little messy, but I'll just dump his body with the rest. With all the fuss about the rockies killing people, no one will suspect me - a poor lonely widow. :D
+
+Evelyn
+
+P.S. I think his name was Jimmy or something. ::'
+52,2=>'::Entry 103 - 15.02Dear Diary,Tommy, wha (3f9decd8-7609-4f9d-b090-34c0faa73bc3)'
+52,6=>'::Entry 103 - 15.02
+
+Dear Diary,
+
+Tommy, what a sweet young man. Really handsome, and I do mean *handsome.* He was just passing through Foundry, like most of them. Oh... we had so much fun today. Well, at least I had, he was the one screaming most of the time. That is, while he still had his lower jaw attached, DUH! I still remember the terrified look in his eyes when I showed him my trusty meat cleaver. Then I started cutting! Slash! Slash! Just like Messer butchers his pigs! Made a terrible mess, though, as I got carried away a bit. Whoopsie! There was blood and body parts all over the place, and the stench was... strong. Oh well, it's all clean now and ready for my next toy, haha. I should take some rest. Killing men is pretty darn tiring, hahaha. 
+
+Until next time... Dear Diary.
+
+Evelyn :D
+::'
+53,1=>'xpbl'
+54,2=>'::Play Underrail: Expedition:: (5d3dda53-cab0-45be-a5fc-7cbfc2d18610)'
+54,5=>'English'
+54,6=>'::Play Underrail: Expedition::'
+55,3=>'::Back:: (1979f21a-fb87-441f-8223-de92ef44bf52)'
+55,7=>'::Back::'
+56,2=>'::Play Underrail:: (726095a8-4c10-4dc8-b97a-8bf3ca5b5477)'
+56,6=>'::Play Underrail::'
+57,3=>'::Next:: (6f942a78-b236-4688-82b7-be75a9c1b183)'
+57,7=>'::Next::'
+58,3=>'::Back to Documents:: (dc878b63-b628-4e64-9972-9ff865be0ce2)'
+58,7=>'::Back to Documents::'
+59,3=>'::Next:: (f97289d9-31a3-455e-addb-1f09ecad40d1)'
+59,7=>'::Next::'
+60,3=>'::Previous:: (8a0e69b1-16e2-4506-b02b-96b17f7bfeaf)'
+60,7=>'::Previous::'
+61,3=>'::Next:: (68db0f8b-55a4-414d-81a2-db740bfadc28)'
+61,7=>'::Next::'
+62,3=>'::Previous:: (5d836d6a-170b-4f1a-a404-e81303a00294)'
+62,7=>'::Previous::'
+63,2=>'::The bunker is beautiful though. Now I  (49b9bd50-d2a8-4462-b35d-9c51885bea91)'
+63,6=>'::The bunker is beautiful though. Now I spend even more time here than upstairs. Especially because the ventilation system keeps the air so clean and fresh! Going back up causes me to cough instantly. I'm still barely talking to people. The whole Foundry was there on funeral day, and I swear, nearly everyone said at one point or the other: "If you need anything, Evelyn, we're here for you." Tomorrow, not a single soul in sight. Typical. Well, that's all for now. I better find something to do. Bye.
+
+Evelyn::'
+64,3=>'::Next:: (4db899a1-8d55-49d9-83c5-61d4300b5cb6)'
+64,7=>'::Next::'
+65,3=>'::Previous:: (3499e04a-e05d-4251-bf6e-e182c1b5f4c3)'
+65,7=>'::Previous::'
+66,3=>'::Next:: (9c02c367-dd39-48db-ab1d-576e3ae02961)'
+66,7=>'::Next::'
+67,3=>'::Previous:: (f2564ec8-2c14-485f-9b14-3bed5bbf925d)'
+67,7=>'::Previous::'
+68,0=>'8a13c814-37c8-4bc5-bb75-8702c5b08478'
+68,1=>'context.loc_fo_monstersKnow'
+69,3=>'::Next:: (a84fd390-47a3-4e7d-9e9a-33ccc75f7ed2)'
+69,7=>'::Next::'
+70,3=>'::Previous:: (6163a509-ec10-43b5-90fb-0a1eeb8f6a0d)'
+70,7=>'::Previous::'
+71,3=>'::Previous:: (4c32472f-1e16-4f83-b264-c0aebafccede)'
+71,7=>'::Previous::'
+72,3=>'::Download to flash drive.:: (ac7098f1-4b15-4640-8528-e0ba447993ce)'
+72,11=>'::Download to flash drive.::'
+73,3=>'::Next:: (eab3cef1-aadd-407b-99ec-2de9fbad1890)'
+73,7=>'::Next::'
+74,3=>'::Previous:: (a8824e75-2788-4ab9-b138-fba96e809a5d)'
+74,7=>'::Previous::'
+75,1=>'context.loc_fo_bunker_gotEvidence'
+76,0=>'d7c5912d-dcdb-4020-8645-61e187e726f4'
+77,0=>'dd439170-8d9e-4a2e-85ac-2c32a9c3c544'
+77,1=>'context.npc_evelyn_evelynStarted'
+78,0=>'17d230fb-4637-4065-893d-cf5e6c7d0800'
+78,1=>'fo_EvelynEvidence'
+79,0=>'6afcd63a-3e44-4133-bb05-c85e905f6aec'
+79,1=>'context.loc_fo_bunker_gotEvidence'
+85,2=>'plot\evelynmurderproof'

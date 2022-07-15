@@ -1,0 +1,142 @@
+1,0=>'microchipEncoder'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+2,3=>'Start Element'
+3,0=>'encoder'
+4,0=>'player'
+5,5=>'::LEMCO LMIE-1Note: This device has been (f60270ac-2b5c-4413-bafc-27ee951a6af1)*'
+5,9=>'::LEMCO LMIE-1
+
+Note: This device has been unlocked by Senior Security Officer Jordan Grayling and does not require authorization in order to write data.
+
+Detecting active RFID microchip implants...
+
+::'
+6,3=>'::2 active microchip implants :: (9b7b83b2-d9d7-4f54-ba5d-36c3db306bb0)*'
+6,7=>'::2 active microchip implants ::'
+7,3=>'::1 active microchip implant :: (2e9c245c-ed1b-40dd-8205-f5e33537b540)*'
+7,7=>'::1 active microchip implant ::'
+8,2=>'::No active microchip implants detected. (9e89f69d-1bae-45ee-9437-fbc45b5afcb3)'
+8,6=>'::No active microchip implants detected.::'
+10,2=>'::detected.:: (a37b1bed-03f4-431d-b7bf-16a74cd30b5c)'
+10,6=>'::detected.::'
+12,2=>'::Turn off:: (a504a7fa-cb4c-4a2f-958e-0cbf642e7bb8)'
+12,6=>'::Turn off::'
+15,3=>'::Access RFID041317-674F:: (e8b4630b-acf2-41bc-9580-291bd3fc7ad9)'
+15,7=>'::Access RFID041317-674F::'
+16,3=>'::Access RFID191026-835T:: (63111938-f64e-4bba-89fe-c58f1403aaff)'
+16,7=>'::Access RFID191026-835T::'
+17,1=>'plot.xpbl_philsArm'
+18,1=>'context.global_xpbl_implantedChip_PhilBridges'
+20,1=>'plot.xpbl_toddsArm'
+21,1=>'context.interfacing_xpbl_microchipEncoder_toddsImplantDied'
+22,1=>'context.global_xpbl_implantedChip_PhilBridges'
+23,1=>'plot.xpbl_philsArm'
+25,2=>'::RFID041317-674F:: (2586eb24-0261-48d0-8893-80aff28be376)'
+25,6=>'::RFID041317-674F::'
+27,3=>'::Accessing RFID191026-835T...:: (607bb18e-d4f7-408b-93a2-86c3514cc0d0)'
+27,7=>'::Accessing RFID191026-835T...::'
+28,1=>'plot.xpbl_toddsArm'
+29,1=>'context.interfacing_xpbl_microchipEncoder_toddsImplantDied'
+30,1=>'context.global_xpbl_implantedChip_PhilBridges'
+31,1=>'plot.xpbl_philsArm'
+32,3=>'::Read personal information:: (1f069c09-68d3-44a0-9765-aabc4c6aab40)'
+32,7=>'::Read personal information::'
+33,3=>'::Read medical information:: (7a4efbcc-d92a-4755-9455-049bb08a59dd)'
+33,7=>'::Read medical information::'
+34,3=>'::Implant information:: (a491f32a-5704-45c8-b41b-e54b8fe1d014)'
+34,7=>'::Implant information::'
+35,3=>'::Tracking information:: (b89dfdb9-c379-4bf9-8ff3-bf79703fe778)'
+35,7=>'::Tracking information::'
+36,4=>'::Change security clearance level:: (eb9710aa-b648-4f51-81cb-aa64b250dd75)'
+36,8=>'::Change security clearance level::'
+37,3=>'::Back:: (5e76beda-e851-4a4f-a2f9-cf551697151f)'
+37,7=>'::Back::'
+38,1=>'plot.xpbl_toddsArm'
+39,1=>'context.interfacing_xpbl_microchipEncoder_toddsImplantDied'
+40,4=>'::Error: Connection lost.Please make sur (664ed8c6-ebbc-4002-b987-b3dfb0f6eff2)'
+40,8=>'::Error: Connection lost.
+
+Please make sure that the microchip implant is operational and within range of the device. If the problem persists, visit your nearest medical office or contact health.medtech.implant for more information.::'
+41,4=>'::Personal information: PID: 041317-674F (a739f3c3-a4a0-4a8b-a1f9-fd1a48d8ea9b)'
+41,8=>'::Personal information: 
+
+PID: 041317-674F
+Full name: Phil Norman Bridges
+Birth date: LE 04.13.91
+Age: N/A (more than 250 years)
+Address: F-2-35
+Contact: phil.n.bridges
+Occupation: E-E3 (electrical engineer)
+Marital status: Married (to Astrid Kristian Jacobsen)::'
+42,4=>'::Height: 192cmWeight: 87kg :: (6cad4b61-f2b0-4e02-8842-5b8e47f56cb1)*'
+42,8=>'::Height: 192cm
+Weight: 87kg 
+::'
+43,2=>'::Implant ID: RFID041317-674FManufacture (f7a39326-2855-4be3-bdeb-fbd5f69d78e5)'
+43,6=>'::Implant ID: RFID041317-674F
+Manufacturer: LEMCO
+Model name: L-RFID 2.4
+Firmware version: v35n-LE-88-x
+Total physical memory: 16 MB
+LIN address: Unavailable
+Signal strength: Unavailable
+
+Implanted at: Lemurian Health Center
+Implantation date: LE 13.03.102::'
+44,2=>'::Error 08: Tracking information current (7692b1e8-4824-4c1b-a0c1-b8aff3cd74f3)'
+44,6=>'::Error 08: Tracking information currently unavailable.::'
+45,3=>'::Current security clearance level: C-4: (20fa43da-7326-4d3e-a81b-6b46368bf68e)*'
+45,7=>'::Current security clearance level: C-4::'
+46,3=>'::Current security clearance level: C-2: (91f68098-fe96-48ba-9ede-06b6e4acac12)*'
+46,7=>'::Current security clearance level: C-2::'
+47,3=>' (fe2157be-409c-48ad-bbcb-23bb6dffb850)*'
+47,8=>''
+48,2=>'::Security clearance level: C-4:: (765202a2-6050-4533-a2d1-575822cba9af)'
+48,6=>'::Security clearance level: C-4::'
+49,2=>'::Security clearance level: C-2:: (2e0648d8-980a-4f1a-accd-aea8dcec6b3e)'
+49,6=>'::Security clearance level: C-2::'
+50,3=>'::Blood pressure: 120/80:: (9d0ceb6b-5444-48ab-ab01-d321e447aa3a)*'
+50,7=>'::Blood pressure: 120/80
+::'
+51,3=>'::Blood pressure: Unavailable (last reco (a6c324e2-5d0e-411b-9f1b-fe9364565285)*'
+51,7=>'::Blood pressure: Unavailable (last recorded: 311/284)
+::'
+52,3=>'::Back:: (1f930403-28a1-4599-87e8-892de962778c)'
+52,7=>'::Back::'
+53,1=>'context.global_xpbl_microchipClearanceLevel_c4'
+54,2=>'::Available security clearance level cod (d01b6caf-55ec-4676-b73e-d92360fccbf3)'
+54,6=>'
+::Available security clearance level codes: C-0, C-1, C-2, C-3, C-4.::'
+55,1=>'context.xpbl_ds3_acornTaken'
+56,0=>'9aa89887-a1c0-4041-9a60-23551b74ddb0'
+56,1=>'context.interfacing_xpbl_microchipEncoder_toddsImplantDied'
+57,1=>'context.global_xpbl_microchipClearanceLevel_c4'
+58,1=>'context.global_xpbl_implantedChip_PhilBridges'
+59,2=>'::Blood type: AB-Known allergies: none:: (87c3cb19-122a-4f22-a17b-f670e00d6563)'
+59,6=>'::Blood type: AB-
+Known allergies: none::'
+60,3=>'::Upgrade security clearance level.:: (9e6a81de-6042-4ecc-9b6a-768e0daf8f06)'
+60,9=>'::Upgrade security clearance level.::'
+61,3=>'::Full medical record:: (4c88435d-9394-48b3-82be-6ef432b9fed5)'
+61,7=>'::Full medical record::'
+62,1=>'context.global_xpbl_microchipClearanceLevel_c4'
+63,4=>'::Done.Security clearance level for micr (caac1fc2-f4b4-450e-90aa-a6d8c99ea55d)'
+63,8=>'::Done.
+
+Security clearance level for microchip implant RFID041317-674F has been upgraded to C-4.::'
+64,0=>'143d065b-c798-40bf-adcd-864177b5cabe'
+64,1=>'context.global_xpbl_microchipClearanceLevel_c4'
+65,0=>'e5425728-1d59-4403-a497-8ae3b0cf65b2'
+65,1=>'xpbl_foundNexusMicrochipEncoder'
+66,3=>'::Error 01: Unable to open file RFID0413 (fb662d85-8aae-46da-b6a1-9a666fd9a25b)'
+66,7=>'::Error 01: Unable to open file RFID041317-674F_Medical_Record.mci::'

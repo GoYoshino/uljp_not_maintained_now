@@ -1,0 +1,224 @@
+1,0=>'campBed'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+1,29=>'English'
+1,30=>'English'
+1,31=>'English'
+1,32=>'English'
+1,33=>'English'
+1,34=>'English'
+2,6=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,5=>' (975ce18d-70f0-4d4e-8cba-3667c0041cb6)*'
+6,2=>'::You can't sleep here anymore.:: (c9491ffc-a12f-4731-acb3-1600eb42f751)'
+6,5=>'English'
+6,6=>'::You can't sleep here anymore.::'
+7,2=>'::You can't sleep now.:: (86c2bede-697c-404b-b8e8-a1113b64a5c4)'
+7,6=>'::You can't sleep now.::'
+8,2=>'::It looks much more comfortable than a  (ab287bd8-6017-4927-9b57-2ef97a960835)'
+8,6=>'::It looks much more comfortable than a bed of this kind probably should.::'
+9,1=>'context.loc_xpbl_d6_sleeping'
+10,4=>' (4d024371-c5c9-4aa6-adf7-85322551a5b2)*'
+11,4=>'::You wake up to the sound of :: (bde464e1-0372-40bd-97cc-7c91a6281d4a)*'
+11,8=>'::You wake up to the sound of ::'
+12,3=>'::You wake up feeling well rested. :: (9b63c561-1700-42f4-867f-f61dd22ec6fd)*'
+12,8=>'::You wake up feeling well rested. ::'
+13,0=>'5709e79b-c142-4aa8-888d-1d84e7d4fb2f'
+13,1=>'context.loc_xpbl_d6_sleeping'
+15,0=>'interface'
+16,0=>'player'
+18,2=>'::Get some rest.:: (2f8cbdaf-f5e4-4880-aea5-476fd0ea919f)'
+18,9=>'::Get some rest.::'
+19,2=>'::Leave.:: (b093153e-bf15-4f1e-b96d-eebda05034dc)'
+19,6=>'::Leave.::'
+20,1=>'context.global_xpbl_shamansKilled'
+21,6=>'::You lay with your eyes open, because y (e6c699fc-0dec-4e9c-8a21-814a64cf0477)*'
+21,10=>'::You lay with your eyes open, because you have no eyelids...::'
+22,6=>'::You close your eyes and sink to slumbe (4179e9cb-685f-4751-83be-39df4a72addc)'
+22,10=>'::You close your eyes and sink to slumber...::'
+24,2=>'::a wailing siren...:: (58f21179-5415-436c-a54d-03c683a5bacd)'
+24,6=>'::a wailing siren...::'
+25,2=>'::a sec-trooper's voice...:: (3d742a27-60fb-4799-af45-fc03839ddc08)'
+25,6=>'::a sec-trooper's voice...::'
+26,9=>'::And you remember having a dream about  (432359cf-1861-4ff9-865f-feb3580932da)*'
+26,14=>'::And you remember having a dream about ::'
+27,0=>'fa12218f-df36-44f1-8b3e-85550a367ff4'
+28,1=>'expedition_security'
+28,2=>'player'
+29,1=>'context.global_xpbl_expeditionDestroyed'
+30,1=>'context.faction_xpbl_expedition_playerFired'
+31,1=>'context.loc_xpbl_d6_canSleep'
+32,1=>'context.loc_xpbl_camp_underAttack'
+33,0=>'30a64501-c51f-4ed9-999d-c735000f902b'
+33,1=>'context.loc_xpbl_d6_sleeping'
+34,0=>'b90c7907-6581-438f-9868-82deabc2e587'
+34,1=>'Xpbl_Le_SleepInBed'
+35,0=>'851a01ea-0d75-47ab-a584-2124e8b9af5e'
+36,5=>'DarkPresence'
+37,3=>'::Darkness, all you see is darkness, but (a9645008-d08d-482a-ae79-5448db39c059)'
+37,8=>'::Darkness, all you see is darkness, but blind you are not.
+
+Naked, you are lying naked, your elongated belly relaying to you the gentle vibrations of the cold dirt.
+
+You feel hunger.::'
+38,3=>'::Darkness, yet again you open your eyes (73dbbb08-12d3-4666-91d0-4762f465e18f)'
+38,8=>'::Darkness, yet again you open your eyes to the well-known darkness.
+
+Eyes, those same tasty eyes tremble before you.
+
+And as before, you feel drawn toward them, so you slither forward, being led by reassuring vibrations...::'
+39,3=>'::Darkness, the vibrations, fearful eyes (fbf82fd8-6be6-4c6b-86dc-e39d46ac14c0)'
+39,8=>'::Darkness, the vibrations, fearful eyes, you slithering forward and rising... it all repeats.
+
+Now, as you gaze into those sweet, juicy eyeballs you find that you are no longer feeling vibrations from the ground - but the heartbeat of a delectable warm-blooded creature.
+
+Its shrieking you do not hear but feel, for you do not possess ears. And the more desperation and agony you absorb, the more your appetite grows.::'
+40,4=>'::Dream, it is the same: darkness, vibra (e781fbea-8c72-49d4-89fe-0e475f340f74)'
+40,8=>'::Dream, it is the same: 
+
+darkness, vibrations; 
+
+eyes, prey; 
+
+embrace - satiety. 
+
+triumph...::'
+41,3=>'::Darkness, you open your eyes to absolu (91021fc5-7e86-458f-9cc5-39f2a5debaba)'
+41,8=>'::Darkness, you open your eyes to absolute darkness. 
+
+Naked, you are standing naked, exposed to a frigid breeze. 
+
+You shiver.::'
+42,3=>'::Darkness, yet again you open your eyes (f97082e4-ba93-47ad-b669-df96fe66f9cf)'
+42,8=>'::Darkness, yet again you open your eyes to darkness. 
+
+Eyes, those same serpentine eyes gaze upon you. 
+
+And as before, you feel drawn toward them, so you walk toward the frigid breeze...::'
+43,3=>'::Darkness, the breeze, eyes, you walkin (9611e30d-ae4b-452e-b403-42cf880ba78d)'
+43,8=>'::Darkness, the breeze, eyes, you walking toward them... it all repeats. 
+
+Now, as you stand right below those ghastly kaleidoscopic eyes, the frigid breeze is touching you no longer - but cold scales. 
+
+The serpentine embrace of death leaves no room for you to move or breathe; not even for your heart to beat for mercy.::'
+44,3=>'::Dream, it is the same: darkness, cold; (0350eaf1-5e71-4003-946a-1d6a472b3c06)'
+44,7=>'::Dream, it is the same: 
+
+darkness, cold; 
+
+eyes, glow; 
+
+embrace - suffocation. 
+
+The Serpent...::'
+45,1=>'context.loc_xpbl_camp_underAttack'
+47,1=>'context.loc_xpbl_camp_underAttack'
+48,2=>'::slaying a pack of rathoundmen that wer (5e24417a-51b1-4874-9181-8009a52b30da)'
+48,6=>'::slaying a pack of rathoundmen that were wielding assault rifles with chainsaw bayonets. They never stood a chance.::'
+49,2=>'::devouring a trainload of hoppers stuff (b65cb4fb-2a8c-4ecd-98a8-2df2ddacff44)'
+49,6=>'::devouring a trainload of hoppers stuffed with all kinds of succulent goodies; there was a bottle of mushroom brew in one, even.::'
+50,2=>'::going into Old Junkyard and rummaging  (962590f7-e99e-46f9-b870-4bbe412b8110)'
+50,6=>'::going into Old Junkyard and rummaging for - surprisingly - your very own brain. You thought you lost it but then realized you simply left it in another helmet. It's one of those dreams again.::'
+51,2=>'::making out with a couple of smoking ho (ccdb5f5a-2804-4985-94d8-22008be4a4c8)'
+51,6=>'::making out with a couple of smoking hot ladies. But then they suddenly turned into burrowers, so you were forced to kill them. Them and their spawns.::'
+52,2=>'::making out with this super-handsome gu (9e02809b-341a-4b9d-bd96-9fde49ec0cc1)'
+52,6=>'::making out with this super-handsome guy. Unfortunately, he tried to chop you into pieces with a machete, so you had to castrate him instead. With that same machete. It was a nice, light machete with a comfortable, ergonomic handle made of quality plastic...::'
+53,2=>'::doing absolutely nothing. Just sitting (a5ca3f52-4e87-4e7e-9532-1e4252b8c937)'
+53,6=>'::doing absolutely nothing. Just sitting on your bed and... doing nothing. Not even thinking, just... nothing.::'
+54,2=>'::having an out-of-body experience durin (89bcb19a-1df0-46d5-bc75-32b6d54c793d)'
+54,6=>'::having an out-of-body experience during which you were observing yourself while sleeping and being disgusted by the fact that you snore like an asthmatic pig.::'
+55,0=>'29c8cd82-4ed9-4225-807e-9441e8dab3ee'
+58,1=>'context.global_xpbl_le_firstSerpentDream'
+59,3=>'::Eyes, another pair of eyes appear oppo (881c46d6-066c-4924-bfd4-546d5a0aa0d1)'
+59,7=>'::Eyes, another pair of eyes appear opposite you.
+
+Big and round, they gaze at you with utter fear.
+
+Their trembling excites you, and you slither toward them...::'
+60,0=>'0b63d684-3b15-4991-af52-79dd76d60b71'
+60,1=>'context.global_xpbl_le_firstSerpentDream'
+61,1=>'context.global_xpbl_le_secondSerpentDream'
+62,3=>'::Fear, it grows inside those increasing (8f426893-b627-4f04-b60e-9ca50bfbda51)'
+62,7=>'::Fear, it grows inside those increasingly palatable eyeballs as you make you approach. 
+
+Hunger, it must be sated.
+
+Eyes, they shrink in size as you rise up and open your mouth...::'
+63,0=>'41816a56-ca7f-43e9-a2ef-49bfcc49fbc4'
+63,1=>'context.global_xpbl_le_secondSerpentDream'
+64,1=>'context.global_xpbl_le_thirdSerpentDream'
+65,4=>'::Prey, you fully wrap around your prey. (f01af0d7-7638-4253-8b12-c111881b191b)'
+65,8=>'::Prey, you fully wrap around your prey.
+
+It enters your serpentine body; its bones are being crushed by your muscles; its heartbeat stops.
+
+You do not feel hunger anymore - you feel triumph. For your existence continues through death of the weaker.::'
+66,0=>'ba6d816c-58d1-43d5-af11-c60ada5ee4d1'
+66,1=>'context.global_xpbl_le_thirdSerpentDream'
+67,2=>'::You wake up feeling well rested. :: (e7ced7c3-e36d-4126-8021-b13d34847bcd)'
+67,6=>'English'
+67,7=>'::You wake up feeling well rested. ::'
+68,1=>'context.global_xpbl_le_firstDream'
+69,3=>'::Eyes, another pair of eyes appear oppo (9f93daab-a98e-4055-ac1d-ecf35f9ebb6d)'
+69,7=>'::Eyes, another pair of eyes appear opposite you. 
+
+Serpentine, and they gaze at you. 
+
+You feel hypnotized, you feel drawn toward their glow...::'
+70,0=>'79dc18f9-37b6-4f50-b049-75daeae97e1a'
+70,1=>'context.global_xpbl_le_firstDream'
+71,1=>'context.global_xpbl_le_secondDream'
+72,3=>'::Fear, it grows inside you as those eye (abe3abb0-ae1d-41de-a045-7cb0eff13552)'
+72,7=>'::Fear, it grows inside you as those eyes become larger. 
+
+Glow, their glow burns with zeal and annihilation. 
+
+Eyes, each one bigger than you...::'
+73,0=>'a708ad1f-1d77-4c43-954f-0ba830a2e5ee'
+73,1=>'context.global_xpbl_le_secondDream'
+74,1=>'context.global_xpbl_le_thirdDream'
+75,4=>'::Suffocation, the last thing you feel i (ba17b612-7e39-4169-b64c-fe9749e64077)*'
+75,8=>'::Suffocation, the last thing you feel is suffocation. ::'
+76,0=>'78c16686-17ee-432b-9755-22213b6095f8'
+76,1=>'context.global_xpbl_le_thirdDream'
+77,4=>' (9c8795af-850a-49ae-b8ae-0ded189f5651)*'
+78,1=>'context.quests_xpbl_expedition_professorKidnapped'
+79,1=>'context.quests_xpbl_expedition_professorSaved'
+80,1=>'context.quests_xpbl_expedition_saveTheProfessor_toldAboutEvent'
+83,0=>'sleepingInCampBed'
+84,4=>'::Triumph, the last thing you feel is tr (55af7c3a-0a7a-4d99-aa14-201ae206939b)'
+84,8=>'::Triumph, the last thing you feel is triumph...::'
+85,0=>'fa12218f-df36-44f1-8b3e-85550a367ff4'
+86,0=>'interface'
+87,0=>'player'
+88,4=>'::But it is not the cold embrace that de (750fb728-878a-4a7d-ae1b-9905358a82ff)'
+88,8=>'::But it is not the cold embrace that deprives you of your life - it is the warm bowels of the Serpent.::'
+89,4=>' (ca95aa5f-a6ce-4e7a-8b84-d7f3d45bf44b)'
+90,2=>'::You wake up with a strong migraine, dr (55281d52-3ae3-4d94-ac88-fab561e30a4c)'
+90,6=>'::You wake up with a strong migraine, drenched in sweat.::'
+92,1=>'context.global_xpbl_le_thirdDream'

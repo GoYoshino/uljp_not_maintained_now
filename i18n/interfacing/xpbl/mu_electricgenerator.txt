@@ -1,0 +1,61 @@
+1,0=>'xpbl_mu_electricGenerator'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,4=>'::LEMCO LPSU-I4-LC387Hydrothermal genera (1925b7af-e25b-4ff6-8134-50435a2bf589)*'
+5,8=>'::LEMCO LPSU-I4-LC387
+
+Hydrothermal generator output: <2MW
+
+::'
+6,3=>'::Power substation unit output: 	Unit 1  (e93e3822-04af-4b56-9f8a-dd93a2bc40d2)*'
+6,7=>'::Power substation unit output: 
+                Unit 1 - On (1MW)
+                Unit 2 - Off
+
+::'
+7,3=>'::Power substation unit output: 	Unit 1  (e3d4bc46-eb87-4d5d-8aaa-3b0a7ed3328a)*'
+7,7=>'::Power substation unit output: 
+                 Unit 1 - On (320 kW peak value)
+                 Unit 2 - Off
+
+::'
+8,1=>'context.loc_mu_repairedGenerator'
+9,3=>'::Total output: 1.5 MWPower routing prot (765acb6c-3d7f-4078-aa0d-f87c5fd1e66a)*'
+9,7=>'::Total output: 1.5 MW
+
+Power routing protocol: Auto::'
+10,3=>'::Total output: <1MWPower routing protoc (900c6461-c736-4eb7-bf72-b996b47db0e7)*'
+10,7=>'::Total output: <1MW
+
+Power routing protocol: Auto::'
+11,2=>' (038daadc-9ce5-4e15-95f8-3a82a618b04a)'
+11,6=>''
+12,3=>'::[Electronics] Attempt to boost the pow (2ac7f421-8491-4acb-8dc4-486897a65ac9)'
+12,7=>'::[Electronics] Attempt to boost this unit's power output.::'
+13,2=>'::Leave:: (4cee21b9-9b5f-442f-a683-5dab819713f4)'
+13,6=>'::Leave::'
+14,1=>'context.loc_mu_repairedGenerator'
+15,4=>'::You see a single panel at the front of (364b4df5-d771-4139-8c35-8775d91531ae)'
+15,8=>'::You see a single panel at the front of the unit you can open, as the outer casing is made of actual stone and cannot possibly be handled by a single person. You open the panel and inspect what is inside.::'
+16,3=>'::There is no way for you to reach the g (05d775ba-8f17-4280-ad94-dd72bbefc23f)'
+16,9=>'::There is no way for you to reach the generator core, as that would require the casing to be removed, but despite that you soon figure out a way to get more power out of this unit - by cannibalizing the unit next to it for replacement parts. You turn the power off so that you may work safely; the lights turn dim, but even in semi-darkness you are able to accomplish your task. 
+
+You immediately feel the extra power after turning the unit back on.::'
+17,3=>'::There is not much you can do here, unf (ce6ad746-17e8-4d45-ac9f-b706640f479d)'
+17,7=>'::There is not much you can do here, unfortunately, for what you see before you is a puzzle far too complex for you to solve and far too dangerous to even try. You close the front panel and wipe the grime off your hands.::'
+19,0=>'b3a756c5-47cd-4526-868e-cf031ff7de14'
+19,1=>'context.loc_mu_repairedGenerator'
+20,0=>'81f13e7c-ba34-47b1-bca7-4c9068ac218b'
+21,1=>'xpbl_b7'

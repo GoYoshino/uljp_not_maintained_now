@@ -1,0 +1,126 @@
+1,0=>'sgs_patsLaptop'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+2,4=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Please enter your password to proceed: (965f6262-f1a9-46f8-896f-a5456030c7b8)*'
+5,8=>'::Please enter your password to proceed::'
+6,3=>'::Welcome  PatrickPlease select one of t (46b1ce31-156e-4ed9-a0ae-7214085c2c15)*'
+6,7=>'::Welcome  Patrick
+
+Please select one of the followring options::'
+7,1=>'context.interface_patsLaptop_loggedIn'
+8,2=>' (9895496d-d760-4dce-b3f0-a1b26103384b)'
+8,6=>''
+9,0=>'8fb741a8-1882-4672-906c-d0cae92432df'
+9,1=>'context.interface_patsLaptop_accessedlaptop'
+10,2=>' (da327f01-49b9-4983-9536-282ddc872468)'
+11,3=>'::Sec-1456:: (e4b57f75-1922-460a-8c15-7bd727d00659)'
+11,8=>'::Sec-1456::'
+12,3=>'::Sec-1465:: (75bbf2b8-4a7a-45c2-9a2f-451a285e7746)'
+12,7=>'::Sec-1465::'
+13,3=>'::patrickPierce:: (cd99cd10-1119-4561-8d7f-2c8ee70f0c26)'
+13,7=>'::patrickPierce::'
+14,3=>'::idontknowthepassword:: (d9e238b4-da3d-41f3-bf77-5c8f0c16ff29)'
+14,7=>'::idontknowthepassword::'
+15,3=>'::1234567890:: (06b71f22-4160-4e58-981d-57f40f3d3531)'
+15,7=>'::1234567890::'
+16,3=>'::roflcopter:: (aa641016-fb61-420c-8877-1b76fd310c1d)'
+16,7=>'::roflcopter::'
+17,4=>'::[Hacking] Attempt to hack the computer (114e5348-e028-4c07-a75a-a23bd37a3074)'
+17,8=>'::[Hacking] Attempt to hack the computer.::'
+18,2=>'::Exit.:: (20156ab4-e766-458a-aeb4-51dd5c1b18f2)'
+18,6=>'::Exit.::'
+19,3=>'::Audio logs:: (5deca931-b652-4820-b5ef-8df70da397c5)'
+19,7=>'::Audio logs::'
+20,3=>'::Technical documentation:: (22193a80-5258-49a8-8c8e-db4906d56b9a)'
+20,7=>'::Technical documentation::'
+21,2=>'::Log out:: (ed63da3a-cdd4-406a-925f-3d15e0c42b94)'
+21,6=>'::Log out::'
+22,1=>'context.npc_sgs_lenox_askedPassword'
+23,3=>'::The password is correct.Welcome  Patri (629c5dab-9b44-4e60-b90b-dce6160a1f7c)*'
+23,7=>'::The password is correct.
+
+Welcome  Patrick
+
+Please select one of the following options::'
+24,0=>'143a69a8-a7fd-410f-901b-852dff5d5118'
+24,1=>'context.interface_patsLaptop_loggedIn'
+25,1=>'context.npc_sgs_lenox_askedPassword'
+26,3=>'::The password is incorrectPlease try ag (54b0b8d5-e1fe-48d4-9b38-cb30da1d91d0)*'
+26,7=>'::The password is incorrect
+
+Please try again::'
+27,3=>'::Access grantedWelcome  PatrickPlease s (87c41a89-5311-47bb-b35c-81f7ac09141e)*'
+27,8=>'::Access granted
+
+Welcome  Patrick
+
+Please select one of the followring options::::'
+28,3=>'::Unknown error %&#$^@*$#(@*_@)$%&#----- (de14aa7c-b450-4d6e-9ee3-adbf62cc3474)*'
+28,7=>'::Unknown error %&#$^@*$#(@*_@)$%&#
+--------------------------------------------------------------------------------------------------------
+
+Please enter your password to proceed::'
+29,2=>'::Audio logs:: (1f0ee910-75a9-4a82-aa34-bd8abad8d61d)'
+29,6=>'::Audio logs::'
+30,3=>'::This folder contains multiple e-books  (afe0f61b-eff7-4e43-969c-1a9e900dbe2f)'
+30,7=>'::This folder contains multiple e-books and manuals on various equipment. Other than that, you find nothing important.::'
+32,0=>'34df778d-ae92-4b22-b495-f51016693716'
+32,1=>'context.interface_patsLaptop_loggedIn'
+33,3=>'::Big Bret's pen heating:: (dfb897cb-8b15-4722-875f-888a8b55ba0a)'
+33,7=>'::Big Bret's pen heating::'
+34,3=>'::Vera's computer:: (36ce8b3d-a709-4afd-b33b-852f3756a741)'
+34,7=>'::Vera's computer::'
+35,3=>'::Lenox:: (7da16653-165b-4962-a0d7-3429555db51c)'
+35,7=>'::Lenox::'
+36,3=>'::Door in medical:: (7572695e-3411-4b17-a466-734a82845b1f)'
+36,7=>'::Door in medical::'
+37,3=>'::Quinton:: (2df601c7-88f1-4453-8f74-f6d899785e97)'
+37,7=>'::Quinton::'
+38,3=>'::Back to main.:: (55594e63-7d15-45a0-a4f7-c6e227ac7161)'
+38,7=>'::Back to main.::'
+39,3=>'::Please select one of the followring op (ed653f38-ba96-443b-958d-5048a518898d)*'
+39,7=>'::Please select one of the followring options::'
+40,3=>'::The Big Jackass came today and brought (cff44fdb-f5c5-4202-a09f-7c66468399a5)'
+40,9=>'::The Big Jackass came today and brought me a smashed thermostat. He was so angry at me, started screaming and calling me incompetent. Oh, an incompetent "nincompoop," whatever that is. Since the brute smashed it in anger, I can't tell if he's just stupid and doesn't know how to use it, or the unit itself had a problem.
+
+I'll check it out later. ::'
+41,3=>'::Apparently, I'm a computer expert now. (95f2b34f-5a17-42dd-9433-5e742c01d749)'
+41,7=>'::Apparently, I'm a computer expert now. Vera called me the other day to see why her computer was freezing. I took a quick look but couldn't figure out what's wrong with it.
+
+Reminder to self to check it out later, after I fix the lockpad in Medical.::'
+42,3=>'::Lenox called again, he wants to see me (d82323a6-22f3-4720-856d-0ab6d095e4f2)'
+42,8=>'::Lenox called again, he wants to see me. He's worried about my back hurting again. Damn it, I've had these problems since the Core City riots, and he knows that the pain periodically comes and goes.
+
+Reminder to self, call him and tell him I'm fine. I shouldn't have even told him about the pain returning in the first place.::'
+43,3=>'::Pasquale asked me to see what's wrong  (a6be9b19-6e67-49a8-9c21-9defe0124d12)'
+43,7=>'::Pasquale asked me to see what's wrong with the door lockpad in medical, he mentioned the card is usually recognized after ninth or tenth time, which is, of course, unacceptable. He gave me a spare to test it later and figure out why the bloody thing won't work.
+
+Reminder, also check out the lights in operating room, one of them is flickering and the patients are getting nervous.::'
+44,3=>'::Quinton stopped to talk about Big Jack (b47e19a1-8b8d-4691-82e3-140ea753bbef)'
+44,8=>'::Quinton stopped to talk about Big Jackass. He thinks I've got something against him and that I'm messing up the heaters on purpose. Like, he knows I'm doing my best, but if I've got something against Bre-- Jackass, I should talk to Tanner about it, not be a jerk. Also, I'm seriously endangering the whole station by hurting the hoppers. I'm already convicted, I guess!
+
+Damn it, I'm great with everyone here, but there's gotta be that someone... or two...::'
+45,3=>'::Please select one of the followring op (8586e217-8df6-48e0-879f-6a7d8f6d783c)*'
+45,7=>'::Please select one of the following options::'
+46,0=>'401b42e3-66a6-4699-88e6-bdb2fb4406b8'
+46,1=>'context.quest_watch_sgsMurder_knowBretTrouble'
+47,0=>'af1133a7-950e-4698-bc59-5f6b64c931ad'
+47,1=>'context.watch_quest_sgsMurder_knowBretWasInRoom'
+48,0=>'b2f7aab6-a08d-4c82-b8ee-135f3736ea3d'
+48,1=>'context.quest_watch_sgsMurder_knowCoreCityPat'
+49,0=>'b702e2e7-ef0c-4d42-a4e7-7fa667d730c0'
+49,1=>'context.watch_quest_sgsMurder_knowQuintonWasInRoom'

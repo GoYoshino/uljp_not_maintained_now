@@ -1,0 +1,58 @@
+1,0=>'cc_zamanConsole1'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::APB console - Biocorp Core Electronics (fbbf21e6-bdf0-4859-8ac0-103947f9aee9)*'
+5,7=>'::APB console - Biocorp Core Electronics
+Firmware version - 1.23
+Searching for newer version...
+
+Error 35: No Connection
+Canceling update::'
+6,2=>' (2a710114-1455-43b9-b484-0b9e37b3c8d5)'
+6,6=>''
+7,3=>'::Activate backup power system:: (d5f263a4-bc62-4e17-95a6-0760c0bc3f7a)'
+7,7=>'::Activate backup power system::'
+8,3=>'::Activate emergency gate release:: (20e74a14-9b47-49cd-ae41-4db995a793a0)'
+8,7=>'::Activate emergency gate release::'
+9,2=>'::Exit:: (157cf84d-7aa0-454e-8288-27fdc77cc50e)'
+9,6=>'::Exit::'
+10,2=>'::Activating backup power system...Error (bdd5a4ae-53da-409d-9176-4fffed7b379b)'
+10,6=>'::Activating backup power system...
+
+Error 5: Unable to activate backup power system. Please contact your power supply administrator.::'
+11,4=>'::Activating emergency gate release...Ma (dc542932-fac3-4235-8d9b-f24886c298fa)*'
+11,8=>'::Activating emergency gate release...
+
+Main Gate: Failed. Unknown error
+Medical Bay Gate: Succesfully opened
+Security Gate 1: Succesfully opened
+Security Gate 2: Succesfully opened
+Security Gate 3: Succesfully opened::'
+12,3=>'::Back:: (1a3fc988-127f-4c79-b371-40fc26f49571)'
+12,7=>'::Back::'
+13,2=>' (7a1dc447-59ee-4173-bdd2-32bfd65fb6e2)'
+14,2=>' (f4fa1b32-f8fb-41d1-8831-f6b9bc7fdfb7)'
+15,1=>'context.loc_zamansLair_gatesOpen'
+16,0=>'760f068e-09dd-4ecb-893e-e7f76fae486f'
+16,1=>'context.loc_zamansLair_gatesOpen'
+17,0=>'c0db144c-837f-457b-8d0a-0a21a970d416'
+18,0=>'7820447d-86bc-4f83-b792-02e199bad1d4'
+19,0=>'55880594-f8d6-4400-a2f3-b5b14c18e544'
+20,0=>'78e1bc4a-a557-486f-85e7-7dc4f4775d29'
+21,3=>'::Back:: (656665a6-4b96-47fb-9d23-8174177062c7)'
+21,7=>'::Back::'
+22,2=>'::Exit:: (4dcae02a-f2cb-47c8-98de-85d9c63b97c9)'
+22,6=>'::Exit::'
+23,3=>'cc_zamansLair'
+24,3=>'cc_zamansLair'
+25,3=>'cc_zamansLair'
+28,2=>'chop-chop2'

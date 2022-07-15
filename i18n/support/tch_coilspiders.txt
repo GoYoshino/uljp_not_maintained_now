@@ -1,0 +1,7 @@
+1,0=>'tch_coilSpiders'
+1,4=>'English'
+2,3=>'Start Element'
+3,0=>'speaker'
+4,0=>'player'
+5,2=>'::It calmly observes you with its numero (46b17583-407e-4606-9fe2-a0526b3d679a)'
+5,6=>'::It calmly observes you with its numerous eyes.::'

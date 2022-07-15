@@ -1,0 +1,47 @@
+1,0=>'tch_utilStasis3'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+2,4=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Subject Name: B-004Age: 6Gender: MaleN (ff571177-fa25-436a-aaa9-7ee490177399)'
+5,6=>'::Subject Name: B-004
+
+Age: 6
+
+Gender: Male
+
+Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
+
+Vital Status: Deceased::'
+6,2=>'::Subject Name: B-004Age: 6Gender: MaleN (6f12af32-e949-4b69-aee0-941afd064e31)'
+6,6=>'::Subject Name: B-004
+
+Age: 6
+
+Gender: Male
+
+Notes: Subject suffers from multiple severe respiratory issues (details under code T-889-L). To be kept on life support and monitored until further notice.
+
+Vital Status: Severe::'
+7,1=>'context.loc_tch_stasis3_turnOffLifeSupport'
+8,2=>'::Exit:: (58f20be4-abc7-45f5-865b-5eba2927c887)'
+8,6=>'::Exit::'
+9,3=>'::Disable life support:: (62901a60-53cd-42f7-947b-e425c579e90c)'
+9,7=>'::Disable life support::'
+10,2=>'::Are you sure you want to disable life  (eafe9798-e4d1-4057-bc4d-09f6370b8cb9)'
+10,6=>'::Are you sure you want to disable life support?::'
+11,3=>'::Yes:: (bade6f00-922d-41b5-a9c8-17624028bd06)'
+11,8=>'::Yes::'
+12,3=>'::No:: (50f41971-3bef-4f81-84e2-977bcd8e08cc)'
+12,7=>'::No::'
+13,3=>'::Life support disabled:: (38d2e021-34e7-448c-8e2e-dd24e676a5ae)'
+13,7=>'::Life support disabled::'
+14,0=>'826e27b0-d695-4b53-ad9a-171569ce7fd6'
+14,1=>'context.loc_tch_stasis3_turnOffLifeSupport'
+15,2=>'::The moment you turn off life support,  (6ea248d2-d76e-45c2-8f5b-cb597a040476)'
+15,6=>'::The moment you turn off life support, the creature inside the glass container opens its eyes and begins to move. Its weak arms move with little coordination as it thrashes around its soon-to-be grave. It watches you with its murky, dark and distressed eyes before it eventually gives up.
+
+Its body goes limp, its head drops forward - its eyes remain open but unable to see.::'

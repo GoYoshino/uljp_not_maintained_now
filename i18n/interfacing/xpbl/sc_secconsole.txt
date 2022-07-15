@@ -1,0 +1,158 @@
+1,0=>'sc_secConsole'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,4=>'::LEMCO LC387 - :: (f6a15f6d-e7ad-4c2a-8825-9015b1ad18bb)*'
+5,8=>'::LEMCO LC387 - ::'
+6,4=>'::Welcome, P. Bridges:: (1c4b4f69-5361-4b94-815a-3cc9de60c0b1)*'
+6,8=>'::Welcome, P. Bridges::'
+7,2=>'::You do not have permission to use this (3aaf85e5-5a05-4e23-86b3-965a327201a1)'
+7,6=>'::You do not have permission to use this console. Minimum clearance level required is C-3.::'
+9,3=>' (8c5ae9d5-da3a-4549-98e4-c7e81ba6347b)*'
+9,7=>''
+10,3=>'::Warning: Joint Security Headquarters i (56610c9b-2a4c-4999-b9ac-3a51741bf5b5)*'
+10,7=>'
+
+::Warning: Joint Security Headquarters is under full lockdown.::'
+11,2=>'::Exit:: (8cdbdf32-7fb5-4acb-b99a-5ce918c0f864)'
+11,6=>'::Exit::'
+12,1=>'context.global_xpbl_implantedChip_PhilBridges'
+13,1=>'plot.xpbl_philsArm'
+14,1=>'context.loc_xpbl_sc_activatedElevator'
+15,2=>' (780cbd10-a784-4ad6-b466-cb556de7459c)'
+16,3=>'::Lift lockdown:: (40d84079-4dbf-4c8a-8ece-0141cf6f70c9)'
+16,7=>'::Lift lockdown::'
+17,4=>'::Surveillance system:: (92b41c12-97d4-4eaf-b551-d45dc83f9a6e)'
+17,8=>'::Surveillance system::'
+18,4=>'::Auto-turret defense system:: (b9a1b9ef-ebc7-43df-be6b-fb1a25c547be)'
+18,7=>'English'
+18,8=>'::Auto-turret defense system::'
+19,3=>'::Contact active security supervisor:: (526a8dbb-5713-472f-9214-ad6c644470d4)'
+19,7=>'::Contact active security supervisor::'
+20,2=>'::Summon available strongman:: (bdfec2f5-f70a-48ff-90eb-acb6f1e621f5)'
+20,6=>'::Summon available strongman::'
+21,2=>'::Verifying clearance level...Passed: Yo (2b15e3ce-4a59-4850-b8a3-48b7fc0b566d)'
+21,6=>'::Verifying clearance level...
+
+Passed: Your clearance level is C-4.
+
+Lifting lockdown will unlock the main entrance gates, disable automated bioscanning procedures and allow access to the Security Command elevator. Mode of operation for automated defense systems will remain unchanged.
+
+Proceed?::'
+22,1=>'context.loc_xpbl_sc_activatedElevator'
+23,2=>'::Surveillance system status: Online.Num (64dea3b9-4f4d-4542-801e-0d7523062687)'
+23,6=>'::Surveillance system status: Online.
+
+Number of active security cameras in Joint Security Headquarters: N/A::'
+24,2=>'::Surveillance system status: Offline.:: (797005f4-321a-44b4-8689-319299e11b44)'
+24,6=>'::Surveillance system status: Offline.::'
+25,2=>'::Auto-turret defense system status: Onl (26427a6e-b9af-448d-8d2b-056097357a30)'
+25,6=>'::Auto-turret defense system status: Online::'
+26,2=>'::Auto-turret defense system status: Off (80914abb-98ce-47b9-8d32-679cc6ce0e88)'
+26,6=>'::Auto-turret defense system status: Offline::'
+27,3=>'::No active security supervisors detecte (0a2945b1-ae80-400d-adc4-752988afd3c1)'
+27,7=>'::No active security supervisors detected. There may be temporary communication problems preventing this. 
+
+Please try again later.::'
+28,1=>'context.none'
+29,3=>'::Yes:: (b7475dbf-152e-4ee7-bab3-fa6b830e24c9)'
+29,7=>'::Yes::'
+30,3=>'::No:: (cc4ee8ee-2f25-4ee0-afb6-2202b8223b9b)'
+30,7=>'::No::'
+31,1=>'context.loc_xpbl_sc_camerasDisabled'
+32,3=>'::Disable the surveillance system:: (53706e5d-af9e-47f5-a156-7efe4f04487f)'
+32,7=>'::Disable the surveillance system::'
+33,3=>'::Back:: (5e5ff5a8-fe4d-463b-8620-12f6f21d0d3e)'
+33,7=>'::Back::'
+34,1=>'context.loc_xpbl_sc_turretsDisabled'
+35,3=>'::Disable auto-turret defense system:: (eaa852d1-e021-49a1-94ab-0e8769e64d2b)'
+35,7=>'::Disable auto-turret defense system::'
+36,3=>'::Lifting lockdown...Opening entrance ga (5c3f159d-92bf-47d9-8d71-2d188b9907af)*'
+36,13=>'::Lifting lockdown...
+
+Opening entrance gate 1... Done.
+Opening entrance gate 2... Done.
+Unlocking Security Command Elevator... Done.
+
+Lockdown lifted successfully.::'
+37,2=>'::Error...Error...Error...Error...Error. (2b39748c-6174-44c7-a6c9-29079a4ac2c8)'
+37,6=>'::Error...
+
+Error...
+
+Error...
+
+Error...
+
+Error...::'
+38,1=>'context.loc_xpbl_sc_camerasDisabled'
+39,2=>'::Disabling...Disabling...Disabling...Di (d01a6b27-808d-4d11-ac84-15ba2320f33c)'
+39,6=>'::Error...
+
+Error...
+
+Error...
+
+Error...
+
+Error...::'
+40,1=>'context.loc_xpbl_sc_turretsDisabled'
+41,0=>'b9236c0e-eae3-43f1-af35-b3cde424f6cb'
+42,0=>'9f0d136f-0ce6-4f7c-8d70-ada3148f9ce2'
+42,1=>'context.loc_xpbl_sc_activatedElevator'
+43,0=>'acbc45dd-00e0-4457-8742-34c7a6fe879a'
+44,0=>'8d6fdb2d-5956-487e-8c08-5effdb26ec18'
+45,0=>'de628143-9966-4ad1-9f88-ee035f096a36'
+46,0=>'6fbe0d99-d5d4-4e6b-a72d-7464046cb5ea'
+47,4=>'::[Hacking] Disable the surveillance sys (08863ada-6458-417e-90ac-2877e6dcade4)'
+47,8=>'::[Hacking] Disable the surveillance system::'
+48,4=>'::[Hacking] Disable auto-turret defense  (f3edb8be-e38d-4005-ab09-cf2d3f4b1e54)'
+48,8=>'::[Hacking] Disable auto-turret defense system::'
+50,1=>'xpbl_sc'
+51,3=>'xpbl_sc'
+52,3=>'xpbl_sc'
+53,1=>'xpbl_f12'
+54,1=>'context.loc_xpbl_sc_camerasDisabled'
+55,3=>'::Disabling surveillance system...Survei (e108b7a8-bd72-433f-83eb-04b01aa1789a)'
+55,9=>'::Disabling surveillance system...
+
+Surveillance system disabled successfully..::'
+56,3=>'::Error...Error...Error...Rebooting...:: (5fdfcff1-a325-4c2c-b42b-f59e9ac4f2a5)'
+56,7=>'::Error...
+
+Error...
+
+Error...
+
+Rebooting...::'
+57,3=>'::Disabling...Success: Auto-turret defen (6e3c0e2b-1d32-4f4a-b1d5-9f5b6cedee53)'
+57,9=>'::Disabling...
+
+Success: Auto-turret defense system has been disabled.::'
+61,0=>'0c3673b9-748c-4c1d-8c9b-9e39cb4884ee'
+62,0=>'fe8910df-b57f-4f00-95b3-c01880157ead'
+62,1=>'context.loc_xpbl_sc_camerasDisabled'
+64,0=>'b3a7cdbd-35b5-4e32-a81e-bbd7c841b279'
+64,1=>'context.loc_xpbl_sc_turretsDisabled'
+65,0=>'c6953bd1-0425-4429-acb0-58da7bd96c11'

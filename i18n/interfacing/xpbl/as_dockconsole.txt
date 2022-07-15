@@ -1,0 +1,79 @@
+1,0=>'xpbl_mu_waterPump'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+1,29=>'English'
+1,30=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,4=>'::LEMCO LC387 - :: (a679bd17-2221-4181-b5ac-320aaef12dd9)*'
+5,8=>'::LEMCO LC387 - ::'
+6,3=>'::Welcome, P. Bridges:: (c9521e6a-7fe3-4f58-9c50-d24cb0d0ce8c)*'
+6,7=>'::Welcome, P. Bridges::
+
+'
+7,3=>'::Welcome, guest:: (6abe7f85-5a52-4906-b844-eb91f09abd4e)*'
+7,7=>'::Welcome, guest::
+
+'
+9,2=>'::Unable to connect to LIN. Only local d (3e0ab9bd-1ca9-4bf6-8864-bf34714581b3)'
+9,6=>'::Unable to connect to ASIN. Only local data is available.::'
+10,1=>'plot.xpbl_philsArm'
+11,1=>'context.global_xpbl_implantedChip_PhilBridges'
+12,3=>'::Cargo traffic log:: (7240ba1c-575b-474b-973c-1c3c5dc2ac4e)'
+12,7=>'::Cargo traffic log::'
+13,3=>'::Summon available strongman:: (6cd399dd-c5d2-4723-b7d4-d3f5cb7e759d)'
+13,7=>'::Summon available strongman::'
+14,3=>'::Contact active security supervisor:: (b6d4a512-f262-42be-a300-aa0afdec2832)'
+14,7=>'::Contact active security supervisor::'
+15,2=>'::Exit:: (a5df69a8-65d2-4cfc-bab7-2142c38328a4)'
+15,6=>'::Exit::'
+16,2=>'::Cargo traffic logSorted by: Importance (2e9619e0-2819-44be-a8e9-abce0438398a)'
+16,8=>'::Cargo traffic log
+
+Sorted by: Priority
+
+Date: 17. 10. 122. Time: 10:35. Id: ACoNR. Qty: 1. Prt: 1. Destination: Research and Development Dome.
+Date: 17. 10. 122. Time: 03:25. Id: 2781081. Qty: 7. Prt: 2. Destination: Manufacturing Dome.
+Date: 15. 10. 122. Time: 06:30. Id: 5451163. Qty: 80. Prt: 2. Destination: Residential Dome 1.
+Date: 14. 10. 122. Time: 22:55. Id: 6204910. Qty: 15. Prt: 2. Destination: Aquaponics Dome.
+Date: 13. 10. 122. Time: 14:10. Id: 2133259. Qty: 2. Prt: 3. Destination: Research and Development Dome.
+Date: 16. 10. 122. Time: 20:15. Id: 3435710. Qty: 180. Prt: 3. Destination: Manufacturing Dome.
+Date: 16. 10. 122. Time: 20:15. Id: 4444444. Qty: 24. Prt: 3. Destination: Residential Dome 1.
+Date: 16. 10. 122. Time: 22:20. Id: 7152902. Qty: 45. Prt: 3. Destination: Aquaponics Dome.
+Date: 16. 10. 122. Time: 10:15. Id: 5137437. Qty: 26. Prt: 4. Destination: Manufacturing Dome.::'
+17,3=>'::No available strongmen detected. Your  (b7dfd86a-fbca-4f29-a043-2d30da0d91fc)'
+17,7=>'::No available strongmen detected. Your request has been placed in a queue.::'
+18,3=>'::No active security supervisors detecte (eed0be09-11fb-451d-ad64-589fa4987a4d)'
+18,7=>'::No active security supervisors detected. There may be temporary communication problems preventing this. 
+
+Please try again later.::'
+19,0=>'87c51618-c8a5-445f-bb02-476130e5aec7'
+19,1=>'context.global_xpbl_knowACoNR'
+20,0=>'64414000-7a49-4f69-aaaa-cb1cb869dc94'
+20,1=>'context.loc_xpbl_as_knowR&Ddome'
+21,3=>'::Back:: (ca95e4a3-d7fb-434f-b602-ed5b9a521510)'
+21,7=>'::Back::'

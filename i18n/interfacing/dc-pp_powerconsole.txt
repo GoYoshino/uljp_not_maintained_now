@@ -1,0 +1,287 @@
+1,0=>'dc-pp_powerConsole'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+1,29=>'English'
+1,30=>'English'
+1,31=>'English'
+1,32=>'English'
+1,33=>'English'
+1,34=>'English'
+1,35=>'English'
+1,36=>'English'
+1,37=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,4=>'::Arke Power Station Power Management Co (709c8780-1077-46ec-9585-8e5bd401abeb)'
+5,8=>'::Arke Power Station Power Management Console
+
+Biocorp Dis Electronics
+
+Power station rated capacity: 300 MW
+Warning! Estimated turbine efficiency is extremely low! (<10%)
+Turbine maintenance or replacement is necessary!
+Warning! Total electric supply capacity is extremely low! (<5%)
+
+Current estimated capacity: <10 MW::'
+6,3=>' (52a2857d-8eac-4862-bafa-87ae06ee10a4)*'
+6,16=>''
+7,2=>'::Current power expenditure (%):Research (599ff40b-2ec2-4198-aa72-fb4c5cc6ef91)'
+7,6=>'::Current power expenditure (%):
+
+Research Complex: $(context.loc_dc_labPower)%
+Tithonus Lab: 0%
+Mutagen Tanks A: $(context.loc_dc_mutagenPower)%
+Mutagen Tanks B: 0%
+Arke Power Station: $(context.loc_dc_arkePower)%
+Warehouse Block 1: 0%
+Warehouse Block 2: $(context.loc_dc_warehousePower)%
+BCAF - Detachment Hollow Earth: 0%
+Talos Outpost: $(context.loc_dc_facelessPower)%
+Caerus Residential Block: $(context.loc_dc_residentialPower)%
+Tartarus Maximum Security Prison: $(context.loc_dc_prisonPower)%
+South Elevator: 0%
+
+Current power available for allocation: $(context.loc_dc_TotalPower)%::'
+8,1=>'context.loc_dc-pp_initializePower'
+9,0=>'a475b1f5-50bb-4acb-ac51-be2784d93c25'
+9,1=>'context.loc_dc-pp_initializePower'
+10,0=>'a2d48a8b-d342-4789-bbe0-eddb9e48b6f4'
+10,1=>'context.loc_dc_arkePower'
+11,0=>'66abac3d-50c5-482b-be51-ed5780fce61e'
+11,1=>'context.loc_dc_labPower'
+12,0=>'3285fcbd-4dd3-4088-84f2-4e8597e9639b'
+12,1=>'context.loc_dc_mutagenPower'
+13,0=>'225b6e03-96aa-4c9a-91f7-98b76e54b0e5'
+13,1=>'context.loc_dc_warehousePower'
+14,0=>'2bdb3054-c387-4f71-a79f-edbfdef043b1'
+14,1=>'context.loc_dc_facelessPower'
+15,0=>'3d0512c9-a643-433b-9e57-60b5aadab0f8'
+15,1=>'context.loc_dc_residentialPower'
+16,0=>'848eb817-43ca-42e5-ac3d-44da649f4043'
+16,1=>'context.loc_dc_prisonPower'
+17,0=>'33272e1c-219f-4458-955e-1b146c6b7635'
+17,1=>'context.loc_dc_TotalPower'
+18,3=>'::Power plant management:: (61cc0713-74fd-474b-9da4-6eebef2c0aba)'
+18,7=>'::Power plant management::'
+19,3=>'::Deallocate power from Arke security sy (d1467456-9d94-4e1f-ba3f-355e5cb6d95f)'
+19,7=>'::Deallocate power from Arke security systems and assembly lines::'
+20,3=>'::Allocate power to Warehouse Block 2 (- (469c7a57-cdf2-4ce2-8d0c-d91eea0b5b38)'
+20,10=>'::Allocate power to Warehouse Block 2 (-5%)::'
+21,3=>'::Deallocate power from Warehouse Block  (ceef0b83-a189-4454-a7d5-1b8898d38911)'
+21,10=>'::Deallocate power from Warehouse Block 2 (+5%)::'
+22,3=>'::Allocate power to Hollow Earth main re (594cb74c-85fa-4cae-97a7-2fbe9053cd5e)'
+22,10=>'::Allocate power to Hollow Earth main research complex (-60%)::'
+23,3=>'::Deallocate power from Hollow Earth mai (787e1f0a-da11-4221-93d2-f4ec3be674ff)'
+23,10=>'::Deallocate power from Hollow Earth main research complex (+60%)::'
+24,3=>'::Allocate power to Mutagen Tanks A (-30 (8b0fa39e-1874-41ee-a87b-798f7a5eaaa4)'
+24,10=>'::Allocate power to Mutagen Tanks A (-30%)::'
+25,3=>'::Deallocate power from Mutagen Tanks A  (b2ea8e60-405b-4ea7-ab70-e66898b3554f)'
+25,10=>'::Deallocate power from Mutagen Tanks A (+30%)::'
+26,2=>'::Allocate power to Mutagen Tanks B *(No (88570a98-ce4c-4a9f-ac0d-a2a13389c9dd)'
+26,6=>'::Allocate power to Mutagen Tanks B *(Node 3 offline)*::'
+27,4=>'::Allocate power to Caerus Residential B (c99b25b7-83d8-45e9-86d5-e8c2b1e58df5)'
+27,11=>'::Allocate power to Caerus Residential Block (-40%)::'
+28,3=>'::Deallocate power from Caerus Residenti (5832a7c4-38a0-4cef-bccf-af30033234c1)'
+28,10=>'::Deallocate power from Caerus Residential Block (+40%)::'
+29,2=>'::Allocate power to Tartarus Maximum Sec (074f2c7f-7c94-4052-a069-b8dd4a59c119)'
+29,6=>'::Allocate power to Tartarus Maximum Security Prison *(Nodes 8 and 11 offline)*::'
+30,2=>'::Allocate power to South Elevator *(Nod (6a3b2f47-4560-4ce7-93e8-a1b7fcbfdb15)'
+30,6=>'::Allocate power to South Elevator *(Node 19 offline)*::'
+31,2=>'::Allocate power to Talos Outpost *(Node (c41154bb-ad15-4805-bb4c-1810c7a7e95b)'
+31,6=>'::Allocate power to Talos Outpost *(Node 2 offline)*::'
+32,2=>'::Exit:: (9e42a196-1b0a-4d3a-9985-eb66380d0fc9)'
+32,6=>'::Exit::'
+34,4=>'::Gas turbine 1 status: onGas turbine 2  (aeaee97f-13f3-4c20-ab99-40bf10cd1308)*'
+34,8=>'::Gas turbine 1 status: on
+Gas turbine 2 status: on
+
+Warning! Turbine maintenance or replacement is necessary!
+
+Steam turbine status: on
+Heat recovery steam generator (HRSG) status: on
+::'
+35,1=>'context.loc_dc_pp_securityDisabled'
+36,2=>'::This procedure will disable all securi (0b67f45a-9ce2-4187-a2a0-7320237dcc36)'
+36,6=>'::This procedure will disable all security systems, including AMA lines, surveillance systems and turret defenses.
+
+Are you sure you want to proceed?::'
+37,1=>'context.loc_dc_pp_securityDisabled'
+38,3=>'::Power allocated successfully!:: (045c71cb-c49f-4f2c-925a-1dba33f043b3)*'
+38,7=>'::Power allocated successfully!::
+
+'
+39,0=>'08fe4f9d-65a5-4e81-85e1-fd37e5e5cfc9'
+40,0=>'4007778e-e4f6-4b6a-a9b1-f354ed839e80'
+40,1=>'context.loc_dc_TotalPower'
+41,0=>'f9f9fd6c-e72d-4ce3-ac51-fca5d9bea1f8'
+41,1=>'context.loc_dc_warehousePower'
+43,1=>'context.loc_dc_pp_securityDisabled'
+44,3=>'::Power deallocated successfully!:: (277f8048-0af2-4329-b92d-53a929f9af34)*'
+44,7=>'::Power deallocated successfully!::
+
+'
+45,0=>'acb2b3ab-4111-4002-991b-de44fd452b66'
+46,0=>'d7f87fd3-540e-4ba2-9871-6514df16d4c1'
+46,1=>'context.loc_dc_warehousePower'
+47,0=>'02ce83f4-24aa-4b9d-9ef6-a191570ff20f'
+47,1=>'context.loc_dc_TotalPower'
+48,1=>'loc_dc_warehousePower'
+49,1=>'context.loc_dc_pp_securityDisabled'
+50,0=>'0c3f6185-1c5d-48ea-bfa5-a51933623c96'
+51,0=>'94105d74-6a96-4b55-a036-a26305eefdc1'
+51,1=>'context.loc_dc_TotalPower'
+52,0=>'6b787bfd-0485-4ec1-a55c-e23a08984a5f'
+52,1=>'context.loc_dc_labPower'
+54,1=>'context.loc_dc_pp_securityDisabled'
+55,0=>'01d84cab-45f3-42e5-b713-342ce81d929e'
+56,0=>'f3d145bd-9fda-485e-ad8c-acafc01e05d0'
+56,1=>'context.loc_dc_labPower'
+57,0=>'da3c43d5-d732-469e-a158-f76325f52952'
+57,1=>'context.loc_dc_TotalPower'
+58,1=>'loc_dc_labPower'
+59,1=>'context.loc_dc_pp_securityDisabled'
+60,0=>'4a4eb132-baa8-4b40-bf5d-c56fb899c5e9'
+61,0=>'8f60aa0b-0e7a-4fed-a77f-4a35419c0d8c'
+61,1=>'context.loc_dc_TotalPower'
+62,0=>'3d7bc1b2-ea10-49e6-9c99-cd1cf145020c'
+62,1=>'context.loc_dc_mutagenPower'
+64,1=>'context.loc_dc_pp_securityDisabled'
+65,0=>'9589b2e7-81f6-4760-afd7-095dc4110850'
+66,0=>'8cf17650-503b-4848-b0a0-3c5834446518'
+66,1=>'context.loc_dc_mutagenPower'
+67,0=>'e91aa729-3161-43e7-97a7-3c67f44460be'
+67,1=>'context.loc_dc_TotalPower'
+68,1=>'loc_dc_mutagenPower'
+69,1=>'context.loc_dc_pp_securityDisabled'
+70,1=>'none'
+71,1=>'context.loc_dc_pp_securityDisabled'
+72,3=>'::Power allocated successfully!:: (73add3d2-32be-4b40-930d-4f7b8247d558)*'
+72,10=>'::Power allocated successfully!::
+'
+73,0=>'e823e9e0-a02e-42c1-87dc-fa1cdbb6f725'
+74,0=>'2528ae37-313a-4d06-8080-03f9e855ab35'
+74,1=>'context.loc_dc_TotalPower'
+75,0=>'badb4e0d-c6a6-4933-ba7c-088f3c6739e9'
+75,1=>'context.loc_dc_residentialPower'
+77,1=>'context.loc_dc_pp_securityDisabled'
+78,0=>'3332315d-7bc4-4712-9d63-a79ab8ceed8f'
+79,0=>'c7292dc7-00df-4525-a029-51f37ceb7519'
+79,1=>'context.loc_dc_residentialPower'
+80,0=>'b27202bb-67d6-4e19-9c56-7a53a1209fc5'
+80,1=>'context.loc_dc_TotalPower'
+81,1=>'loc_dc_residentialPower'
+82,1=>'context.loc_dc_pp_securityDisabled'
+83,1=>'none'
+84,1=>'context.loc_dc_pp_securityDisabled'
+85,1=>'none'
+86,1=>'context.loc_dc_pp_securityDisabled'
+87,1=>'none'
+88,1=>'context.loc_dc_pp_securityDisabled'
+89,2=>'::HRSG supplementary burners: onMode of  (2755e5a2-d99f-429c-ad98-46574157831b)'
+89,6=>'::HRSG supplementary burners: on
+
+Mode of operation: combined cycle (Manual config)::'
+90,2=>'::HRSG supplementary burners: offMode of (c2b8be2c-b0a3-4e3b-94e8-56c3eb3cdc9e)'
+90,5=>'English'
+90,6=>'::HRSG supplementary burners: off
+
+Mode of operation: combined cycle (Auto config)::'
+91,3=>'::Yes:: (14e69987-e6bb-4643-8142-e1bf84318249)'
+91,7=>'::Yes::'
+92,3=>'::No:: (3f1351bc-eda0-4472-98e0-a0a63a938320)'
+92,7=>'::No::'
+94,1=>'loc_dc_warehousePower'
+95,1=>'loc_dc_TotalPower'
+98,1=>'loc_dc_labPower'
+99,1=>'loc_dc_TotalPower'
+102,1=>'loc_dc_mutagenPower'
+103,1=>'loc_dc_TotalPower'
+105,1=>'context.loc_dc_res_setSpiders'
+106,0=>'6cfe3794-3d5d-4661-8614-76a27003343f'
+107,0=>'4da2d251-6817-41ec-b021-798f03609617'
+108,0=>'5012bee7-9864-4fba-9625-aef47e220a6d'
+108,1=>'context.loc_dc_res_setSpiders'
+110,1=>'loc_dc_residentialPower'
+111,1=>'loc_dc_TotalPower'
+113,1=>'context.loc_dc_pp_powerOptimized'
+114,3=>'::Back:: (57e95fc9-881d-433a-acba-9d385d7f474e)'
+114,7=>'::Back::'
+115,3=>'::[Electronics] Manually configure the c (262022ac-8908-4820-9cb8-10226d88b62a)'
+115,7=>'::[Electronics] Manually configure the combined-cycle system::'
+116,0=>'interface'
+117,0=>'player'
+118,3=>'::Disabling security systems...Turbine c (a287320c-3879-462b-8fd3-56ced0258964)'
+118,14=>'::Disabling security systems...
+
+Turbine chamber security - security disabled!
+Office section - security disabled!
+Automated manufacturing and assembly - security disabled!
+IRIS Core - Error: Remote access is denied!
+
+Procedure completed with 1 error(s)::'
+119,3=>'::Procedure canceled:: (362feeb7-3614-49eb-9325-bb37a7acb0c3)'
+119,7=>'::Procedure canceled::'
+120,1=>'dc-res2'
+121,1=>'dc-res3'
+122,4=>'::Optimizing gas turbine air-fuel mixtur (19b91ef8-5575-42dc-a4ac-393958aa9f51)*'
+122,8=>'::Optimizing gas turbine air-fuel mixture... Done.
+
+Engaging and configuring HRSG supplementary burners... Done.
+
+::'
+123,0=>'d40606bf-8bf1-4e7c-8181-3b9b97edc477'
+123,1=>'context.loc_dc_pp_securityDisabled'
+124,0=>'e7c75877-7009-4d70-b388-9cb474e5361e'
+124,1=>'context.loc_dc_arkePower'
+125,0=>'a51c2a95-740d-4858-a8c0-8434f17f6d8b'
+125,1=>'context.loc_dc_TotalPower'
+126,0=>'c7f425b5-57ca-44c6-b88f-56b95c11d343'
+126,1=>'context.loc_dc_irisStatus'
+126,2=>'disabled'
+127,0=>'1b0b096e-8069-4b7a-a853-4d5a82970ce1'
+128,0=>'995dd669-efa2-4ba5-b271-38a41b624475'
+129,0=>'1bb9cf91-cb2c-4126-aa04-564de1dd6561'
+132,3=>'::Verifying steam turbine status... Done (d4c7982f-2abd-44a4-8147-5c8851446abc)'
+132,9=>'::Verifying steam turbine status... Done.
+
+Optimizing supercondenser operation... Done.
+
+Manual configuration successful. Total net power gain: 51%::'
+133,3=>'::Warning! Steam pressure reaching unacc (2c5bd9dd-7fd4-48ac-867e-a694462c338b)'
+133,7=>'::Warning! Steam pressure reaching unacceptable levels!
+
+Reverting to default settings... 
+Disengaging HRSG supplementary burners... 
+Optimizing air-fuel mixture...
+
+Procedure completed! (52 errors logged)::'
+135,1=>'dc-pp_m'
+136,1=>'dc-pp_ama'
+138,0=>'8f98cba4-7a97-4487-a0ca-fdbf3b5cd606'
+138,1=>'context.loc_dc_pp_powerOptimized'
+139,0=>'4fb81d5d-25bc-4064-8e91-9f20d42aec4a'
+139,1=>'context.loc_dc_TotalPower'

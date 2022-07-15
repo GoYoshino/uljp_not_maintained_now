@@ -1,0 +1,144 @@
+1,0=>'pr_void'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+2,5=>'Start Element'
+3,0=>'void'
+4,0=>'player'
+5,0=>'mareth'
+6,0=>'dess'
+7,2=>'Now's not the time to chat, Corps. (89753f58-96b6-4d87-bf12-e3172214d3a0)'
+7,6=>'Now's not the time to chat, Corps.'
+8,2=>'::From the moment you saw Dess, back whe (cd7193b5-cad1-49c9-9f04-0dee9258d7fb)'
+8,7=>'::From the moment you first saw Dess back when CAU marched into Consul Oliver's office, you felt great discomfort. She didn't strike you as someone who's on the same side of the tracks as you are, and it didn't take long for you to feel her toxic demeanor slithering down your back. Her irritating and constant giggles are, however, the thing that drills into your skull the most.::
+
+Ah, Corps. Hello there. :: She giggles.:: What can good ol' Dess do for you? You had some questions, yes?'
+9,3=>'Hey Corps, whatcha need? ::She giggles.: (e02ec87f-0459-469b-abf3-6319b7f0b1b4)*'
+9,7=>'Hey Corps, whatcha need? ::She giggles.::'
+10,1=>'lup-a6'
+12,0=>'ed1a1ef6-2713-45d1-a911-1cec62993d34'
+12,1=>'context.npc_pr_dess_met'
+13,3=>'As a matter of fact, I did. (bf826236-8bbd-4328-9ee9-ba0b18098f18)'
+13,7=>'As a matter of fact, I did.'
+14,2=>' (1871d6b8-5932-4379-9423-d354bd2e3721)'
+15,1=>'context.npc_pr_dess_met'
+16,1=>'pr-amb'
+17,2=>'::She interrupts you mid-sentence with a (3026c090-eead-4f04-b991-64a67e0cd936)'
+17,6=>'::She interrupts you mid-sentence with a loud sigh.::
+
+Wait, scrap that, I don't feel like answerin' questions at *this* particular moment. Maybe a few seconds later, but not now. Now... I wanna *ask* questions.
+
+Tell me, Corps, do you enjoy killin' people?'
+18,3=>'Tell me about yourself. (ed678819-1782-40ac-a044-10d590951e56)'
+18,7=>'Tell me about yourself.'
+19,3=>'Tell me about Captain Mareth. (fa30feea-a0d2-4780-be5e-cd42f318fce0)'
+19,7=>'Tell me about Captain Mareth.'
+20,3=>'Tell me about Void. (78ff2c22-ea9e-4436-a4b6-4ae8b3a851cb)'
+20,7=>'Tell me about Void.'
+21,3=>'What can you tell me about CAU? (6ea6993e-bb64-44c6-b416-7f3c162d2eac)'
+21,7=>'What can you tell me about CAU?'
+22,4=>'What can you tell me about Free Drones? (bcb9f33d-47c4-4676-9a1b-ba0b79025a61)'
+22,8=>'What can you tell me about Free Drones?'
+23,2=>'Goodbye. (0422c0b7-d29b-4571-99a5-6b220b128973)'
+23,6=>'Goodbye.'
+24,3=>'Hell yeah I do. I'd kill you right now i (8a2786d0-79ff-4786-945f-6b8f46932d2c)'
+24,7=>'Hell yeah I do. I'd kill you right now if I could!'
+25,3=>'I only kill because I have to, not becau (6469d8f2-7af8-48b9-a07d-055cba86d6d3)'
+25,7=>'I only kill because I have to, not because I want to.'
+26,3=>'That's not really my preferred topic... (dc909ca9-8982-4761-95b3-ce958633b330)'
+26,7=>'That's not really my preferred topic...'
+27,3=>'About myself? ::She giggles.:: Well now, (d87c6e19-de70-4558-85d4-3f37894e7b32)'
+27,7=>'About myself? ::She giggles.:: Well now, I think I'm a smart and pretty girl born in Hexagon - even though you can't tell I'm pretty because of the mask, but trust me - it's true. Aaaand, that I'm a highly efficient murder machine. So far, I've ground exactly ninety-nine targets into dust. Actually, I don't grind... I melt people with my acid bolts.'
+28,3=>'::She giggles.:: Oh, Cap's the unit lead (9e0df502-106e-45c7-a999-27be81bd1ef0)'
+28,7=>'::She giggles.:: Oh, Cap's the unit leader, a man you wouldn't want to mess with. He's strong and... smart. He's skilled and... fearless. CAU without him would be nothin', Corps. Yes, he is the reason we're known and feared among our enemies as the unit that can take on anyone or anythin'.'
+29,2=>'Void is a perfect friend! He's a great l (e8550d4d-99fd-454e-ae52-89e2cbeaca1e)'
+29,6=>'Void is a perfect friend. He's a great listener, doesn't talk much and he's big and strong when ya need some assistance. ::She giggles.:: Not that *I* need much assistance. I can take care of my own, Corps.'
+30,3=>'Oh, we're the baddest, meanest killin' m (5f3d6461-4fe3-48f1-a35c-c2f4108b018d)'
+30,7=>'Oh, we're the baddest, meanest killin' machines the Protectorate has to offer. Some don't like us, claimin' we're too violent, too brutal. ::She giggles.:: What a load!'
+31,3=>'::She giggles.:: Most of them are dead o (63bc902c-745e-4869-9e95-50c41c146571)'
+31,7=>'::She giggles.:: Most of them are dead or turned into mutants now.'
+32,3=>'We came up with a nice plan to take care (d7527476-a998-4bf4-b07c-26d6bd7fc8a9)'
+32,7=>'We came up with a nice plan to take care of the anarchists.'
+33,3=>'::Her full-on laugh is even more annoyin (90ae351c-1e63-46b9-b9da-e1132a0546b3)'
+33,7=>'::Her full-on laugh is even more exasperating than her giggles, and makes you feel like your eardrums are going to bleed.::
+
+I like your answer, Corps. I really do. ::She giggles.:: I admire everyone who takes pride in takin' lives. Let's face it, Corps - it's what you and me are best at. Killin'! ::She giggles.::
+
+From the moment I saw you, I *knew* you were someone who has taken so many lives to the point of it becomin' a routine thing to do, and I'm happy to know you haven't lost the cravin' for it. One never should, and I'm just the same, Corps. I kill, and I love it. Love it!'
+34,3=>'Oh! What kind of a pansy says somethin'  (7bc1c7f5-abd7-4f0f-b67d-500be6d74d09)'
+34,7=>'Oh! What kind of a pansy says somethin' like that!? "I only kill because I have to, where me diaper, whaaa, whaaa!" 
+
+But... you're not really a pansy, aren't you? You've killed tons of people, I can tell. I can tell. It's just that you don't *want* to enjoy it, you think it's wrong to enjoy death. Doncha, Corps?'
+35,3=>'So, you kill people but you don't wanna  (9b7558bf-4088-4ad9-a75b-b0e0face7364)'
+35,7=>'So, you kill people but you don't wanna talk about it? I know it, Corps, I know you've taken a lot of lives during your time... I can feel it. I've killed many myself and enjoyed every single one of those frags! It feels good to take a life. It, how should I say... it empowers you.'
+36,2=>'Do you want me to describe my favourite  (da315520-2224-46e9-b739-852d5179a30f)'
+36,6=>'Do you want me to describe my favourite kill?'
+37,3=>'Just remember his entrance back when we  (5cc04fa1-66eb-432f-8839-f99dbf3909aa)*'
+37,7=>'Just remember his entrance back when we first arrived: Such grace, Corps, such elegance... and such dominance. Aaah...
+
+He even picked us this beautiful office. ::She giggles.::'
+38,3=>'Why is he always silent? Is he mute? (80a6e700-fbfe-4c15-a83b-0d94363b161c)'
+38,7=>'Why is he always silent? Is he mute?'
+39,3=>'Too brutal? How else are we supposed to  (7f49ecae-f43e-4c41-98f8-31ffb8d46277)*'
+39,7=>'Too brutal? How else are we supposed to kill our enemies, huh, Corps? By kissin' them to death, what? And what is most interestin' is that those who complain the most always turn to us when dirty work needs to get done. They want the vermin eradicated without liftin' a finger, and then complain about our methods. HA-HA!
+
+Hypocrites.'
+40,1=>'context.quest_pr_gasFreeDronesComplete'
+41,3=>'Sweet work we did there. One of my faves (f46cf9f4-989b-4412-9da8-ff89890e4d21)*'
+41,7=>'Sweet work we did there. One of my faves, if I may say so. ::She giggles.::'
+42,3=>'But, I don't want to spoil anythin'. All (50496d3d-5e66-4494-9297-952e6f44a141)*'
+42,7=>'But, I don't want to spoil anythin'. All in due time, Corps. All in due time.'
+43,3=>'I think we'll get along just fine, Corps (e65c64f3-b117-4ef0-8aec-378d3a863783)*'
+43,7=>'I think we'll get along just fine, Corpsie.
+
+Well, I'm in the mood to answer questions, so ask away.'
+44,3=>'We are programmed to kill. It's true, lo (ef609aa1-6d3d-4d5a-86de-3dd96ee99c3f)*'
+44,7=>'We are programmed to kill. It's true, look at the world around you. Just think of *your* personal bodycount. How many lives have you taken? Huh? So throw those fabricated morals away and embrace the sweet, sweet feelin' of... good killin'. Ah, Corps, don't fight the human nature, enjoy it.
+
+::She giggles.:: You know what... I'm in the mood to answer questions now. Ask away, Corpsie.'
+45,3=>'I think you know what I'm talkin' about! (9cb073e4-e679-47e5-9777-94400acc8b87)*'
+45,7=>'I think you know what I'm talkin' about! I think you like killin'. You just don't wanna express it, Corpsie. ::She giggles.:: And I thought you Southerners were much more into it, seein' as how much you're killin' each other. But, whatever...
+
+Well, I'm in the mood to answer some questions now, so ask away.'
+46,3=>'Go ahead. (6bbd1ebc-b190-4d28-9fbd-b2d85d17e7da)'
+46,7=>'Go ahead.'
+47,3=>'I'm not interested. I better ask you som (18eac629-7a09-47a8-9f9a-e9daf190ed94)'
+47,7=>'I'm not interested. I better ask you something else.'
+48,3=>'As a matter of fact... no, he is not. I' (4f75be2b-3770-40c6-aebf-b094b3df1195)'
+48,7=>'As a matter of fact... no, he is not. I've never heard him talk, Corpsie, but, since Void joined CAU way before me, Cap told me the two of them once led an interestin' conversation. He never spoke after that again.
+
+He suffered a trauma when he was a kid, poor Void. His father killed his mother in front of his very eyes. Cut her up with a knife. The young boy avenged his mother without a second thought, killin' his father and running away from home.'
+49,3=>'::She giggles.:: Yes! Here it goes!We we (2ea9a4a3-db99-4664-8a49-006a10cc6510)'
+49,7=>'::She giggles.:: Yes! Here it goes...
+
+We were on an assassination mission, the three of us: Cap, Void and I. ::She giggles.:: So, we were supposed to take out this dangerous group of criminals, who were hidin' in a deserted building. We sneaked in through the back entrance, taking out the guards one by one.'
+50,3=>'Come on Corpsie! It was fun and full of  (39253e5f-0fc3-486b-a6ef-e2ffc1006668)*'
+50,7=>'Come on Corpsie! It was fun and full of gore. But, as you wish.'
+51,3=>'We don't even know his real name, we jus (83150744-140c-4719-bbce-4530b91b7cf3)*'
+51,7=>'We don't even know his real name. We just call him Void.
+
+::She giggles.:: Which I like very much! Cool name, ain't it, Corps?'
+52,3=>'The bastards weren't even to our knees!  (0a0d68e3-2458-4d1a-be80-dc9c4ba180a5)'
+52,7=>'The bastards weren't even to our knees. We crushed them, Corps. And I got the fatal shot on their leader... what was he called... Can't remember, but it doesn't matter anyway.
+
+Here's the fun part: I shot an acid bolt into his eyeball. It pierced through the eye and lodged itself in his brain. The acid quickly started melting the contents of his skull, turning it into a red waterfall which oozed out of his eye socket; his mouth as well.'
+53,3=>'He stood there for a moment, and then he (6dc2fa22-e425-42fd-81f6-c473a8eb7cf7)*'
+53,7=>'He stood there for a moment, dying, and then he fell to the ground and twitched for a few good - and I mean good - moments, while his head was slowly turnin' into a bloody mess. Even his mother couldn't recognize him after that.
+
+Aaah, Corps... I felt such satisfaction then. It went through my body like I'd triggered a shock bolt in my belt by accident. ::She laughs.:: Best kill ever.'

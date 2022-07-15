@@ -1,0 +1,83 @@
+1,0=>'dc_inm'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Welcome, Maria HopeMain:: (5d0d76ec-77fd-4703-9ddb-7f5f111a979e)*'
+5,7=>'::Welcome, Maria Hope
+
+Main::'
+6,2=>' (57cb2c49-6bbf-4d3f-8e29-db701c04e495)'
+6,6=>''
+7,3=>'::Access INM:: (7c56b01d-112b-4278-ae0d-1c2727d24ef9)'
+7,7=>'::Access INM::'
+8,2=>'::Exit:: (fe3228ef-b04b-417e-bb92-eb8378c5aaf2)'
+8,6=>'::Exit::'
+9,2=>'::Warning! INM is currently offline. Ple (c1360735-c957-407a-b822-b53af26a5185)*'
+9,6=>'::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 45
+Contacts online: 0::'
+10,3=>'::Archive:: (ef7f5c74-3897-4864-983f-61e4050c7163)'
+10,7=>'::Archive::'
+11,2=>'::Back to main:: (a7f4cd33-56b9-40c3-8526-c7b18ee9484a)'
+11,6=>'::Back to main::'
+12,3=>'::Archive:: (765a8ab6-8760-449a-8957-9a08f799625f)*'
+12,7=>'::Archive::'
+13,2=>' (d199fdcb-3473-42b7-8f2c-36122a388335)'
+14,3=>'::Log: 100360 - F. Austein:: (a067124c-29b8-480d-98e0-3d4b20d4a6b2)'
+14,7=>'::Log: 100360 - F. Austein::'
+15,3=>'::Log: 100368 - G. Dyoglash:: (f519f84d-7685-49b2-a16b-dcde59e0f50e)'
+15,7=>'::Log: 100368 - G. Dyoglash::'
+16,3=>'::Log: 100372 - F. Austein:: (8b01ddc0-8939-49c0-8b5e-32ebeae64dfb)'
+16,7=>'::Log: 100372 - F. Austein::'
+17,3=>'::Back:: (4a9af00f-f17e-422a-9fe4-3b2a3e423055)'
+17,7=>'::Back::'
+18,3=>'::F. Austein: I talked to Colonel Salik. (52aa0011-68f2-4d3f-ac9f-5fb98b72ed59)'
+18,7=>'::F. Austein: I talked to Colonel Salik. More AF troops are already on their way to Mutagen Tanks B.
+M. Hope: Have you talked to Matveev or Gavrilyuk about this yet?
+F. Austein: No. We have everything under control. A minor incident is nothing to worry about.
+M. Hope: You said that the first time. And the second time.
+F. Austein: You worry too much, Maria. We are making future here; Crucible is where we are creating new, intelligent species. There is bound to be a bump or two along that road. They are living beings, and they don't like where they are, but we will fix that soon enough.
+F. Austein: Like we ever needed our subjects' consent.::'
+19,2=>'::G. Dyoglash: The new group is ready fo (865f7af6-4e98-4f12-9d50-cd19897d1413)'
+19,6=>'::G. Dyoglash: The new group is ready for another exposure at the Crucible. Humans.
+G. Dyoglash: Our team has prepared the compounds you requested, but I've been informed that our supply of reagents is running low. At this rate, we have about a month of testing unless we receive a new supply.
+M. Hope: Thanks for informing me, Dr. Dyoglash. I will talk to Austein about the reagent supply.
+G. Dyoglash: One more thing I wanted to tell you is that Otis was at the control room today again.
+M. Hope: I will talk to Austein about that as well. Thank you for the information.
+G. Dyoglash: Should I do anything about it?
+M. Hope: No. Do not do anything.
+M. Hope: I will be there in an hour or two.
+G. Dyoglash: Yes, ma'am.::'
+20,2=>'::M. Hope: I was just informed that Otis (085f0eda-73ba-414a-9c54-5cc77a89a7df)'
+20,6=>'::M. Hope: I was just informed that Otis was sent to Tartarus. But not as a prisoner.
+F. Austein: What he is doing there is none of your concern, Maria.
+F. Austein: Frankly, I grew tired of your nagging. Otis is none of your concern.
+M. Hope: That is that, then.
+M. Hope: Whatever happens next, it's all on you.::'
+21,2=>'::M. Hope: Things have changed. Especial (a7c334af-1a66-4b84-be9f-32868d46ef2b)'
+21,6=>'::M. Hope: Things have changed. Especially after you allowed your adopted mutant to shove its nose into everything we do.
+F. Austein: Watch your words, Maria. Let me tell you one thing, my dear - you are not in position to make me angry, so watch it!
+F. Austein: I don't care for how many years we've worked together, Otis will be wherever the hell I want him to be. If he's in the lab, it's because I demand so. If he's cleaning my toilet, it's because I demand so.
+F. Austein: He is mine. He is the best I've ever made. He is what I want the rest to be like.
+M. Hope: He is involved in the incidents, Frederik, listen to me. Get rid of him. You trust him too much.
+F. Austein: Same old story, Maria, same old story. You'd tear all our work to shreds because of a few issues. 
+F. Austein: Otis will remain as my right-hand man and that is final, whether you like it or not.::'
+22,3=>'::Back to Archive.:: (a0a76179-05dd-400c-8074-bb47972bc87b)'
+22,7=>'::Back to Archive.::'

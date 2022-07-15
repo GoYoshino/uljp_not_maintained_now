@@ -1,0 +1,51 @@
+1,0=>'cc_zamanConsole1'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::APB console - Biocorp Core Electronics (a39431d5-b78f-4404-a2dd-a482820a3f25)*'
+5,7=>'::APB console - Biocorp Core Electronics
+Firmware version - 1.23
+Searching for newer version...
+
+Error 35: No Connection
+Skipping update::'
+6,2=>' (402e4bda-d534-44ba-add4-db31a6b04beb)'
+6,6=>''
+7,3=>'::Activate electroshock defence system:: (d1329825-8afb-4630-bc13-0c5b62700ead)'
+7,7=>'::Activate electroshock defence system::'
+8,3=>'::Activate Main Gate release:: (908afaf2-d803-4485-bb82-4cf75e2f99fa)'
+8,7=>'::Activate Main Gate release::'
+9,2=>'::Exit:: (f4d26ef6-0751-4f8b-bbb5-07cd08beb8f4)'
+9,6=>'::Exit::'
+10,2=>'::Activating...Activation failedUnknown  (2dd75251-bf3a-4b0e-aee0-730f986783bf)'
+10,6=>'::Activating...
+
+Activation failed
+Unknown error::'
+11,2=>'::Activating Main Gate release...Operati (9e44135f-8839-40b0-80e4-d983698d6488)'
+11,9=>'::Activating Main Gate release...
+
+Operation successful
+::'
+12,1=>'loc_zamansLair_MaingateOpen'
+13,3=>'::Back:: (3d95d2cf-c467-4da2-ae17-ab667a89dabb)'
+13,7=>'::Back::'
+14,0=>'760f068e-09dd-4ecb-893e-e7f76fae486f'
+14,1=>'context.loc_zamansLair_MaingateOpen'
+15,0=>'c0db144c-837f-457b-8d0a-0a21a970d416'
+16,0=>'a3f5cdca-602e-4e3e-824b-e0f37a1afc31'
+17,3=>'::Back:: (da33ed4f-6ef4-4569-8390-16007e661979)'
+17,7=>'::Back::'
+18,2=>'::Exit:: (b91dcea4-0ae1-46f2-a6ff-400da1502dcd)'
+18,6=>'::Exit::'
+19,3=>'cc_zamansLair'
+20,2=>'cc_zamansLair'
+20,3=>'ds_zaman'

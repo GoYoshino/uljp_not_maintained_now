@@ -1,0 +1,19 @@
+1,0=>'tch_utilStatis1'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Subject Type: None::Tissue Type: Muscl (1c4c11d9-9e9d-483c-8b16-ee9bc9c99741)'
+5,6=>'::Subject Name: None
+
+Age: None
+
+Gender: None
+
+Notes: None
+
+Vital Status: None::'
+6,2=>'::Exit:: (3da43d18-1c69-4817-8e26-fc53c4e418f7)'
+6,6=>'::Exit::'

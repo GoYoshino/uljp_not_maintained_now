@@ -1,0 +1,261 @@
+1,0=>'fortMap'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+1,29=>'English'
+1,30=>'English'
+1,31=>'English'
+1,32=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,4=>'::LEMCO LC387 - :: (5590ad84-fc41-4d71-bbdf-51449cdc3a29)*'
+5,8=>'::LEMCO LC387 - ::'
+6,3=>'::Welcome, P. Bridges:: (16c1d00d-dfb9-457d-b5a6-2c3f8a92bf20)*'
+6,7=>'::Welcome, P. Bridges
+
+::'
+7,3=>'::Welcome, guest:: (a8b0fcc5-7c9c-4ec6-b39b-b3255c5925d0)*'
+7,7=>'::Welcome, guest
+
+::'
+9,5=>'::Dispatcher Terminal - :: (8619ed16-aeee-4a90-8444-7c3adc0458e6)*'
+9,9=>'::Dispatcher Terminal - ::'
+10,1=>'context.global_xpbl_implantedChip_PhilBridges'
+11,1=>'plot.xpbl_philsArm'
+12,3=>'::Arch Island KeepUnable to connect to L (269bf7b3-1fa3-4152-ae2a-519a40b1a42f)*'
+12,7=>'::Arch Island Keep
+
+Unable to connect to LIN. Only local data is available.::'
+13,3=>'::Crimson Meadow Horticulture CenterUnab (bd52c778-2249-4d22-90fd-a0a9ac4fce76)*'
+13,7=>'::Crimson Meadow Horticulture Center
+
+Unable to connect to LIN. Only local data is available.::'
+14,3=>'::Joint Security HeadquartersUnable to c (f5982d3b-c59f-408e-814e-3cd9d877598a)*'
+14,7=>'::Joint Security Headquarters
+
+Unable to connect to LIN. Only local data is available.::'
+15,1=>'xpbl_fu'
+16,2=>' (d8c2ca73-b2fe-4a5b-9afb-edbf9fc0a222)'
+16,6=>''
+17,1=>'xpbl_hc1'
+18,1=>'xpbl_sc_com'
+19,3=>'::View dispatcher logs:: (3c725f2a-1e21-4567-b6f7-9438f3e8f970)'
+19,7=>'::View dispatcher logs::'
+20,2=>'::Exit:: (4745e46a-7a47-4070-831d-ff6d79980eff)'
+20,6=>'::Exit::'
+21,2=>'::No connection. Only local and most rec (210c6922-1725-4312-9a3e-14227ebeea91)'
+21,6=>'::No connection. Only local and most recent logs available.
+
+Dispatcher logs:::'
+22,3=>'::Arch Island Keep - LE 16.10.122:: (f96d57bc-c887-43e4-afbb-0af28c7f86d1)'
+22,7=>'::Arch Island Keep - LE 16.10.122::'
+23,3=>'::Crimson Meadow Horticulture Center - L (4f383634-f121-43f3-8f8e-e707ef93cf1a)'
+23,7=>'::Crimson Meadow Horticulture Center - LE 15.10.122::'
+24,3=>'::Joint Security Headquarters - LE 17.10 (f2bbb93c-ecd4-42df-b3bf-d3312279559d)'
+24,6=>'English'
+24,7=>'::Joint Security Headquarters - LE 17.10.122::'
+25,3=>'::Back.:: (1a6d2306-8fd0-493e-bd30-d80ad57a9d9b)'
+25,7=>'::Back.::'
+26,1=>'xpbl_fu'
+27,2=>'::LE 16.10.122:Time: 12:34. From: Nexus  (55f45f9f-a785-4ee2-983f-62bf093087eb)'
+27,8=>'::LE 16.10.122:
+
+Time: 12:34. From: Nexus (K7). To: Keep (E6). Unit: T-033. Cargo Id: 8901733.
+Time: 13:00. From: Keep (E6). To: West Depot (B7). Unit: T-033. Cargo Id: None.
+Time: 13:44. From: Nexus (K7). To: Keep (E6). Unit: T-015. Cargo Id: 9980182.
+Time: 13:50. From: West Depot (B7). To: Keep (E6). Unit: HT-001. Cargo Id: 0287899.
+Time: 14:30. From: Keep (E6). To: Quarry (L5). Unit: HT-001. Cargo Id: None.
+Time: 14:34. From: Keep (E6). To: Nexus (K7). Unit: T-015. Cargo Id: 1903561.
+Time: 18:22. From: Crimson (H7). To: Keep (E6). Unit: P-010. Cargo Id: PASS3.
+Time: 18:31. From: Keep (E6). To: Crimson (H7). Unit: P-010. Cargo Id: PASS3.
+Time: 20:34. From: Quarry (L5). To: Keep (E6). Unit: HT-001. Cargo Id: 7773910.
+Time: 21:32. From: Citadel (G1). To: Keep (E6). Unit: P-011. Cargo Id: PASS1.
+Time: 22:42. From: Keep (E6). To: BSBRF (K11). Unit: P-011. Cargo Id: PASS1.::'
+28,1=>'xpbl_hc1'
+29,2=>'::LE 15.10.122:Time: 10:28. From: Quarry (2b3fcf78-cb3f-4c86-b65d-c7f1204bdebe)'
+29,9=>'::LE 15.10.122:
+
+Time: 10:28. From: Quarry (L5). To: Crimson (H7). Unit T-021. Cargo Id: 2911326.
+Time: 11:12. From: Crimson (H7). To: Citadel (G1).Unit T-021. Cargo Id: None.
+Time: 11:51. From: Crimson (H7). To: Health (I1). P-009. Cargo Id: PASS3.
+Time: 13:22. From: Keep (E6). To: Crimson (H7). HT-004. Cargo Id: 9187332.
+Time: 14:35. From: JSHQ (F12). To: Crimson (H7). P-001. Cargo Id: PASS1.
+Time: 15:09. From: Crimson (H7). To: West Depot (B7). HT-004. Cargo Id: 1787920.
+Time: 17:31. From: Crimson (H7). To: JSHQ (F12). P-001. Cargo Id: PASS1.
+Time: 17:38. From: LEMCO (K3). To: Crimson (H7). HT-002. Cargo Id: 0029321.
+Time: 17:54. From: Nexus (K7). To: Crimson (H7). P-023. Cargo Id: PASS2.
+Time: 18:03. From: Crimson (H7). To: LEMCO (K3). HT-002. Cargo Id: None.
+Time: 19:24. From: Crimson (H7). To: Nexus (K7). P-023. Cargo Id: PASS2.
+Time: 21:21. From: BSBRF (K11). To: Crimson (H7). Unit: T-011. Cargo Id: 2018706.
+Time: 22:19. From: Crimson (H7). To: BSBRF (K11). Unit: T-011. Cargo Id: None.
+Time: 23:23. From: Citadel (G1). To: Crimson (H7). Unit: P-009. Cargo Id: PASS3.::'
+30,1=>'xpbl_sc_com'
+31,2=>'::LE 17.10.122:Time: 09:02. From:  JSHQ  (5e4b3b43-d778-475a-ba32-92250802132f)'
+31,6=>'::LE 17.10.122:
+
+Time: 09:02. From:  JSHQ (F12). To: Keep (E6). Unit: ST-004. Cargo Id: SEC1.
+Time: 09:02. From:  JSHQ (F12). To: Keep (E6). Unit: HT-002. Cargo Id: 2298148.
+Time: 09:04. From:  JSHQ (F12). To: Keep (E6). Unit: ST-001. Cargo Id: SEC1.
+Time: 09:07. From:  JSHQ (F12). To: Keep (E6). Unit: ST-003. Cargo Id: SEC1.
+Time: 09:07. From:  JSHQ (F12). To: Keep (E6). Unit: ST-005. Cargo Id: SEC1.
+Time: 09:08. From:  JSHQ (F12). To: Keep (E6). Unit: SC-010. Cargo Id: SEC1.
+Time: 09:09. From:  JSHQ (F12). To: Keep (E6). Unit: SC-004. Cargo Id: SEC1.
+Time: 09:11. From:  JSHQ (F12). To: Keep (E6). Unit: SC-007. Cargo Id: SEC1.
+Time: 09:22. From:  JSHQ (F12). To: AbyssE (L2). Unit: SP-001. Cargo Id: ACoNR.
+Time: 09:47. From:  Nexus (K7). To: JSHQ (F12). Unit: P-010. Cargo Id: PASS1.
+Time: 10:22. From:  LEMCO (K3). To: JSHQ (F12). Unit: P-020. Cargo Id: PASS1.
+Time: 10:24. From:  LEMCO (K3). To: JSHQ (F12). Unit: P-006. Cargo Id: PASS2.
+Time: 10:33. From:  BSBRF (K11). To: JSHQ (F12). Unit: T-017. Cargo Id: 6608310.::'
+32,0=>'338d2e8d-3e69-41eb-b973-2f09aaa9e51d'
+32,1=>'xpbl_foundFortCoordinates'
+33,0=>'de5d46f8-b2e0-4e13-a054-545071d7988b'
+33,1=>'xpbl_foundFortCoordinates'
+34,3=>'::Import coordinates to your NCD:: (9a332283-38eb-41c9-9917-6c95d186109d)'
+34,8=>'::Import coordinates to your NCD::'
+35,3=>'::Obtain Course docking coordinates for  (e3eff705-68c9-4750-82ab-8eabd6f49a5b)'
+35,8=>'::Obtain Course docking coordinates for listed locations::'
+36,3=>'::Back:: (6258e127-d7b0-4493-8ad1-7ddd2c37c332)'
+36,7=>'::Back::'
+37,0=>'7f5cdab7-a3fc-412b-b656-3f92f2c8e478'
+37,1=>'context.loc_xpbl_hc_foundDispatcherCoordinates'
+38,0=>'460d1754-b229-4278-8852-0acb80bb20a1'
+38,1=>'xpbl_foundHorticultureCoordinates'
+39,0=>'613c57f8-82f0-4dee-a75f-5f844ed19a7a'
+39,1=>'xpbl_foundHorticultureCoordinates'
+40,3=>'::Import coordinates to your NCD:: (ed5dffe2-2cbc-4d57-b91a-d9c2f6be1ecf)'
+40,7=>'English'
+40,8=>'::Import coordinates to your NCD::'
+41,3=>'::Obtain Course docking coordinates for  (de30d173-c10d-43d6-ba9c-3883b7d58c12)'
+41,7=>'English'
+41,8=>'::Obtain Course docking coordinates for listed locations::'
+42,3=>'::Import coordinates to your NCD:: (8934653a-ce69-4274-8439-3443e63b6a93)'
+42,7=>'English'
+42,8=>'::Import coordinates to your NCD::'
+43,3=>'::Obtain Course docking coordinates for  (762fef8d-2d09-411e-a645-563d9ea84874)'
+43,6=>'English'
+43,7=>'::Obtain Course docking coordinates for listed locations::'
+45,3=>'::Importing coordinates...West Storage D (0e20d2bb-f897-4d13-8cc7-1dba1b106463)'
+45,8=>'::Importing coordinates...
+
+West Storage Depot - B7
+Arch Island Keep - E6
+Crimson Meadow Horticulture Center - H7
+Nexus of Technology - K7
+Blistering Shores Research Facility - L12
+Viridescent Quarry - L4
+
+Imported successfully.
+::'
+46,0=>'40fa6bdc-d5dd-4dc2-aacc-324cd460b698'
+46,1=>'context.interfacing_xpbl_ncd_keepCoordinatesAdded'
+47,1=>'context.interfacing_xpbl_ncd_keepCoordinatesAdded'
+48,3=>'::No coordinates available.:: (98372b04-244e-44b0-a181-21535dbd6f7a)'
+48,7=>'::No coordinates available.::'
+49,0=>'02c2f5d7-81fd-4633-8501-b525fb6a2fe4'
+49,1=>'context.interfacing_xpbl_dispatchConsoles_obtainCoordinates1'
+50,1=>'context.interfacing_xpbl_dispatchConsoles_obtainCoordinates1'
+52,3=>'::Importing coordinates...Viridescent Qu (9ea28d0d-a7c3-495f-8d53-0bd25a194ea6)'
+52,6=>'English'
+52,7=>'::Importing coordinates...
+
+Viridescent Quarry - L4
+Crimson Meadow Horticulture Center - H7
+Lemurian Health Center - I1
+Citadel of Life - G1
+Arch Island Keep - E6
+Joint Security Headquarters - F12
+Lemurian Manufacturing Complex - K3
+Nexus of Technology - K7
+Blistering Shores Research Facility - L12
+
+Importing successful.
+::'
+53,0=>'40fa6bdc-d5dd-4dc2-aacc-324cd460b698'
+53,1=>'context.interfacing_xpbl_ncd_horticultureCoordinatesAdded'
+54,1=>'context.interfacing_xpbl_ncd_horticultureCoordinatesAdded'
+55,4=>'::Obtaining coordinates...:: (822f7a91-ec76-46db-b967-8a687c12f3a2)'
+55,8=>'::Obtaining coordinates...::'
+56,0=>'e6ba6802-efbb-4eb8-a394-9fd18219d3c0'
+56,1=>'context.interfacing_xpbl_dispatchConsoles_obtainCoordinates2'
+57,1=>'context.interfacing_xpbl_dispatchConsoles_obtainCoordinates2'
+59,3=>'::Importing coordinates...Joint Security (e18fec1f-ec9c-42ea-8da1-8b5b13074557)'
+59,6=>'English'
+59,7=>'::Importing coordinates...
+
+Joint Security Headquarters - F12
+Arch Island Keep - E6
+Abyssal Station Zero Elevators - L2
+Nexus of Technology - K7
+Lemurian Manufacturing Complex - K3
+Blistering Shores Research Facility - L12
+
+Importing successful.
+::'
+60,0=>'40fa6bdc-d5dd-4dc2-aacc-324cd460b698'
+60,1=>'context.interfacing_xpbl_ncd_compoundCoordinatesAdded'
+61,1=>'context.interfacing_xpbl_ncd_compoundCoordinatesAdded'
+62,1=>'context.interfacing_xpbl_dispatchConsoles_obtainCoordinates3'
+63,1=>'plot.xpbl_navcom'
+64,0=>'77ea026e-8e63-4019-8a02-5f7ec9bb44aa'
+64,1=>'context.interface_xpbl_navCom_importedArchKeepConsoleCoordinates'
+65,1=>'plot.xpbl_navcom'
+66,0=>'interface'
+67,0=>'player'
+68,2=>'::Joint Security Headquarters - N/AArch  (2fb50bf3-8e69-45d3-9f67-69da096186ba)'
+68,6=>'::Joint Security Headquarters - N/A
+Arch Island Keep - Error (Unable to obtain coordinates)
+Abyssal Station Zero Elevators - 020 476 118 263 2115
+Nexus of Technology - Error (Unable to obtain coordinates)
+Blistering Shores Research Facility - N/A
+::'
+69,3=>'::Unknown error.:: (9b8ccd53-9eef-4c4b-ba4b-f1141c320a9d)'
+69,7=>'::Unknown error.::'
+70,1=>'plot.xpbl_navcom'
+71,0=>'interface'
+72,0=>'player'
+73,1=>'xpbl_sc_com'
+74,3=>'::Import coordinates to NCD:: (afc80f70-815f-4779-a3d3-7518ae3cf4eb)'
+74,7=>'::Import coordinates to NCD::'
+75,3=>'::Write the coordinates down manually:: (0e372a95-c67d-45dc-9fa6-c8edb7223f18)'
+75,7=>'::Write the coordinates down manually::'
+76,3=>'::Back:: (80990e0f-ef02-4fe8-a8f2-19840b51a455)'
+76,7=>'::Back::'
+77,1=>'plot.xpbl_navcom'
+78,3=>'::Course coordinates imported successful (a8024dd3-b23b-4c3a-afb3-6d89c3e63702)*'
+78,8=>'::Course coordinates imported successfully.::'
+79,3=>'::You write down the Course docking coor (2bcae7c0-7be3-45aa-a8dd-ede5a29a7f15)*'
+79,7=>'::You write down the Course docking coordinates.::'
+80,3=>' (39cbd802-b224-402c-adce-39f547d570de)'
+81,0=>'6e897b93-97ce-4d92-9ec3-bdf36f8d4688'
+81,1=>'context.interfacing_xpbl_ncd_abyssCourseCoordinatesAdded'
+82,0=>'6a1d3c1e-0cec-4405-98b1-ba254d66b646'
+82,1=>'context.interfacing_xpbl_dispatchConsoles_obtainCoordinates3'
+83,0=>'14ebb52a-d297-4b06-b1cf-3ceb6b3110cd'
+84,0=>'ed1ede99-fbb0-4d79-9127-a5a60c3a2cb6'
+85,0=>'09a1c300-df5c-493b-a1aa-88c81d165803'
+85,1=>'context.loc_xpbl_sc_foundDispatcherCoordinates'
+86,1=>'xpbl_submarineDockingCoordinates'
+87,1=>'xpbl_submarineDockingCoordinates'

@@ -1,0 +1,91 @@
+1,0=>'cc_researchFacility'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Main menu.:: (c4eadd6b-0c7e-48ce-80f7-c4bfe41da890)'
+5,6=>'::Main menu::'
+6,3=>'::Documents:: (f2b5ea58-107b-4062-8455-3504bdbc3fa1)'
+6,7=>'::Documents::'
+7,2=>'::Exit:: (12ce33b8-843e-40ea-9320-f347afa26090)'
+7,6=>'::Exit::'
+8,2=>'::Documents:: (e87cc763-de9b-4e34-8ec7-1ed092105af5)'
+8,6=>'::Documents::'
+9,3=>'::Research Log 1:: (72bb803e-174c-4850-8cd2-2663dfcc79ba)'
+9,8=>'::Research Log 1::'
+10,3=>'::Research Log 2:: (8203d04d-5521-45b0-9156-4c5cbf1d7648)'
+10,8=>'::Research Log 2::'
+11,3=>'::Research Log 3:: (c809a591-ab17-497f-a6f7-df5c18a36bc9)'
+11,8=>'::Research Log 3::'
+12,3=>'::Research Log 4:: (c495ed21-113d-4125-aac7-956f2d871362)'
+12,8=>'::Research Log 4::'
+13,3=>'::Back:: (9d40f496-2d75-4612-9fed-b882500c2f27)'
+13,7=>'::Back::'
+14,2=>'::Research Log 1:We are examining what a (569831f3-d8f2-4a34-86d8-8fadad944060)'
+14,6=>'::Research Log 1:
+
+We are examining what appears to be some sort of electronic device. It's an irregular polyhedron resembling a number of concentric intersected cubes of various sizes. It appears to be made from a very light semi-metallic material. Its color is bluish dark gray.
+
+The artifact might feature movable parts, but none of them responded to gentle pressure so no further attempts to reconfigure the device were made in fear of damaging it.
+
+The artifact features one to six unrecognized symbols on each of its many sides. Some sides also feature sockets, none of which comply with Biocorp or previous standards.
+::'
+15,0=>'0045f1af-98fa-4b41-a84f-f161cf36e4fb'
+15,1=>'context.loc_cc_research_readLogs'
+16,2=>'::Research Log 2:The artifact does not a (f5910260-17c5-4143-ae96-a0985b64546d)'
+16,6=>'::Research Log 2:
+
+The artifact does not appear to be emitting radiation or electromagnetic waves. However, due to us having a reason to believe that this object is still somehow traceable at long distances, we have taken the precaution of keeping it at a second or higher level of isolation at all times.
+
+::'
+17,0=>'8bd3500a-fa18-499a-bf8b-b1a417bf2bcc'
+17,1=>'context.loc_cc_research_readLogs'
+18,2=>'::Research Log 3:Most of the sockets app (3eb532ee-8061-4df5-9394-5e32753a1c65)'
+18,6=>'::Research Log 3:
+
+Most of the sockets appear to be non-functional or dormant. However, a number of sockets, if engaged in a way that disables their safety breaks, act as extremely high-voltage, high direct current power sources. This laboratory does not currently possess the equipment to harvest this power or even safely experiment on it further.
+
+Since we cannot, at this point, trace the origin or explain the manufacturing process of this extremely powerful device, it can be safely categorized as a xeno-artifact.
+
+::'
+19,0=>'da5f5b19-4f1c-4e0d-8ad4-f7f06c315dfc'
+19,1=>'context.loc_cc_research_readLogs'
+20,2=>'::Research Log 4:Referencing previous re (d8f47148-7902-4019-a4a4-3c6c87289c08)'
+20,6=>'::Research Log 4:
+
+Referencing previous research documents on various xeno-artifacts revealed the meaning of two symbols: one of which denotes direct electric current (this symbol appears, among other places, near the active sockets). 
+
+The other one appears in a single spot near an inactive socket and is a bit less straight-forward since various researchers and xenoarcheologists cannot agree upon its meaning, but according to them it signifies gravitational field, space-time curvature, singularity, or one of the related phenomena such as event horizon, or a combination of these.
+
+::'
+21,0=>'00d8b853-f096-4e0d-a750-03133782be6f'
+21,1=>'context.loc_cc_research_readLogs'
+22,3=>'::Next:: (e4f02ee8-d6d4-477d-a252-5477f100d569)'
+22,7=>'::Next::'
+23,3=>'::Back to Documents:: (fc2230b5-04c3-4400-bc08-593275c9795c)'
+23,7=>'::Back to Documents::'
+24,3=>'::Previous:: (1f369c8e-c3ec-45a1-bc40-ab51dac999ce)'
+24,7=>'::Previous::'
+25,3=>'::Next:: (be6e69ab-9030-4ff5-82e1-1ef4be3f5994)'
+25,7=>'::Next::'
+26,3=>'::Back to Documents:: (c684542b-c562-40e4-8d29-5724c22401d4)'
+26,7=>'::Back to Documents::'
+27,3=>'::Previous:: (0fbafd64-23a5-4858-998a-b650b34099d4)'
+27,7=>'::Previous::'
+28,3=>'::Next:: (b72fc38e-f8cc-4466-a339-724b4138bf08)'
+28,7=>'::Next::'
+29,3=>'::Back to Documents:: (890457a6-1d4a-4538-88e7-a3ae82e2723e)'
+29,7=>'::Back to Documents::'
+30,3=>'::Previous:: (7d1684bf-8963-431e-bb16-d4acef4a2d0d)'
+30,7=>'::Previous::'
+31,3=>'::Back to Documents:: (a724cc53-9956-4d70-9267-000f8b0f2aab)'
+31,7=>'::Back to Documents::'

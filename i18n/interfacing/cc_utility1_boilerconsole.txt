@@ -1,0 +1,157 @@
+1,0=>'emergencyPhones'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+1,29=>'English'
+1,30=>'English'
+1,31=>'English'
+1,32=>'English'
+1,33=>'English'
+1,34=>'English'
+1,35=>'English'
+1,36=>'English'
+1,37=>'English'
+1,38=>'English'
+1,39=>'English'
+1,40=>'English'
+1,41=>'English'
+1,42=>'English'
+1,43=>'English'
+1,44=>'English'
+1,45=>'English'
+1,46=>'English'
+1,47=>'English'
+1,48=>'English'
+1,49=>'English'
+1,50=>'English'
+2,5=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Warning, warning!!! Waterpool cooling  (6a09f713-f8f4-4bf8-860a-cb657d35b59a)'
+5,6=>'::Warning, warning!!! Waterpool cooling - critical temperature detected! 
+
+All boiling units have exceeded allowed thresholds!
+
+Emergency protocol is now available. Immediately disengage the heating units!::'
+6,2=>'::Warning, warning!!! Waterpool cooling  (3fb1db81-f1b9-45c1-91c4-8eddcddd9047)'
+6,5=>'English'
+6,6=>'::Warning, warning!!! Waterpool cooling - critical temperature detected! 
+
+Head east to the emergency exit and take shelter within the secure room.::'
+7,2=>'::The console displays ten distinct heat (d25c083a-a6e7-44f0-9fe9-9ba7332cbb75)*'
+7,6=>'::The console displays ten distinct heat bars, each showing the current temperature they're operating with. Every boiling unit has its own set of controls, all of which are used to manipulate the amount of heat they can dish out. A separate section of the display shows the water level, as well as the humidity of nearby air.::'
+9,3=>'::Disable all heating units:: (2cb1ddbf-28d0-404b-9f52-e3e185c1785a)'
+9,7=>'::Disable all heating units::'
+10,3=>'::Compute cooling statistics:: (6fb9bced-cc39-48bc-9ddf-f613a1d1bb0c)'
+10,6=>'English'
+10,7=>'::Compute cooling statistics::'
+11,3=>'::Conduct emergency protocol:: (a4ca41fa-d214-4b24-bcea-fca561cad7dd)'
+11,7=>'::Conduct emergency protocol::'
+12,2=>'::Leave.:: (7c774ca8-5608-46cf-b8d6-b9965e6e0553)'
+12,6=>'::Leave.::'
+14,0=>'interface'
+15,0=>'player'
+16,3=>'::Adjust cooling/heating levels.:: (51c98204-51bf-4792-a4a3-6f9cc0994c5a)'
+16,7=>'::Adjust cooling/heating levels.::'
+17,6=>'::Compute cooling statistics:: (e318fde0-275b-4a5c-af6b-b6065f0d3424)'
+17,10=>'::Compute cooling statistics::'
+18,3=>'::Detailed Power consumption readings:: (f443b25b-9a82-461e-af1b-873bbfee2398)'
+18,7=>'::Detailed Power consumption readings::'
+19,1=>'context.loc_cc_utility1_activeBoilersCount'
+20,1=>'context.loc_cc_facilityOvercharge'
+21,2=>'::Error, error, error...:: (29206012-d646-4a21-88ff-c382fb12de3d)'
+21,6=>'::Error, error, error...::'
+22,2=>'::Error, error, error...:: (76f05b19-8a54-4776-a9d0-dad38fdfab03)'
+22,6=>'::Error, error, error...::'
+24,2=>'::Emergency exit now available, proceed  (86702361-3e56-4caf-afcd-e9485bf81af8)'
+24,12=>'::Emergency exit now available, proceed to east and take shelter within the secure room.::'
+25,1=>'context.loc_cc_utility1_activeBoilersCount'
+26,1=>'context.loc_cc_facilityOvercharge'
+27,2=>'::Error, error, error...::::Manual overr (fe039f74-b4d1-42c4-b64e-feed5a631f18)'
+27,5=>'English'
+27,6=>'::Error, error, error...::
+
+::Manual override required.::'
+28,2=>'::Water levels - critical (reverves empl (1785d4d6-224a-4e4f-9bf1-6c2bf532c97c)'
+28,6=>'::Water levels - critical (reverves employed).
+ 
+Temperature - critical (exceeded water boiling point). 
+
+Humidity - very high (over 88%). 
+
+Power consumption - high.::'
+29,2=>'::Water levels - low (reverves employed) (99ab8ab5-f455-4111-8e84-f882984a638c)'
+29,5=>'English'
+29,6=>'::Water levels - low (reverves employed).
+ 
+Temperature - high (at water boiling point). 
+
+Humidity - high (over 65%). 
+
+Power consumption - moderate/high.::'
+30,2=>'::Water levels - stable (reverves semi-e (9fee9ed0-7878-491a-851b-7f970d0bbf91)'
+30,6=>'::Water levels - stable (reverves semi-employed).
+ 
+Temperature - high (nearing water boiling point). 
+
+Humidity - high (over 41%). 
+
+Power consumption - moderate.::'
+31,2=>'::Water levels - nominal. Temperature -  (afacc976-250f-45b2-81a5-eb625fa2b597)'
+31,6=>'::Water levels - nominal.
+ 
+Temperature - nominal. 
+
+Humidity - nominal. 
+
+Power consumption - minimal.::'
+32,2=>'::The screen flickers for a moment befor (79ae974a-fee1-40cd-a9db-63e6399a35c4)'
+32,6=>'::The screen flickers for a moment before giving up. The action has failed.::'
+33,3=>'::Go back.:: (8ccc448d-42e7-4b12-8005-9108c03a193c)'
+33,7=>'::Go back.::'
+34,1=>'context.quest_cc_forgerDeadOverchargeFacility_ended'
+35,1=>'context.quest_cc_forgerOverchargeFacility_ended'
+36,0=>'ff0048ab-c6a2-4c61-91de-817beffbfef8'
+36,1=>'cc_forgerOverchargeFacility'
+37,0=>'fa7c26b1-8326-49c9-8cbc-a8eb5f591920'
+37,1=>'cc_forgerDeadOverchargeFacility'
+38,0=>'6bf50376-b0dc-492b-9d81-502e3727d4fe'
+38,1=>'context.quest_cc_forgerDeadOverchargeFacility_ended'
+39,0=>'4c62960f-27ea-4ab7-877c-7ec110e70ee4'
+39,1=>'context.quest_cc_forgerOverchargeFacility_ended'
+40,0=>'fbda7324-f0b3-4396-a0af-049e6ab76a1d'
+40,1=>'context.loc_cc_facilityOvercharge'
+41,0=>'4613da85-391d-476e-8636-b489b3e48664'
+42,3=>'::Go back.:: (f23ff81b-b2f2-4b37-981d-2128ab41021b)'
+42,6=>'English'
+42,7=>'::Go back.::'
+43,0=>'interface'
+44,0=>'player'
+45,1=>'context.loc_cc_utility1_activeBoilersCount'
+46,1=>'context.loc_cc_utility1_activeBoilersCount'
+47,0=>'interface'
+48,0=>'player'
+49,1=>'context.loc_cc_utility1_activeBoilersCount'

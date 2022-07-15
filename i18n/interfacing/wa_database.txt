@@ -1,0 +1,706 @@
+1,0=>'wa_database'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+1,29=>'English'
+1,30=>'English'
+1,31=>'English'
+1,32=>'English'
+1,33=>'English'
+1,34=>'English'
+1,35=>'English'
+1,36=>'English'
+1,37=>'English'
+1,38=>'English'
+1,39=>'English'
+1,40=>'English'
+1,41=>'English'
+1,42=>'English'
+1,43=>'English'
+1,44=>'English'
+1,45=>'English'
+1,46=>'English'
+1,47=>'English'
+1,48=>'English'
+1,49=>'English'
+1,50=>'English'
+1,51=>'English'
+1,52=>'English'
+1,53=>'English'
+1,54=>'English'
+1,55=>'English'
+1,56=>'English'
+1,57=>'English'
+1,58=>'English'
+1,59=>'English'
+1,60=>'English'
+1,61=>'English'
+1,62=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Oculus DatabaseCurrent access level: $ (a2a09300-be3f-4709-a9d7-8d46bc85c9b6)'
+5,6=>'::Oculus Database
+
+Current access level: $(context.loc_wa_accessLevel)::'
+6,3=>'::Browse personal files:: (8d310889-8e78-4244-9d27-6c2262cf9e56)'
+6,7=>'::Browse personal files::'
+7,3=>'::Browse project files:: (03edec50-d6cd-4ca6-99b1-dd00ffa2cdd1)'
+7,7=>'::Browse project files::'
+8,3=>'::Browse Biocorp files:: (161e7769-9a4f-4488-a1bd-5f5b60f24e94)'
+8,7=>'::Browse Biocorp files::'
+9,3=>'::Browse anomalies:: (493f90a8-7722-4120-82f6-4e2eb1011091)'
+9,7=>'::Browse anomalies::'
+10,3=>'::Use key card:: (9cc7084a-14cd-417e-a8ca-b82c018c26f4)'
+10,7=>'::Use key card::'
+11,3=>'::Hack:: (5a9f3491-bca4-4043-a6ed-fced5e7a7fb0)'
+11,7=>'::Hack::'
+12,2=>'::Exit:: (0f61e50f-3a08-41c4-a586-8155b99e31d8)'
+12,6=>'::Exit::'
+13,2=>'::Personal FilesCurrent access level: $( (c80ddbd4-5b7e-485a-99c3-7b4ec693ffe2)'
+13,6=>'::Personal Files
+
+Current access level: $(context.loc_wa_accessLevel)::'
+14,2=>'::Project FilesCurrent level: $(context. (96db96ce-a780-47c3-8ad1-1088611b8d36)'
+14,6=>'::Project Files
+
+Current level: $(context.loc_wa_accessLevel)::'
+15,1=>'context.loc_wa_accessLevel'
+16,2=>'::Biocorp filesCurrent level: $(context. (27a642e0-b346-4bed-bb6c-db14527ee723)'
+16,6=>'::Biocorp files
+
+Current level: $(context.loc_wa_accessLevel)::'
+17,2=>'::AnomaliesCurrent level: $(context.loc_ (ff052c1a-7be2-4095-8b60-81093bd0ec25)'
+17,6=>'::Anomalies
+
+Current level: $(context.loc_wa_accessLevel)::'
+18,4=>'::Access Level ControlCurrent level: $(c (9cdbc50a-5f30-4f1a-99fe-2bb7c98192ad)*'
+18,8=>'::Access Level Control
+
+Current level: $(context.loc_wa_accessLevel)::'
+19,4=>'::Access Level ControlCurrent level: $(c (83c141f4-2c16-46ce-89a3-87a74a60a327)*'
+19,8=>'::Access Level Control
+
+Current level: $(context.loc_wa_accessLevel)::'
+20,3=>'::Hadrian Tanner:: (82a46801-af3f-432d-9548-2d02ad5ee7aa)'
+20,7=>'::Hadrian Tanner::'
+21,3=>'::Vera Hale:: (7c2be47f-53e5-4e85-9b22-f0479f5a28ea)'
+21,7=>'::Vera Hale::'
+22,3=>'::Yevgeni 'Gorsky' Zolnerowich:: (183ebc58-32cb-4703-8b64-7d52d09d6547)'
+22,7=>'::Yevgeni 'Gorsky' Zolnerowich::'
+23,3=>'::Silas:: (47e621e1-3e3f-4e19-a3a0-07a57002365d)'
+23,7=>'::Silas::'
+24,3=>'::Edward Wheeler:: (f6a9caac-e3a9-4775-bbcb-4891ccb9da5f)'
+24,7=>'::Edward Wheeler::'
+25,3=>'::Herve Fontaine:: (36cb316b-74ec-4cbb-8074-7c8bddc5ace3)'
+25,7=>'::Herve Fontaine::'
+26,3=>'::Edgar Garnham:: (e60368d8-0814-4eba-a4f1-8d605164987a)'
+26,7=>'::Edgar Garnham::'
+27,3=>'::Martin Marshall:: (29f39b06-0eaa-4fcd-a6a5-7341e4068e3f)'
+27,7=>'::Martin Marshall::'
+28,3=>'::Dalton Banner:: (0e90e423-4336-49fe-b0ef-74255a5e7248)'
+28,7=>'::Dalton Banner::'
+29,3=>'::Rupert Simmons:: (a88537f6-da08-4078-9a6f-35099641ac0c)'
+29,7=>'::Rupert Simmons::'
+30,3=>'::Gunnar Edstrom:: (e879d146-ccc9-455a-b8ac-59397484bf8a)'
+30,7=>'::Gunnar Edstrom::'
+31,3=>'::Archibald Knight:: (150bf043-a5b1-4604-a3a9-15f4f08d7031)'
+31,7=>'::Archibald Knight::'
+32,3=>'::Wit Nosek:: (0e27ac07-3262-408c-8aba-0170af3e2297)'
+32,7=>'::Wit Nosek::'
+33,3=>'::Anton Matveev:: (8e1e2998-486b-4376-9238-358388b79f04)'
+33,7=>'::Anton Matveev::'
+34,3=>'::Kirill 'Vovin' Gavrilyuk:: (24a2ed5e-b3a1-470f-9410-7c20d63d3237)'
+34,7=>'::Kirill 'Vovin' Gavrilyuk::'
+35,3=>'::More:: (10d6efa7-90c9-4012-b34b-8efe431e4efc)'
+35,7=>'::More::'
+36,3=>'::Back:: (2571b8d1-c43c-46e5-b2ce-e048634380c2)'
+36,7=>'::Back::'
+37,3=>'::Project Ark (Biocorp):: (c90d71b0-5b8b-4f36-8de9-43f572de313c)'
+37,7=>'::Project Ark (Biocorp)::'
+38,3=>'::Project Arima (Biocorp):: (62d8d11f-e85c-4f35-afa2-874452aabbdc)'
+38,7=>'::Project Arima (Biocorp)::'
+39,3=>'::Phenotype Dynamics (Biocorp):: (09698143-b5f3-4e7c-b51f-a417b1f4db0b)'
+39,7=>'::Phenotype Dynamics (Biocorp)::'
+40,3=>'::Back:: (eac417fe-da15-4e93-b4f4-45bb0ec8b3e1)'
+40,7=>'::Back::'
+41,3=>'::Old Biocorp:: (6c11bc5f-17e6-45c5-a3d2-4c72be370d9a)'
+41,7=>'::Old Biocorp::'
+42,3=>'::Reformed Biocorp:: (92956ac2-045e-41d7-92b7-26c73d5b6ce4)'
+42,7=>'::Reformed Biocorp::'
+43,3=>'::Protectorate Biocorp:: (86e618f7-2bc1-41b6-b7d3-2d0dece4747e)'
+43,7=>'::Protectorate Biocorp::'
+44,3=>'::Back:: (1d891f7c-2c4a-4a36-83c0-f5b5bbd985e0)'
+44,7=>'::Back::'
+45,3=>'::Siphoner man:: (9e521fd3-9c98-4266-b90c-ff98f28e4345)'
+45,7=>'::Siphoner man::'
+46,3=>'::Back:: (3f284fff-3174-488a-9c48-264160398e70)'
+46,7=>'::Back::'
+47,3=>'::Maximum access level reached.:: (999fc543-d2c4-4cc0-9f4f-c28dc8e002b1)*'
+47,7=>'
+::Maximum access level reached.::'
+48,2=>' (1ad66928-d190-4d7a-9163-92a2990e4458)'
+49,3=>'::Maximum access level reached.:: (2a847983-951b-4569-9e73-8174ae80ace1)*'
+49,7=>'
+::Maximum access level reached.::'
+50,2=>' (4afa15c7-3ee9-4b4c-b50e-4ab0bb6ec665)'
+51,2=>'::Full name: Hadrian TannerPosition: Cou (c0dd67fd-c6ef-4b75-9bb2-062fc861a439)'
+51,6=>'::Full name: Hadrian Tanner
+Position: Councilor
+Current residence: South Gate Station
+Alignment: South Gate Station
+
+Hadrian Tanner is one of the leaders of SGS. He is widely considered to be the most influential man in the station, though it seems he takes effort to downplay this.
+
+SGS steadily rose to power since Hadrian joined it.
+
+There is no record of Hadrian Tanner prior to him joining SGS and all attempts to trace back his history have failed so far.
+
+It is suspected that Hadrian Tanner is actually just an alias.::'
+52,2=>'::Full name: Vera HalePosition: Councilo (e482e8bd-0c38-42a3-bf02-69bfd1b711c9)'
+52,6=>'::Full name: Vera Hale
+Position: Councilor
+Current residence: South Gate Station
+Alignment: South Gate Station
+
+- Vera Hale is one of the leaders of SGS. She is known for her support of Protectorate and United Stations idea.
+
+- Vera migrated from North Underrail where she worked as a deputy to the minister of trade of United Stations. She was dismissed from this position for unknown reasons.
+
+- Vera is credited as being pivotal negotiator in many trade agreements with neighboring communities, such as Junkyard, Camp Hathor and Protectorate (Junkyard Embassy and SRO). These trade agreements are hailed as a significant factor of SGS prosperity.::'
+53,1=>'context.loc_wa_accessLevel'
+54,2=>'::Full name: Yevgeni ZolnerowichAliases: (4be07665-002f-422d-8242-92aea31a7fd3)'
+54,6=>'::Full name: Yevgeni Zolnerowich
+Aliases: Gorsky
+Position: Chief of Security
+Current residence: South Gate Station
+Alignment: South Gate Station
+
+- Yevgeni is almost exclusively known by his alias Gorsky. The origin or the meaning of this alias is unknown.
+
+- He was a member of a number of gangs in times before the revolution in Core City. Shortly after the revolution he left Core City and eventually ended up in South Gate Station.
+
+- Gorsky is well known on the streets of Core City and in other Lower Underrail communities of the South as an audacious fighter who rarely backs down.
+
+- It is suspected that Gorsky was trained as a professional soldier in his youth, but it is uncertain where he would have gotten this training since all attempts to link him to Biocorp Security Forces returned negative results.
+
+- Gorsky still maintains contact with a number of minor factions of Core City, most notably the Zone Rats.::'
+55,2=>'::Full name: SilasAlias: Dockmaster, Sil (bec8e119-65a8-4a34-a601-360591589619)'
+55,6=>'::Full name: Silas
+Alias: Dockmaster, Silas
+Position: Gang Leader
+Current residence: Junkyard
+Alignment: Black Eels (Junkyard)
+
+- Silas is the leader of Black Eels, a Junkyard gang that controls its docks, the Chancer's Bay as well as The Rig, a platform between Junkyard and Core City.
+
+- It is unknown whether Silas is an alias or his real name.::'
+56,2=>'::Full name: Edward WheelerAlias: EddyPo (4f6cba47-4ede-4ebf-8a2e-1906cef5488a)'
+56,6=>'::Full name: Edward Wheeler
+Alias: Eddy
+Position: Gang Leader
+Current residence: Junkyard
+Alignment: Scrappers (Junkyard)
+
+- Eddy is the leader of Scrappers, a Junkyard gang that controls the access to Depot A, also known as Old Junkyard, the biggest scavenger's playground.::'
+57,2=>'::Full name: Herve FontainePosition: Mil (3b73361b-e4f4-42f1-9b40-1d624349cbff)'
+57,6=>'::Full name: Herve Fontaine
+Position: Militia Captain
+Current residence: Rail Crossing
+Alignment: Rail Crossing
+
+- Herve is the captain of Rail Crossing militia and an unofficial acting mayor.::'
+58,2=>'::Full name: Edgar GarnhamPosition: Lead (89f15d01-6f41-48b5-9d6d-7d26b64386e7)'
+58,6=>'::Full name: Edgar Garnham
+Position: Leader
+Current residence: Camp Hathor
+Alignment: Camp Hathor
+
+- Edgar Garnham is the leader of Camp Hathor.
+
+- He is known as one of the most skillful hunters of South Underrail.::'
+59,2=>'::Full name: Martin MarshallPosition: Ma (c556f383-89ae-4263-9db4-6972c4e4faa7)'
+59,6=>'::Full name: Martin Marshall
+Position: Mayor
+Current residence: Foundry
+Alignment: Foundry
+
+- Martin is the current elected mayor of Foundry.::'
+60,2=>'::Full name: Dalton BannerAlias: ChiefPo (b5cfed20-a31d-4fb5-a771-3b48df5dec59)'
+60,6=>'::Full name: Dalton Banner
+Alias: Chief
+Position: Chief of Guard
+Current residence: Foundry
+Alignment: Foundry
+
+- Dalton is the current elected chief of Foundry Guard.::'
+61,1=>'context.loc_wa_accessLevel'
+62,2=>'::Full name: Rupert SimmonsPosition: CEO (fe4fde16-b26c-4e73-a9df-f4e7bcbe255d)'
+62,10=>'::Full name: Rupert Simmons
+Position: CEO
+Current residence: Core City
+Alignment: Coretech (Core City)
+
+- Rupert was one of the high ranking Biocorp technocrats before joining Core City rebellion. Today he is one of the three ruling Oligarchs.
+
+- Rupert and his company - Coretech, play a key part in the infrastructural maintenance of the Arena, as well as the Gauntlet, the latter being solely their creation.::'
+63,1=>'context.loc_wa_accessLevel'
+64,2=>'::Full name: Gunnar EdstromPosition: Own (40d1d2e9-75bc-4383-b4f7-3d77ffd262a3)'
+64,10=>'::Full name: Gunnar Edstrom
+Position: Owner
+Current residence: Core City
+Alignment: JKK (Core City)
+
+- Gunnar is a renowned trader.
+
+- Gunnar moved to Core City quite a number of years after the rebellion and managed to work himself and his company into the ruling Oligarchy by playing a mediator between the two major conflicting factions (Coretech and Praetorian Security).
+
+- Gunnar, his family and his associates came from somewhere in the East Underrail, but the exact location is unknown as are his previous business undertakings. There are rumors, though, that at one point, prior to his arrival to Core City, he was involved in slave trade.
+
+- Gunnar's company broadcasts ArenaNow and Gauntlet channels and also supplies some of the more exotic challenges.::'
+65,1=>'context.loc_wa_accessLevel'
+66,2=>'::Full name: Archibald KnightPosition: C (4c8b57f2-e4af-4ddc-9fdc-9f50160718e3)'
+66,8=>'::Full name: Archibald Knight
+Position: Chief
+Current residence: Core City
+Alignment: Praetorian Security (Core City)
+
+- Archibald was once the second-in-command of the Core City Security Forces. After Protectorate invaded Biocorp in the North, Archibald led a successful revolt against Biocorp in Core City.
+
+- He's one of the three Oligarchs ruling Core City and commands the largest armed force in the city.
+
+- He is the majority owner of the Arena.::'
+67,2=>'::Full name: Wit NosekProfession: Geneti (b2096da3-3c6a-4970-b9ab-d8e7cb94bd94)'
+67,7=>'::Full name: Wit Nosek
+Profession: Geneticist
+Alignment: Old Biocorp, Old Biocorp Renegade
+Involved in: Phenotype Dynamics (Biocorp), Project Arima (Biocorp), Project Ark (Biocorp), other various Biocorp projects
+
+- Wit was a Second Circle Scientist, meaning that most of his personal and professional info was classified, resulting in very limited information we have on him today.
+
+- Wit was dismissed from Arima by an unknown member of the First Circle. He spent several years on minor projects before being reassigned to Project Ark.
+
+- Following the "Hollow Earth Incident," Wit defected from Biocorp and from that point in time his movements remain largely unknown. It is likely, though, that, assuming he's still alive and scientifically active, he would choose Core City as his residence where he would be out of reach of Biocorp and Protectorate while still having access to some scientific equipment.::'
+68,1=>'context.loc_wa_accessLevel'
+69,2=>'::Full name: Anton MatveevAliases: Wight (bb39fe5e-dbbd-464f-a305-ee7f018445de)'
+69,6=>'::Full name: Anton Matveev
+Aliases: Wight
+Position: Apex Technocrat
+Alignment: Old Biocorp
+Involved in: Project Ascendance, Phenotype Dynamics, various projects related to transgenics, psimorphism, and transhumanism
+
+- In addition to often being accused of running unconsented human experiments, Anton was infamous in the Old Biocorp for hideous self-experimentation.
+
+- Anton was also rumored to be a powerful thought controller.
+
+- Along with a number of other high ranking technocrats, Anton was removed from power sometime during the chaos that ensued after the Hollow Earth incident, but was never apprehended.::'
+70,1=>'context.loc_wa_accessLevel'
+71,2=>'::Full name: Kirill GavrilyukAliases: Vo (cbd984b6-0d56-4215-b469-22a6467c4ed9)'
+71,6=>'::Full name: Kirill Gavrilyuk
+Aliases: Vovin
+Position: Apex Technocrat
+Alignment: Old Biocorp
+Involved in: Project Ascendance, various projects related to transgenics, psimorphism, and transhumanism
+
+- Kirill was known as "Vovin" (dragon) in the inner circles of Old Biocorp, possibly due to his psionic abilities.
+
+- According to some records, of all Apex Technocrats, Kirill held the most power and many projects that took place in years leading to the Biocorp fallout were undertaken on his command.
+
+- Along with number of other high ranking technocrats, Kirill was removed from power sometime during the chaos that ensued after the Hollow Earth incident, but was never apprehended.
+
+- Several high-profile customers have offered considerable amounts of money in exchange for learning Kirill's location.::'
+72,2=>'::Personal FilesCurrent access level: $( (8cede7a1-c798-4f34-a7a2-82a55c22dab6)'
+72,6=>'::Personal Files
+
+Current access level: $(context.loc_wa_accessLevel)::'
+73,2=>'::Project name: (The) ArkOrganization: O (05a21afd-09fc-46ba-915d-1f64fd38afc5)'
+73,7=>'::Project name: (The) Ark
+Organization: Old Biocorp
+Participants: Olexiy Macar (geneticist), Wit Nosek (geneticist), Njord Abbott (chemist)
+Locations: Panacea Lab (Upper Underrail)
+
+Little is known about this project aside from that it most certainly dealt with human life longevity research.::'
+74,2=>'::Project name: ArimaOrganization: Old B (916d38fe-ccec-45db-af8c-1cbc4cc0c743)'
+74,6=>'::Project name: Arima
+Organization: Old Biocorp
+Known participants: Wit Nosek (geneticist), Njord Abbott (chemist)
+Locations: Unknown
+
+- Purpose unknown.::'
+75,2=>'::Project name: Phenotype DynamicsOrgani (15e54bd2-38ae-4fb2-98e1-fc5fdcce0536)'
+75,6=>'::Project name: Phenotype Dynamics
+Organization: Old Biocorp
+Known participants: Wit Nosek (geneticist)
+Locations: Unknown
+
+- What is known is that this project dealt with using mutagens to dynamically change phenotypes of a living being in its mature state. It is also known that much of the controversy that surrounded the "Hollow Earth incident" is related to this project.::'
+76,3=>'::When we talk about the "Old Biocorp" w (5dd5f1de-6d55-4da0-8de3-f56ac570c9d9)'
+76,7=>'::When we talk about the "Old Biocorp" we are talking about the ancient organization that created and ruled Underrail for centuries. They've built, maintained and policed the entire Underrail which was, at the time, a unified place where their people lived and worked.
+
+Biocorp was governed by three tiers of technocrats. It is unknown whether these were elected or otherwise appointed and how long their mandates lasted. What is known, however, is that the top tier technocrats were known as "Apex Technocrats" and that they held significant executive power.::'
+77,3=>'::Almost a hundered years have passed si (e729c9b7-2a8a-49a6-8e64-334ad625ac84)'
+77,7=>'::Almost a hundered years have passed since Biocorp dissolved. Underrail is a chaotic and dangerous place now. Bandits roam the railways in between heavily entrenched sovereign station-states.
+
+A group of scientists and engineers decided to resurrect the venerable Biocorp organization. They restored the old places of power - Core, Hexagon and Dis.
+
+The new Biocorp was also ruled by a council of technocrats residing in Dis. The order was kept by highly trained Biocorp Security Forces.::'
+78,2=>'::Today what remains of Second Biocorp i (943f8a33-64fc-4096-ae5c-eecb96d2210b)'
+78,6=>'::Today what remains of Second Biocorp is completely under Protectorate's rule. Most of it is concentrated in the city of Dis, which is the capital of United Stations.
+
+Hexagon, though largely self-governed, is also a part of United Stations.
+
+Core City is an independent city mostly focused on violent sport entertainment and trade, though a local organization by the name of Coretech did inherit some of the Biocorp facilities and projects.
+
+The technocrats are all gone and the organization is ruled by United Stations Minister of Science who, of course, is directly appointed by Protectorate High Commander.::'
+79,2=>'::Anomaly name: Siphoner manAnomaly type (929bbf27-d598-4998-b909-7e2664e87050)'
+79,6=>'::Anomaly name: Siphoner man
+Anomaly type: Undiscovered species (potential hybrid)
+
+- Recently acquired information mentions the existence of a "siphoner man." Several sources vaguely describe it as a bipedal, humanoid creature, highly intelligent and according to one source even being capable of using language.
+
+- So far, no proof of its existence is available, but the increasing number of such claims, while from unreliable sources, should not be ignored or treated as a hoax until more information can be acquired.
+
+-No further information is available.::'
+80,1=>'context.loc_wa_accessLevel'
+81,3=>'::Use the key card to increase access to (2eaabcea-2c60-46f0-bc95-508227adaec1)'
+81,8=>'::Use the key card to increase access to level 1::'
+82,3=>'::Use the key card to increase access to (a7bc0430-a4f1-4e94-baed-977993d4a9f6)'
+82,8=>'::Use the key card to increase access to level 2::'
+83,3=>'::Use the key card to increase access to (beb331f4-1bea-4220-90b1-48b761bb5286)'
+83,8=>'::Use the key card to increase access to level 3::'
+84,3=>'::Back:: (e17db046-1195-4a7b-bcc5-0307cd011f9e)'
+84,7=>'::Back::'
+85,1=>'context.loc_wa_accessLevel'
+86,4=>'::Hack to increase access to level 1 (50 (de94bcf2-c547-4fad-880a-e4654a144a1e)'
+86,8=>'::Hack to increase access to level 1 (50)::'
+87,4=>'::Hack to increase access to level 2 (80 (8535f937-4268-44f6-9b00-39f5a3df4d61)'
+87,8=>'::Hack to increase access to level 2 (80)::'
+88,4=>'::Hack to increase access to level 3 (11 (1b5c0b89-35e3-4a56-885a-d6156925af62)'
+88,8=>'::Hack to increase access to level 3 (110)::'
+89,3=>'::Back:: (4435cd10-8914-4a59-bd24-fac25c63dcbe)'
+89,7=>'::Back::'
+90,3=>'::Back:: (e3e74850-6d3d-49ac-945b-2d9f1cca6b77)'
+90,7=>'::Back::'
+91,0=>'e5d3d97a-0f9b-4d8e-ab9b-3c18918c0a18'
+91,1=>'context.loc_cc_knowCoretech'
+92,0=>'a8646f25-ad8b-4c45-bc8a-620ded20b731'
+92,1=>'context.loc_cc_knowArena'
+93,0=>'77424586-d272-40b3-9aec-58aa73841005'
+93,1=>'context.loc_cc_knowGauntlet'
+94,0=>'47327abf-b393-488e-940f-eb690fe0cc3a'
+94,1=>'context.loc_cc_knowOligarchy'
+95,0=>'b39faa6d-0fcc-4407-a74e-0c782185799e'
+95,1=>'context.loc_cc_knowCoretech'
+96,0=>'a4b08802-7776-4b5b-963e-6644dc315e48'
+96,1=>'context.loc_cc_knowJKK'
+97,0=>'19940af4-908e-411a-a7bd-5f7893ca895f'
+97,1=>'context.loc_cc_knowPraetorian'
+98,0=>'d18c312f-4f38-4f7b-acdb-e8f40d27a824'
+98,1=>'context.loc_cc_knowOligarchy'
+99,0=>'9156702b-7211-4b60-aa15-b3b88f8ff9bc'
+99,1=>'context.loc_cc_knowPraetorian'
+100,0=>'f5566a29-eeba-4d0d-ab18-2beabfd6ff38'
+100,1=>'context.loc_cc_knowOligarchy'
+101,0=>'4401156a-f5d5-43b2-b167-31cf74222bb6'
+101,1=>'context.wadb_witNosek'
+102,3=>'::Frederick Cathcart:: (d7a8f463-d15e-4b94-ab5f-e9f00e06cf00)'
+102,7=>'::Frederick Cathcart::'
+103,3=>'::Kerry Oliver:: (2eab97c4-785b-433d-8bfe-f598ac582572)'
+103,7=>'::Kerry Oliver::'
+104,3=>'::Alvin Bate:: (7371b35e-5dd9-4bd7-97a6-971c718b7988)'
+104,7=>'::Alvin Bate::'
+105,3=>'::Corben Trenton:: (0c45fd14-898b-4bce-8cb8-ba66723d4023)'
+105,7=>'::Corben Trenton::'
+106,3=>'::Marcella Green:: (e2c69a5c-7461-4071-b251-52fbf3b77cc5)'
+106,7=>'::Marcella Green::'
+107,3=>'::Eidein:: (0325a2eb-5be2-4806-b589-e9024fccdbc2)'
+107,7=>'::Eidein::'
+108,3=>'::Hank Wardell:: (4e8fd9fa-310c-419b-88d8-d0b712e132b3)'
+108,6=>'English'
+108,7=>'::Hank Wardell::'
+109,3=>'::Mit Draper:: (8a2fc298-a550-4377-9c21-a277309cc166)'
+109,6=>'English'
+109,7=>'::Mit Draper::'
+110,3=>'::Norman Hack:: (e01e70e3-4fd2-484b-ab25-8c0d1bd9057c)'
+110,7=>'::Norman Hack::'
+111,3=>'::Kevin Grey:: (1bf2a07b-3027-480d-a90b-3e92ce846fd7)'
+111,7=>'::Kevin Grey::'
+112,3=>'::Edward Oldfield:: (e3cd6289-bf0c-4137-995a-ae9bcd10b84b)'
+112,7=>'::Edward Oldfield::'
+113,3=>'::Cadmus Grim:: (ba674051-cff0-406e-adcc-f6526e318f1c)'
+113,6=>'English'
+113,7=>'::Cadmus Grim::'
+114,3=>'::Richard Briggs:: (704db8c2-e7ce-49c8-a0f7-09fc450300be)'
+114,6=>'English'
+114,7=>'::Richard Briggs::'
+115,3=>'::Francis White:: (2fcca8cd-b52e-4c69-8a86-db51b6d0eb4e)'
+115,6=>'English'
+115,7=>'::Francis White::'
+116,3=>'::Back:: (2037d7dd-246b-4e65-a869-daf2d1f3bba9)'
+116,7=>'::Back::'
+117,2=>'::Exit:: (3b3142a6-e6fb-4610-9aab-c54f669f04f1)'
+117,6=>'::Exit::'
+118,0=>'9fe74937-6117-4bc6-a0fb-b1a3e2df4b56'
+118,1=>'context.wadb_ark'
+119,3=>'::Back:: (13b3d76b-c468-4487-bc65-ec3ed27fab92)'
+119,7=>'::Back::'
+120,3=>'::Back:: (1ffbfc56-234a-4f25-8d5f-083d02b8207f)'
+120,7=>'::Back::'
+121,3=>'::Biocorp ran numerous research and infr (23def5e2-c883-4356-92a6-1fc64655b590)'
+121,7=>'::Biocorp ran numerous research and infrastructure projects in constant effort to improve Underrail, while at the same time pursuing increasingly isolationist attitude towards the outside world. The dangers of the world were deemed too great and the final goals was to make Underrail an environment that is completely self-sustained.::'
+122,3=>'::This period of Biocorp history is know (47318c84-1c14-4b48-8870-43c789ada91d)'
+122,7=>'::This period of Biocorp history is known as "New Biocorp," "Reformed Biocorp," or "Second Biocorp." It lasted a lot shorter than the Old Biocorp, however. 
+
+Following the Protectorate's takeover of Dis, the capital of Biocorp, the elements of discontent in the Core City's hierarchy used the opportunity to stage a revolt. This revolt was led by second-in-command of the Core City Security Forces - Archibald Knight, who was later joined in this fight by Rupert Simmons, one of the higher ranking Biocorp technocrats.::'
+123,3=>'::Back:: (8655f79d-91a1-4965-979b-418a3f09116a)'
+123,7=>'::Back::'
+124,3=>'::Back:: (43df9d63-0028-477b-b67b-b0f4c709559e)'
+124,7=>'::Back::'
+126,3=>'::Success.:: (1908f734-051c-4e30-8962-9bd54221d1ca)'
+126,7=>'::Success.::'
+127,0=>'9048dbfd-eeca-4e62-92b3-aed74f2bdca9'
+127,1=>'context.loc_wa_accessLevel'
+129,0=>'c49d9cd9-2520-44d6-b233-19652d58f8b5'
+129,1=>'context.loc_wa_accessLevel'
+131,0=>'d192bd42-26f8-452b-aee5-d4289eba899e'
+131,1=>'context.loc_wa_accessLevel'
+132,1=>'context.loc_wa_accessLevel'
+133,3=>'::Success.:: (5b0521e9-ae9a-4beb-8f3a-00ad87ff975b)'
+133,8=>'::Success.::'
+134,3=>'::Failure.:: (153aff25-7542-46bd-be9c-b2b9eb426347)'
+134,7=>'::Failure.::'
+135,1=>'context.loc_wa_accessLevel'
+136,3=>'::Success.:: (0968f9cf-dd94-4ce1-a182-1c8ce60e4641)'
+136,8=>'::Success.::'
+137,1=>'context.loc_wa_accessLevel'
+138,3=>'::Success.:: (bdcc0713-db04-499d-bd81-aaf627fdb9e8)'
+138,8=>'::Success.::'
+139,2=>'::Full name: Frederick CathcartPosition: (3261abfc-ed34-49ff-8933-dff8217d8d7a)'
+139,6=>'::Full name: Frederick Cathcart
+Position: Commanding officer of Underrail Protectorate forces in South Underrail
+Rank: Colonel
+Age: 54
+Current residence: Fort Apogee, Upper Underrail
+Alignment: Underrail Protectorate
+
+- Colonel Cathcart arrived to South Underrail five years ago as the commander of the South Underrail Expeditionary Brigade but would soon receive command of all Protectorate troops in the region, with Fort Apogee being their primary base of operations. He has been the only commanding officer of Fort Apogee as yet.
+
+- Not much is known about his history prior to the fall of the Reformed Biocorp. Some sources state that he was a soldier or a junior officer among Protectorate ranks during the takeover, others that he wasn't taking part in combat at all. Only a few years after these events took place does his name officially appear, preceded by the rank of lieutenant.
+
+- He has been married twice, and both of these ended in divorce.::'
+140,2=>'::Full name: Kerry OliverPosition: Consu (ba785472-d5be-4d69-8ccc-447a1df9951d)'
+140,6=>'::Full name: Kerry Oliver
+Position: Consul
+Age: 42
+Current residence: Fort Apogee, Upper Underrail
+Alignment: United Stations, Underrail Protectorate
+
+- Kerry Oliver is the officially appointed consul of the Fort Apogee Consulate, Upper Underrail and has been on that position for five years. He was nominated for this position by the United Stations then-Minister of Foreign Affairs Nick Thompson, his former professor of political science at the University of Dis (pre-Protectorate Biocorp).
+
+- While he has expressed his concern with some of the Protectorate activities in South Underrail (as several intercepted correspondences with his colleagues from United Stations suggest), and mostly during his first year in office, he never took any further action in that regard, and has officially stayed out of military affairs.
+
+- He is married to Linda Oliver with whom he has two children: son Magnus (allegedly named after an old world chess grandmaster) and daughter Aida (named after the old world musical theater play of the same name).::'
+141,2=>'::Full name: Alvin BatePosition: Free Dr (3ca80a97-6628-4c3a-99fd-4d6f108fbbf5)'
+141,6=>'::Full name: Alvin Bate
+Position: Free Drones South Underrail cell leader
+Place of birth: North Underrail, location unknown
+Age: Between 30 and 40
+Current residence: Free Drones under-passage base
+
+- Alvin Bate is one of the leaders of the Free Drones primary cell in South Underrail, alongside Corben Trenton and (formerly) Marcella Green
+
+- Little information on his life before joining the Free Drones exists. He is presumed to have arrived to South Underrail with the first Free Drones, and that he is one of the original founders of this region's primary cell. His only known family member is his alleged daughter Milla Bate, currently located in Dis, North Underrail.::'
+142,2=>'::Full name: Corben TrentonPosition: Fre (bdc95dd4-6be4-4caa-8195-608adb3f6d2b)'
+142,6=>'::Full name: Corben Trenton
+Position: Free Drones South Underrail cell leader
+Place of birth: North Underrail, location unknown
+Age: Between 35 and 40
+Current residence: Free Drones under-passage base
+
+- Corben Trenton is one of the leaders of the Free Drones primary cell in South Underrail, alongside Alvin Bate and (formerly) Marcella Green
+- Little information on his life before joining the Free Drones exists. He is presumed to have arrived to South Underrail with the first Free Drones, and that he is one of the original founders of this region's primary cell.::'
+143,2=>'::Full name: Marcella GreenPosition: Fre (0a95c57c-c9e2-4422-a255-6f994fad7c53)'
+143,6=>'::Full name: Marcella Green
+Position: Free Drones South Underrail cell leader (until disappearance)
+Place of birth: South Underrail, location unknown
+Age: Between 25 and 35
+Current residence: Unknown
+Last known residence: Free Drones under-passage base
+
+- Marcella Green was one of the three leaders of the Free Drones primary cell in South Underrail, alongside Corben Trenton and Alvin Bate, until her sudden disappearance.
+
+- Little information on her life before joining the Free Drones exists. She has no known family members in or outside of the movement, and neither her place of birth nor previous residences are known.
+
+- She went missing approximately two months ago, and her current whereabouts are unknown. While there is no intel confirming or denying any assassination or apprehension attempts were made by Underrail Protectorate or otherwise, or that she has abandoned the movement for any reason, the first is the most likely of the scenarios considering the current political climate. However, no bodies matching her description have been recovered as yet.
+
+- As of recently, a strange woman has been noticed visiting the Hanging Rat. Her visits are frequent, yet she never orders anything, and neither does she ever communicate with anyone. All she does is sit at a table and observe. This paragraph exists in this file only due to a single account mentioning her holding a "circle-A pendant" in her hand.::'
+144,1=>'context.loc_wa_accessLevel'
+145,2=>'::Full name: Aiden TraversAliases: Eidei (51d3b9e1-3d79-4957-8001-f09b29f0937c)'
+145,6=>'::Full name: Aiden Travers
+Aliases: Eidein
+Position: Leader of the Institute of Tchort
+Place of birth: Unknown
+Age: Unknown; purported to be over 100 years
+Current residence: Institute of Tchort, Upper Underrail
+
+- No information on Eidein's life before the foundation of the Institute of Tchort exists outside of Tchortist sources. According to these, Eidein was a Biocorp scientist who - about a century ago - first discovered and interacted with Tchort, a primordial creature and the subject of Tchortist worship. How exactly he founded the Institute and the way in which he manages it is poorly understood, but what is certain is that he has maintained a secretive, isolationist policy for most of the Institute's existence.
+
+- Eidein's longevity is claimed to be due to the application of research done on Tchort; since the Tchortists do not share their research data with the outside world, this claim cannot be verified in any way. It is of course possible that Eidein has been more than one person since the Institute's foundation, since his actual appearance has never been made known. Furthermore, this poses the questions of whether Eidein has remained cybernetically unenhanced - as well as whether Eidein is actually human at all.::'
+146,1=>'context.loc_wa_accessLevel'
+147,2=>'::*[Unavailable]*:: (a6b02b54-a4b8-4d0c-89fc-e2ea17e0ccc0)'
+147,6=>'::*[Unavailable]*::'
+148,1=>'context.loc_wa_accessLevel'
+149,2=>'::Full name: Mit DraperAliases: Scalp, G (0507643d-8340-4c29-ac49-ddc926cf151f)'
+149,9=>'::Full name: Mit Draper
+Aliases: Scalp, Gridfix(er), Transfixer, Phreak
+Place of birth: Unknown
+Age: Exact age unknown, but purported to be in his sixties
+Current residence: South Underrail, exact location unknown (although several of his hideouts in Upper Underrail were discovered, they are currently vacant)
+
+- Little is known of his origins other than he is suspected to have been working at the Biocorp Cybernetics Center in Dis until its take-over, exact position unknown but suspected to be software security-related; one incomplete record suggests that he had been a wanted delinquent, and that his skills are what managed to earn him such respected employment.
+
+- In recent years he's been involved in numerous and often illegal activities across South Underrail. These include software and hardware hacking, forgery; manufacture, modification and trading of various security-breaching and -manipulating devices, and similar. Reliable reports indicate that these activities have caused him problems with numerous organizations, groups and individuals, some of them being his former clients.
+
+- Confirmed to have managed to exploit various functionalities of the out-of-commission metro emergency system, which he's accessing through numerous emergency phones by means currently unknown. It is not yet clear to what extent the emergency system can be used, but what is known so far is that it can at least provide access to certain utility sites, and by extension equipment and systems.::'
+150,2=>'::Full name: Norman HackPlace of birth:  (8c4c7de4-b845-4075-bdea-9a892350cd01)'
+150,6=>'::Full name: Norman Hack
+Place of birth: North Underrail, location unknown
+Current residence: Core City
+Profession: Linguist
+Involved in: Creation of Advatongue
+
+- Professor Norman Hack, currently residing in Core City, is the creator of Advatongue, a language so far only in use by Hack himself and several other individuals, all of them his students.
+
+- Hack relocated from North Underrail to South Underrail to - as gathered intel suggests - further develop and teach Advatongue to several students. It is suggested that he experienced certain issues in North Underrail which forced him to relocate.
+
+- There is no evidence that Hack has aligned himself with any of the major factions in South Underrail, at least not currently. Still, it is important to take note of the language itself, as it has the potential of being used as a code language.::'
+151,2=>'::Full name: Kevin GreyPosition: Foundry (d0171b9c-4ea3-499b-8891-c658806de2ed)'
+151,7=>'::Full name: Kevin Grey
+Position: Foundry Guard Overseer
+Current residence: Foundry
+Alignment: Foundry
+
+- Known to be involved in illegal arms trade, most of which takes place in Foundry itself and - according to multiple reports - also includes Foundry Guard's own equipment.::'
+153,2=>'::Full name: Edward OldfieldAliases: Non (c7ab6290-97b6-450c-8f65-3fa91150b1c2)'
+153,6=>'::Full name: Edward Oldfield
+Aliases: None
+Position: Professor of Supercorporation History at the University of Dis
+Place of birth: Dis, North Underrail
+Age: 52
+Current residence: Dis, North Underrail
+
+- Son of David and Amelia Oldfield, Reformed Biocorp researchers.
+
+- Earned his doctorate degree at the Faculty of History, University of Dis, with a dissertation titled "Socio-political Context of the Biocorp Reformation Period," after which he started lecturing Biocorp History at the University of Dis.
+
+- During a two-year hiatus following the dissolution of Reformed Biocorp, he focuses his work on the history of other supercorporations, primarily New Frontier Technologies (NFT). After the hiatus he resumes lecturing at the renamed Department of History on the subject of Supercorporation History, which he continued lecturing to this day.
+
+- He is currently leading an expedition to the Black Sea, most likely related to his research on NFT.::'
+155,2=>'::Full name: Cadmus GrimAliases: Captain (051b051b-c015-4db7-b34c-0138a33cd09d)'
+155,6=>'::Full name: Cadmus Grim
+Aliases: Captain Grim
+Position: Captain of the Grim Jetters
+Place of birth: Unknown
+Age: Unknown
+Current residence: Black Sea (Hell's Gut)
+Alignment: Grim Jetters
+
+- He is the founder and the current leader of the Grim Jetters pirate group.
+
+- Little is known about Captain Grim. He and the Grim Jetters first gained notoriety by successfully raiding well-defended United Station convoys through highly advanced naval tactics. After the Grim Jetters absorbed the smaller pirate groups and grew in size in the following years, Grim has pretty much completely retired from raiding. It is presumed he now commands all his subordinates from the Grim Jetters' hideout in the Black Sea.
+
+- One source claims Cadmus arrived from North Underrail, but the claim has never been verified.::'
+157,2=>'::Full name: Richard BriggsAliases: None (a9650993-6bab-4780-97b0-487f93384165)'
+157,6=>'::Full name: Richard Briggs
+Aliases: None
+Position: Chief of Aegis Incorporated
+Place of birth: Unknown
+Age: 45
+Current residence: Dis, North Underrail
+Alignment: Underrail Protectorate, Aegis Incorporated
+
+- He is one of the founders of Aegis Incorporated, a security company from North Underrail
+
+- Fought with Underrail Protectorate against Biocorp Armed Forces during the takeover of Dis. An exploding 30mm round completely destroyed his left arm and caused him severe nerve damage from which he recovered for several years. The arm has since been replaced with a cybernetic prosthesis.
+
+- After his recuperation he co-founded Aegis Incorporated with Francis White, a notable businessman from North Underrail, and appointed himself Chief of Security.
+
+- He is married to Jane Briggs, with whom he does not have any children.
+
+- He is currently in South Underrail, as Aegis Incorporated has been hired to protect an expedition to the Black Sea which is led by Professor Edward Oldfield from the University of Dis.::'
+159,2=>'::Full name: Francis WhiteAliases: Big F (b1d363b3-fc32-45da-8337-cef85d4a31a0)'
+159,6=>'::Full name: Francis White
+Aliases: Big Frank
+Position: Owner of numerous companies
+Place of birth: North Underrail, exact location unknown
+Age: 59
+Current residence: Dis, North Underrail
+
+- He is a successful businessman from North Underrail and the owner of numerous but mostly small businesses, the largest one being Aegis Incorporated, a security company from North Underrail, of which he is a co-founder and a co-owner.
+
+- He was born into a poor family and lived most of his life on the rails, traveling from one place to the other. He worked various jobs over the years until he finally started his own electronics store in Hexagon. His business proved lucrative, allowing him to gradually acquire other small businesses and properties. Even though he has never achieved the status of a business magnate, he is nonetheless considered to be one of the most successful businessmen in North Underrail and a true example of a rags-to-riches success story.
+
+- He has seven children with Sheila Bagani, former personal assistant and now wife.
+
+- Contrary to his nickname, he is of rather thin build, or as Kenneth Cramer, a Dis Today journalist, described it - "rather ghoulish."::'
+160,3=>'::Somewhere between a hundred fifty to t (baa8162f-9014-47f5-98b6-2d0d85896b67)'
+160,7=>'::Somewhere between a hundred fifty to two hundred years ago a revolt within the organization was sparked by what is known as "Hollow Earth incident". The details of why and how this revolt came to be are lacking, but it's likely to be, at least partially, brought about by the fact that Underrail could no longer support the large population that inhabited it. Questions of immoral experimentation and corruption were also raised, but to what degree these played the part in causing the revolution is unknown.
+
+The Apex Technocrats were displaced from power, though most of them were not apprehended.::'
+161,2=>'::Though Protectorate likes to claim tha (e596ba6b-aa58-42b4-9fbe-df7945002233)'
+161,6=>'::Though Protectorate likes to claim that Biocorp's power structure was adapted and integrated into United Stations, everyone within the organization agrees that all the power players of the Reformed Biocorp were either killed or incarcerated or they fled.
+
+This ended the second incarnation of Biocorp.::'
+162,1=>'context.loc_wa_accessLevel'
+163,1=>'key.wa_accessCard_l1'
+164,1=>'context.loc_wa_accessLevel'
+165,1=>'key.wa_accessCard_l2'
+166,1=>'context.loc_wa_accessLevel'
+167,1=>'key.wa_accessCard_l3'
+169,0=>'cae383f5-2b1e-4f51-a564-e926547ddb2a'
+169,1=>'context.loc_wa_accessLevel'
+171,0=>'ed947d02-518a-4ab6-bd6f-e54016d068d5'
+171,1=>'context.loc_wa_accessLevel'
+173,0=>'10b697dc-c79e-445f-9fe7-e45783e5341d'
+173,1=>'context.loc_wa_accessLevel'
+174,3=>'::Back:: (03581c0e-2eeb-4a54-b47a-d789045218fa)'
+174,7=>'::Back::'
+175,0=>'4d3710d9-73f5-4c7f-a5b3-4c38ce79f083'
+175,1=>'context.npc_forger_heardAbout'
+176,0=>'63208cb3-3bf4-4828-8b24-080284016097'
+176,1=>'context.npc_forger_oculusHeardAbout'
+177,0=>'a5e2bce0-788e-4518-a7da-f03dbe477a9c'
+178,0=>'f27e5338-0b63-47a3-ad51-0944574d84d5'
+178,1=>'context.loc_fo_toldAboutKevin'
+179,1=>'xpbl'
+180,1=>'xpbl'
+181,1=>'context.loc_wa_accessLevel'
+182,1=>'xpbl'
+183,1=>'xpbl'
+184,1=>'context.loc_wa_accessLevel'
+185,2=>'::Civil wars erupted all over Underrail  (15db525d-6049-4cca-8189-caecc0934380)'
+185,6=>'::Civil wars erupted all over Underrail and Biocorp dissolved into many small factions. Many technocrats, and scientists and engineers in general died in the following years. Biocorp was no more.::'
+186,1=>'CCUJSFWNQ'

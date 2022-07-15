@@ -1,0 +1,153 @@
+1,0=>'sc_secConsole'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,5=>'::LEMCO LC387 - :: (35307da0-e5ae-4d09-b034-70b80acab86f)*'
+5,9=>'::LEMCO LC387 - ::'
+6,4=>'::Welcome, P. Bridges:: (90c0ccef-28c7-40ec-9a5e-90da847dbeae)*'
+6,8=>'::Welcome, P. Bridges::
+
+'
+7,3=>' (028cda49-0f1a-45d2-a059-46874281f1c5)*'
+7,7=>''
+8,2=>'::You do not have permission to use this (bbe79efe-6b9e-4ef8-ba60-fd532eef75cf)'
+8,6=>'::You do not have permission to use this console. Minimum clearance level required is C-3.::'
+10,3=>' (32c636cc-24bb-4b2b-9b7f-d42a289b1c67)*'
+10,8=>'English'
+11,2=>'::Arch Keep Defense System status:Automa (7de2d395-1920-4353-982b-52d847ab3623)*'
+11,6=>'::Arch Keep Defense System status:
+
+Automated defenses:
+
+Active Naga Protectors: N/A
+Active Auto-turrets: $(context.loc_xpbl_e5_lemurianTurretsActive)
+Active Auto-artillery units: 0
+
+Protective Energy Dome: Offline::'
+12,1=>'context.interfacing_xpbl_fu_securityConsoleHacked'
+13,4=>'::Welcome, guest:: (fc5ca4db-39cb-43a0-956d-4699c814c029)*'
+13,8=>'::Welcome, guest
+
+::'
+14,4=>'::[Hacking] Gain access to the security  (d19cdfe9-3b10-4e76-8c21-80dace4ee801)'
+14,8=>'::[Hacking] Gain access to the security console::'
+15,2=>'::Exit:: (f6a69136-beeb-4848-842a-5d5ba0f54b19)'
+15,6=>'::Exit::'
+17,1=>'context.global_xpbl_microchipClearanceLevel_c4'
+18,1=>'context.interface_xpbl_fu_securityConsole_setTurretDefaultValue'
+19,0=>'7a9128bb-b340-4838-bf5c-c951f6676089'
+19,1=>'context.loc_xpbl_e5_lemurianTurretsActive'
+20,0=>'626117b8-d5cd-40a7-be15-1a8df669cd11'
+20,1=>'context.interface_xpbl_fu_securityConsole_setTurretDefaultValue'
+21,0=>'interface'
+22,0=>'player'
+23,2=>'::Naga Protector control system:: (76631ef6-4342-42c5-9354-b77ea0858f84)'
+23,6=>'::Naga Protector control system::'
+24,4=>'::Auto-turret defense system:: (fa264f4d-4c8a-41be-a9f6-88fafb396e34)'
+24,8=>'::Auto-turret defense system::'
+25,2=>'::Auto-artillery defense system:: (8163f56f-7e5f-43a7-a8ee-935ee36a3c29)'
+25,5=>'English'
+25,6=>'::Auto-artillery defense system::'
+26,2=>'::Protective Energy Dome control system: (3c8e746e-826d-41c5-88ac-31d8aa518d20)'
+26,5=>'English'
+26,6=>'::Protective Energy Dome control system::'
+27,3=>'::Contact active security supervisor:: (a84c3ae1-08ee-4ddb-bfcb-884565df47b1)'
+27,7=>'::Contact active security supervisor::'
+28,2=>'::Summon available Servants:: (41c988de-44f8-42ee-b09c-d45def4b6dac)'
+28,6=>'::Summon available Servants::'
+29,3=>' (2189b3ef-66ce-47ae-9739-86d5f23a166b)*'
+30,3=>'::Unknown error:: (df850f0d-361e-40aa-9ae1-39a3945724e3)'
+30,7=>'::Unknown error::'
+31,1=>'context.global_xpbl_implantedChip_PhilBridges'
+32,1=>'plot.xpbl_philsArm'
+33,1=>'context.none'
+34,2=>'::Auto-turret defense system status: Off (aad9195b-2696-4d03-8dfe-4adad2d3ac6c)'
+34,6=>'::Auto-turret defense system status: Offline::'
+35,2=>'::Auto-turret defense system status: Onl (7f6f1a9d-fbad-42b6-b198-364ee3181eac)'
+35,6=>'::Auto-turret defense system status: Online::'
+36,1=>'context.none'
+37,1=>'context.none'
+38,3=>'::No active security supervisors detecte (334d0a6a-df90-48eb-b595-72ab232c5573)'
+38,7=>'::No active security supervisors detected. There may be temporary communication problems preventing this. 
+
+Please try again later.::'
+39,1=>'context.none'
+41,0=>'c7977b27-699c-48ed-bee8-2c6302420d92'
+41,1=>'context.interfacing_xpbl_fu_securityConsoleHacked'
+42,1=>'context.loc_xpbl_e5_lemurianTurretsActive'
+43,3=>'::Enable auto-turret defense system:: (e392fa85-0496-4122-a10b-5524ea1e7dc8)'
+43,7=>'::Enable auto-turret defense system::'
+44,3=>'::Back:: (fba63cda-18b6-4007-b418-97e3d1a7e811)'
+44,7=>'::Back::'
+45,1=>'context.interface_xpbl_fu_securityConsole_turretsActivated'
+46,4=>'::Enabling...D5... No auto-turrets detec (bc6d9d42-0397-4aea-88d7-a3715deb05d3)*'
+46,8=>'::Enabling...
+
+D5... No auto-turrets detected.
+D6... No auto-turrets detected.
+E5... ::'
+47,3=>'::2 auto-turrets detected.:: (9f43883f-6fe9-4052-b02e-6e9d30f7e3ab)*'
+47,8=>'::2 auto-turrets detected.::
+'
+48,3=>'::1 auto-turret detected.:: (0ac7aae6-6b91-405e-89e7-d57916ac69fa)*'
+48,8=>'::1 auto-turret detected.::'
+50,4=>'::E6: No auto-turrets detected.:: (172ab2e9-2dd0-4800-baaa-d0a5a034de08)'
+50,7=>'English'
+50,8=>'
+::E6: No auto-turrets detected.::'
+51,0=>'106abd14-88d8-4fae-a91d-a95e7f85771a'
+51,1=>'context.loc_xpbl_e5_lemurianTurretsActive'
+52,0=>'bcbceff9-be8f-4663-a694-067d24cf75ba'
+52,1=>'context.loc_xpbl_e5_lemurianTurretsActive'
+53,2=>'::Loading CIDFF profile and performing a (659940dc-baaf-4ee0-9de1-e973eabf8be3)'
+53,6=>'::Loading CIDFF profile and performing areal scan...
+
+Warning: Detected targets do not match the CIDFF profile category definition: Lemurian Security
+
+Designate as foes or update category definition?::'
+54,3=>'::Activating... Done.Auto-turret activat (dc053164-6a94-4406-ab4b-3ebaa15bcc36)'
+54,9=>'::Activating... Done.
+
+Auto-turret activation procedure completed.::'
+55,0=>'interface'
+56,0=>'player'
+57,1=>'context.global_xpbl_expeditionDestroyed'
+58,3=>'::Update category definition (this proce (5b314766-8599-4e26-a5ca-0b00c4146a37)'
+58,7=>'::Update category definition (this process will be performed automatically)::'
+59,3=>'::Designate as foes:: (1515a4f1-fa11-40fd-8dfd-fa4f7ac362b8)'
+59,8=>'::Designate as foes::'
+60,0=>'a5c05d83-b4fe-418c-806d-e4684c0db73a'
+60,1=>'context.interface_xpbl_fu_securityConsole_turretsActivated'
+61,0=>'c8486c4d-7ec9-4233-bc83-297af3c7aed3'
+62,3=>'::Collecting data... Done.Processing...  (02b0fb39-8e44-4235-8c99-0b5c7f315ad2)*'
+62,7=>'::Collecting data... Done.
+
+Processing... Done.
+
+Updating definition... Done.
+
+::'
+63,0=>'f79aca00-1ee7-47d3-a8ea-25d63e5541bd'
+64,1=>'xpbl_e5'
+65,1=>'lemuria_allied'
+65,2=>'expedition_security'

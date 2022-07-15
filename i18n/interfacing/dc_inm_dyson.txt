@@ -1,0 +1,206 @@
+1,0=>'dc_inm'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Welcome, J. DysonMain:: (86f56b62-7099-4aba-a63f-61f5e319bb74)*'
+5,7=>'::Welcome, J. Dyson
+
+Main::'
+6,2=>' (d398132d-0cbd-4ba0-84a6-32c258604d36)'
+6,6=>''
+7,3=>'::Access INM:: (4e779d94-8cdd-4680-b706-84c2fde69ff2)'
+7,7=>'::Access INM::'
+8,2=>'::Exit:: (e38dd68b-1630-4939-8153-6f3967b7f38d)'
+8,6=>'::Exit::'
+9,2=>'::Warning! INM is currently offline. Ple (8337fa6e-1204-4170-bfe6-21101ca7552b)*'
+9,6=>'::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 89
+Contacts online: 0::'
+10,3=>'::Archive:: (f8464471-2404-4654-b38d-5933c7b6f08d)'
+10,7=>'::Archive::'
+11,2=>'::Back to main:: (7dceb7e0-2b18-4bbe-8e79-046bf11fcc9e)'
+11,6=>'::Back to main::'
+12,3=>'::Archive:: (cfc5fa28-5154-4f0e-8532-8eb25812fe8a)*'
+12,7=>'::Archive::'
+13,2=>' (d5e30c55-7872-439e-91a8-9d5b05cf00a7)'
+14,3=>'::Log: 980924 - T. Stigr:: (d000ad3f-2dc5-4a20-af85-12161614671e)'
+14,7=>'::Log: 980924 - T. Stigr::'
+15,3=>'::Log: 980936 - G.Vasilica:: (9bfbbc3c-35f2-4eed-b312-6b8af82f831a)'
+15,7=>'::Log: 980936 - G. Vasilica::'
+16,3=>'::Log: 980939 - D. Slavkovic:: (1cf94bf0-63ef-4bdb-8f7a-ef519a9eb739)'
+16,7=>'::Log: 980939 - D. Slavkovic::'
+17,3=>'::Log: 980977 - S. Parkinson:: (333fbe8b-8c8d-4c63-9a69-5bbce81c9432)'
+17,7=>'::Log: 980977 - S. Parkinson::'
+18,3=>'::Log: 980999 - G. Vasilica:: (a11580b5-fa58-4717-8634-9c0cb7ed53bb)'
+18,7=>'::Log: 980999 - G. Vasilica::'
+19,3=>'::Log: 981002 - B. Helting:: (34520a34-64cc-4648-b952-4c0ec0a0e705)'
+19,7=>'::Log: 981002 - B. Helting::'
+20,3=>'::Log: 981075 - F. Manu:: (e2827893-f2c0-4275-8ad3-c0b735efe5a9)'
+20,7=>'::Log: 981075 - F. Manu::'
+21,3=>'::Back:: (77e91261-a7b3-4510-b2cc-f6fc6193c5bf)'
+21,7=>'::Back::'
+22,3=>'::T. Stigr: Do you have a minute, Dr. Dy (c6ed28da-94a7-4768-88ab-7c754c4e2b1c)'
+22,8=>'::T. Stigr: Do you have a minute, Dr. Dyson? I wanted to talk to you about Project Eos.
+J. Dyson: Sure, Tobias. And stop calling me Dr. Dyson, we've known each other for five years, man. There's no need to be formal.
+T. Stigr: I know, sir, I'm sorry.
+J. Dyson: What did you need?
+T. Stigr: I'll just be direct. I want to volunteer to be placed inside a suspension cell and undergo the whole process.::'
+23,3=>'::G. Vasilica: Hey, will you be going to (19c45b25-ad6e-484a-96a0-d51d35e14ce1)'
+23,8=>'::G. Vasilica: Hey, will you be going to the party later?
+J. Dyson: Yes. I have to finish the report on those psi monoliths first, so I might be a bit late.
+G. Vasilica: Right. I heard you guys had some problems with a few subjects.
+J. Dyson: No. Who told you that?
+G. Vasilica: Bobby. But he's a jerk anyway.
+J. Dyson: We had no problems.
+G. Vasilica: You've been acting pretty stiff lately. Did Anton stop by TL again?
+J. Dyson: No.
+G. Vasilica: Yes.
+J. Dyson: Look, I'm working here. We'll talk at the party.::'
+24,2=>'::D. Slavkovic: Come to my room.J. Dyson (3cdb1e01-17aa-431a-a8bb-74ddcd5f02c3)'
+24,6=>'::D. Slavkovic: Come to my room.
+J. Dyson: May I ask why, sir?
+D. Slavkovic: Come and we'll talk in person.
+J. Dyson: I will be there as soon as possible.
+D. Slavkovic: You have five minutes, Dyson.
+J. Dyson: Yes, sir.::'
+25,3=>'::J. Dyson: I read it this morning. I th (f7185dfa-bac9-401f-8072-725b0deca1db)'
+25,8=>'::J. Dyson: I read it this morning. I think you should come over to TL later and we'll see what we can do. We've still got a fair number of monolith fragments, so it shouldn't be a problem.
+S. Parkinson: Deal. I will come over tomorrow. I'm going to see Bianka first, then I'll be over to you.
+J. Dyson: What do you mean?
+J. Dyson: Steve? Are you gone?
+J. Dyson: Hey.::'
+26,3=>'::G. Vasilica: Hey, hey, hey, Dude!G. Va (1edbad1b-a328-4e9c-80cc-a42f7ea64892)'
+26,8=>'::G. Vasilica: Hey, hey, hey, Dude!
+G. Vasilica: Last night was damn good. If your eyes weren't glued to Bianka the whole night you might've had a bit more fun.
+J. Dyson: Who told you that?
+G. Vasilica: I was standing right next to you.
+J. Dyson: Sadly.
+G. Vasilica: What do you mean, "sadly"? Want me to come over and kick your drunken ass?
+J. Dyson: No, please, no!::'
+27,3=>'::B. Helting: Hey, John.J. Dyson: Hey, B (0e034565-9035-40d4-948d-9a8b843dca13)'
+27,8=>'::B. Helting: Hey, John.
+J. Dyson: Hey, Bianka.
+B. Helting: Just wanted to let you know that Wasi has been acting up strange lately. I heard him talking to himself the othr day.
+J. Dyson: *Other. G back t edcation. You biologists are even worse than geologists.
+B. Helting: John, do we have to go through this every time I make typo?
+J. Dyson: Yes. If you feel the need to file a complaint against my excruciatingly annoying behavior to SC, NRS or even BCHC, you may do so every day from seven to five.
+B. Helting: Look, can you be serious for once? Speak to Wasi and see why he's behaving the way he does.::'
+28,3=>'::F. Manu: Are you there?J. Dyson: Yes.  (30d3cdc1-c1d6-430e-ab79-7b53ae707d0d)'
+28,8=>'::F. Manu: Are you there?
+J. Dyson: Yes. 
+F. Manu: Something is seriously wrong with Wasi. He's been sending me messages these two days and complaining about having insomnia and seeing some freaky shadows. The things he woke me up with are frightening, John. What is going on at Tithonus?
+J. Dyson: He's been to med and told me they told him it's work-related stress. Professional exhaustion, however they call it. He's taken a few days off.
+F. Manu: What do you mean?::'
+29,3=>'::J. Dyson: I understand what you mean.  (b3c2d499-6089-41ae-a9dc-ec2cc7dd7934)'
+29,7=>'::J. Dyson: I understand what you mean. I noticed that your recent interest with the project had a very personal note, one that wasn't present before. However, I don't need to tell you that this is the first time we are doing this. Many things can go wrong. Did you consult anyone else before making this decision?
+T. Stigr: I spoke to Dr. Anderson today and he told me there's nothing they can do for me. Removing the tumor from my face is not the problem, but other effects of the mutation will soon manifest themselves.
+J. Dyson: I am sorry to hear that.
+J. Dyson: We've worked on this together for some time now, so I am sure you know what awaits you. But, I have a question. Why didn't you turn to cryogenics instead?::'
+30,0=>'83b88200-c7a1-4e2f-a7cf-fbe9b6dd782a'
+30,1=>'context.npc_rc_dude_learnDyson'
+31,3=>'::G. Vasilica: Yeah. G. Vasilica: One mo (841133e5-2829-45d7-97dd-009823f19d00)'
+31,7=>'::G. Vasilica: Yeah. 
+G. Vasilica: One more thing. I've got a faux-paper ready for my boys at the biochem lab. It's gonna mess with their heads more than you guys do in TL.
+J. Dyson: I told you I'm busy. And we don't mess with heads.
+G. Vasilica: Yeah, yeah.
+J. Dyson: What's the name of the paper?
+G. Vasilica: Application of bioengineered fungal cell cultures in the creation of self-replicating lavatory tissue paper. By Gunter Vasilica.::'
+32,0=>'c9fb7c80-412d-4f76-9185-42124577eaed'
+32,1=>'context.npc_rc_dude_learnDyson'
+33,3=>'::Back to Archive.:: (be34f5df-d3e9-4e10-9a3b-e4a479b88419)'
+33,7=>'::Back to Archive.::'
+34,2=>'::S. Parkinson: Sorry, I was in the bath (8168b0c4-59d2-405a-9086-ab288b4e2dfd)'
+34,6=>'::S. Parkinson: Sorry, I was in the bathroom. We are doing joint research, didn't she tell you? Her fungal forest project is at an advanced stage and we would like to release a few type-B's into an enclosure, study their behavior and see if what adaptations they develop.
+J. Dyson: Oh, that. Good.
+J. Dyson: As long as it's just that.
+S. Parkinson: Be serious, John. I will see you tomorrow.::'
+35,0=>'c74657ad-9905-4cae-964b-a2a8802b36cc'
+35,1=>'context.npc_rc_dude_learnDyson'
+36,3=>'::J. Dyson: Hmmm... Imagine the SAI guys (94889840-162e-41cd-901c-2aa479141d18)'
+36,7=>'::J. Dyson: Hmmm... Imagine the SAI guys spying on our chat take it a bit too seriously and think you really want to kick my ass. Soon, an armed AF squad might come busting through your door. What do you think of that?
+J. Dyson: *Drunken ass.
+G. Vasilica: I could kick it all the way to the Core.
+J. Dyson: That's not what I asked you.
+G. Vasilica: Do you want me to kick your ass!?!!1!
+J. Dyson: Haha. I thought I'd never meet anyone who's a bigger idiot than me.::'
+37,0=>'4e691642-ffc5-4b6e-b38b-c968c06c3d92'
+37,1=>'context.npc_rc_dude_learnDyson'
+38,3=>'::J. Dyson: He was at the med and they t (484107f5-c271-449e-b4d0-a4919042ff7d)'
+38,7=>'::J. Dyson: He was at the med and they told him its just work-related exhaustion. We're working on Project Eos and, well, a lot of lives are in our hands.
+B. Helting: Just talk to him, I'm worried. We've been having numerous accidents and mishaps around Hollow Earth, especially with the recent problems in the Mutagen Tank area. What if it's connected?
+B. Helting: Also, you know - I will file a complaint. To Anton directly. You're going to Tartarus.
+J. Dyson: NO! For a simple correction? You evil woman.::'
+39,0=>'d95bac06-8ffe-4ebf-9672-a7e33cf0e052'
+39,1=>'context.npc_rc_dude_learnDyson'
+40,2=>'::J. Dyson: ?J. Dyson: To medical in L1. (47afc8fb-6ff6-4783-890b-6554f56ee13a)'
+40,6=>'::J. Dyson: ?
+J. Dyson: To medical in L1. Doc told him it's stress. Didn't he mention that?
+F. Manu: When did he go to med?
+J. Dyson: I don't know, yesterday, the day before that.
+F. Manu: I don't think he did. I talked to Bianka, Marcus and even Dr. Hope and no one saw him leave his room during that time. And judging by INM timestamps I don't think he would've had much time to go out in between. Did you talk to anyone from med?
+J. Dyson: No. He messaged me what I've told you.
+J. Dyson: Let's go to his room. I'll meet you in the hallway.::'
+41,0=>'148114b2-f62d-444b-8b90-748ef2ba7238'
+41,1=>'context.npc_rc_dude_learnDyson'
+42,2=>'::T. Stigr: I trust you more. You know h (06497117-39c4-47ea-ac59-917582544724)'
+42,6=>'::T. Stigr: I trust you more. You know how things currently are around here, and I don't want to be unplugged so that they could make room for someone like Dr. Slavkovic. I mean, if I have to die, then that's that, I'll accept my fate. But if I'm going to give this a chance, then I'll put myself in the hands of someone I can trust.
+J. Dyson: Thank you, Tobias. We have still a few more cells available. I can arrange everything.
+J. Dyson: We'll talk about this in TL. Okay?
+T. Stigr: Yes.
+J. Dyson: John.
+T. Stigr. Yes, John.
+J. Dyson: That's more like it, man. See you in TL.
+T. Stigr: Thank you again. See you.::'
+43,2=>'::J. Dyson: Haha! A toilet paper that gr (e3e8e845-c6f5-4df0-a6bd-49878d2a50ac)'
+43,6=>'::J. Dyson: Haha! A toilet paper that grows on its own. Underrail will never be the same. Do you guys ever do anything serious or is it always these sort of things? No wonder Kim is on your back all the time.
+J. Dyson: What was the last one? Fart cleanser?
+G. Vasilica: Flatulence processing and perfuming unit, to be exact, but yes. I never submitted that, so you know. It's not my field, and even if it was, it would've been too obvious, come on. But this one is going across everybody's INM.
+G. Vasilica: Everybody in my department, that is.
+J. Dyson: Look, I have to finish this. Can't wait to hear what you've come up with.
+G. Vasilica: Okay, okay. See you later.::'
+44,2=>'G. Vasilica: While we're at it, you've g (0541c970-a627-48cf-b91e-eb2d0140dd98)'
+44,6=>'::G. Vasilica: While we're at it, you've gotten pretty serious lately. I already asked you but you evaded the answer. Those crystals got to your head or what?
+J. Dyson: They are not crystals, man, and no, they didn't. It's just a bit of everything. Apex technocrats, news from above, Eos.
+G. Vasilica: Bianka.
+J. Dyson: You understand me. I hope you die.
+G. Vasilica: HA! I'm going to outlive my best friend so that he never feels lonely.
+J. Dyson: Man...::'
+45,2=>'::B. Helting: Haha. Look, I gotta go and (ad3706f6-8958-4d65-ac25-13624622b4f7)'
+45,6=>'::B. Helting: Haha. Look, I gotta go and take some spore samples from the forest. 
+J. Dyson: Hey, can I ask you something?
+J. Dyson: Oh, sorry. Wrote that at the same time.
+B. Helting: Yeah.
+B. Helting: So?
+J. Dyson: ?
+B. Helting: Quote: "Hey, can I ask you something?"
+J. Dyson: Oh, that.
+B. Helting: John, are you gone?
+J. Dyson: Nope.
+B. Helting: John, come on! This is not funny. Anton will hear about this!
+B. Helting: Anyway, I really have to go. And talk to Wasi. Bye.
+J. Dyson: So long, Bianka.::'

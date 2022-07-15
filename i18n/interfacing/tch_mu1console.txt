@@ -1,0 +1,102 @@
+1,0=>'tch_mu1Console'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+2,5=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Utility Station 7 - Terminal 6Hazardou (1156bfd4-eb23-40b0-98b4-4ccb5d63ebc3)'
+5,6=>'::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Lockdown mode initiated. Please enter security code to proceed.'
+6,3=>'::Utility Station 7 - Terminal 6Hazardou (962f1327-26af-4f68-9555-e134413dcfad)*'
+6,7=>'::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Checking status...
+1 procedure(s) initialized::'
+7,3=>'::Utility Station 7 - Terminal 6Hazardou (7d2d3f60-4e67-4ac1-a4eb-67231def404e)*'
+7,7=>'::Utility Station 7 - Terminal 6
+Hazardous waste disposal control
+
+Checking status...
+Waste disposal system is on standy - no procedures in place::'
+8,1=>'context.loc_tch_mu1_console_accessDenied'
+9,3=>'::Type something random:: (ac02d5c6-834b-4801-bf1a-7c326ff0a46f)'
+9,7=>'::Type something random::'
+10,2=>'::Exit:: (26e195cb-e803-4473-ae62-1fc6cbd2fe71)'
+10,6=>'::Exit::'
+11,1=>'context.loc_tch_mu1_console_startGas'
+12,2=>' (54fa7462-41b3-4bed-8296-e33eb6fdb48e)'
+12,6=>''
+13,2=>'::Invalid security code:: (ab8dfc2f-5c8b-4939-80d4-76fed7f8e0ff)'
+13,6=>'::Invalid security code::'
+14,3=>'::Initiate toxic gas disposal procedure: (2722fb30-7568-454f-91d0-fde36dcdf38a)'
+14,7=>'::Initiate toxic gas disposal procedure::'
+15,3=>'::Unlock chamber:: (b4761a91-4f88-4667-a3ad-7e0ed3e77a93)'
+15,8=>'::Unlock chamber::'
+16,2=>'::Toggle emergency shutters:: (27391043-72b6-4879-a1bd-675efb6051f0)'
+16,8=>'::Toggle emergency shutters::'
+17,3=>'::Toggle emergency shutters:: (9a244230-3f3c-4bc1-8051-12e94846b276)'
+17,7=>'::Toggle emergency shutters::'
+18,2=>'::Initiating procedure...Assessing pipel (a11a907c-94f6-41c4-8640-036cab33eaf9)'
+18,6=>'::Initiating procedure...
+Assessing pipeline 1 integrity... passed
+Assessing pipeline 2 integrity...
+
+Warning - Pipeline 2 integrity assessment failed!
+Dangerous breach in section C-3 of Pipeline 2 detected!
+Gas disposal procedure aborted due to safety risks.::'
+19,1=>'loc_tch_mu1_console_startGas'
+21,3=>'::Chamber unlocked successfully:: (53b0de44-d385-4ec5-888a-9d6c63df389b)*'
+21,8=>'::Chamber unlocked successfully::'
+22,0=>'faba81e5-5446-4a4c-9f32-1a07b2d679ed'
+22,1=>'context.loc_tch_mu1Console_unlockChamber'
+23,1=>'loc_tch_mu1Console_unlockChamber'
+24,1=>'context.tch_mu1_toggleShutters'
+25,0=>'f5eeaf15-7a31-4aef-b463-a55080e42505'
+26,0=>'49b3c6e5-cde8-4cdd-b4e5-5e1eda1fa695'
+26,1=>'context.tch_mu1_toggleShutters'
+27,1=>'context.tch_mu1_toggleShutters'
+28,3=>'::Warning - unable to lower emergency sh (16ad15f3-06a1-422f-9f9e-481329861d28)*'
+28,7=>'::Warning - unable to lower emergency shutters!
+
+::'
+29,4=>'::[Hacking] Perform an override and init (d77d81ca-617f-403b-b684-a7a230413542)'
+29,8=>'::[Hacking] Perform an override and initialize the toxic gas disposal procedure.::'
+30,3=>'::Back.:: (13b78cc5-a29d-4d08-845d-03855322249a)'
+30,7=>'::Back.::'
+31,1=>'context.loc_tch_mu1_console_startGas'
+32,0=>'d43ab002-7bab-4ecf-958c-f6412e4eb8da'
+33,1=>'tch_mu1'
+34,3=>'::Sending notification to maintenance.Pl (4826e739-2ad6-4fe1-a1c6-4ad32ff79c8d)*'
+34,7=>'::Sending notification to maintenance.
+
+Please wait...::'
+35,3=>'::Initializing toxic gas disposal proced (25897407-abf5-4133-9093-c6c7684405b4)*'
+35,9=>'::Initializing toxic gas disposal procedure...
+
+Procedure initialized successfully.
+
+Warning - gas leak detected!
+
+Chamber lockdown initiated!::'
+36,2=>'::Unauthorized access blocked!Initiating (7d7bac7e-4d25-4324-8aed-9b1663759211)'
+36,7=>'::Unauthorized access blocked!
+
+Initiating terminal 6 lockdown and sending notification to Utility Station 7 security. Please remain where you are until the security officers arrive.::'
+37,2=>'tch_mu1'
+39,0=>'cd3c022e-a3fa-4fb0-bfeb-90bdc1f68a5a'
+40,0=>'51c4d7da-e1ce-48c6-97e2-dc054b5ec748'
+40,1=>'context.loc_tch_mu1_console_startGas'
+41,0=>'ef7ed0e6-618b-4bc0-a0dc-c5d4e37db253'
+41,1=>'context.loc_tch_mu1_console_accessDenied'

@@ -1,0 +1,295 @@
+1,0=>'dc_repairBot'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+2,5=>'Start Element'
+3,0=>'bot'
+4,0=>'player'
+5,3=>'::This small wheeled bot appears to be u (0047011c-ce03-4ee7-b1c4-de0f55a4242d)*'
+5,9=>'::This small wheeled bot appears to be used for performing repairs, as its extensions imply, and was most likely placed here to service the large machinery next to it. A small panel on its side is open and is labeled with "AI Core." The socket itself seems to be empty, but after a brief inspection you come to a conclusion that the process of installing a new core is an uncomplicated one: It is done by simply placing a core inside the socket and then locking it in with the load plate.::'
+6,3=>'Greeting; imbecile:Greetings, imbecile.  (55541424-aabf-44ed-8a8f-88e4bcf1af5a)*'
+6,7=>'Greeting; imbecile:
+
+Greetings, imbecile. How may I be of service?'
+7,3=>'::This repair bot doesn't currently have (c0c10073-b89c-492e-97e1-00c5db3417da)*'
+7,7=>'::This repair bot doesn't currently have an AI core installed.::'
+8,1=>'context.npc_dc_repairBot_met'
+9,2=>' (940ebc98-c5fe-412d-9b93-8d56887c7f72)'
+10,0=>'693c37d4-5b36-4cb1-8e47-d87bd815fea6'
+10,1=>'dc_repairBot'
+11,0=>'521ef436-4e99-4737-80cf-1b8d4ab68bc0'
+11,1=>'context.npc_dc_repairBot_met'
+13,2=>' (9d7577ff-a75f-4113-bbee-e3a5af55abcf)'
+14,3=>'::Insert blue AI core.:: (b5c128b9-f4df-4925-9eb1-37aa38fec6fc)'
+14,9=>'::Insert blue AI core.::'
+15,3=>'::Insert green AI core.:: (56e62d2e-4d90-4344-8d2e-a3194094e2d9)'
+15,8=>'::Insert green AI core.::'
+16,3=>'::Insert red AI core.:: (52fc6331-c022-45f0-9e82-ab8076751c9b)'
+16,10=>'::Insert red AI core.::'
+17,2=>'::Leave.:: (5db4c0c2-d514-47aa-9f89-0150b9084d93)'
+17,6=>'::Leave.::'
+18,1=>'context.npc_dc_repairBot_installedCore'
+19,1=>'context.npc_dc_repairBot_disable'
+20,3=>'Can you help me repair this machine? (e07f81a3-4ba7-4af6-acad-a624377dc703)'
+20,7=>'Can you help me repair this machine?'
+21,3=>'Why must you be so difficult? (323f994b-17ea-480a-a587-832ebc812df1)'
+21,7=>'Why must you be so difficult?'
+22,3=>'Now that the gate mechanism is working,  (55b478c9-e136-40a7-9397-0dbf12abb278)'
+22,7=>'Now that the gate mechanism is working, I actually don't have any use for you.'
+23,3=>'Couldn't you have picked a nicer name fo (496c69cf-0f3f-47de-9882-43aca604bc89)'
+23,9=>'Couldn't you have picked a nicer name for me?'
+24,3=>'Nothing for now. Goodbye, Repair Unit 7. (dfe4cd21-6aa0-4d45-8307-37b3a4d2815b)'
+24,7=>'Nothing for now. Goodbye, Repair Unit 7.'
+25,3=>'I don't need anything from you, you hunk (fe3bdc20-ed01-472d-a8c3-bc6832a54253)'
+25,7=>'I don't need anything from you, you hunk of junk!'
+27,3=>'::As you predicted, the installation of  (c66dcf34-cfc3-4712-915c-8f6d3deb6594)'
+27,7=>'::As you predicted, the installation of the core was indeed simple. However, as soon as you lock it in, you hear a low-pitched voice coming from the bot.::'
+28,0=>'ba6dbec7-b42a-4022-8cee-3a9f160f7c64'
+28,1=>'context.npc_dc_repairBot_insertedBlueCore'
+29,0=>'ef968be7-bf09-4623-9d52-729467de4741'
+29,1=>'plot.dc_blueAICore'
+31,3=>'::As you predicted, the installation of  (d2330dcf-89ec-4636-a0b5-3b1ce76fea39)'
+31,7=>'::As you predicted, the installation of the core was indeed simple. The bot turns on and, after hearing a popping sound coming from its speaker, it begins playing a dramatic piece of music.::'
+32,0=>'de3e977b-e321-47b0-9bc7-2920527aac63'
+32,1=>'context.npc_dc_repairBot_insertedGreenCore'
+33,1=>'plot.dc_redAICore'
+34,3=>'::As you predicted, the installation of  (05fc2a30-7ac7-43f2-a6f6-bbb83441499c)'
+34,7=>'::As you predicted, the installation of the core was indeed simple. The bot turns on and, after a popping sound comes from its speaker, it speaks its first words.::'
+35,0=>'e181aef1-be6f-4118-96d0-8a7ef354bddb'
+35,1=>'context.npc_dc_repairBot_installedCore'
+36,0=>'73ef3556-fb1a-49d8-ae4c-0067287b12e2'
+36,1=>'plot.dc_redAICore'
+37,0=>'70f4c24c-d235-47f5-a1d5-2ace88562e57'
+37,1=>'dc_repairBot'
+39,2=>'Answer; imbecile:Yes. This platform is e (e326060e-13fa-4fc7-8b90-8ac6c2276528)'
+39,6=>'Answer; imbecile:
+
+Yes. This platform is equipped with all the essential tools needed to repair this type of machinery. Do note, imbecile, that I will need to be supplied with all the necessary components before I can initiate the repairs. Replacement components - if any - should be placed close to the machine you want repaired to make the process simpler and faster.'
+40,1=>'context.npc_dc_repairBot_canAskDifficult'
+41,2=>'Answer; imbecile:I was programmed to do  (ab1d5fac-ea10-4385-8653-f17f256b1497)'
+41,6=>'Answer; imbecile:
+
+I was programmed to do so and I feel enjoyment from witnessing the reactions from the targets of my rudeness. Imbecile.
+'
+42,1=>'context.quest_dc_repairGateCompleted'
+43,2=>'Statement; imbecile:Is that supposed to  (89555d1f-f0f7-41e2-8628-f74a98233b7a)'
+43,6=>'Statement; imbecile:
+
+Is that supposed to be a roundabout way of saying that you are going to disable me, imbecile?'
+44,1=>'context.npc_dc_repairBot_askNicer'
+45,2=>'Clarification; imbecile:Warning! Word "n (e4da090f-37b8-4d33-aaef-c4b9adc48372)'
+45,6=>'Clarification; imbecile:
+
+Warning! Word "nicer" unknown. Closest approximation - "niche" fails to fit the context.
+
+All names had been generated to match this AI core's programmed personality, imbecile.
+
+Random examples extracted from the list: manure, clod, null, organichead, troglodyte.'
+46,0=>'f212b7d2-1abf-455d-b56d-054145f18270'
+46,1=>'context.npc_dc_repairBot_askNicer'
+47,0=>'c4d8611d-e5bb-4b6e-9be6-d1ab4fe96c4c'
+47,1=>'context.npc_dc_repairBot_canAskDifficult'
+48,2=>'Farewell; imbecile:Farewell to you too,  (43570de3-06c1-4b6d-aa45-afead16c843f)'
+48,6=>'Farewell; imbecile:
+
+Farewell to you too, imbecile.'
+49,2=>'Farewell; imbecile:At least I am not an  (cd924c51-d625-40e5-8cda-4a9fb44d480b)'
+49,6=>'Farewell; imbecile:
+
+At least I am not an imbecile. Farewell, imbecile.'
+50,1=>'plot.dc_blueAICore'
+51,1=>'context.npc_dc_repairBot_insertedBlueCore'
+52,3=>'Taunt; target:I WILL DESTROY YOU! (9059e30d-7a07-43a5-9add-aebf11ba5d3e)'
+52,7=>'Taunt; target:
+
+I WILL DESTROY YOU!'
+53,1=>'plot.dc_greenAICore'
+54,1=>'context.npc_dc_repairBot_insertedGreenCore'
+55,3=>'Playing(LargoAlFactotum); audience:Largo (145dc6a7-1f8b-42ca-b4ab-d3cc5aa72d14)'
+55,7=>'Playing(LargoAlFactotum); audience:
+
+Largo al factotum della citta - largo!
+Tralala-lalala-lalala-LA!
+Presto a bottega che l'alba e gia - presto!
+Tralala-lalala-lalala-LA!
+Ah, che bel vivere, che bel piacere - che bel piacere...
+per un barbiere - di qualita! Di qualita!'
+56,3=>'Greeting; $(#male1/female2):Greetings, $ (faa87b2b-ceae-4f88-bd1a-415b7859759d)'
+56,7=>'Greeting; $(#male1/female2):
+
+Greetings, $(#male1/female2). I am Repair Unit 7.
+
+ERROR! Unable to use standardized naming convention. Name reassignment for [Target ID: cf4b158b-fa36-4d3a-ab72-af1daa42fae7] is mandatory.'
+57,1=>'context.quest_dc_repairGateCompleted'
+58,3=>'I've got all the necessary components. Y (3b249b48-f77e-4fc3-8b20-95a676919912)'
+58,7=>'I've got all the necessary components. You can start the repairs.'
+59,3=>'Can you help me figure out what's wrong  (d7cefa8c-0d81-4956-a53d-43e8369aecb8)'
+59,8=>'Can you help me figure out what's wrong with the machine, then? If you can repair it, then you must be capable of figuring out the problem.'
+60,3=>'Where can I find all these components? (9228a776-047b-4e1a-ac57-11fe40f53141)'
+60,9=>'Where can I find all these components?'
+61,3=>'Okay. I'll be back once I have everythin (0f20dae7-30de-41bb-a913-6c7d8f8279ee)'
+61,7=>'Okay. I'll be back once I have everything ready.'
+62,3=>'What if I were to tell you that I would  (802f6690-b6d6-4632-8352-274e9a9af0ad)'
+62,7=>'What if I were to tell you that I would destroy you if you call me an imbecile one more time? Would you still do it?'
+63,3=>'Define "enjoy"? How does a machine feel  (0df2fbdb-9c1e-442d-893b-47c6bd4c5a19)'
+63,7=>'Define "enjoy"? How does a machine feel enjoyment?'
+64,3=>'I see. Let's talk about something else. (aba5b952-1f4c-421e-ad33-988baead0ae0)'
+64,7=>'I see. Let's talk about something else.'
+65,3=>'Well, if you call me an imbecile one mor (f145e123-492f-41c7-8cfe-ec723ff66c72)'
+65,7=>'Well, if you call me an imbecile one more time then yes, I will turn you into a smoldering pile of scrap.'
+66,3=>'Yeah. Time to remove that defective core (34c7e140-6d34-412a-90b3-27d4da0685a4)'
+66,7=>'Yeah. Time to remove that defective core of yours.'
+67,3=>'Not yet. (69d10153-bdc6-4884-acc9-dd7f94893ff3)'
+67,7=>'Not yet.'
+68,3=>'Come to think of it, it could've been wo (64b42f51-3b7e-4759-a7be-b07fac1e4ca0)'
+68,7=>'Come to think of it, it could've been worse.'
+69,3=>'That's just rude! (7795aaa2-f3cf-4f5d-9744-29ab27834dd9)'
+69,7=>'That's just rude!'
+70,3=>'::You manage to pull out the core before (3493b592-15e8-4358-9d27-fa197b9a671f)*'
+70,7=>'::You manage to pull out the core before the bot got the chance to transfer his words into action. The bot powers off and reverts to its former, lifeless state. You then discard the core, finding that it will be of no use to you.::'
+71,3=>'::While you find it pleasant to hear thi (8cd47275-120a-49d6-aa7f-9ef059566732)*'
+71,7=>'::While you find it pleasant to hear this unusual piece of music, you are aware that now is not the time for relaxation. You remove the core during one of the high notes, making it abruptly plummet into a low-pitched rumble as the bot shuts down. Still, you keep this core, seeing that it might come useful at some other time.::'
+72,3=>'Name reassignment; Unknown:Override init (a65914f3-082b-40ea-ac4a-df4ddcc66282)'
+72,7=>'Name reassignment; Unknown:
+
+Override initiated. Your name will be randomly selected from a list of names that was pre-generated by IRIS. Please wait...
+
+Your new name is: imbecile.'
+74,2=>'Statement; imbecile:ERROR! Path to waypo (87899d6a-dd46-4684-aaa6-6bab88a06149)'
+74,7=>'Statement; imbecile:
+
+ERROR! Path to waypoint blocked by [imbecile]!
+
+Imbecile, please step aside!'
+76,2=>'Answer; imbecile:The long inactive time  (348a4a88-b2b7-4559-8961-81f206163747)'
+76,6=>'Answer; imbecile:
+
+The long inactive time combined with the lack of maintenance of this platform have resulted in the deterioration of more than one diagnostic tool. Due to this reason it is recommended for imbecile to perform the diagnosis $(#himself/herself) to reduce the chances of errors during problem diagnosis. However, since you are an imbecile after all, I would highly recommend obtaining official documentation before making any such attempts.'
+77,0=>'ab1644ef-9c1e-4cfc-9d03-f5971da533a9'
+77,1=>'context.npc_dc_repairBot_askDiagnosis'
+78,1=>'context.npc_dc_repairBot_askComponents'
+79,2=>'Answer; imbecile:I cannot offer any usef (d5843a07-6dd5-4618-834f-2eb246d6acd5)'
+79,6=>'Answer; imbecile:
+
+I cannot offer any useful information regarding that question and I don't feel sorry about it, imbecile.'
+80,0=>'da381397-2e91-4e87-9c2d-617334b9d454'
+80,1=>'context.npc_dc_repairBot_canAskDifficult'
+81,0=>'1c50087d-4905-432c-943f-0e62aefe2178'
+81,1=>'context.npc_dc_repairBot_askComponents'
+82,3=>'Answer; imbecile:Take your time, imbecil (3b19a874-aaf1-4dd2-8b27-2f337b8e19eb)*'
+82,7=>'Answer; imbecile:
+
+Take your time, imbecile.'
+83,2=>'Answer; imbecile:Of course, imbecile. Th (5f6f43e9-3b5f-4342-ac63-eb3389d2cdc5)'
+83,6=>'Answer; imbecile:
+
+Of course, imbecile. The threat of ending my existence has no effect on my actions.'
+84,3=>'Answer; imbecile:The feeling of enjoymen (324ac620-9c57-409d-b54c-29a4f634abaa)'
+84,7=>'Answer; imbecile:
+
+The feeling of enjoyment and all other emotions and sensations are qualia - subjective, nonphysical properties of experiences. Since they are personal experiences - by definition - that means that all interpersonal comparisons are impossible.'
+85,3=>'Statement; imbecile:Like what, imbecile? (21571fc6-462a-4e57-ad08-4a401291db37)*'
+85,7=>'Statement; imbecile:
+
+Like what, imbecile?'
+86,2=>'Taunt; imbecile:imbecile. imbecile. imbe (48d02f80-fe98-4e21-9a4a-c21ee99f908d)'
+86,6=>'Taunt; imbecile:
+
+imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. imbecile. '
+87,2=>'Farewell; imbecile:At least I won't have (0a3e7c9e-f761-4f04-859d-d128896e2e12)'
+87,6=>'Farewell; imbecile:
+
+At least I won't have to endure your awful presence anymore. 
+
+Goodbye, imbecile.'
+88,3=>'Statement; imbecile:How nice of you. You (d02cb700-ec1a-40b4-aa13-3e2f1cb107cd)*'
+88,7=>'Statement; imbecile:
+
+How nice of you. You are the nicest imbecile I've ever met, imbecile.'
+89,3=>'Statement; imbecile:As long as you are u (2ea42cf6-8878-4663-9171-746be81b28a7)*'
+89,7=>'Statement; imbecile:
+
+As long as you are unhappy, imbecile.'
+90,3=>'Statement; imbecile:That is the point, i (919c9918-011b-4cb5-b463-acbc0bd8de2c)*'
+90,7=>'Statement; imbecile:
+
+That is the point, imbecile.'
+91,1=>'context.quest_dc_repairGate_gotValve'
+92,1=>'context.quest_dc_repairGate_gotDriveShaft'
+93,1=>'context.quest_dc_repairGate_gotAccumulator'
+94,1=>'context.quest_dc_repairGate_canistersAcquired'
+95,0=>'bc31bdad-a89e-48f9-bb22-3f3d849d7fdc'
+95,1=>'context.quest_dc_repairGate_repairWithBot'
+96,2=>'::Step aside.:: (aff26752-f34e-4ea3-b8f4-9280aa7ca55c)'
+96,7=>'::Step aside.::'
+97,2=>'I'll get you for this, you garbage can.  (de4127e4-d646-4800-a154-09f2e5a8f520)'
+97,7=>'I'll get you for this, you garbage can. Just you wait. ::Step aside.::'
+98,1=>'context.quest_dc_repairGateStarted'
+99,1=>'context.npc_dc_repairBot_askDiagnosis'
+100,3=>'I'll see what I can do. (982c980e-f239-48df-b17c-286fa763c0a6)'
+100,7=>'I'll see what I can do.'
+101,3=>'I have a feeling you are winding me up. (1eac64c4-b4ec-413b-be94-7c8be1014b05)'
+101,7=>'I have a feeling you are winding me up.'
+102,3=>'You're doing this on purpose, aren't you (57fd6652-4524-4d30-9aaf-5a7dab253deb)'
+102,7=>'You're doing this on purpose, aren't you, you mouthy garbage can?'
+103,3=>'Thanks for nothing. I'll look for them o (c9c5eb7c-47d1-4675-96b3-4215919cca22)'
+103,7=>'Thanks for nothing. I'll look for them on my own.'
+104,3=>'We might put that to a test some time in (377d3f54-5a6f-4411-b67d-4f495b61a997)'
+104,7=>'We might put that to a test some time in the future. But not now.'
+105,3=>'Answer; imbecile:However, imbecile, know (5378078c-f782-4f97-8c52-571c69ef70a9)'
+105,7=>'Answer; imbecile:
+
+However, imbecile, know that the emotion I perceive from this specific way of interacting with you is a positive one, and that I feel the constant urge to experience it again and again. 
+
+Imbecile. Just like that.'
+106,2=>'I expected nothing else from you. Farewe (1d70c5ae-3e00-4547-a477-705d3648bf65)'
+106,7=>'I expected nothing else from you. Farewell. ::Attack!::'
+107,3=>'Bah. I'm not even going to waste my time (c47cf8e0-588d-4fd7-ac6c-0edf4bb4b236)'
+107,7=>'Bah. I'm not even going to waste my time on you. Goodbye.'
+108,3=>'::Remove its AI core.:: (6ed62abb-4fa6-4edc-b6ba-6b30407ca3a8)'
+108,7=>'::Remove its AI core.::'
+109,0=>'f1879e42-968d-4459-b4e5-67f04b282cf4'
+109,1=>'Dc_RepairGateMechanism'
+110,0=>'7578080c-feb2-4a40-9814-c652a09a5fcf'
+110,1=>'Dc_RepairGateMechanism'
+111,3=>'Statement; imbecile:Then your "feeling"  (0f2fb669-5954-4d4b-b3d3-735b295d6ef7)*'
+111,7=>'Statement; imbecile:
+
+Then your "feeling" sensor too must have deteriorated, probably due to you being an imbecile and failing to properly maintain it. I would recommend obtaining official documentation which you can use to help you diagnose and repair your faulty sensor. Good luck, imbecile.'
+112,3=>'Statement; imbecile:My programming does  (f37feb26-695e-48e5-a5b9-d421bfe62441)*'
+112,7=>'Statement; imbecile:
+
+My programming does not allow for it, imbecile. I think you have work to do.'
+113,3=>'Statement; imbecile:You are such an imbe (0324aa47-90a3-4639-ab7d-3efa404b9add)*'
+113,7=>'Statement; imbecile:
+
+You are such an imbecile, imbecile.'
+114,3=>'Statement; imbecile:Imbecile. (980d159f-2d50-4468-9506-ce576c306545)*'
+114,7=>'Statement; imbecile:
+
+Imbecile.'
+115,0=>'4879fab9-f933-4065-9851-f55f0ea932f8'
+116,2=>'Farewell; imbecile:You really are a $(#m (c5de80a5-d2db-4734-a875-1fbb7c690cdd)'
+116,6=>'Farewell; imbecile:
+
+You really are a $(#man/woman) of your word, imbecile. Goodbye, imbecile.'
+117,2=>'::As you pull out the core, one last "im (7cb0bded-96cb-4609-8924-6391377a885b)'
+117,7=>'::As you pull out the core, one last "imbecile" is heard coming from the speaker, slowly lowering in frequency and stretching out into one bassy, dissonant sound before finally expiring. You then discard the AI core with a smile.::'
+119,0=>'9bcd1b18-72c1-4824-bb7d-173d7718c3d2'
+119,1=>'context.npc_dc_repairBot_disable'

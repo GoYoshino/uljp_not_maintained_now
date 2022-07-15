@@ -1,0 +1,187 @@
+1,0=>'xpbl_mu_waterPump'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+1,29=>'English'
+1,30=>'English'
+1,31=>'English'
+1,32=>'English'
+1,33=>'English'
+1,34=>'English'
+1,35=>'English'
+1,36=>'English'
+1,37=>'English'
+1,38=>'English'
+1,39=>'English'
+1,40=>'English'
+1,41=>'English'
+1,42=>'English'
+1,43=>'English'
+1,44=>'English'
+1,45=>'English'
+1,46=>'English'
+1,47=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,4=>'::LEMCO LC387 - :: (010a15fa-7de0-4e17-bec3-634a251ad0a2)*'
+5,8=>'::LEMCO LC387 - ::'
+6,3=>'::Welcome, P. Bridges:: (62d4813d-f100-46aa-b383-d9386ab70806)*'
+6,7=>'::Welcome, P. Bridges::
+
+'
+7,3=>'::Welcome, guest:: (8a2457ba-d03e-48f2-98a3-71f6f88466c4)*'
+7,7=>'::Welcome, guest::
+
+'
+9,2=>'::Unable to connect to ASIN. Only local  (65164292-5c1d-4125-a3a4-9c4d5937656d)'
+9,6=>'::Unable to connect to ASIN. Only local data is available.::'
+10,1=>'plot.xpbl_philsArm'
+11,1=>'context.global_xpbl_implantedChip_PhilBridges'
+12,3=>'::Documents:: (08a59dd6-9647-4fd4-8edc-be28f0f4dff8)'
+12,7=>'::Documents::'
+13,3=>'::Summon available Servant:: (4c735630-52d2-40c0-a914-7ac018d0bd06)'
+13,7=>'::Summon available Servant::'
+14,2=>'::Start decontamination procedure:: (5c2eceed-b0d7-4e89-8352-7aadaa5c6676)'
+14,5=>'English'
+14,6=>'::Start decontamination procedure::'
+15,2=>'::Initiate lockdown:: (0c9f7402-25f8-4224-b3d9-d304b0216be5)'
+15,6=>'::Initiate lockdown::'
+16,2=>'::Exit:: (86189c1a-5673-4c67-89a5-21212a7de375)'
+16,6=>'::Exit::'
+17,2=>'::Documents:: (73d9e7e3-822d-4501-b28c-e6136a1b5812)'
+17,6=>'::Documents::'
+18,3=>'::No available Servant detected. Your re (a689341c-f900-42dd-8169-dea66d91f895)'
+18,7=>'::No available Servant detected. Your request has been placed in a queue.::'
+19,1=>'context.none'
+20,1=>'context.none'
+21,3=>'::Shadow wave psychoprojection charts:: (f23b6643-f71d-4cf4-aa71-0ffc2e4b1556)'
+21,7=>'::Shadow wave psychoprojection charts::'
+22,3=>'::Psychoprojection images:: (cc411100-905c-4046-b42f-a39cb8bb5e71)'
+22,7=>'::Psychoprojection images::'
+23,3=>'::Back:: (0d1f26a8-c14e-4fe7-a82b-ff658dbc770b)'
+23,7=>'::Back::'
+24,2=>'::Shadow wave psychoprojection charts:: (25db8375-3142-4695-b587-51f796ddff45)'
+24,6=>'::Shadow wave psychoprojection charts::'
+25,2=>'::Psychoprojection drawings:: (718c0518-48f2-4754-bed0-41b0aaeaef05)'
+25,6=>'::Psychoprojection drawings::'
+26,3=>'::Standard (superseded):: (15d3b063-4e84-4a3c-8339-4788f7c22d1d)'
+26,7=>'::Standard (superseded)::'
+27,3=>'::Shadow dust inhalation (current):: (b2b56f7e-6e05-491c-b900-95ad91207a11)'
+27,7=>'::Shadow dust inhalation (current)::'
+28,3=>'::Back:: (fd71030d-6a56-46e9-b5d7-02cefc793735)'
+28,7=>'::Back::'
+29,3=>'::Dr. Mætäll's drawings:: (70e5e974-cfe9-4dfb-bb03-20e2b9f00fd5)'
+29,7=>'::Dr. Mætäll's drawings::'
+30,3=>'::Early collection:: (2bee8673-0fed-4bc9-bd58-3ab47de9c53c)'
+30,7=>'::Early collection::'
+31,3=>'::Contemporary collection:: (5b509bc2-5319-451b-a654-8e0d3340f938)'
+31,6=>'English'
+31,7=>'::Contemporary collection::'
+32,3=>'::Neuron_Mapping_Set.ppr:: (a694e63f-0c19-48ec-a37a-78e0cde32e65)'
+32,7=>'::Neuron_Mapping_Set.ppr::'
+33,3=>'::Shadow wave frequencies:Infra (<0.5Hz) (53f78c34-9174-421b-9ce7-ebebd08200a7)'
+33,7=>'::Shadow wave frequencies:
+
+Infra (<0.5Hz) - No perceptible stimulation and no short-term effects.
+Delta (0.5-3Hz) - Faint, distant aural beat in the range of 5-15bpm. No visual stimulation.
+Theta (3-8Hz) - Deep stimulation of unconscious cognition: inductive reasoning, memory recollection, creativity, association, language, etc.
+Alpha (8-12Hz) - Sense of great relaxation and loss of sense of time and spatial awareness.
+Beta (12-38Hz) - Lucid audiovisual hallucinations.
+Gamma (38-42Hz) - Increased analytic cognitive performance: deductive reasoning, complex problem-solving, etc.
+Upsilon (42-60Hz) - Increased psionic performance across most disciplines. Exhausting for non-psionic subjects, severe headaches in extreme cases.
+
+Frequencies higher than 60Hz are considered dangerous and should only be used with psionic subjects while exercising extreme caution.::'
+34,3=>'::Shadow wave frequencies:Infra (<0.5Hz) (884c711b-48ea-489b-afeb-9ff5915b8b06)'
+34,7=>'::Shadow wave frequencies:
+
+Infra (<0.5Hz) - Sense of vermicular motion inside head and abdomen. Mild headache and intestinal pain in approximately half of subjects.
+Delta (0.5-3Hz) - Violent pounding in ears, sometimes accompanied by hissing, growling and screaming. No visual stimulation.
+Theta (3-8Hz) - Creeping terror, distress, coldness.
+Alpha (8-12Hz) - Sense of asphyxiation and claustrophobia.
+Beta (12-38Hz) - Temporary loss of sight and hearing with the exception of sporadic audiovisual visions most commonly containing flashing pairs of lights, serpentine motion and indiscernible echoing sounds.
+Gamma (38-42Hz) - Suicidal urges, madness, often leading to cerebral hemorrhaging and death. Complete and overwhelming sensory hallucinations.
+
+Frequencies higher than 42Hz will consistently result in death of subjects that have inhaled shadow dust.::'
+35,3=>'::The first drawing features a black bac (776331c0-4463-49e0-8c6b-45318179d0d1)'
+35,7=>'::The first drawing features a black background with a few white squiggly lines, some thicker, some thinner. Nothing more.::'
+36,3=>'::This folder contains numerous drawings (ebc81e96-51ec-4c35-800d-ee2a2ce4df07)'
+36,7=>'::This folder contains numerous drawings by various individuals, ranging from simple black and white sketches to colorful portrayals of mind-bending objects, worlds or purely abstract concepts. Rounded, wave-like or spiraling lines pervade the imagery, and triangles, pyramids or tetrahedrons - depending on dimensions featured - are also common motifs.::'
+37,3=>'::This folder contains numerous drawings (d72e3a7c-87f9-448d-9d99-4dd6115ba449)'
+37,7=>'::This folder contains numerous drawings by various individuals, most of them disturbing in form and content. They feature twisted perspectives, strong colors that bleed into one another, serpents and other sinister-looking creatures devouring or simply slaughtering humanoid beings, as well as creatures of other kinds. 
+
+Some of these drawings contain formulas, occult rather than scientific, regarding things done to flesh that is often featured next to these inscriptions, drawn in one way or the other.::'
+38,2=>'::The dark screen slowly turns purple. C (58588a92-c41a-4663-b8f8-5ce73dde06a6)'
+38,6=>'::The dark screen slowly turns purple. Colorful and detailed spiraling shapes of mathematical perfection begin to appear in the middle of the screen, becoming more and more concentrated in the very center until a symmetrical image finally gains form. The shapes repeat in different configurations and are self-similar - composed of smaller identical or almost identical shapes to itself, diminishing in scale to apparent infinity.
+
+The text underneath the image indicates that the image is being rendered in real time from some kind of mathematical function, and you are given the option to zoom further in.::'
+39,3=>'::The second sketch is more elaborate: T (92adf8b8-5d3c-4f02-856e-330d0b5d8306)'
+39,7=>'::The second sketch is more elaborate: There are about twenty or so lines horizontally parallel to one another, with some having warm coloration - red, orange, yellow, etc. - either all the way through or partially until turning white again. They are shaped like sine waves with smooth, constant amplitude, but some waves are only uniform up until they spiral out of order and outside the bounds of the drawing.::'
+40,2=>'::There are a few notable ones: A transp (6e8c288b-3415-43cf-859e-d480f1b15dba)'
+40,6=>'::There are a few notable ones: 
+
+A transparent submarine dripping with black, slimy mass. Beams of light illuminate it from the dark below.
+A human figure cutting the monolith depicted as being laid down horizontally on the floor. There is black smoke rising from it and filling the room before falling back down as specs of dust.
+Some strange flying machine with large wings speeding through fog. Its dimensions and other properties are written next to it.
+A man and a woman with their hands reaching up. Tentacles emerge from below and hold them by their legs.
+Anatomy of a woman with some unknown markings on her vital organs. Her skin is colored green.::'
+41,2=>'::Some are more notable than others: Hum (8221a0d0-8da1-4033-9ef1-91ad664a9dfa)'
+41,7=>'::Some are more notable than others: 
+
+Humanoid reptilians driving spears into a hairy, muscular four-legged creature. They are in the middle of an endless pool of blood.
+A serpent constricting various objects: people, machines, cities, celestial bodies and things greater. Often titled as "Sørmir" or "Flottsørm" - or most commonly "Flottsørmir."
+A vortex of some kind, dark-centered and surrounded by people both alive and dead. All of the living ones are bowing deeply but the one who's sprinkling some kind of black dust all over it. The dead are never whole.::'
+42,3=>'::Zoom in.:: (92b1769d-7349-4845-af8b-375e2854ac5f)'
+42,7=>'::Zoom in.::'
+43,3=>'::Back:: (e11cdfd0-a736-4fda-b33a-3670c237567a)'
+43,7=>'::Back::'
+44,3=>'::The third sketch is yet more elaborate (5722b3fb-5a2f-43e8-abb2-a5790d13576f)'
+44,7=>'::The third sketch is yet more elaborate: The background is still black, but all of the lines are colored without restrictions. Their mutual spatial relationship feels organized in a fully two-dimensional way, while their shapes are more varied in size and proportions, if still rounded for the most part. Simple geometrical shapes like triangles and squares split in half diagonally are also present, as if emerging from some kind of fabric formed by the underlying intertwistment of multicolored lines.
+
+Yet the form is purely abstract and doesn't reference anything from the real world.::'
+45,3=>'::Back:: (3187332d-1e83-4609-9f10-83d8c1612aa3)'
+45,7=>'::Back::'
+46,0=>'f7dbcd82-02ee-4f9e-9aa7-fef0ab165b4b'
+46,1=>'context.global_xpbl_knowFlottsormir'
+47,3=>'::You zoom into the center. The macrosha (8321a1c6-c2f1-43db-a52b-1ebb47033cbf)'
+47,7=>'::You zoom into the center. The macroshape outgrows the screen and reveals its fractal composition whose constituents then again grow larger and radiate away as you zoom in. Colors change and shapes reconfigure, and the longer you stare into the infinite center the more it feels like you're descending into new realities, losing sight of the previously obvious patterns and building blocks.::'
+48,3=>'::The fourth drawing is completely blank (afb8d7ba-a983-4fd0-ac37-ed4bbc50d9e5)'
+48,7=>'::The fourth drawing is completely blank.::'
+49,3=>'::From purple vastness you fall into a s (24045fff-76b6-419d-a68c-52e52dee8697)'
+49,7=>'::From purple vastness you fall into a spiraling azure sea whose surface forms the maw of the universe that swallows you and squeezes you past the bright stars and into a quasar containing a lair of slithering green serpents between which clouds of glistening dust conceal scorching pits of molten rock forming an iced island on which lush orange vegetation homes the swarms of yellow thousand-legged insects crawling around their monstrous black queen whose single compound eye reflects floating polyhedrons between which cosmic arcs of lightning wreak havoc that disintegrate reality and funnel it broken into a spiraling singularity...::'
+50,4=>'::The fifth drawing can easily be mistak (918c4e76-d556-44f9-92bc-c2f1e82400e7)'
+50,8=>'::The fifth drawing can easily be mistaken for a long-lost work of abstract art: It's a fully-colored, three-dimensional painting of warped land or water - or something completely different - with angular shapes of complex geometry placed on it with a great sense of spatial awareness and proportion. The colors are overwhelming, as if the painter was compensating for their lack of vividness or some other inherent property, and many lines were drawn multiple times with slight deviations in their dimensionality.::'
+51,2=>'::...which is in fact a great serpent. Y (02e7fe0f-8280-4e35-a751-13147b015494)'
+51,6=>'::...which is in fact a great serpent. You can no longer zoom in.::'
+52,3=>'::[Perception] You are able to see throu (7c818ff3-85df-4379-acba-e0dbff8359c5)'
+52,7=>'::[Perception] You are able to see through the distracting colors and deceptive lines to discover otherworldly forms. The background - whatever it is - as mangled and undefined as it may look, feels strangely alive - for a still image! - and in some kind of sensory motion, as if the visuals want to expand into sounds and scents but never *actually* do. The complex shapes - peculiar polyhedral architecture and machines are more defined and in some ways appear to conquer this realm; they do not appear to be fit for human beings - at least not of our size and proportions - but perhaps something entirely different.::'
+53,3=>'::You get the impression that the image  (75c3cd36-d6d3-4b17-9b8a-d03e25d423f3)'
+53,7=>'::You get the impression that the image is supposed to represent something... more, but it is difficult for you to discern what.::'
+55,3=>'::The sixth drawing represents a cold, c (fccb2ba2-983f-464b-a6bf-99a3cd786315)'
+55,7=>'::The sixth drawing represents a cold, calculated organization of shapes, void of artistry and human emotion - a technical drawing, in essence. The rounded shapes are predominant again as well as a few merged tetrahedrons, and colors are uniform in distribution and saturation. This is the first one that features text - formulae that seem to describe properties of the drawn reality and relate them to our own.::'
+56,2=>'::The seventh drawing is unfinished, bei (fd0b27d2-8bf0-492e-89c6-30f7994e7c92)'
+56,6=>'::The seventh drawing is unfinished, being only about one third done. It is a chaotic amalgamation of all the previous works, containing spirals and triangles and half-written formulae. Its incompleteness doesn't have a sense of drawing direction you're familiar with; instead, there are many holes in the composition - certain spots just lack color, whereas some other spots are completely blank, and there is no discernible pattern to any of this.
+
+The drawing makes no sense to you. It also appears to be the last one in the folder.::'

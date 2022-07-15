@@ -1,0 +1,136 @@
+1,0=>'dc_tl_mainConsole'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+2,4=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::$&qF#NF#NQm??HDki0e8jh=26/dwaddj8a93ad (723017e4-38c3-4e3f-bfef-c3fa39ab0566)'
+5,6=>'::$&qF#NF#NQm??HDki0e8jh=26/dwaddj8a93ad7fg4f76da9g6a627hvb4
+1EU[]MVQa-=QNVE@()!#IIIK7fg4f7OP23h47f8j8Ijkajd8On1haj/-/-4479128
+V1!_(EY25NVE,.NV&Etv>9<>Qa-=QNVEEUF#N=26/dwpol{];.2-,>1100lP{::'
+6,3=>'::Tithonus Lab Main ConsoleWarning! Tith (89cd1144-4fc3-4166-993f-cdacef89c282)*'
+6,7=>'::Tithonus Lab Main Console
+
+Warning! Tithonus Lab is running on auxiliary power. Estimated power on time remaining: 246 years, 97 days
+
+Please select one of the following options: ::'
+7,1=>'context.loc_dc-tl_doppelgangersActive'
+8,2=>' (7564b591-3b4b-4897-a2dc-79ef82427d18)'
+8,6=>''
+9,3=>'::Suspension cells status:: (628bc31d-c3bf-497b-a84f-497bab12a886)'
+9,7=>'::Suspension cells status::'
+10,3=>'::Project Eos:: (885fe278-6e50-46ed-84e5-fa8194dfcbb4)'
+10,7=>'::Project Eos::'
+11,2=>'::Exit:: (89a4ef28-8a82-4930-9296-f88ccb89e4a8)'
+11,6=>'::Exit::'
+12,2=>'::Individual Supension Cell Status: Rahm (f36671b0-c728-4309-8691-cdf61da40c5d)'
+12,6=>'::Individual Supension Cell Status: 
+
+Rahmir Al-Malik - Warning: LM sensor data unavailable!
+Blagomir Radic - Warning: LM sensor data unavailable!
+Harold Zimmer - Warning: LM sensor data unavailable!
+Sandy Kester - Warning: LM sensor data unavailable!
+Hans Jung - Warning: LM sensor data unavailable!
+Brandon Hoffman - Warning: LM sensor data unavailable!
+Takao Oshiro - Warning: LM sensor data unavailable!
+Jeanette Wilson - Warning: LM sensor data unavailable!
+Charles Oldershaw - Warning: LM sensor data unavailable!
+Tobias Stigr - Warning: LM sensor data unavailable!
+Elidith Gervas - Warning: LM sensor data unavailable!::'
+13,3=>'::Project Eos:: (e6f45927-7a81-4d97-bf03-29b58b3052c4)*'
+13,7=>'::Project Eos::'
+14,4=>'::Switch off life support to all suspens (d1814216-dc46-4c92-bf42-913cfb75ad6f)'
+14,8=>'::Switch off life support to all suspension cells::'
+15,3=>'::Back:: (ef0ce4f0-018a-4c79-8bec-d0fa9a02e7e2)'
+15,7=>'::Back::'
+16,2=>' (7d8c5cf6-cd25-431a-bca4-49d084f794dd)'
+17,2=>'::Please insert your ID card to begin se (11334768-e0ee-4059-9eb7-63aedfbf6cbf)'
+17,6=>'::Please insert your ID card to begin security credential authorization.::'
+18,2=>'::This action will initiate procedures R (b0b9c449-10b6-41d6-94c5-a0e1ed5ae68c)'
+18,6=>'::This action will initiate procedures REL-B and REL-F which will prepare all subjects for release from their suspension cells. Date, time and names of all active personnel, as well as results of the procedure will be automatically recorded in the event log.
+
+Are you sure you want to proceed?::'
+19,3=>'::Project reports:: (ecbb61ec-7255-4530-a9dc-642c0e9b05c2)'
+19,7=>'::Project reports::'
+20,3=>'::Tithonus Lab personnel list:: (8c37837a-46ba-4059-bacc-62ebc7d9388f)'
+20,7=>'::Tithonus Lab personnel list::'
+21,3=>'::Back:: (d6e11b1a-34d4-4280-bba8-7d57dfb397a7)'
+21,7=>'::Back::'
+22,1=>'context.loc_dc_tl_mainConsole_accessGranted'
+23,3=>'::Insert Wasi Abdul's ID card.:: (ed8b11c0-6cf4-4201-8b41-ee434977eb70)'
+23,7=>'::Insert Wasi Abdul's ID card.::'
+24,4=>'::[Hacking] Gain access to life support  (2b6e31d5-69ea-43dd-be22-b87adc837cd0)'
+24,8=>'::[Hacking] Gain access to life support controls.::'
+25,3=>'::Back to main:: (4b5d96e7-d666-41d9-b9bf-bc4f13014a97)'
+25,7=>'::Back to main::'
+26,4=>'::Yes:: (70ec0178-bc2e-479e-8c4c-e74cf5fe857c)'
+26,8=>'::Yes::'
+27,3=>'::No:: (9218e10e-b175-46d7-8939-ba8a6af8f1fd)'
+27,7=>'::No::'
+28,3=>'::Error 010 - Connection to HECDB failed (d1be7cae-2068-4767-be8a-8f43ed99b59d)'
+28,7=>'::Error 010 - Connection to HECDB failed!::'
+29,2=>'::Chief of Psionic Research and Developm (ffd0afae-b8d8-4e77-8345-ab53cd1d97b1)'
+29,6=>'::Chief of Psionic Research and Development, BCSDS, Dr. John Dyson
+Chief of Psineurology, BCSDS, Dr. Wasi Abdul
+
+Dr. Hako Na
+Dr. Roben Marlic
+Dr. Marko Higgs
+Dr. Peter Morlan
+Dr. Savo Dragac
+
+Milina Johnson
+Arko Su
+Tobias Stigr
+Ian Slaughter
+::'
+30,1=>'key.wasiAbdulsCard'
+31,3=>':: Authenticating...Card ID: WSHG-0909,  (9b4f132d-7c88-47da-b5fb-a386ec4bd5e3)'
+31,8=>':: Authenticating...
+
+Card ID: WSHG-0909, Dr. Wasi Abdul, Security clearance level 7
+
+Authorizing...
+
+Access granted.
+::'
+32,3=>'::Hacking successful!:: (e4f922e7-1f93-4597-9367-63794178009d)'
+32,8=>'::Hacking successful!::'
+33,3=>'::You were unsuccessful in your attempt  (d3a22fb4-bb2f-4ce6-985e-b26a13586bce)'
+33,7=>'::You were unsuccessful in your attempt to hack the console.::'
+34,3=>' (9438e2d1-9586-4120-b43e-8429914f621d)*'
+35,3=>'::Initiating procedures...Swith-- $&qF#N (4446f070-994f-44b0-bd1f-5e734034b955)'
+35,7=>'::Initiating procedures...
+
+Swith-- $&qF#NF#NQm??HD
+1EU[]MVQa-=QNVE@()!#IIIK
+V1!_(EY25NVE,.NV&Etv>9<>::'
+36,3=>'::Back:: (808f0ddc-19e8-4904-ae8d-a79c5629dbfc)'
+36,7=>'::Back::'
+37,0=>'4276cd32-3598-4271-a807-5a81f1c383fe'
+37,1=>'context.loc_dc_tl_mainConsole_accessGranted'
+39,0=>'bb1e55e1-ecae-48a9-8730-c0b3e82252ee'
+39,1=>'context.loc_dc_tl_mainConsole_accessGranted'
+40,1=>'context.loc_dc-tl_doppelgangersActive'
+41,0=>'b2bf9702-6483-44be-9ef9-288360e46224'
+41,1=>'context.loc_dc-tl_doppelgangersActive'
+42,0=>'8e270691-8a19-4f1d-9a78-e51f140c781e'
+43,0=>'8ae7c488-dd7c-4964-8291-64be3c5569ab'
+44,0=>'8d8c14ac-6762-44d1-aa3d-6e12f04602fb'
+45,2=>'::The screen begins glitching out as the (f8420e61-ee8d-4df5-9d98-05500f5b2327)'
+45,6=>'::The screen begins glitching out as the console loses power. An instant later the screen goes blank and the console shuts down.::'
+46,1=>'dc-tl'
+47,2=>'dc-tl'
+48,2=>'dc-tl'

@@ -1,0 +1,131 @@
+1,0=>'dc_inm'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Welcome, F. ManuMain:: (3c9e8288-540b-4ba9-bcfb-6848d099927e)*'
+5,7=>'::Welcome, F. Manu
+
+Main::'
+6,2=>' (874e366a-70f6-404d-a2d7-702152b250ae)'
+6,6=>''
+7,3=>'::Access INM:: (d375a3a9-5a87-49be-be1c-0a55bdbdf9d3)'
+7,7=>'::Access INM::'
+8,2=>'::Exit:: (3560ff24-0248-4526-b22f-c2266d52b9f6)'
+8,6=>'::Exit::'
+9,2=>'::Warning! INM is currently offline. Ple (321f8448-020a-490a-bb3b-2f1a2a5475b1)*'
+9,6=>'::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 65
+Contacts online: 0::'
+10,3=>'::Archive:: (9805e4e3-aeec-416e-a65c-335bc5f3034f)'
+10,7=>'::Archive::'
+11,2=>'::Back to main:: (e491ec60-c1df-4545-9154-ffce61b8f588)'
+11,6=>'::Back to main::'
+12,3=>'::Archive:: (2e9b1760-3190-47e5-b595-bb27b63b3338)*'
+12,7=>'::Archive::'
+13,2=>' (665d378c-3854-4b4b-b9eb-3d963c50cfde)'
+14,3=>'::Log: 100001 - B. Helting:: (d0410387-d3ea-4641-aa6a-0dd6d958b50a)'
+14,7=>'::Log: 100001 - B. Helting::'
+15,3=>'::Log: 10003 - B. Helting:: (7c76526e-3d0c-4de2-8c64-a0ea5b83f9ee)'
+15,7=>'::Log: 10003 - B. Helting::'
+16,3=>'::Log: 100007 - W.Abdul:: (029492cd-eaf0-4bfc-937f-0a89b0268237)'
+16,7=>'::Log: 100007 - W.Abdul::'
+17,3=>'::Log: 100018 - K. Vladovic:: (e70d5b39-cd4b-40f0-b0fe-39dd2d9db039)'
+17,7=>'::Log: 100018 - K. Vladovic::'
+18,3=>'::Log: 100022 - W. Abdul:: (6809f314-77f3-42e7-ae12-9c7f62c47973)'
+18,7=>'::Log: 100022 - W. Abdul::'
+19,3=>'::Back:: (5dbb8fad-65fc-4816-b957-8022f11aaacc)'
+19,7=>'::Back::'
+20,3=>'::F. Manu: I'm back. Where were we?B. He (bb2bb32a-2197-46c1-ac8b-ca928cc0a981)'
+20,7=>'::F. Manu: I'm back. Where were we?
+B. Helting: We were discussing the westernmost cavern rock composition.
+F. Manu: Right.
+F. Manu: I have the samples here. The forest has really grown more than I expected. Those mushrooms are towering.
+B. Helting: Thank you. They've been growing like crazy.
+F. Manu: On a slightly related note, I heard Vasilica wrote a paper on self-growing bathroom tissues made out of fungi. So if you see him chopping down one of the mushrooms, don't act surprised.::'
+21,2=>'::B. Helting: I'm coming over take a loo (9c3f13c3-d12b-4ca1-a1bd-1610d2b35ca9)'
+21,6=>'::B. Helting: I'm coming over take a look at those samples.
+F. Manu: Sure.::'
+22,3=>'::W. Abdul: Manu, you there?F. Manu: I'm (12231059-c0ca-4186-bf34-42243d7e883f)'
+22,7=>'::W. Abdul: Manu, you there?
+F. Manu: I'm sleeping. What's the matter? Is everything okay?
+W. Abdul: I see him.
+F. Manu: See who?
+W. Abdul: The shadow.
+F. Manu: What?
+W. Abdul: I was lyng in bed trying to get some sleep It's been thirty hours since I last slept slept
+W. Abdul: Lying I mean.
+W. Abdul: But I heard someon knock.::'
+23,2=>'::K. Vladovic: I'm going to Tartarus. Th (b2431a47-2db5-4e83-a46f-4be0f3a5a571)'
+23,6=>'::K. Vladovic: I'm going to Tartarus. The magma level is higher than usual. It's no big deal, but my team is going there just to make sure we're good.
+F. Manu: Sure. We'll do the south exit some other time then.
+K. Vladovic: Of course.
+F. Manu: Good luck. I guess I have some time to take another stroll through Bianka's forest. There are some lower tunnels her team discovered just today. I could check them out.
+K. Vladovic: Okay. See you later.
+F. Manu: Sure. Good luck, again.::'
+24,2=>'::W. Abdul: Are you there?W. Abdul: Manu (98c12590-6c76-4825-a7ee-27a0c8e3cc4c)'
+24,6=>'::W. Abdul: Are you there?
+W. Abdul: Manu?
+W. Abdul: hey?
+W. Abdul: Hey?
+W. Abdul: hey
+W. Abdul: Manu
+W. Abdul: Are you thre?
+W. Abdul: Can you come over?
+W. Abdul: Are you there?::'
+25,3=>'::B. Helting: Haha. A guy from his lab f (63e40e4c-3f06-47f7-b6e3-0a188219a312)'
+25,8=>'::B. Helting: Haha. A guy from his lab forwarded it to me. They were rolling on the floor when he sent it to them. The worst thing is, I am an expert in mycology, and I can say I see some good logic in what he wrote there. Joke or not, he thought it through.
+F. Manu: Indeed.
+B. Helting: Things would be boring around here if it weren't for Dude and him.
+F. Manu: Yes.
+F. Manu: Well, as far as that cavern is concerned, you've got nothing to worry about. I surveyed the whole cavern and took soil and rock samples, as we discussed. I doubt that the composition is any different, but I'll test it just to make sure. We aren't pushing anywhere near the magma, that's the most important thing, so freely move in and expand the forest.::'
+26,3=>'::Back to Archive.:: (a8ab1206-c309-4cb6-a019-042493481ba9)'
+26,7=>'::Back to Archive.::'
+27,3=>'::W. Abdul: I opened my eyes and wnet to (ff5b99c9-e02b-4818-a2a9-69879088ab73)'
+27,7=>'::W. Abdul: I opened my eyes and wnet to the door I opened them.
+W. Abdul: There it was.
+F. Manu: Are you sure you weren't hallucinating? Or maybe you did get some sleep and had a nightmare? And look at your writing.
+W. Abdul: This was REAL, Manu Please listen you never tak me seriously!
+F. Manu: I'm listening, but if you are hallucinating, go to med. I mean it.
+W. Abdul: The shadow looked like me It had red eyes but it was me.
+W. Abdul: It puled pulled my cheeks with both hands, like it wanted to tear them apar
+W. Abdul: Then it told me Im trapped in my body, Wht does that mean Manu?
+W. Abdul: Then it walked through me and etrened the room
+W. Abdul: It's touching my back now. It hurts.::'
+28,2=>'::B. Helting: Excellent! So when do you  (84602e2b-fbec-4219-90ba-e1e0c3508284)'
+28,6=>'::B. Helting: Excellent! So when do you want me to come over and look at the samples?
+F. Manu: Later today. I've got something else to do first.
+B. Helting: Okay. I'll see you later then.
+F. Manu: Sure.::'
+29,0=>'4ccccdaf-9586-4585-a4c5-beffe66a47b9'
+29,1=>'context.npc_rc_dude_learnDyson'
+30,2=>'::W. Abdul: are you there ?F. Manu: You  (88ba4a3b-c9ee-4847-8e47-9afbf053cfa5)'
+30,6=>'::W. Abdul: are you there ?
+F. Manu: You are hallucinating. Go to med and talk to a doctor. I have work to do tomorrow.
+W. Abdul: It's still here, Manu! It's touching me as I'm sitting in fron of the laptop.
+F. Manu: I know you're freaking out, but you are hallucinating and you should see a doctor. Want me to come over and take you to med?
+F. Manu: Is everything alright?
+F. Manu: Are you there?
+W. Abdul: I'll go to and try and get smoe sleep.
+F. Manu: You do that. Talk to you tomorrow. Take care.::'

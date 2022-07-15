@@ -1,0 +1,259 @@
+1,0=>'ceto_deckLog'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Biocorp Undernavy DED CetoAccess termi (0d91a02f-1ab3-468b-8875-047fd18f3e43)*'
+5,7=>'::Biocorp Undernavy DED Ceto
+
+Access terminal: Bridge.::'
+6,2=>' (0b276328-0c7f-4070-b06f-4c2b3f98f1f7)'
+6,6=>''
+7,3=>'::Deck Log:: (ec85a31f-b4a0-42e6-b617-4de607044b65)'
+7,7=>'::Deck Log::'
+8,2=>'::Exit:: (93df0b42-1800-4a91-b8c5-aee2ada37eb0)'
+8,6=>'::Exit::'
+9,2=>'::Deck Log:: (a15eb84f-c6b3-4e66-8564-7c12f2037677)'
+9,6=>'::Deck Log
+
+::'
+10,3=>'::Deck Log: A000099:: (32b2dbfe-2eb8-488b-8f48-2308a90e06be)'
+10,7=>'::Deck Log: A000099::'
+11,3=>'::Deck Log: A000100:: (3e4efe3a-a6e7-469f-bb9b-e53d27d6b912)'
+11,7=>'::Deck Log: A000100::'
+12,3=>'::Deck Log: A000102:: (09dcbd58-53ae-4565-8e6a-38554a708377)'
+12,7=>'::Deck Log: A000102::'
+13,3=>'::Deck Log: A000103:: (e68d8152-8d65-4ff6-9790-c3b201b9fed1)'
+13,7=>'::Deck Log: A000103::'
+14,3=>'::Deck Log: A000106:: (0959ec4e-7107-4399-ac8e-e574b3414e75)'
+14,7=>'::Deck Log: A000106::'
+15,3=>'::Deck Log: A000119:: (4e44d69d-8d6a-428a-bf0e-1e34d27c471d)'
+15,7=>'::Deck Log: A000119::'
+16,3=>'::Deck Log: A000978:: (fc5a3efd-dbc6-45f4-b391-ebd34cdaa8d1)'
+16,7=>'::Deck Log: A000978::'
+17,3=>'::Deck Log: A001259:: (be170764-567a-4b6f-878e-ea691bcacffe)'
+17,7=>'::Deck Log: A001259::'
+18,3=>'::Deck Log: A001279:: (52b47bd4-ea72-4816-8153-83451142af6b)'
+18,6=>'English'
+18,7=>'::Deck Log: A001279::'
+19,3=>'::Deck Log: A001391:: (62873166-cfea-4313-805f-f7653c80fde0)'
+19,7=>'::Deck Log: A001391::'
+20,3=>'::Back:: (ac350806-dff6-48b7-b4db-3321152ea934)'
+20,7=>'::Back::'
+21,3=>'::Deck Log: 000099     Record of all eve (83a82d13-3a97-4881-8a79-37efdece49ea)'
+21,7=>'::Deck Log: 000099      Record of all events of the day
+
+0635: Strike Group Ceto arrives to Core port. Current strike group composition: Flagship Ceto, directed-energy destroyer; two Kupellon-class shield boats; two Ichtyocentaur-class corvettes; seven Trireme-class unmanned assault boats. Vessel moors starboard side to pier 3 with standard mooring lines doubled. Water is calm, wave length average. Warm breeze, SE.
+0700: Commodore addresses the Ceto's company - current mission briefing, adjustments to the watch schedule, shore leave, etc. Red watch stands down. White watch takes the deck.
+0730: Senior Lieutenant Josh S. Carter has the deck. W/NC. The breeze has stopped.
+0800: Vessel work starts for all hands.
+0828: Commodore departs vessel.
+0945: Security sweep conducted - all clear.
+1025: Core maintenance crew boards vessel.
+1141: Vessel resupplied.::'
+22,3=>'::Deck Log: 000100	Record of all events  (bd96922c-b259-4a82-b440-8a430c0d645b)'
+22,7=>'::Deck Log: 000100      Record of all events of the day
+
+0700: Senior Lieutenant Josh S. Carter has the deck. Low-moderate waves, length short. Cold wind, moderate, S. White watch takes the deck.
+0711: Commodore boards vessel.
+0722: Intelligence officer Captain David Jacobs of BCUN boards vessel.
+0730: Officer meeting. Analysis of recon data collected by mini subs and crawler drones.
+0837: Captain David Jacobs departs vessel.
+0946: Commodore departs vessel.
+1300: Junior Lieutenant Peter Supovitz has the deck.  W/NC. A/NC. White watch stands down. Blue watch takes the deck.
+1313: Commodore boards vessel.::'
+23,3=>'::Deck Log: 000102	Record of all events  (3558fda5-d522-4a28-ac3b-bdb4fabb85d1)'
+23,7=>'::Deck Log: 000102      Record of all events of the day
+
+0700: Senior Lieutenant Josh S. Carter has the deck. Water calm, wave length average. No air currents. White watch takes the deck.
+0722: Commodore boards vessel.
+0935: Strike Group Phorcys arrived to Core. Composition: Phorcys siege carrier submarine, commanding officer Captain Benedict Hydrick; two Kupellon-class shield boats; fourteen Trireme-class unmanned assault boats; five Atlas-class amphibious assault ships; two Mechane-class engineering ships.
+1022: Captain Hydrick boards vessel.
+1030: Captain Jacobs boards vessel.
+1041: Officer meeting. Analysis of fresh recon data, Operation Charybdis tactical planning, merging of the two strike groups.
+1300: Junior Lieutenant Peter Supovitz has the deck. W/NC. A/NC. White watch stands down. Blue watch takes the deck.::'
+24,3=>'::Deck Log: 000103	Record of all events  (f9b97af6-ecb6-4149-ae24-242964ea51ba)'
+24,7=>'::Deck Log: 000103      Record of all events of the day
+
+0600: Commodore Kolias Mond has the deck. Low waves, short length. Breeze, S. White watch takes the deck.
+0630: Mavros Flotilla departed from Core. Course: S. Distance: 15km. Destination coordinates: X - 45.703 Y - 10.982. Cruising speed: 40 km/h. 
+0658: Reached destination. Low waves. Moderate wind, cold, NW.
+0730: All vessels in position. Conducted holographic projection tests and combat AI simulations - everything is in order. Beginning tactical drill.
+1210: Tactical drill finished. Returning to Core. Course: N. Distance: 15km. Destination coordinates: X - 45.699 Y - 10.970. Cruising speed: 40 km/h. W/NC. A/NC.::'
+25,3=>'::Deck Log: 000106	Record of all events  (8337d653-243b-472b-8399-cc3fd3ad0391)'
+25,7=>'::Deck Log: 000106      Record of all events of the day
+
+0336: Several loud explosions were heard from the direction of the Black Sea Strait, SE. Rough waves are hitting the pier and all docked vessels, 3 to 4 meters in height, and large patches of cave ceiling have broken off and fallen into the water. Unable to establish communication with Phorcys. Port guard and all vessels are on high alert. White watch takes the deck.
+0338: Commodore Kolias Mond has the deck.
+0339: Patrolling triremes' video feed shows that the ceiling has collapsed at the strait's shallowest point, approximately halfway between Core and the entrance to the Black Sea. The triremes are unable to advance further than this point due to the cave-in. Still unable to communicate with Phorcys. No hostiles detected as yet.
+0410: Captain Jacobs boards vessel.
+0440: A task force consisting of two shield boats, one corvette, five triremes and an engineering ship has been dispatched to the strait.
+0646: The task force reports that the strait is impassable to sea traffic. The cave-in is severe and will require at least three to four days to clear according to early estimates.::'
+26,3=>'::Deck Log: A000119     Record of all ev (a8207157-c5e9-4530-b23b-0382a6b2abb1)'
+26,7=>'::Deck Log: A000119      Record of all events of the day
+
+0700: Commodore Kolias Mond has the deck. Water calm, wave length average. Warm breeze. No new reports of enemy activity. Vessel is still immobile. White watch takes the deck.
+0834: An Atlas transporting Chemical Assault Team 2 has been sunk by a previously undiscovered NFT plasma artillery battery. The second Atlas has managed to continue with its mission without suffering any damage. An Ichtyocentaur IC-17 escorted by the last Kupellon has been dispatched to eliminate this threat.
+1100: White watch stands down. Blue watch takes the deck.
+1248: IC-17 reports that the enemy battery has been neutralized. No friendly casualties.::'
+27,3=>'::Deck Log: 000978	Record of all events  (5392758e-dbac-41bf-aae5-a398478bacd2)'
+27,7=>'::Deck Log: 000978      Record of all events of the day
+
+0800: Senior Lieutenant Donald Oberman has the deck. Today is my last day on Ceto. Junior Staff Ensign Misha Dragov, as the most senior officer, will be assuming command of the ship after my departure. The ship's crew will thus consist of only five men, most here on punishment. Ceto has been anchored in this spot since Operation Charybdis, and is in its current state more of an over-glorified sentry post than a destroyer; its engine has bought it a long time ago, so unless a tow vessel arrives this spot will most likely be its final resting place. It is important to note that no NFT forces or personnel have been detected anywhere in the region after the operation took place; only rogue remnants of their robotic units - the talking statues - have been sighted and neutralized, and only in the first two years following the operation. If the Admiralty has decided to abandon this vessel, then they should abandon it completely.
+1215: Junior Staff Ensign Misha Dragov has the deck.
+1220: Senior Lieutenant Donald Oberman departed vessel. He was picked up by BCUN Polyphemus. From this point onward I, Junior Staff Ensign Misha Dragov, will be assuming command of the BCUN Ceto.::'
+28,2=>'::Deck Log: 001259     Record of all eve (91588990-4e16-48da-be82-c8339b7203d4)'
+28,6=>'::Deck Log: 001259      Record of all events of the day
+
+1139: Undernavy Admiral Jeff Horten has the deck. I hereby announce that the admiral himself - that is me; Fleet Colonel Smith - that is Sucker; Commodore Hoover - that is Johnnie Boy; and even Seaman Last Class Uri - that ration-stealing son of a beast; have all been relieved from their duty in the Mavros region and will be soon picked up and returned home to Dis! Rejoice, seamen!
+1231: Fleet Colonel *TED* Smith has the deck. Yeah right, your Admiral Assery! Commodore Hoover and I have invented a new game - Deck Log Underships. The rules are the same as in regular underships, it's just that we will be using Ceto's deck log to post shots. Daily. Hopefully this will give us some incentive to write something useful in the deck log.
+1232: F6.
+1617: Commodore Hoover just coming over to see... aaaand miss! J10.
+2304: You missed his boat. I miss women.
+2348: Shut up, ration thief. We all do.
+2359: Miss. A2.
+0340: I wish Drogo was still around. He had a lot of imagination.
+0704: Wrong day, moron! You're supposed to move the timestamp to the next day.
+0908: Who gives a crap? Miss. I9.::'
+29,3=>'::Deck Log: A001279    Record of all eve (a39534d3-fe39-450c-931f-8f65cd6c0b13)'
+29,7=>'::Deck Log: A001279      Record of all events of the day
+
+I miss home.
+Miss. B7.
+Hit. There goes my carrier.
+I want a woman.
+Suck it, man! Whooooooooooooooooooooooo!::'
+30,2=>'::Deck Log: 001391    Record of all even (fed04c84-bcb9-411f-a9e3-9572e32787e4)'
+30,6=>'::Deck Log: 001391      Record of all events of the day
+
+9999: Supreme Emperor of Biocorp Francis Uri has the deck. His Royal Majesty of Everything Ted Smith died today of a heart attack, making me the only surviving crew member of BCUN Ceto. He has been under a lot of stress lately. He already kind of lost it when he blew Horten's brains out. He really lost it when Hoover decided to walk home two weeks ago. Can't blame him. The last leave we got was when Drogo left, the lucky bastard. Then they forgot about us. 
+
+Well, off I go to piss on Horten's grave and shoot a horned beast for me and Anna.::'
+31,2=>'::1239: Complete vessel inspection compl (970bda9c-aca2-4f4b-b774-61efcc5039be)'
+31,6=>'::1239: Complete vessel inspection completed. Full technical details logged by Chief Engineer Eric Sowel. No major issues detected.  Maintenance crew departs vessel.
+1300: White watch stands down. Blue watch takes the deck.
+1301: Junior Lieutenant Peter Supovitz has the deck. W/NC. A/NC.
+1339: Commodore boards vessel.
+1532: BCN3 news crew boards ship and interviews personnel.
+1632: News crew departs vessel.
+1635: Commodore departs vessel.
+1900: Senior Staff Ensign Donald Oberman has the deck. Light swell, S. Warm breeze from SE. Blue watch stands down. Red watch takes the deck.
+2300: Red watch stands down. All night in.::'
+32,2=>'::1409: A large civilian crowd gathers a (f8c05eca-7d06-4501-a5be-3ce4af9311d3)'
+32,6=>'::1409: A large civilian crowd gathers at the pier, taking pictures, talking to the crew, giving them gifts. Several seamen have had colored handkerchiefs tied to their wrists by women. Some were even given flowers. Lots of colors on the deck, mostly from thrown holo-orbs.
+1422: Commodore departs vessel.
+1759: The crowd disperses.
+1830: Conducted inspection of all gifted items brought onto the vessel - all clear.
+1900: Senior Staff Ensign Donald Oberman has the deck. W/NC. Warm breeze from SE. Blue watch stands down. Red watch takes the deck.
+2217: Two of the crew members got into a brawl with four patrons of Guts of Super Steel bar, inflicting light injuries to three of them while breaking the fourth one's nose. Witness testimonies do not agree on who started the fight. The seamen were assigned to extra duties for three days, or less in case of a premature start of Operation Charybdis, and have had their shore leave time restricted.
+2300: Red watch stands down. All night in.::'
+33,2=>'::1322: Captain Hydrick and Captain Jaco (b679b31b-667f-43f6-8e77-9e13212b57c2)'
+33,6=>'::1322: Captain Hydrick and Captain Jacobs depart.
+1330: Commodore issues an official announcement to the crew regarding the merging of strike groups Ceto and Phorcys into the Mavros Flotilla under his own command. The commodore also announces tomorrow's tactical drill.
+1428: Commodore departs vessel.
+1517: Supplies from Strike Group Phorcys brought onto vessel.
+1841: Commodore boards vessel.
+1900: Senior Staff Ensign Donald Oberman has the deck. Blue watch stands down. Red watch takes the deck.
+2249: A giant rat has been spotted swimming near the vessel. Threat level minimal. No action necessary.
+2300: Red watch stands down. All night in.::'
+34,2=>'::1241: Mavros Flotilla arrives to Core  (1441115d-6f67-429d-88e1-a6bf4fa250e7)'
+34,6=>'::1241: Mavros Flotilla arrives to Core port. Vessel moors starboard side to pier 3 with standard mooring lines doubled.
+1300: Junior Lieutenant Peter Supovitz has the deck. White watch stands down. Blue watch takes the deck.
+1515: Commodore departs vessel.
+1600: Phorcys leaves Core and heads for the Black Sea Strait, from where it will release recon mini subs to perform reconnaissance deeper into the NFT territory.
+1748: Commodore boards vessel.
+1900: Senior Staff Ensign Donald Oberman has the deck. Blue watch stands down. Red watch takes the deck.
+2300: Red watch stands down. All night in.::'
+35,3=>'::0700: White watch stands down. Blue wa (e9cea3a7-b71f-410d-b1d0-9d899be7b68b)'
+35,7=>'::0700: White watch stands down. Blue watch takes the deck.
+0725: Second engineering ship has been dispatched to the strait alongside two Core engineering boats. Escort provided by two triremes.
+1090: Engineer report: It appears that the explosives were planted deeply into the ceiling - approx. 60-70 meters deep - one every 5 meters, outlining a cuboid with a 20 square meter base and aforementioned height. The large amount of fallen rock was enough to block the strait at its shallowest and narrowest point. However, hover and crawler drones as well as other aerial vehicles are able to fly over the obstacle. The extensive drilling and work necessary for this kind of precise demolition could neither not have been accomplished quickly nor furtively enough to remain undetected by our patrols. Therefore, it was most likely performed before the arrival of Strike Force Ceto to the Core.
+1219: The task force has searched the strait up to the point of the cave-in and has found no clues as to Phorcys' status.
+1300: Senior Lieutenant Josh S. Carter has the deck. Blue watch stands down. Red watch takes the deck.::'
+36,2=>'::1335: Chief Engineer Eric Sowel issued (f15378bb-5c43-4b7f-a4b6-8a2919a53e13)'
+36,6=>'::1335: Chief Engineer Eric Sowel issued his final report regarding Ceto's status. After more than a week of virtually ceaseless repairs he and his engineers have been conducting, today he came to the bridge and informed me that without a completely new propulsion engine, Ceto will never be able to sail again. It appears that the spare materials and components we have been supplied with have proven insufficient and that the damage was simply too great. I have granted the chief engineer and his team some much needed rest, as Ceto is now nothing more than a static artillery position.
+1500: Blue watch stands down. Red watch takes the deck.
+1630: Senior Lieutenant Josh S. Carter has the deck. Water calm, wave length average. Warm breeze. No new reports of enemy activity.
+1826: Chemical Assault Team 1 reported that they have successfully deployed dispersion bots into the ventilation system of what we presume is NFT's military HQ and exfiltrated the area safely.
+1900: Red watch stands down. White watch takes the deck.
+2217: Senior Staff Ensign Donald Oberman has the deck. Water calm, wave length average. Warm breeze. No new reports of enemy activity.
+2301: White watch stands down. Blue watch takes the deck.::'
+37,2=>'::1309: Hoover shot a fur beast from the (acb656e4-8309-4f23-93f4-aa660fabede1)'
+37,6=>'::1309: Hoover shot a horned beast from the deck from around 300 meters away with a .339. Guess we're going to have a feast tonight.
+1844: Dropped a piece of meat on my pants. Had just washed them.
+1935: Water is still calm and no dead NFT soldiers have risen from the sea.
+2127: A fight broke out moments ago between Horten and Smith. Smith slammed Horten in the gut before throwing a left hook and sending the poor guy to sleep. I won the bet.
+2319: Seaman Jeff Horten signs in. Ted Smith can suck it.::'
+38,3=>'::Next:: (09e51d85-d12a-4127-9dc2-e662b66f6c2e)'
+38,6=>'English'
+38,7=>'::Next::'
+39,3=>'::Previous:: (20bc3b40-d187-4520-9363-9de0cbb98127)'
+39,6=>'English'
+39,7=>'::Previous::'
+40,3=>'::Back to Deck Log:: (49d0d473-8517-4c6c-b4bc-40fd89acb356)'
+40,7=>'::Back to Deck Log::'
+41,2=>'::E5.Miss. F8.Miss. E5.Miss. You just tr (21e776c1-ee9e-4b01-b83f-1d8d786aa6c8)'
+41,6=>'::E5.
+Miss. F8.
+Miss. E5.
+Miss. You just tried that. C9.
+I didn't write that. It's that piece of crap Horten messing with the game again.
+When's the next leave? How long has it been? Three months? Four? Longer?
+YOU MESS WTH THE GAM ONE MORE TIME HORTEN AND ILL PUTT ONE TROUGH YOUR SKULL! I SWEAR!
+Miss. E5.::'
+42,3=>'::Previous:: (ebc9b7cb-689a-4eb5-af31-9bb0ffd26f43)'
+42,6=>'English'
+42,7=>'::Previous::'
+43,3=>'::Next:: (5139f992-4fdb-4381-9277-0d02781ef9f4)'
+43,7=>'::Next::'
+44,3=>'::Next:: (74a401db-e4b3-43b2-bc03-0c90e2a49353)'
+44,7=>'::Next::'
+45,3=>'::Previous:: (d401e9f4-0cca-40fa-b49c-508e3a05e76a)'
+45,7=>'::Previous::'
+46,3=>'::Next:: (7f81e967-e733-4318-886d-b860d9d2d971)'
+46,7=>'::Next::'
+47,3=>'::Previous:: (4fca242d-31bd-46af-9415-17b8ac054896)'
+47,7=>'::Previous::'
+48,3=>'::Next:: (74e70a3d-c201-4c4b-8e18-877beb90b1aa)'
+48,7=>'::Next::'
+49,3=>'::Previous:: (cf9c898b-82ec-4e5f-96d3-877067820c9d)'
+49,7=>'::Previous::'
+50,2=>'::1612: Captain Jacobs departs vessel.16 (e98b1609-1e6a-4495-915f-d616d83e63cd)'
+50,6=>'::1612: Captain Jacobs departs vessel.
+1630: Commodore addresses the crew. The combat phase of Operation Charybdis has officially begun. The Mavros Flotilla will enter NFT territory and engage the enemy forces as soon as the strait has been cleared. Watch schedule has been reverted to four-hour rotations and combat readiness to be maintained at all times.
+1700: Junior Lieutenant Peter Supovitz has the deck. Red watch stands down. White watch takes the deck.
+2100: Senior Staff Ensign Donald Oberman has the deck. White watch stands down. Blue watch takes the deck.::'
+51,3=>'::Next:: (dcf8f7b1-041f-49f4-a873-db6b605593e9)'
+51,6=>'English'
+51,7=>'::Next::'
+52,3=>'::Previous:: (c14a91a4-719d-49fa-bb4c-5548124b0b40)'
+52,6=>'English'
+52,7=>'::Previous::'
+53,3=>'::Next:: (87faec5e-48ab-4242-a5f1-5a0d1ad56237)'
+53,7=>'::Next::'
+54,3=>'::Previous:: (d574024a-18eb-4fe1-8295-3e0437c02a6b)'
+54,7=>'::Previous::'
+55,3=>'::Next:: (88e921f0-c969-46c1-90d2-5d4facc9f33e)'
+55,6=>'English'
+55,7=>'::Next::'
+56,3=>'::Previous:: (49ebbd51-3fe2-4e97-9259-89045193eadd)'
+56,6=>'English'
+56,7=>'::Previous::'
+57,3=>'::Next:: (de398ade-4006-42ac-8639-cb3f7fcac37e)'
+57,7=>'::Next::'
+58,3=>'::Previous:: (b58d8caf-9f22-437c-85dc-1e378d998304)'
+58,7=>'::Previous::'

@@ -1,0 +1,56 @@
+1,0=>'dc_compilerLog'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Mutagen Compiler Log Terminal:: (578f1f90-f0e1-45bd-acf4-788c7d224e23)'
+5,6=>'::Mutagen Combinator Log Terminal::'
+6,3=>'::Reagent List:: (4f1b5c65-55da-46c8-ac70-7e071e34aca0)'
+6,7=>'::Reagent List::'
+7,3=>'::Logs:: (c78a352b-3380-4888-9808-e4feee09b74f)'
+7,7=>'::Logs::'
+8,3=>'::Notes:: (9a62d0fd-aa06-4d99-81d5-05eed436a409)'
+8,7=>'::Notes::'
+9,2=>'::Exit:: (4fb45e3e-2bbf-4fb3-85eb-0b6fcbb68ae7)'
+9,6=>'::Exit::'
+10,3=>'::Reagent List (C-7)Echo-1Echo-2Echo-3Ec (6b48b4bf-1c8c-48fc-b5d7-f2789c40e061)'
+10,7=>'::Reagent List (C-7)
+
+Echo-1
+Echo-2
+Echo-3
+Echo-4
+Helicon-1
+Helicon-2
+Helicon-3
+Io-1
+Io-2
+Io-3::'
+11,2=>'::Recent logs:: (e56e35bf-b994-4ce4-97f3-56ae97db4544)'
+11,6=>'::Recent logs::'
+12,2=>'::Notes:: (b958f7ea-80a1-4605-ba3a-602465646e59)'
+12,6=>'::Notes::'
+13,2=>'::Ovid-1Ovid-2Ovid-3Solis-1Solis-2:: (1ccf4b26-01b8-45e4-bce5-f72194af9d56)'
+13,6=>'::Ovid-1
+Ovid-2
+Ovid-3
+Solis-1
+Solis-2::'
+14,3=>'::Access HECDB:: (11bf23a0-66f6-4588-8993-6ace7a19839a)'
+14,7=>'::Access HECDB::'
+15,3=>'::Back to main:: (97b0b0f4-6a13-4e6a-8d02-5bd82346d4d4)'
+15,7=>'::Back to main::'
+16,3=>'::Exitus 1 and 2 - Dr. David Gerhoff:: (31d93beb-2806-4194-80b3-ffb00a777a1d)'
+16,7=>'::Exitus 1 and 2 - Dr. David Gerhoff::'
+17,3=>'::Connecting to HECDB...:: (ebed9008-70f1-4327-9d0b-c12363ef0fed)'
+17,7=>'::Connecting to HECDB...::'
+18,2=>'::Our team recently came across two reag (809ae8aa-6c94-42f1-ac58-add17bab1c3d)'
+18,6=>'::Our team recently came across two reagents which have proven extremely toxic to all organisms which underwent artificial mutations. Preliminary results suggest that injecting any of these two reagents - which I have designated as Exitus-1 and Exitus-2 - into the Crucible - or use them on mutated organisms in any other way - will cause immediate and most likely fatal effects on exposed organisms. I have deleted the atomic sequences of both of these two reagents, deleted their entries from the current reagent cycle and stored them in a safe place. One container of each of these two reagents will be used to map and possibly predict future reagent sequences which could have negative effects.
+
+Dr. David Gerhoff - Mutagen Tanks B, Log 473#HJ::'
+19,2=>'::Error 010 - Connection failed!:: (cbd3bd9d-0aee-498a-b1d7-04d45e1bbcbe)'
+19,6=>'::Error 010 - Connection failed!::'

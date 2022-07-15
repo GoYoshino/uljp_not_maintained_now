@@ -1,0 +1,108 @@
+1,0=>'dc_inm'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::S. ParkinsonMain:: (84a4aa37-c1c5-4f01-94dd-1b205e7f6abb)*'
+5,7=>'::S. Parkinson
+
+Main::'
+6,2=>' (85d3ce64-4d52-4132-aa65-7f396bdf3a6c)'
+6,6=>''
+7,3=>'::Access INM:: (7a74d715-626a-4c42-93d4-44382a873b55)'
+7,7=>'::Access INM::'
+8,2=>'::Exit:: (0cd843f6-0295-41d4-8f06-45ecf87c2ed6)'
+8,6=>'::Exit::'
+9,2=>'::Warning! INM is currently offline. Ple (3665760f-09ad-4de6-aba7-fef78704aa9b)*'
+9,6=>'::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 77
+Contacts online: 0::'
+10,3=>'::Archive:: (d7e32a58-ec20-4803-95ef-fb1a829d0536)'
+10,7=>'::Archive::'
+11,2=>'::Back to main:: (874a526c-15c9-4e04-9c63-a8c9ecadc0c1)'
+11,6=>'::Back to main::'
+12,3=>'::Archive:: (daa54d4a-9adb-4125-9e41-dab5cd9d75ca)*'
+12,7=>'::Archive::'
+13,2=>' (eefa1ba1-49bd-4106-a51e-91a1cf8318a6)'
+14,3=>'::Log: 43214316 - J. Dyson:: (adaa44d4-2fbd-4dc0-ab42-b1d7812656e5)'
+14,7=>'::Log: 43214316 - J. Dyson::'
+15,3=>'::Log: 43214318 - F. Austein:: (82536fa7-2bca-4e1a-9cc0-2f9d111b8d38)'
+15,7=>'::Log: 43214318 - F. Austein::'
+16,3=>'::Log: 43214330 - T. Borovitch:: (a2f02b78-83b0-4682-88f7-efca4861b228)'
+16,7=>'::Log: 43214330 - T. Borovitch::'
+17,3=>'::Log: 43214340 - W. Abdul:: (f04bdded-643d-48ba-9ce1-8f7933153029)'
+17,7=>'::Log: 43214340 - W. Abdul::'
+18,3=>'::Back:: (02cf29c3-d295-45f2-915f-a381f2c15316)'
+18,7=>'::Back::'
+19,2=>'::S. Parkinson: John, I would like to sp (acadfac4-a6ae-4e8c-b9d8-76e7774ad1ee)'
+19,6=>'::S. Parkinson: John, I would like to speak to you. Contact me once you have time.::'
+20,3=>'::F. Austein: Dr. Parkinson, contact me  (5670418c-ebb0-4b8c-8cbb-7be0f67fcede)'
+20,8=>'::F. Austein: Dr. Parkinson, there is something I wish to discuss with you.
+S. Parkinson: I am here, Dr. Austein.
+F. Austein: Very good. I suppose you might not be aware of this, but I have been keeping a close eye on psimorphs you have been working on. Fascinating creatures, truly. I sometimes even feel envious myself.
+F. Austein: Moreover, it was brought to my attention that you are planning to release the specimens into Dr. Helting's fungal forest, which clearly means that you have a comfortable number of units. This is the reason why I am contacting you. I would like for you to give me several specimen for my mutagen experiments.::'
+21,3=>'::T. Borovitch: I have completed resonan (f3004f99-dac1-45b1-9c54-9293ddfc72ad)'
+21,8=>'::T. Borovitch: I have completed resonance chamber testing on both Type-A and Type-B specimens, as you requested Dr. Parkinson.
+T. Borovitch: I will file in a full report no later than this afternoon.
+S. Parkinson: Very good, Borovitch.
+S. Parkinson: What are your thoughts so far? How are the specimens reacting to the fragments from TL?
+T. Borovitch: The results are overwhelmingly positive so far. So positive, in fact, I would be comfortable recommending we obtain more of these fragments, some even to be used in Dr. Helting's forest once we deploy the adult psimorphs there.
+S. Parkinson: I am intrigued. Personally, I did not expect such a response.::'
+22,2=>'::W. Abdul: Manu, are you there?W. Abdul (51383a0a-3f7a-4cb9-afdc-c2ca24d89f97)'
+22,6=>'::W. Abdul: Manu, are you there?
+W. Abdul: Manu?
+W. Abdul: I am sorry, I didn't mean to contact you, Steve.
+S. Parkinson: No problem. By the way, how are you feeling? Dyson told me you've taken a few days off.
+W. Abdul: These last few days have been incredibly stressful. I've been working nearly non-stop during the last month and it finally got to me.
+W. Abdul: The most important things are done, so I'll rest for a few days and then I'll be back to work.
+W. Abdul: It's nothing to worry about.
+S. Parkinson: I know, I know. I was in the same situation more times than I'd like to admit.
+S. Parkinson: You keep on resting. You'll feel free of this burden in no time.
+W. Abdul: I will, thank you.::'
+23,3=>'::Back to Archive.:: (0a6e688e-ab58-4de2-9575-b1a0f9a84292)'
+23,7=>'::Back to Archive.::'
+24,3=>'::S. Parkinson: That won't be an issue,  (4d44546c-c1e8-4def-b0c7-5112c8db3d0d)'
+24,7=>'::S. Parkinson: That won't be an issue, Dr. Austein. You are correct, since the recent genetic engineering and environmental psi-tuning we have managed to speed up the larval phase adaptation period and have therefore managed to significantly increase our breeding rate.
+F. Austein: Very good.
+S. Parkinson: Do you need my direct involvement or would someone from my team suffice?
+F. Austein: You are quite busy yourself, so no, Dr. Parkinson, I will not take more of your time than necessary. Just have one of your colleagues come to Mutagen Tanks B with at least five specimen for the first exposure, and plan on him or her being available to me at least for some time.
+F. Austein: As for later, we will see what the future brings.
+S. Parkinson: Yes, I understand. Now, do you need adult or larval specimens?
+F. Austein: Adult, I forgot to mention. When can I have them?::'
+25,0=>'e175336e-76a2-4b98-8751-c93a3a1b91ad'
+25,1=>'context.loc_dc_res_readPsiMorphs'
+26,2=>'::S. Parkinson: I am intrigued. Personal (a8a0b2f9-f330-4abd-bdab-170f5ec7d8c4)'
+26,6=>'::S. Parkinson: I will read your report once it is done, and if it would benefit us to use more of these fragments, then we will send an armed expedition to obtain some more.
+T. Borovitch: Excuse me for asking, as the information might've slipped by me, but where are these monoliths located?
+S. Parkinson: Far to the south, past the lake. The area was safe during the original expedition, but I'll see if I can speak to Colonel Salik; maybe he will lend us a few AF soldiers to set up a more permanent camp there.
+T. Borovitch: How the things are going, everyone will soon want a piece of that monolith.
+S. Parkinson: Indeed.
+S. Parkinson: Send me the report once it is done.
+T. Borovitch: As soon as I'm finished, Dr. Parkinson.::'
+27,0=>'d57626c9-f562-49fb-be3c-12a053be8b3f'
+27,1=>'context.loc_dc_res_readPsiMorphs'
+28,2=>'::S. Parkinson: Today.F. Austein: It cou (52af1522-1869-4e27-b468-96b628adf36c)'
+28,6=>'::S. Parkinson: Today.
+F. Austein: It couldn't be better. Once we carry out the first exposure at the Crucible, I will be sure to inform you how your specimen performed.
+S. Parkinson: I would be thankful, Dr. Austein.
+F. Austein: Very good. Notify me once the specimens are sent this way. And good luck with your future endeavors.
+S. Parkinson: I will, sir. Thank you.::'

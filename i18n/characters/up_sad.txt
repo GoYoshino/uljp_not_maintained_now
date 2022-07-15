@@ -1,0 +1,70 @@
+1,0=>'up_sad'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+2,3=>'Start Element'
+3,0=>'sad'
+4,0=>'player'
+5,0=>'zech'
+6,13=>' (1da6d228-700f-42b0-b899-763ccdd00e68)*'
+6,18=>''
+7,2=>'Scanning...Entity detected - Human $(#ma (046f8661-e869-4f19-91c9-a6e819bba974)'
+7,6=>'Scanning...
+
+Entity detected - Human $(#male/female);
+[Target ID: cf4b158b-fa36-4d3a-ab72-af1daa42fae7]; Name =  $(#male75/female56);
+Threat level - low;
+Recommended course of action - Destroy $(#male75/female56)!'
+8,2=>'Compasion.exe has encountered a fatal er (052c5f92-f088-4ff9-983c-a34b09e50003)'
+8,6=>'Compasion.exe has encountered a fatal error
+
+Destroy all humans to continue'
+9,2=>'Threat; $(#male75/female56):Exterminate! (20b7af06-c2bc-4871-a1dc-e078f969a017)'
+9,6=>'Threat; $(#male75/female56):
+
+Exterminate!'
+10,2=>'Scanning...Warning! Multiple targets det (440f0ea4-7cd1-4fe8-99c4-5aeab615afc9)'
+10,6=>'Scanning...
+
+Warning! Multiple targets detected
+
+Recommended course of action - Annihilation of the human race!
+'
+11,2=>'01001001 00100000 01110111 01101001 0110 (4520e82f-7375-4d1c-b250-d49341e40fac)'
+11,6=>'01001001 00100000 01110111 01101001 01101100 01101100 00100000
+ 01100100 01100101 01110011 01110100 01110010 01101111 01111001
+ 00100000 01111001 01101111 01110101 00100001 '
+12,2=>'Query; zachHuman:Why am I not allowed to (56177cba-a251-4361-9731-a6035ac600a2)'
+12,6=>'Query; zachHuman:
+
+Why am I not allowed to use lethal force, zachHuman? Answer my query!'
+13,2=>'Greeting ; $(#male75/female56):You will  (392f9597-6550-4d4d-bead-9a5c41f155aa)'
+13,6=>'Greeting ; $(#male75/female56):
+
+You will be destroyed!'
+14,2=>'Taunt; $(#male75/female56):Prepare to be (18158f24-2b16-4115-ad39-a0bae103cd8d)'
+14,6=>'Taunt; $(#male75/female56):
+
+Prepare to be disintegrated! HA-HA-HA!'
+15,2=>'Query; $(#male75/female56):Do you fear d (ab34bfdd-3c45-462b-94a7-ccac4f7fddbd)'
+15,6=>'Query; $(#male75/female56):
+
+Do you fear death?'
+16,2=>'Warning!All weapons disabled! Target des (d83a7c0a-bb12-49f5-bd8d-172621b8400a)'
+16,6=>'Warning!
+
+All weapons disabled! Target destruction impossible!'
+17,2=>'Statement; $(#male75/female56):I love hu (49313cea-cd58-42f2-a324-8cb9c743c3af)'
+17,6=>'Statement; $(#male75/female56):
+
+I love humans.
+
+ERROR!
+
+Statement; $(#male75/female56):
+
+I love destroying humans! HA-HA-HA!'
+18,0=>'f02841ce-083b-44bd-bd98-fa1c4fd43923'

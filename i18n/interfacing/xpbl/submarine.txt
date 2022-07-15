@@ -1,0 +1,286 @@
+1,0=>'submarine'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::LEMCO Deep Sea ExplorerWelcome, ERROR: (dbdd65a9-183f-48a7-9133-4a3e8a693dbe)*'
+5,7=>'::LEMCO Deep Sea Explorer
+
+Welcome, ERROR::'
+6,2=>' (64fa3fef-8dff-4aba-b81d-96fac3cf134a)'
+6,6=>''
+7,3=>'::Main controls:: (0eb07fa7-05f6-4b3e-8516-df8e35f715d8)'
+7,7=>'::Main controls::'
+8,3=>'::Navigation:: (7a405e4b-9211-4083-91c8-7e941e2cd1c2)'
+8,8=>'::Navigation::'
+9,3=>'::Life support:: (7b699999-b5fe-4674-9fd0-6f5f5e6495f2)'
+9,7=>'::Life support::'
+10,2=>'::Arm controls:: (325ea607-25e4-49fa-bfe7-78d6418d0702)'
+10,6=>'::Arm controls::'
+11,2=>'::Permeation sampler controls:: (0d35519f-3ae6-4d7d-bbd0-3b7a041da280)'
+11,5=>'English'
+11,6=>'::Permeation sampler controls::'
+12,3=>'::Specifications:: (9156e848-b1cb-4337-b9fc-559b371d5b20)'
+12,7=>'::Specifications::'
+13,2=>'::Exit:: (e6de06e2-5414-4a22-bb2a-a34c38f587ee)'
+13,6=>'::Exit::'
+14,4=>'::Engine status: OnPrimary thrusters: 0  (ecc561bc-386c-47a2-8911-df2eef67cff6)*'
+14,11=>'::Engine status: On
+Primary thrusters: 0 operational (2 total)
+Secondary thrusters: 5 operational (12 total)::'
+15,2=>'::Navigation:: (6f6c3182-2ed0-4868-92fe-dc37036cc060)'
+15,6=>'::Navigation::'
+16,0=>'3dac3cbf-5cd3-406a-8d23-3ee6b189cb7d'
+16,1=>'context.interfacing_xpbl_submarine_navigation_fromMain'
+17,2=>'::Life supportAir purification system: O (788ef33a-6ad9-4a54-8c00-247f492492b2)'
+17,6=>'::Life support
+
+Air purification system: On
+Water purification system: Off
+Heating: On
+
+O2 content by volume: 20.87%
+CO2 content by volume: 0.34%
+Lox supply: 0%
+Average temperature: 17°C
+
+Warning: Liquid oxygen supply is empty. Please refill Lox canisters at first available opportunity.::'
+18,1=>'context.none'
+19,1=>'context.none'
+20,2=>'::Type: Deep Submergence ExplorerClass:  (82b50c2f-ca35-4cfd-87cf-4ab294b0d724)'
+20,6=>'::Type: Deep Submergence Explorer
+Class: Pterygotus
+VID: DSE-004
+Design depth: 4000m
+Test depth: 2700m
+Propulsion engine: Battery-powered SubPrime L-SPR-K6 (6Kw) electric engine
+Displacement: 12 tonnes
+Primary thrusters: 2 L-SMT-23 ring thrusters
+Secondary thrusters: 12 L-SMT-11 ring thrusters
+Max forward speed: 10 km/h
+Max endurance: 48h
+Air purification: L-IAPS-7 integrated system
+Water purification: L-WPS-3 integrated system
+Grabber arm: 2 LMA-19CS
+Radar: L-R13-S SHF (3-10GHz) active phased array
+Sonar: L-SUS3 integrated system
+Depth sensor: LSDS-4
+Course docking navigation system version: 1.43.225::'
+21,4=>' (96e31329-c8c3-4dc6-a064-aea13c7a9965)*'
+22,4=>'::Warning: Primary thrusters out of orde (eff09bac-2f7d-4e71-a609-282010b4016b)*'
+22,8=>'::
+
+Warning: Primary thrusters out of order! Manual piloting disabled.
+
+Limited automatic piloting available through Course docking navigation system. See Navigation menu for more information.::'
+23,0=>'39693599-7b6f-4ff2-a08b-49b926b90c44'
+23,1=>'xpbl_sawSubmarine'
+24,0=>'8abe351c-bb44-45d8-833e-3dd1a8ce9521'
+24,1=>'xpbl_investigatedSubmarine'
+25,0=>'900a5751-0dc7-44a2-8c7c-28319f263fd8'
+25,1=>'context.interfacing_xpbl_submarine_checkedPropulsion'
+26,3=>'::Course:: (b2b19faa-62eb-4ef3-b692-105526efc781)'
+26,7=>'::Course::'
+27,3=>'::Sonar:: (07407833-515b-438a-904e-fd1da75fa4cb)'
+27,7=>'::Sonar::'
+28,2=>'::Radar:: (8e81a1fe-b84a-4ea4-b215-3b2720648dd2)'
+28,6=>'::Radar::'
+29,4=>'::Back:: (cfd880bf-bf71-4ecc-bdaf-8654fd013075)'
+29,8=>'::Back::'
+30,2=>'::Air purification:: (5598a5d3-d8f1-4dc3-896f-c68db56bfc32)'
+30,5=>'English'
+30,6=>'::Air purification::'
+31,2=>'::Water purification:: (e43ea292-a7e5-4aec-9df3-114dd60bf78e)'
+31,5=>'English'
+31,6=>'::Water purification::'
+32,2=>'::Heating:: (1e98b844-90c4-4786-9797-dcf75d15234e)'
+32,5=>'English'
+32,6=>'::Heating::'
+33,3=>'::Back:: (27197735-41d1-421b-829b-7020dcb1bd80)'
+33,7=>'::Back::'
+34,3=>'::Back:: (df531398-87aa-43cb-90cc-8c95b38523cf)'
+34,7=>'::Back::'
+35,1=>'context.vehicle_xpbl_submarine_inTransit'
+36,3=>'::Diving to Abyssal Station Zero...:: (ab07c18f-9ad2-4751-a21c-1f8a7fa82708)*'
+36,7=>'::
+
+Diving to Abyssal Station Zero...::'
+37,3=>'::Surfacing...:: (63439751-e732-4639-afec-f49605477c5b)*'
+37,7=>'::
+
+Surfacing...::'
+38,1=>'context.vehicle_xpbl_submarine_inTransit'
+39,3=>' (1ecf53b1-1832-4881-82c1-e6bfe1e38a5d)*'
+40,2=>' (27da4c4e-874a-4542-9fa1-baadf5c15269)'
+41,2=>'::Course system (Version: 1.43.225)Autom (d04978a5-0d28-4358-a524-0798afaf0389)'
+41,6=>'::Course system (Version: 1.43.225)
+
+Automatic piloting mode: On
+
+Please input surface or submarine pen docking coordinates of your choosing. Coordinates can be obtained remotely through LIN or entered manually.::'
+42,4=>'::Sonar status: :: (f0da2cc3-8d8d-4b30-984e-f594daaac5e0)*'
+42,8=>'::Sonar status: ::'
+43,1=>'context.none'
+44,3=>' (64f0499b-109b-4ae9-b429-1820af54af07)*'
+45,1=>'context.none'
+46,1=>'context.none'
+47,1=>'context.none'
+48,3=>'::LEMCO Deep Sea Explorer:: (806066b0-dc9f-4652-91a4-4b58994d49fc)*'
+48,7=>'::LEMCO Deep Sea Explorer::'
+49,1=>'context.vehicle_xpbl_submarine_state'
+49,3=>'diving'
+51,0=>'76168617-5de9-49e2-aec3-b5c35f3f1519'
+51,1=>'interfacing_xpbl_submarine_readyToGo'
+52,0=>'caa96b90-f606-4260-b7f5-4f60b27cc8b8'
+52,1=>'xpbl_investigatedSubmarine'
+53,0=>'5814bee2-6d13-45b7-87f2-38925a3a08b1'
+53,1=>'xpbl_submarineDescentIntoAbyss'
+54,2=>'::[Debug] Dive:: (5d94e2d9-b1f4-4655-9f51-a326b39e915e)'
+54,6=>'English'
+54,7=>'::[Debug] Dive::'
+55,2=>'::[Debug] Surface:: (3635b91a-a9da-4803-8caf-d44ab7c7f488)'
+55,6=>'English'
+55,7=>'::[Debug] Surface::'
+56,2=>'::Manual controls:: (4b28b184-be13-44e6-9586-86b5c1192576)'
+56,5=>'English'
+56,6=>'::Manual controls::'
+57,6=>'::Dive:: (bb29a3ee-7d88-4171-a476-25f0a0107c9a)'
+57,10=>'::Dive::'
+58,4=>'::Surface:: (71376161-d174-4607-8ffc-30b8c2e9c933)'
+58,8=>'::Surface::'
+59,3=>'::Navigation:: (a189cf29-9ebb-4ac7-873d-e0764b619076)'
+59,7=>'English'
+59,8=>'::Navigation::'
+60,3=>'::Thruster status:: (8f506cbd-6530-4949-9466-c59c5b015852)'
+60,7=>'::Thruster status::'
+61,3=>'::Set docking coordinates: Abyssal Stati (4d5b887a-14fb-4e8a-a981-24d853e72f73)'
+61,8=>'::Set docking coordinates: Abyssal Station Zero (CC: 020 476 118 263 2115)::'
+62,2=>'::Permeation sampler controls:: (cdb36466-a189-48e0-88fc-1c68c58a9cce)'
+62,5=>'English'
+62,6=>'::Connect to LIN::'
+63,3=>'::Back.:: (996fd01d-9fd1-457c-814e-e0dd7e16b76c)'
+63,7=>'::Back::'
+64,2=>'::On:: (622652dd-825a-47f7-a731-917bc42fcef5)*'
+64,6=>'::On::'
+65,3=>'::Off:: (cdd01707-2ece-403c-87bf-a1f507db1412)*'
+65,7=>'::Off::'
+66,1=>'context.interfacing_xpbl_submarine_navigation_fromMain'
+67,1=>'context.interfacing_xpbl_submarine_readyToGo'
+68,1=>'context.loc_xpbl_sc_foundDispatcherCoordinates'
+69,1=>'context.vehicle_xpbl_submarine_exitZoneName'
+69,3=>'xpbl_l2'
+70,1=>'context.debug'
+71,0=>'eabdee3f-8727-4ab8-a6ee-7298bf410e0a'
+72,1=>'context.debug'
+73,0=>'eabdee3f-8727-4ab8-a6ee-7298bf410e0a'
+74,1=>'context.none'
+75,2=>'::Manual piloting disabled.Limited autom (83b1da4c-75f6-43c3-97a0-62f5e8e8620d)'
+75,6=>'::Manual piloting disabled.
+
+Limited automatic piloting available through Course docking navigation system. See Navigation menu for more information.::'
+76,2=>'::Verifying coordinates... Done.Performi (bd383eb7-5c23-4399-8bd7-7935825762af)'
+76,6=>'::Verifying coordinates... Done.
+Performing thruster capability test... Failed.
+
+Unable to dock at Abyssal Station Zero (CC: 020 476 118 263 2115) from this location.
+
+Calculating closest starting location... Done.
+
+Move vessel to coordinates L2 before trying again.::'
+77,3=>'::Destination reached: Abyssal Station Z (bba7efc6-1dbd-4f1c-8d38-41999bbf3b2b)'
+77,7=>'::Destination reached: Abyssal Station Zero (CC: 020 476 118 263 2115)::'
+78,2=>'::Verifying coordinates... Done.Performi (c9b9c42a-c18b-4851-ad92-9ec78a581669)'
+78,5=>'English'
+78,6=>'::Verifying coordinates... Done.
+Performing thruster capability test... Passed.
+Pinging SubNav units... 0 units responded.
+Obtaining gyrocompass information... Done.
+Plotting course... Done.
+
+Vessel is ready to dive to Abyssal Station Zero (CC: 020 476 118 263 2115)::'
+79,1=>'context.vehicle_xpbl_submarine_context.vehicle_xpbl_submarine_inTransit'
+80,2=>'::Vessel is fully surfaced.:: (867cf045-87da-438f-82bb-de8dc9dc8d54)'
+80,6=>'::Vessel is fully surfaced.::'
+81,2=>'::Verifying coordinates... Done.Performi (57809388-21ba-4aff-b55e-984e2dc86c87)'
+81,6=>'::Verifying coordinates... Done.
+Performing thruster capability test... Passed.
+Pinging SubNav units... 2 units responded.
+Obtaining gyrocompass information... Done.
+Plotting course... Done.
+
+Vessel is ready to surface.::'
+82,1=>'context.vehicle_xpbl_submarine_inTransit'
+83,0=>'12724b8f-12b4-4dbe-831a-f74d29dd27fc'
+83,1=>'context.interfacing_xpbl_submarine_navigation_fromMain'
+84,2=>'::Primary:       Surge 1: Off      Surge (dc830b20-a157-43db-80a6-6a25d7e05dd1)'
+84,6=>'::Primary: 
+      Surge 1: Off
+      Surge 2: Off
+Secondary:
+      Surge 1 aux: Off
+      Surge 2 aux: On
+      Sway 1: Off
+      Sway 2: On
+      Heave 1: On
+      Heave 2: Off
+      Roll 1: Off
+      Roll 2: Off
+      Pitch 1: Off
+      Pitch 2: On
+      Yaw 1: Off
+      Yaw 2: On::'
+86,3=>'::Abyssal Station Zero (CC: 020 476 118  (cb4150ee-fd14-433a-8c41-83ec99da10e8)'
+86,7=>'::Abyssal Station Zero (CC: 020 476 118 263 2115) docking coordinates set successfully.::'
+87,0=>'c7f39eab-014b-4e6b-b1c0-2766f0df24ba'
+87,1=>'context.interfacing_xpbl_submarine_addedCourseCoordinates'
+88,1=>'context.none'
+89,1=>'context.vehicle_xpbl_submarine_inTransit'
+90,2=>' (321884df-d945-4f4f-accc-e988930e3778)'
+93,1=>'context.interfacing_xpbl_submarine_addedCourseCoordinates'
+94,3=>'::Back:: (b6b8d268-982c-47af-bfb8-6ab70bef16eb)'
+94,7=>'::Back::'
+95,1=>'context.vehicle_xpbl_submarine_exitZoneName'
+95,3=>'xpbl_l2'
+96,1=>'context.vehicle_xpbl_submarine_atAbyssal'
+97,2=>'::Dive:: (f8e982d7-bc29-4d06-b7a2-88597327aea8)'
+97,6=>'English'
+97,7=>'::Dive::'
+98,0=>'interface'
+99,0=>'player'
+100,1=>'context.vehicle_xpbl_submarine_atAbyssal'
+101,2=>'::Surface:: (1e8e5bda-3dd1-44e9-989c-d43be38b4e37)'
+101,7=>'::Surface::'
+102,3=>'::Back:: (cdd9afa2-1cac-45f2-9233-02a1eeebdc8f)'
+102,7=>'::Back::'
+103,1=>'context.loc_xpbl_sc_foundDispatcherCoordinates'
+104,1=>'context.interfacing_xpbl_submarine_addedCourseCoordinates'
+105,3=>'::View screen:: (7d96380c-b7fa-45e3-930b-8c27b2a1cc87)'
+105,7=>'::View screen::'
+106,0=>'eabdee3f-8727-4ab8-a6ee-7298bf410e0a'
+107,0=>'eabdee3f-8727-4ab8-a6ee-7298bf410e0a'
+108,1=>'context.vehicle_xpbl_submarine_inTransit'
+109,2=>' (fc76a5ae-4757-4f79-9ff9-8d45611fd5df)'

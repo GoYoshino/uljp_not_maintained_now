@@ -1,0 +1,9 @@
+1,0=>'NullReferenceException'
+1,7=>'English'
+1,8=>'Serbian'
+2,3=>'Start Element'
+3,2=>'Question (0fb86826-0bea-4655-85ae-c090f91cc523)'
+3,6=>'::NullReferenceException: Reference not set to an instance of an object.
+    at ShootingRange.Client.Initialize() : line 31::'
+4,0=>'interface'
+5,0=>'player'

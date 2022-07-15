@@ -1,0 +1,123 @@
+1,0=>'microChipImplanter'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::LEMCO L-MCU-4 - Microchip Implantation (20dee6c9-39fa-426e-bd2a-52c0a82a2874)*'
+5,7=>'::LEMCO L-MCU-4 - Microchip Implantation/Extraction Unit
+
+If performing microchip implantation, make sure that the appropriate microchip implant has been properly inserted into the slot located above the hand aperture. The unit will automatically evaluate its functionality and request replacement if necessary.
+
+If performing microchip implant extraction, always make sure that the proper mode of extraction and disposal has been selected.
+
+Make sure to replace the sterilization mixture canister once its gauge turns red.
+
+The implantee's hand needs to be bare. It should also remain motionless for the entire duration of the procedure in order to avoid complications. The procedure is atraumatic and does not require anesthetics in the majority of cases.
+
+The procedure should always be performed in the presence of a qualified physician!::'
+6,2=>' (87b198ee-94c1-4bc0-b828-8555ee26636a)'
+6,6=>''
+7,3=>'::Implant microchip:: (1f843797-ae40-4981-96d1-9c7d60c84760)'
+7,7=>'::Implant microchip::'
+8,3=>'::Extract microchip implant:: (2b86015f-0b79-4d65-839b-9d45c5cb4f58)'
+8,7=>'::Extract microchip implant::'
+9,2=>'::Exit:: (80e19495-3137-4924-a235-074359755857)'
+9,6=>'::Exit::'
+10,2=>'::Microchip implant slot is empty. Pleas (bc18ba3e-f222-4280-bd7b-ad8c3ffbc2f2)'
+10,6=>'::Microchip implant slot is empty. Please insert an appropriate implant into the slot located above the hand aperture.::'
+11,2=>'::Waiting for the implantee to insert hi (4701d296-58a8-4641-bf31-381f34a36f80)'
+11,6=>'::Waiting for the implantee to insert his/her hand into the aperture...::'
+12,3=>'::Insert Phil's microchip implant and pu (19166745-4f61-432c-bd9f-987e26d44325)'
+12,7=>'::Insert Phil's microchip implant and put your hand in the aperture.::'
+13,3=>'::Back:: (3452549e-53d4-4b34-8e3d-aaf534da3f79)'
+13,7=>'::Back::'
+14,3=>'::Use Todd's severed arm.:: (2b43ba77-290b-41d5-8f99-ef59c5a32e26)'
+14,7=>'::Use Todd's severed arm.::'
+15,3=>'::Use your hand.:: (a8df65f4-1046-4b76-aaad-146398c3890a)'
+15,7=>'::Use your hand.::'
+16,3=>'::Use Phil's arm.:: (82f23d63-a19c-4b50-a3a3-bd6cfb53c9f1)'
+16,7=>'::Use Phil's arm.::'
+17,1=>'plot.xpbl_philsChip'
+18,3=>'::You insert your hand into the aperture (a65a35c4-3180-442f-8786-7c23e3cac46d)'
+18,12=>'::You insert your hand into the aperture and rest it inside a padded cuff; it slowly closes around your wrist, keeping it firmly in place. A syringe-like instrument emerges from the top of the aperture, targeting the area between the thumb and the index finger. A small nozzle parallel to the needle sterilizes your hand, and then you feel a sting - and the microchip is in. The instrument retracts and the cuff opens.::'
+19,1=>'plot.xpbl_toddsArm'
+20,3=>'::Unable to detect microchip implant. In (7fe21cf9-d97c-423c-8e2d-e475cb9d39e1)'
+20,7=>'::Unable to detect microchip implant. 
+
+Initiating inductive charging...
+
+Scanning...::'
+21,1=>'context.global_xpbl_implantedChip_PhilBridges'
+22,4=>'::You insert your hand into the aperture (640b128f-ec30-4c29-8126-4255ab317435)'
+22,8=>'::You insert your hand into the aperture and rest it in a padded cuff; it slowly closes around your wrist, keeping it firmly in place.::'
+23,1=>'plot.xpbl_philsArm'
+24,3=>'::Following the on-screen instructions,  (830a33da-5204-4d25-928f-660684eb2eb4)'
+24,8=>'::Following the on-screen instructions, you carefully remove the glove from the hand. The gloved hand has always felt somewhat fleshy when pressed, much fuller than one would expect, as if the glove has somehow preserved this very old hand from decay. The glove *has* preserved it. Too well, in fact.::'
+25,3=>'::Implantation successful.Testing... Tes (0850a2a5-9116-41a1-b66e-b1b0589bda37)*'
+25,7=>'::Implantation successful.
+
+Testing... 
+
+Test signal received. No issues with the microchip implant detected.::'
+26,0=>'74fc7667-c729-4467-8efd-603106ed8da1'
+26,1=>'context.global_xpbl_implantedChip_PhilBridges'
+27,0=>'e28687cc-e40c-4a99-a5d9-de42195f995b'
+27,1=>'plot.xpbl_philsChip'
+28,0=>'83d5e110-7279-4f57-8f63-c536390b904a'
+28,1=>'xpbl_implantedChipInMedical'
+29,0=>'f6b3c452-2d46-40b6-ab90-68f0be4aa135'
+29,1=>'xpbl_implantedChipInMedical'
+30,0=>'57fab6c7-7e99-4344-abf4-8aa97ef7291e'
+30,1=>'xpbl_mc_implanterNote'
+31,3=>'::Error: Unrecognized implant security m (1e833f78-4bec-44d7-8b42-df396aa732aa)*'
+31,7=>'::Error: Unrecognized implant security module version (newer than expected)
+
+Unable to connect to LIN. Please contact unit maintenance for necessary software updates or troubleshooting.
+
+The extraction procedure will be aborted.::'
+32,3=>'::A sharp instrument emerges from the to (130bc707-301e-469b-a7d8-77dac4cb354d)'
+32,8=>'::A sharp instrument emerges from the top of the aperture, targeting the area between the thumb and the index finger. A small nozzle parallel to its tip sterilizes your hand before you feel the whole thing driving into your flesh, but the pain is barely noticeable. A second passes - and the microchip is out, disappearing inside the unit. You hear a familiar spraying sound coming from inside the unit, and following a short delay the microchip implant drops into a small tray on the unit's right side.::'
+33,3=>'::Microchip implant not detected. Make s (778d25f2-2c51-4142-a668-79248ebd63de)*'
+33,7=>'::Microchip implant not detected. Make sure that the hand is bare and has been properly inserted into the aperture.::'
+34,3=>'::You've been carrying a living creature (58a46e88-7010-47a2-b999-cd3bc0ee455a)'
+34,7=>'::You've been carrying a living creature with you all this time, if one can call this a *single* creature. What you actually see is greenish tissue in the shape of a human hand, familiarly tumorous and unmistakably perverted, writhing unhappily at what you've done to it. Or, perhaps, at what you're about to do next.
+
+You insert the hand into the unit's aperture and observe...::'
+35,0=>'1401350b-26e5-4a1a-9499-f8bf2c3336f3'
+35,1=>'context.interface_xpbl_mc_microChipImplanter_extractedChipFromPhilsHand'
+36,1=>'context.global_xpbl_implantedChip_PhilBridges'
+37,3=>'::Extraction successful.The microchip im (cea951f4-50ee-4a9c-b286-190b1640f2cb)*'
+37,8=>'::Extraction successful.
+
+The microchip implant has been sterilized and deposited to the extraction tray.::'
+38,0=>'b816f197-3662-4347-ab49-5e368e4d1e6c'
+38,1=>'context.global_xpbl_implantedChip_PhilBridges'
+39,3=>'::A sharp instrument emerges from the to (2833ab41-fb5a-4b30-bf62-ea7598a0abb6)'
+39,7=>'::A sharp instrument emerges from the top of the aperture, targeting the area between the thumb and the index finger. A small nozzle parallel to its tip sterilizes the hand. The mass begins twitching and squirming, as if in pain, and the implement driving into its flesh exacerbates its condition even further. A second passes - and the microchip is out, disappearing inside the unit. You hear a familiar spraying sound coming from inside the unit, and following a short delay the microchip implant drops into a small tray on the unit's right side.::'
+40,0=>'06b4ba59-2f66-4c09-862e-c66c9a23eb93'
+41,3=>'::The hand is motionless and sterilized, (69307b41-ca79-41ed-965d-30bbc72dd744)'
+41,7=>'::The hand is motionless and sterilized, its green coloration slowly losing vividness. 
+
+You remove it from the unit: It is now dead, if it was ever even alive.::'
+43,3=>' (0f527235-747b-4537-89fd-8b7512f365f7)*'
+46,0=>'424c65dc-5e92-42dc-bda7-b7915307fe89'
+46,1=>'plot.xpbl_philsArm'
+49,2=>'plot\xpbl\philschip'

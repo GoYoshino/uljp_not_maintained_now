@@ -1,0 +1,188 @@
+1,0=>'xpbl_mu_waterPump'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+1,28=>'English'
+1,29=>'English'
+1,30=>'English'
+1,31=>'English'
+1,32=>'English'
+1,33=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,4=>'::LEMCO LC387 - :: (1b140c1f-ee4c-412e-acbf-f63243ce11f8)*'
+5,8=>'::LEMCO LC387 - ::'
+6,3=>'::Welcome, P. Bridges:: (7382adaf-2f1a-46e7-a35c-c034e8da3943)*'
+6,7=>'::Welcome, P. Bridges
+
+::
+
+'
+7,3=>'::Welcome, guest:: (c641859f-dccf-4a06-a64c-bdf1b50fc826)*'
+7,7=>'::Welcome, guest::
+
+'
+9,3=>'::Nursery 1 status:    Temperature: 43.6 (74793d96-7dfe-4c29-b106-1f4d8ab4c721)*'
+9,7=>'::Nursery 1 status: 
+   Temperature: 43.6° (avg.)
+   Humidity: sensor data unavailable!
+   Illumination: 24 lx (avg.)
+
+Nursery 2 status: 
+   Temperature: 32.3° (avg.)
+   Humidity: 52.7% (avg.)
+   Illumination: sensor data unavailable!
+   
+Nursery 3 status: 
+   Temperature: 39.1° (avg.)
+   Humidity: 57.4% (avg.)
+   Illumination: 17 lx (avg.)::'
+10,1=>'plot.xpbl_philsArm'
+11,1=>'context.global_xpbl_implantedChip_PhilBridges'
+12,4=>'::Irrigation: Auto (sensor data unavaila (9cad764a-57e8-4f3f-948d-df828e415177)*'
+12,8=>'::Irrigation: Auto (sensor data unavailable!)
+Fertilization: Auto (fertilizer mixture canisters need replacement!)
+
+::'
+13,3=>'::Ventilation: Manual (on for all nurser (3bde138a-040a-4228-ae8d-340a5422bad0)*'
+13,7=>'::Ventilation: Manual (on for all nurseries)::'
+14,3=>'::Ventilation: Manual (off for all nurse (d2d7f9d1-aa45-4a68-9b53-b2b7b0ee1203)*'
+14,7=>'::Ventilation: Manual (off for all nurseries)::'
+15,1=>'context.loc_xpbl_hc_vents_on'
+16,2=>' (1565e8ff-ee76-4a3d-9c17-340b8bc73b71)'
+16,6=>''
+17,4=>'::Ventilation system management:: (1f2b05f4-d6fc-4345-b5b9-c8195a10e637)'
+17,8=>'::Ventilation system management::'
+18,3=>'::Irrigation system management:: (86af6812-8e4a-4eaf-982d-e03d5329c3b9)'
+18,7=>'::Irrigation system management::'
+19,3=>'::Fertilization system management:: (c094d723-0373-4801-92d5-04d97c26f2fe)'
+19,7=>'::Fertilization system management::'
+20,3=>'::Pesticide administration system manage (71425cfa-06e4-4672-b90d-04787c17fbeb)'
+20,7=>'::Pesticide administration system management::'
+21,3=>'::Summon available strongman:: (efa68e67-6e9e-4c59-ac3a-c4e94b3be15d)'
+21,8=>'::Summon available strongman::'
+22,3=>'::Summon available handmaiden:: (85418a62-3a4e-44e4-8075-1df0194d0bf6)'
+22,8=>'::Summon available handmaiden::'
+23,2=>'::Exit:: (d655cd67-c598-4a14-9685-8daf95a2522f)'
+23,6=>'::Exit::'
+24,2=>'::Ventilation control: ManualNursery 1 v (290f2e34-4cdb-4647-bba7-b4320e49e8c0)'
+24,6=>'::Ventilation control: Manual
+
+Nursery 1 ventilation unit: On
+Nursery 2 ventilation unit: On
+Nursery 3 ventilation unit: On::'
+25,2=>'::Ventilation control: ManualNursery 1 v (7cedee18-dbdd-48e1-9af9-0f0ede16cd3d)'
+25,6=>'::Ventilation control: Manual
+
+Nursery 1 ventilation unit: Off
+Nursery 2 ventilation unit: Off
+Nursery 3 ventilation unit: Off::'
+26,3=>'::Irrigation control: AutoSensor data un (837a8a00-2ff0-48ba-b492-5a9115fb0fba)'
+26,7=>'::Irrigation control: Auto
+
+Sensor data unavailable! Please contact HTS.::'
+27,3=>'::Fertilizer administration: AutoFertili (c63e6fc8-8c36-45d2-8147-1da3bfe8fc96)'
+27,7=>'::Fertilizer administration: Auto
+
+Fertilizer canisters (CH9) - All empty. Please replace.
+
+Fertilizer canisters (CH9-S) - All empty. Please replace.
+
+Fertilizer canisters (NAH5) - All empty. Please replace.
+
+Fertilizer canisters (ASO12) - All empty. Please replace.
+
+Fertilizer canisters (DT3) - All empty. Please replace.
+
+Fertilizer canisters (DT4) - All empty. Please replace.::'
+28,3=>'::Pesticide administration: DisabledNote (8b5b0fd5-ac9d-46f2-8c90-e4e0414e8669)'
+28,7=>'::Pesticide administration: Disabled
+
+Note: Automated pesticide administration disabled until further notice. All UHI-X-400 pesticide canisters (active and passive) have been moved to Cryostorage Block 1.::'
+29,3=>'::No available strongmen detected. Your  (52eab74e-f38b-44aa-b621-cc9581958c20)'
+29,7=>'::No available strongmen detected. Your request has been placed in a queue.::'
+30,0=>'6d73c1c5-f4de-462a-acee-b58eb47a62be'
+30,1=>'context.interfacing_xpbl_hc_mainConsole_summonStrongman'
+31,1=>'context.interfacing_xpbl_hc_mainConsole_summonStrongman'
+32,3=>'::No available handmaidens detected. You (9277cc86-4505-4c6b-890a-53751638cf07)'
+32,7=>'::No available handmaidens detected. Your request has been placed in a queue.::'
+33,0=>'5150ead6-27a8-4eac-b35e-ed85950579df'
+33,1=>'context.interfacing_xpbl_hc_mainConsole_summonHandmaiden'
+34,1=>'context.interfacing_xpbl_hc_mainConsole_summonHandmaiden'
+35,1=>'context.loc_xpbl_hc_vents_on'
+36,3=>'::Back:: (ae6bbad0-d3e3-49cf-a59f-7c9e6b60d386)'
+36,7=>'::Back::'
+37,4=>'::Turn on ventilation units:: (0a9ed9c4-2795-4a92-96fb-a6ffd748f5c8)'
+37,8=>'::Turn on ventilation units::'
+38,3=>' (27eca719-4b7c-449c-916b-7ddc1f7865bc)*'
+39,2=>'::You do not have permission to perform  (b7d3fbbc-30c6-4b0d-947c-0d87b12e98cb)'
+39,6=>'::You do not have permission to perform this action. Minimum clearance level required is C-3.::'
+40,1=>'context.global_xpbl_microchipClearanceLevel_c4'
+41,3=>'::Turning on ventilation units...Turning (6ef2a47c-af0e-4ba8-a997-33d9b9c2c3f6)'
+41,10=>'::Turning on ventilation units...
+
+Turning on ventilation unit for Nursery 1... Success.
+Turning on ventilation unit for Nursery 2... Success.
+Turning on ventilation unit for Nursery 3... Success.::'
+42,4=>'::[Hacking] Turn on ventilation units.:: (60d36cf7-99bd-4ba9-933c-2cd06db87362)'
+42,8=>'::[Hacking] Turn on ventilation units.::'
+43,3=>'::Back:: (88e3c398-8fd1-4818-9d7e-474bec5398f0)'
+43,7=>'::Back::'
+44,3=>'::Main:: (3c342cbc-56a0-4cc6-a795-f78c513f7b0c)'
+44,7=>'::Main::'
+45,0=>'0eb1e823-646d-4445-a487-9a8c757ae331'
+45,1=>'context.loc_xpbl_hc_vents_on'
+46,0=>'67bb5b8a-df64-4f0f-a4f2-c0a07b5850b1'
+47,0=>'dc2ca532-9c01-4bed-9586-1f16e3fab6dd'
+48,3=>' (0b26b781-d2c8-4dc4-8c21-3846009b1091)*'
+49,3=>'::Unknown error! Logging...:: (e6aac728-41d2-4d36-9877-ecb85ae81e77)*'
+49,7=>'::Unknown error! Logging...
+
+::'
+50,4=>'2dd04bf8-e2c0-4459-9b55-250f654abb56'
+50,5=>'9b8dde8f-46a1-4ae3-972a-9afe70061bc6'
+50,6=>'a71977fb-a58a-4a13-bf71-fc93fa857593'
+50,7=>'45afc5ea-95b0-4a84-bcb5-512bc663e2bd'
+50,8=>'f4ebf163-15af-4cb2-9ce8-b785ead4a81d'
+50,9=>'1a734c30-e95c-4c23-abfe-165063e8c1a5'
+50,10=>'5be2b7ee-f098-4eae-9d6e-6ac938cc07fd'
+50,11=>'6c50ce66-0af9-4284-b00f-64d00ce0b377'
+50,12=>'3d9282dc-f0bf-4548-a4e4-3c5c5e1f5efb'
+50,13=>'defbfa9d-f965-443a-9282-976ac77876cb'
+50,14=>'03439b05-5570-4645-be9c-fa58a8a397d5'
+50,15=>'551ac61e-e6f6-406c-ba3b-787c731b071d'
+50,16=>'cbdc4df2-0d33-4038-853d-9a72f547b407'
+50,17=>'0dd0ccb8-285d-4123-95af-bec2ad89b28f'
+50,18=>'e21bc783-6ea9-4402-81eb-41cd1e043798'
+50,19=>'e352b614-3843-4e7f-8f1e-7d1e273687c6'
+50,20=>'a09d79ed-d8e8-4c47-95df-6622e934794f'
+50,21=>'a7fe5c00-7558-45ed-aa7e-22ead5f99ba8'
+50,22=>'492d17ce-599a-4d57-8cd9-af56b0463749'
+50,23=>'223f9802-0f47-4431-aadf-40602f5be834'
+50,24=>'69232a67-d5d8-46a4-9762-fa52ce541ad9'
+50,25=>'991bfb05-a4e4-4bf3-bdfc-4fdf808a9c11'
+50,26=>'85b08f38-76b6-4466-ae2c-c64699d39191'
+50,27=>'7394e7fc-fc94-4c52-961b-051b98c5c4fa'
+50,28=>'95387f51-83b6-4f70-bd1f-e37644274a13'

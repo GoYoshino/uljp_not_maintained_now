@@ -1,0 +1,136 @@
+1,0=>'dc_inm'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+1,26=>'English'
+1,27=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Welcome, E. MaliMain:: (f825e565-4e68-4d23-a667-519bd6cb2180)*'
+5,7=>'::Welcome, E. Mali
+
+Main::'
+6,2=>' (fb7fcc48-695a-47f4-bb2f-b0c0759618c8)'
+6,6=>''
+7,3=>'::Access INM:: (cb83494c-9709-4b41-8aeb-4d213e1ff659)'
+7,7=>'::Access INM::'
+8,2=>'::Exit:: (9898de00-70b3-446b-8bd6-e45b89ddab68)'
+8,6=>'::Exit::'
+9,2=>'::Warning! INM is currently offline. Ple (78bf1a59-ba3d-403f-93dd-ad8f2f9199bc)*'
+9,6=>'::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 56
+Contacts online: 0::'
+10,3=>'::Archive:: (665da898-1099-423d-922a-bbd38a0350f1)'
+10,7=>'::Archive::'
+11,2=>'::Back to main:: (4510f95a-0a6e-414a-a83d-f5ff829057a2)'
+11,6=>'::Back to main::'
+12,3=>'::Archive:: (0951ab20-07ad-4cfc-9356-acc8b3ccc67a)*'
+12,7=>'::Archive::'
+13,2=>' (758bf6e6-b08a-4802-8a5d-8bea94d76fae)'
+14,3=>'::Log: 111245 - T. Cox:: (f0c404f2-f9c8-4737-82f0-09e705bb296c)'
+14,7=>'::Log: 111245 - T. Cox::'
+15,3=>'::Log: 111248 - M. Hope:: (3edaff57-7448-4f93-8a20-1e4f21c12159)'
+15,7=>'::Log: 111248 - M. Hope::'
+16,3=>'::Log: 111251 - M. Brawin:: (41ca7802-ea4e-4e94-8c71-ab2879f04e21)'
+16,7=>'::Log: 111251 - M. Brawin::'
+17,3=>'::Back:: (191d96cb-d751-4997-b463-6f0345dd6ce9)'
+17,7=>'::Back::'
+18,3=>'::T. Cox: You did not respond to any of  (0226077c-35e2-453e-b09a-0ff0ca86e14a)'
+18,7=>'::T. Cox: You did not respond to any of my messages.
+E. Mali: Didn't read them. I was busy.
+T. Cox: You did read them, but you chose not to respond. I am sending you Brawin's contact.
+E. Mali: I believe my work is more important than teaching some kid how to work with mutagen.
+T. Cox: Austein says otherwise.
+E. Mali: Couldn't you find someone else to do this?
+T. Cox: That wasn't my decision. I know nothing. I reckon Austein simply trusts you enough with this.::'
+19,3=>'::M. Hope: Dr. Mali, do you have a momen (694d6217-6f2d-46c3-a43f-4ff2ef00401c)'
+19,7=>'::M. Hope: Dr. Mali, do you have a moment?
+E. Mali: For you, always, Dr. Hope.
+M. Hope: I talked to Dr. Cox.
+M. Hope: About Michael Brawin, the young geneticist you were supposed to train.
+E. Mali: Yes.
+M. Hope: I was told that Cox sent you his contact, yet you never contacted him. Why is that so?
+E. Mali: I was busy, Dr. Hope.::'
+20,3=>'::M. Brawin: I am really sorry for distu (31a57bac-04de-4d91-88e5-f13bcfa1ac30)'
+20,7=>'::M. Brawin: I am really sorry for disturbing you, Dr. Mali, but I have been having some trouble understanding some of the things we talked about today.
+E. Mali: You are not disturbing me. Tell me what you're having trouble with.
+M. Brawin: Well, so far I have worked only within the realm of classical genetics, and perhaps due to it I am stuck in a particular way of thinking, but I have been having trouble wrapping my head around mutagen compound sequencing. At least some specific things regarding it.
+E. Mali: You read the material I recommended to you?
+M. Brawin: Some of it, yes, and I have been reading other things. But theory and practice are different. I am sorry, really sorry to be bothering you with the basics, and basics they are, I cannot deny, no matter how advanced it might seem to me.
+E. Mali: Indeed. First of all, I want you to slow down and relax.
+E. Mali: We will go through the basic terms again, but let us keep it focused and concise. You will then have it in written form so that you may reference it whenever you need do to so. For everything broader, see literature I recommended you.
+M. Brawin: Thank you, Dr. Mali.::'
+21,2=>'::E. Mali: I have a lot of work, Cox. Au (433abc0d-3f65-4d4a-a275-4cc2fd4c548b)'
+21,6=>'::E. Mali: I have a lot of work, Cox. Austein wants me to complete sequences for the next batch of compounds for his subjects. And they are becoming restless.
+T. Cox: I believe Dr. Austein is aware of all that you're telling me now. And that is why you need an extra pair of hands.
+T. Cox: Brawin might be young and inexperienced, but I'm sure you'll fill him in quickly.
+E. Mali: Alright.
+T. Cox: Alright what?
+E. Mali: Send me his contact.
+E. Mali: Good. I will.::'
+22,2=>'::M. Hope: You will contact him today.E. (65633057-23d8-419e-ab21-fc84e01185c8)'
+22,6=>'::M. Hope: You will contact him today.
+E. Mali: But, Dr. Austein tasked me with a few rather time consuming experiments. Can't someone else take over Brawin for me?
+M. Hope: Dr. Austein and I already discussed this. He judges you have enough time to train Brawin and finish your experiments before the deadline.
+E. Mali: I understand.
+M. Hope: Very good.::'
+23,3=>'::E. Mali: So, from the top: Mutagen, wh (c29c5645-7da4-47a8-a700-e1e9041705f2)'
+23,7=>'::E. Mali: So, from the top: Mutagen, what is it?
+M. Brawin: A general term expressing a substance which directly acts upon any organism's genome, changing, or mutating the said organism dynamically, effectively transforming its genotype as well as its phenotype - both endo and exo - in vivo, contrary to classical genetic engineering.
+E. Mali: That is correct. You can stop typing. Let's keep this shorter. We don't need full definitions here.
+M. Brawin: I understand.
+E. Mali: Okay. So, a mutagen changes an organism dynamically. What is a mutagen atom?
+M. Brawin: A mutagen atom is the most basic unit of mutagen. A mutagen atom can be positive or negative, and they are inert on their own, only being effective as a part of either a reagent or a mutagen compound.
+E. Mali: Correct. Again, short and simple.::'
+24,3=>'::Back to Archive:: (b5728b9f-48e0-4850-aa0e-8e585cf6b397)'
+24,7=>'::Back to Archive::'
+25,3=>'::E. Mali: Now, what are you having trou (8d1e8bb1-8deb-42ba-9bbd-acd823756838)'
+25,7=>'::E. Mali: Now, what are you having trouble with?
+M. Brawin: Well, what is the difference between the two? I remember that reagents can consist of both positive and negative atoms, while compounds only from positive. But I need some more clarification on that.
+E. Mali: I see what you mean. I will not go into details regarding functions of specific atoms, positive or negative, their structure and all that. Obvious reasons. For that you best study Frasard's works.
+E. Mali: Moreover, Nosek's more recent Phenotype Dynamics will also be a very good read. I forgot to include that one earlier.
+E. Mali: Okay. Regarding reagents and compounds: Structurally, reagents and compounds are pretty much the same. In both, atoms are connected to one another in a linear sequence, the main difference being that reagents consist of both negative as well as positive atoms, while mutagen compounds do not. Am I being clear so far?
+M. Brawin: Yes.::'
+26,3=>'::E. Mali: On their own, reagents are no (173454d8-ee5a-45b5-a80e-3addcddb255f)'
+26,7=>'::E. Mali: On their own, reagents are not of much use. They only serve to simplify the compound combining process. We don't want to be working with individual atoms every time we want to create a compound, and it is a different field altogether in any case.
+E. Mali: The reagents can instantly be turned into standalone compounds even, by simply removing the negative atoms from the sequence. We did that today, if you remember.
+M. Brawin: Yes, I do. Solis, Ovid, Io and a few others.
+E. Mali: That is correct. So, mutagen compounds, as should be clear by now, are only composed of positive atoms. Same linear structure.
+M. Brawin: I understand. But, I have had some issues when I tried coming up with sequences for more complex compounds. Maybe I'm just missing something.
+E. Mali: Okay. For specific compounds, that we will discuss in the lab. But in general, keep this in mind: Mutagen compounds can only consist of UNIQUE positive atoms. You cannot have two of the same in a sequence.::'
+27,3=>'::M. Brawin: But that is where I have is (175e0eb2-b33e-4367-8086-6e075fb67b59)'
+27,7=>'::M. Brawin: But that is where I have issues. The example I was looking at shows reagents which would, after combining, introduce duplicate atoms into the compound.
+E. Mali: Negative and positive atoms of the same type will nullify each other when combined.
+M. Brawin: I know that, but I still get duplicates even after the rest have been nullified. And I would basically need to add that one particular reagent just because of one atom the sequence is missing. The rest of the sequence is correct up to that point.
+E. Mali: Again, you can only have unique positive atoms in the sequence. If a reagent contains an atom that is already present, the combinator will simply not accept it and will only add those atoms that are not in the sequence. Technically speaking, you can add the same reagent again if you need it for that one atom. Say you nullified it at some earlier point and need it again. Don't worry about double positives.
+M. Brawin: I think I get it.
+E. Mali: Yes?
+M. Brawin: Well, I feel silly now.
+M. Brawin: Yes. I rechecked it again and it should work now. I am so sorry. I feel so bad for bothering you with something so simple. Thank you again, Dr. Mali.::'
+28,2=>'::E. Mali: It's your first day, Michael. (3cf415d6-9916-4dfe-8c4c-be660dc0101d)'
+28,6=>'::E. Mali: It's your first day, Michael. You did good. When I first got here I had trouble finding Mutagen Tanks B, let alone work with a mutagen combinator. I walked all the way past Warehouse Block 2, I remember. I got strange looks by the geologists working in one of the caverns.
+M. Brawin: Thank you, Dr. Mali. I don't want to waste any more of your time. I will return to sequencing.
+E. Mali: Better get some rest instead. Let this sink in. We'll see each other tomorrow.
+M. Brawin: I will, Dr. Mali. Thank you again.::'

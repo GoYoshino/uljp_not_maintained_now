@@ -1,0 +1,7 @@
+1,0=>'cc_dockExplosiveBoatGuard'
+1,4=>'English'
+2,3=>'Start Element'
+3,0=>'speaker'
+4,0=>'player'
+5,2=>'Keep away. Trust me. (a7a7e60d-0005-48a4-8ff8-e842580322d1)'
+5,6=>'Keep away. Trust me.'

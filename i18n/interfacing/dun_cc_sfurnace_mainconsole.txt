@@ -1,0 +1,55 @@
+1,0=>'dun_cc_sFurnace_mainConsole'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::BCE-BFMC - Biocorp Core ElectronicsFir (1457319d-5e66-408e-b215-52907954c6f5)*'
+5,7=>'::BCE-BFMC - Biocorp Core Electronics
+Firmware version: 1.17::
+
+::Blast Furnace Monitoring Console, Status: Overcharged::
+
+::Explosive and/or Reactive (ERCW) chemical waste status: Explosive disposal procedure activated at 145% power.
+Toxic and/or Radioactive (TRW) waste status: Incinerating explosive disposal procedure activated at 97% power.
+Isolated and/or Unique (IUW) waste status: Disposal procedure completed successfully.::
+'
+6,2=>' (c3b1ed42-2c13-4d79-bc8f-e3745c9c3fee)*'
+7,2=>'::Manage ERCW disposal procedure (in pro (9581c19d-f072-4c71-b560-2c67f28daa61)'
+7,6=>'::Manage ERCW disposal procedure (in process)::'
+8,2=>'::Manage TRW disposal procedure (in proc (d6fa5b14-80d3-4140-a51b-633bc0b46c91)'
+8,6=>'::Manage TRW disposal procedure (in process)::'
+9,3=>'::Manage IUW disposal procedure (complet (d91f1b94-1ded-496c-88df-9fddd798d134)'
+9,7=>'::Manage IUW disposal procedure (completed)::'
+10,2=>'::Run diagnostics:: (2ac6439a-9f04-4c7b-bcaf-59addef98a6e)'
+10,6=>'::Run diagnostics::'
+11,2=>'::Leave.:: (c80271bd-1b57-4ec8-8c4f-c997aa788214)'
+11,6=>'::Leave.::'
+12,1=>'tempcontext.disabled'
+13,1=>'tempcontext.disabled'
+14,2=>'::Successfully isolated highly valuable  (159ddfbd-dd1c-4dd4-8adb-5647713a3d34)'
+14,6=>'::Successfully isolated highly valuable components. 
+
+Manage IUW disposal procedure (completed)::'
+15,1=>'tempcontext.disabled'
+16,3=>'::Unlock container 1.:: (4b31790b-7f1c-4727-bfc2-41459f09e3b8)'
+16,7=>'::Unlock container 1.::'
+17,3=>'::Unlock container 2.:: (9982a21e-01fc-4ed7-964a-a176b0b33ede)'
+17,7=>'::Unlock container 2.::'
+18,2=>'::Engage waste filtration (container 1)  (9e2c4a7f-8ea7-41a3-862c-cfb3ee7361d2)'
+18,5=>'English'
+18,6=>'::Engage waste filtration (container 1) ::'
+19,2=>'::Engage waste filtration (container 2)  (419c258d-efd7-412f-b998-8b2fa5fae2ea)'
+19,5=>'English'
+19,6=>'::Engage waste filtration (container 2) ::'
+20,3=>'::Back:: (81882741-d8df-4d50-ac4c-d8d0c59cd245)'
+20,7=>'::Back::'
+21,3=>'::Container 1 unlocked.:: (70f9fe73-57a1-4fed-8e18-ac99ab4b42b7)*'
+21,8=>'::Container 1 unlocked.::'
+22,3=>'::Container 2 unlocked.:: (ad2b7f62-b7c2-4405-9e84-054441e7f8b3)*'
+22,8=>'::Container 2 unlocked.::'
+23,1=>'tempcontext.disabled'
+24,1=>'tempcontext.disabled'
+25,0=>'b1d32659-a555-48f6-b0e7-211f2f1b6f92'
+26,0=>'7192a366-5f43-4203-b2ee-78a9f00f5544'

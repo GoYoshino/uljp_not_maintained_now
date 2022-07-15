@@ -1,0 +1,18 @@
+1,0=>'tch_utilStasis2'
+1,4=>'English'
+1,5=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Subject Type: None::Tissue Type: Muscl (1c4c11d9-9e9d-483c-8b16-ee9bc9c99741)'
+5,6=>'::Tissue Type: Muscle, smooth, single-unit
+
+Origin: Engineered
+
+Age: 4 days
+
+Notes: Muscular hydrostat; project code: U-78#
+
+Vital Status: Good::'
+6,2=>'::Exit:: (3da43d18-1c69-4817-8e26-fc53c4e418f7)'
+6,6=>'::Exit::'

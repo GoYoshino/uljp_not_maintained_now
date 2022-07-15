@@ -1,0 +1,165 @@
+1,0=>'xpbl_wumb_pc'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+2,5=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Nemasch pravo natrknuslivka. Sachekay  (4b5c626c-48c9-4bef-b349-d8cf3b406cba)'
+5,6=>'::Nemasch pravo natrknuslivka. Sachekay admonstrovnik da gi zacheke.::'
+6,3=>'::Zakrilay horisnik: :: (27fbb9f6-d751-4682-a509-5e18972ff00b)*'
+6,7=>'::Zakrilay horisnik: ::'
+7,3=>'::Damuraj schifranik pogslimay da vidzit (0ea27cd9-1c4b-4c07-99c1-fd6720099adb)*'
+7,7=>'::Damuraj schifranik pogslimay da vidzitz e-pismonoschu: ::'
+8,1=>'context.xpbl_loc_wumb_lockedOutOfPc'
+10,2=>' (f6ebbaf9-e96a-420e-8406-2beff5f2a4ed)'
+11,2=>' (35b0d2e8-35bb-49b1-b005-e31b82c4c5b7)'
+12,1=>'context.xpbl_loc_wumb_hackedPC'
+13,3=>'::Takrilovac Zugonrgnobascha:: (b8f3bbb1-965d-4379-a8fb-c14569f87bc7)'
+13,7=>'::Takrilovac Zugonrgnobascha::'
+14,3=>'::Prdoslav Drumavko:: (cdd52abc-2805-4de0-b445-bbb2f0e0f033)'
+14,7=>'::Prdoslav Drumavko::'
+15,3=>'::Stefanchiye Jasnoslav:: (a828611b-73ed-448f-baf0-f3d895ad7ebf)'
+15,7=>'::Stefanchiye Jasnoslav::'
+16,2=>'::Izilazi:: (d2629ffd-aa2e-4cae-a59a-11236d7a7b38)'
+16,6=>'::Izilazi::'
+17,4=>'::[Hacking] Break into the system:: (1cad72c6-96d6-447f-a6fa-5ec0cd2775f3)'
+17,9=>'::[Hacking] Break into the system::'
+18,4=>'::Type something random:: (0b9ba9e8-c61f-400d-ae4e-4b13d79688bb)'
+18,8=>'::Type something random::'
+19,2=>'::Leave:: (ca6e5257-35ca-484a-8ef3-960919f960ac)'
+19,6=>'::Leave::'
+20,2=>'::Dobroval, Takrilovac ZugonrgnobaschaSv (f9dd188c-ed87-47e5-86db-6212586feb50)'
+20,6=>'::Dobroval, Takrilovac Zugonrgnobascha
+
+Svezgnije: 1 pismo::'
+21,2=>'::Dobroval, Prdoslav DrumavkoSvezgnije:  (9b34c30e-a60d-4cc9-950c-d47d308b947f)'
+21,6=>'::Dobroval, Prdoslav Drumavko
+
+Svezgnije: 2 pisma::'
+22,2=>'::Dobroval, Stefanchiye JasnoslavSvezgni (f7605e54-bda2-4975-901c-766366527117)'
+22,6=>'::Dobroval, Stefanchiye Jasnoslav
+
+Svezgnije:1 pismo::'
+23,3=>' (9931dd4a-c9ab-4921-8b8f-b261543b9a07)*'
+24,3=>'::Nedozvolnay kloznoprkosnr uvodischen!  (732830f0-ca31-41cf-aeef-8f71320cd597)*'
+24,7=>'::Nedozvolnay kloznoprkosnr uvodischen! Naposlav josnaky da gu ti uhrga.::'
+25,0=>'7564b1e1-41a6-4780-9e3a-b5c4d1085ac6'
+25,1=>'context.xpbl_loc_wumb_hackedPC'
+26,3=>'::Si be proludeo, schifranik ne pogodisc (48de0d41-1860-40a6-81be-0c3e7ba363be)*'
+26,7=>'::Si be proludeo, schifranik ne pogodischtrzlz. Naposlav josnaky da gu ti uhrga.::'
+27,3=>'::Ne si gi gu zabotadneo schifranik. Daj (04b218c9-16a6-4dea-a8c0-679a42b1b3d6)*'
+27,8=>'::Ne si gi gu zabotadneo schifranik. Daj muga zlnotwrkno: ::'
+28,3=>'::Od: Krasnava Tzitza Nemaschta. Rknovlz (363c2c21-1f2e-45fd-add6-a99b37de94a8)'
+28,7=>'::Od: Krasnava Tzitza Nemaschta. Rknovlzma: Otkuj che si na kuche svrnesch?::'
+29,3=>'::Nazadno:: (0b271f63-23f3-47e5-926c-e450afc98a89)'
+29,7=>'::Nazadno::'
+30,3=>'::Od: Koprilan Drumavko. Rknovlzma: Sam  (a199403b-e787-48ac-8e8b-5ba50c3a0096)'
+30,7=>'::Od: Koprilan Drumavko. Rknovlzma: Sam da chum schto se gznazkla.::'
+31,3=>'::Od: Koprilan Drumavko. Rknovlzma: Mama (76bbb2a2-9f9e-4c24-ac62-0202accff4c3)'
+31,7=>'::Od: Koprilan Drumavko. Rknovlzma: Mama.::'
+32,3=>'::Od: Joksim Razvaljivach. Rknovlzma: Ku (d0a8fbfd-9225-48f0-b98d-0a77e2c6e48c)'
+32,7=>'::Od: Joksim Razvaljivach. Rknovlzma: Kume!::'
+34,2=>' (57274b7b-1f04-4212-9778-672265252492)'
+35,1=>'context.xpbl_loc_wumb_wrongPassword'
+36,0=>'3d53d54e-713e-49ad-be83-90431948b448'
+36,1=>'context.xpbl_loc_wumb_wrongPassword'
+37,2=>'::You see a picture of a gorgeous blonde (548b58d0-e208-4931-99d7-6e3b209ec464)'
+37,6=>'::You see a picture of a gorgeous blonde woman next to what is presumably her name.
+
+Guslave moj draganche, otkuj che si na kuche svrnesch? Ja tchekam na tolik vrem, nema guslava. Promeklan da gu slinozvzno grdatno premetalo, al ti bre ne proslevasch. Klozna na kvay, i na prokle zdrvano prsnovo. Znasch, kad mu navratisch nazad na kuchu, ima da ti zaprofrknem na slozvnoprsnavno trknivno zplno, razbucalo po sobche stvarno. Tnajasno, bre?
+
+S navoletno, tvoja zlzna, Krasnava.::'
+38,2=>'::You see a picture of a middle-aged man (c9e0a2f2-40e4-4ccd-b582-24a20c780051)'
+38,6=>'::You see a picture of a middle-aged man - almost entirely gray-haired, with a large circular scar on one of his cheeks - next to what is presumably his name.
+
+Sinak, kak kluknov? Mama i ja frzno na teloglomno, bogu na dam. Stermoznzlmo chto ne gu se provledasch nekad. Znam da krgnolasjno rkzlazisch Otadzbinu od stoku i da gu tresnesch ka stari.
+
+Tryslovnaj bre, junachino! Mama i tata.::'
+39,2=>'::You see a picture of a middle-aged man (839c10fa-82a9-41ac-b87e-f67c0dc8445d)'
+39,6=>'::You see a picture of a middle-aged man - almost entirely gray-haired, with a large circular scar on one of his cheeks - next to what is presumably his name.
+
+Sine, tezchke nowostneke, i jak si da mi hrdunesch. Tvoja mama, Hilna, sinoch napustilasna zhivot. Zvah ti na vezu krognohrfnalznu, ali jukovan ne dobil.
+
+Javischodne, sine, s vrem chim mozesch. Tata.::'
+40,2=>'::You see a picture of a young man with  (0b7f0d74-91cb-4e26-9f55-89844d585171)'
+40,6=>'::You see a picture of a young man with a face of someone who is perpetually drunken. The picture is located next to what is presumably his name.
+
+Kume, aj si javnesch kad glumetnamo sledpo. Ja smenu trgnoplknam nakaj 21:00 ili najgrozniye 21:10, pa da gu zalisnemo i ti i ja i Bato Gluvach. Stomaknorazkrvavilo! Aj se javnesch bre.
+
+Zzdrav i od kume, kume. ;=o::'
+41,0=>'dc7e74d3-5382-4d0e-a15e-0c7a63defa14'
+41,1=>'context.xpbl_loc_wumb_lockedOutOfPc'
+42,0=>'f0931211-39bc-4782-849a-80cb89132bc7'
+43,4=>'::[Intelligence] Attempt to translate th (ac70a886-812e-4f27-8d2c-cd015d6c9706)'
+43,8=>'::[Intelligence] Attempt to translate the message.::'
+44,3=>'::Nazadno:: (b82387c8-409a-4e7c-9cbb-e02b2515016f)'
+44,7=>'::Nazadno::'
+45,4=>'::[Intelligence] Attempt to translate th (4c5cc9a2-9d3f-4cd0-af55-157e8b289dd9)'
+45,7=>'English'
+45,8=>'::[Intelligence] Attempt to translate the message.::'
+46,3=>'::Nazadno:: (8df36fd1-7e41-4a4d-b28d-04c0d66250ef)'
+46,7=>'::Nazadno::'
+47,4=>'::[Intelligence] Attempt to translate th (44c92b60-5960-4bc7-b38b-a843caae33ab)'
+47,7=>'English'
+47,8=>'::[Intelligence] Attempt to translate the message.::'
+48,4=>'::[Intelligence] Attempt to translate th (b3125dd5-973c-4f75-8a63-e28cb5e7e744)'
+48,7=>'English'
+48,8=>'::[Intelligence] Attempt to translate the message.::'
+49,3=>'::Nazadno:: (dceab81a-ded6-495f-95a0-7fd2c57a7c1f)'
+49,7=>'::Nazadno::'
+51,2=>'::After studying the text for a while, y (355c043e-9284-4bb7-ace8-85f40f42c67d)'
+51,5=>'English'
+51,6=>'::After studying the text for a while, you think you figured out the gist of it:
+
+The woman is asking the soldier when he's getting his next leave. She's waiting for him, yet he never comes. The middle part is difficult to translate, but you're certain it revolves around her infuriating impatience and some rather naughty things.
+
+Signed, Krasnava.::'
+52,2=>'::You reread the text a couple of times, (d6038551-a490-4fc6-ab12-b0ba4e16850a)'
+52,6=>'::You reread the text a couple of times, but the girl's name is the only word you understand.::'
+53,2=>'::After studying the text for a while, y (005ded82-5024-4de0-bdc1-0e53fcaa0dc3)'
+53,5=>'English'
+53,6=>'::After studying the text for a while, you think you figured out the gist of it:
+
+The old man is the soldier's father. He's asking him about his service and telling him he should call his parents more often. He seems proud about his son defending them - you aren't sure against whom - like he himself had done so in the past.
+
+Signed, Mom and Dad.::'
+54,2=>'::You reread the text a couple of times, (33a867c2-b94b-4b0c-9e8e-28a5ef63b85c)'
+54,5=>'English'
+54,6=>'::You reread the text a couple of times, but the only thing you're able to deduce is that Tata means father, and Mama means mother.::'
+55,2=>'::After studying the text for a while, y (b23f3360-df3b-425e-83db-533d317ddcad)'
+55,5=>'English'
+55,6=>'::After studying the text for a while, you think you figured out the gist of it:
+
+The old man bears bad news: He tells the soldier that he should be strong, for his mother, Hilna, has just passed away. Seems like he wanted to call him but couldn't reach him for some reason.
+
+Signed, Dad.::'
+56,2=>'::After studying the text for a while, y (af50ed96-8e96-4f35-afa1-32addba2d9f0)'
+56,6=>'::After studying the text for a while, you think you figured out the gist of it:
+
+The sender appears to be the soldier's best man. He asks when the soldier's shift is ending, and informs him that he will end his at 21:00 or 21:10 at the latest; he is looking forward to the two of them getting presumably wasted alongside someone called Bato Gluvach.
+
+The best man and, if you're not mistaken, his wife send their regards.::'
+57,2=>'::You reread the text a couple of times, (85877658-c84f-4bd2-b9d6-4a8cc99bced1)'
+57,5=>'English'
+57,6=>'::You reread the text a couple of times, but the times mentioned and what you believe is another name - Bato Gluvach - are the only things that make sense to you.::'
+59,2=>'securityGuardPc'
+61,0=>'interface'
+62,0=>'player'
+64,0=>'interface'
+65,0=>'player'
+66,0=>'interface'
+67,0=>'player'
+69,0=>'interface'
+70,0=>'player'
+72,0=>'interface'
+73,0=>'player'

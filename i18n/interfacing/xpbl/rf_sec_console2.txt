@@ -1,0 +1,114 @@
+1,0=>'xpbl_mu_waterPump'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+1,24=>'English'
+1,25=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,4=>'::LEMCO LC387 - :: (b09aecc9-7f30-4110-9d17-0d25b29d9144)*'
+5,8=>'::LEMCO LC387 - ::'
+6,3=>'::Welcome, P. Bridges:: (e65e33ef-9e1f-41b5-9291-9e1b7b95e149)*'
+6,7=>'::Welcome, P. Bridges::
+
+'
+7,3=>'::Welcome, guest:: (25b9a373-3cf1-46f6-b358-038df3c23694)*'
+7,7=>'::Welcome, guest::
+
+'
+9,2=>'::Please select one of the following opt (b77ee072-59be-45ad-b1aa-66be6d784337)'
+9,6=>'::Please select one of the following options: ::'
+10,1=>'plot.xpbl_philsArm'
+11,1=>'context.global_xpbl_implantedChip_PhilBridges'
+12,4=>'::Surveillance system:: (7c533797-b421-4e68-a45a-b17ec66fb510)'
+12,8=>'::Surveillance system::'
+13,3=>'::Toggle north section gate:: (36773846-0494-48cb-930e-18ef2eaf7285)'
+13,8=>'::Toggle north section gate::'
+14,3=>'::Toggle south section gate:: (91774ead-c897-4a13-aabf-40a3acb9efa0)'
+14,7=>'English'
+14,8=>'::Toggle south section gate::'
+15,3=>'::Toggle south section gate:: (8c62c35b-ad27-42cd-bd7f-168777b08e54)'
+15,7=>'::Toggle south section gate::'
+16,3=>'::Contact active security officer:: (fb89eb0d-ce0d-4d6a-b722-639ed6c12317)'
+16,7=>'::Contact active security supervisor::'
+17,2=>'::Summon available Servants:: (b12684d9-11a6-463b-ad3d-025509892c1e)'
+17,6=>'::Summon available Servants::'
+18,2=>'::Exit:: (daf30dfe-8acd-4845-a5fd-305e04a8d2f6)'
+18,6=>'::Exit::'
+19,2=>'::Surveillance system is online.Number o (9955484d-6631-4574-b1b3-ed4e9bab7b3f)'
+19,6=>'::Surveillance system is online.
+
+Number of active security cameras in Nexus of Technology: $(context.loc_xpbl_rf_numberOfSecCamerasActive)::'
+20,2=>'::Surveillance system is offline.:: (9572d02f-14f8-4a4c-b1ea-053fa62fe44f)'
+20,6=>'::Surveillance system is offline.::'
+21,0=>'e7c7ba8b-d88c-4f32-a263-49703be4ef36'
+22,1=>'context.loc_xpbl_rf_security_southGateUnlocked'
+23,0=>'e7c7ba8b-d88c-4f32-a263-49703be4ef36'
+24,1=>'context.loc_xpbl_rf_security_southGateUnlocked'
+25,2=>'::Warning: Gate locked.You do not have p (21e2b5b9-45c7-4fbc-853d-026d82dc7ee6)'
+25,6=>'::Warning: Gate locked.
+
+You do not have permission to open this gate. Please contact a security supervisor for more details.::'
+26,3=>'::No active security officers detected.  (deae210c-6614-4206-90c9-87a1d0dcbaa9)'
+26,7=>'::No active security supervisors detected. There may be temporary communication problems preventing this. 
+
+Please try again later.::'
+27,1=>'context.none'
+28,1=>'context.loc_xpbl_rf_security_camerasDisabled'
+29,4=>'::[Hacking] Disable the surveillance sys (23f64311-9d38-4e77-95f4-af495669d763)'
+29,8=>'::[Hacking] Disable the surveillance system::'
+30,3=>'::Back:: (b8e0380c-c2b3-4064-bdd7-254108227522)'
+30,7=>'::Back::'
+31,3=>'xpbl_rf_sec'
+32,3=>'xpbl_rf_sec'
+33,4=>'::[Hacking] Unlock the gate:: (6e5f296b-6e47-4565-83b1-adad7d38561b)'
+33,8=>'::[Hacking] Unlock the gate::'
+34,3=>'::Back:: (189fe215-faa3-41a4-9cd8-ad24a8b1abc3)'
+34,7=>'::Back::'
+35,3=>'::Disabling surveillance system...Level  (4af70ddc-b083-43e1-ac3f-1a2353675dda)'
+35,9=>'::Disabling surveillance system...
+
+Level 0... Done.
+Level 1... Done.
+Level 2... Done.
+Level 3... Done.
+Level 4... Done.
+Level 5... Done.
+Level 6... Done.
+Level 7... Done.
+Level 8... Done.
+Level 9... Done.
+Logging... Done.
+
+Surveillance system disabled successfully..::'
+36,3=>'::Unknown error:: (30107f47-a5ba-4123-982e-c353b823d39f)'
+36,7=>'::Unknown error::'
+37,3=>'::Security technology level south sectio (e3f51243-a5a5-4c59-9e9a-a6a5ffddf673)*'
+37,8=>'::Security technology level south section gate is now unlocked.
+
+::'
+38,2=>'Hacking'
+39,0=>'ea8b4e6a-a6ef-4d0c-9b0d-42bd03886225'
+40,0=>'9ae4cc3f-01da-497f-a773-e04056325ccb'
+40,1=>'context.loc_xpbl_rf_security_camerasDisabled'
+41,2=>'Hacking'
+42,0=>'79336131-6e6f-4187-b78e-19ef480f1e8a'
+42,1=>'context.loc_xpbl_rf_security_southGateUnlocked'

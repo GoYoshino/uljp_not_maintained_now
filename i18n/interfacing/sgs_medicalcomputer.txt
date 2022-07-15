@@ -1,0 +1,265 @@
+1,0=>'sgs_medicalComputer'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+1,22=>'English'
+1,23=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Welcome to South Gate Station Medical  (313011aa-ece6-4446-964a-99c132ed5e0c)*'
+5,7=>'::Welcome to South Gate Station Medical Database
+
+Main::'
+6,2=>' (2d31543d-226c-47bf-86be-418c163d4d91)'
+6,6=>''
+7,3=>'::Access patient records:: (aa467280-785e-4153-9cbf-866ebbafc707)'
+7,7=>'::Access patient records::'
+8,3=>'::Access medical inventory:: (d1dddcb1-4432-485c-ba11-48af25cc306c)'
+8,7=>'::Access medical inventory::'
+9,2=>'::Exit:: (734d6283-81b8-4aa2-ab03-9139ecfbd621)'
+9,6=>'::Exit::'
+10,2=>'::Patient records:: (d4517196-6742-4ed7-8ad5-f38adf385c94)'
+10,6=>'::Patient records::'
+11,2=>'::Medical Inventory:: (c1fdeb19-79d4-45f5-a2a6-17a3b8cee6b9)'
+11,6=>'::Medical Inventory::'
+12,3=>'::Open recent patient list:: (b5e94a62-ce64-456d-817a-c88dc932b570)'
+12,7=>'::Open recent patient list::'
+13,3=>'::Open patient archive:: (98e5c0e0-067b-4b80-a212-a44447d5574e)'
+13,7=>'::Open patient archive::'
+14,3=>'::Back:: (aee7662e-0eaf-4044-a441-258c05fb4513)'
+14,7=>'::Back::'
+15,3=>'::Surgical equipment:: (a531d703-5900-49e1-a2e8-6271d4790966)'
+15,7=>'::Surgical equipment::'
+16,3=>'::Standard equipment:: (bf790e08-aabe-4dcb-b85c-505f0d1326cc)'
+16,7=>'::Standard equipment::'
+17,3=>'::Medications:: (bfb88f3f-1ef5-4eb7-a59c-62d2842523f1)'
+17,7=>'::Medications::'
+18,3=>'::Notes:: (eb08cce4-f709-4b1a-a38f-e65879f0e7ce)'
+18,7=>'::Notes::'
+19,2=>'::Recent patients (One month ago):: (096cf832-bc19-4adc-a77f-09a8950de7f7)'
+19,6=>'::Recent patients (One month ago)::'
+20,3=>'::Access deniedFor further information,  (788ada74-8368-47dd-80c2-8685dd21614f)'
+20,7=>'::Access denied
+
+For further information, please contact your administrator::'
+21,3=>'::Main:: (027033b2-068d-46e1-a99e-227868df8363)*'
+21,7=>'::Main::'
+22,3=>'::Articulator - 2/2Bone chisel - 7/10	Co (5eb05651-d181-4e2f-9c81-8756980cda38)'
+22,7=>'::Articulator - 2/2
+Bone chisel - 7/10	
+Cottle cartilage crusher - 0/3 (Note: We need to get these)			
+Bone cutter - (Select to open submenu)
+Bone distractor - 4/6
+Ilizarov apparatus - 2/2
+Intramedullary kinetic bone distractor - (Select to open submenu)	
+Bone drill - 5/6
+Bone lever - (Select to open submenu)
+Bone mallet - 6/6
+Bone rasp - (Select to open submenu)
+Bone saw - 6/6
+Bone skid - (Select to open submenu)	
+Bone splint - (Select to open submenu)		
+Bone button - (Select to open submenu)::'
+23,3=>'::Stethoscopes - 10/10Reflex testing ham (d029fb5f-f26e-4cda-bec7-3cea35d41a79)'
+23,7=>'::Stethoscopes - 10/10
+Reflex testing hammer - 5/5
+Sphygmomanometer - 3/3
+A thin beam electric torch - 5/5
+A watch / stopwatch - 4/4
+A measuring tape - (Select to open submenu)
+Tongue Depressor - 4/6
+A weighing machine - 2/2
+Tuning forks - 3/3
+Kidney dish - 6/5 (Note: How is this possible?)
+Bedpan 7/7::'
+24,3=>'::The medication list is too long for yo (54fe2348-f4b9-4b2a-86ce-13ff7e7de18c)'
+24,7=>'::The medication list is too long for you to review them all.::'
+25,2=>'::Notes:: (4bd6e8df-1423-42bd-8109-f8d270f82e05)'
+25,6=>'::Notes::'
+26,3=>'::Arlene Banks:: (40ff7ddd-2bd3-42ba-8dd6-a90195d21c1f)'
+26,7=>'::Arlene Banks::'
+27,3=>'::Patrick Pierce:: (e9e51e6f-d646-47c0-93ae-f22951ac5772)'
+27,7=>'::Patrick Pierce::'
+28,3=>'::Bret Fields:: (c701c7cd-283c-4053-a929-0f783b52d73e)'
+28,7=>'::Bret Fields::'
+29,3=>'::Michael Mordington:: (c2398741-4f65-4ea6-b454-485865c2ddbb)'
+29,7=>'::Michael Mordington::'
+30,3=>'::Jo Hendrix:: (33845a64-842e-4bde-9284-6a01a8817251)'
+30,7=>'::Jo Hendrix::'
+31,3=>'::Lucas Stanford:: (aa429bdf-b89a-44dc-b9c4-be9ff4503697)'
+31,7=>'::Lucas Stanford::'
+32,3=>'::Back:: (8d569ede-a6a2-4c6e-b392-0a3c26e42d9c)'
+32,7=>'::Back::'
+33,3=>'::Caliper - (Select to open submenu)Cann (419ea106-3705-4ac1-99f3-6ba57bbe30fb)'
+33,7=>'::Caliper - (Select to open submenu)
+Cannula - 4/6
+Cautery - (Select to open submenu)
+Curette - (Select to open submenu)
+Depressor - 3/3
+Dissecting Knife - 14/14 (Note: We need more of these)
+Surgical Pinzette - (Select to open submenu)	
+Forceps - (Select to open submenu) (Note: The numbers for certain types are not correct. Recheck.)
+Dermatome - 2/2
+Acanthulus - 7/7
+Hook - (Select to open submenu)
+Nerve hook - 5/5
+Obstetrical hook - 6/7
+Skin hook - 6/7
+Lancet (scalpel) - 20/24::'
+34,3=>'::Thermometer - (Select to open submenu) (bd6662b6-0dd3-46f4-adda-00fa3c8eb029)'
+34,7=>'::Thermometer - (Select to open submenu)
+Gas cylinders - 11/14
+Oxygen mask - 16/16
+Vaporizer - 5/6
+Dressing drums - 10/10
+Nebulizer - 4/5
+Positive pressure ventilator - 4/4
+Cardioverter / Defibrillator - 4/4
+Dialyser - 2/2::'
+35,3=>'::New medical equipment:: (b7984712-0720-4fe5-a781-26db27d6b457)'
+35,7=>'::New medical equipment::'
+36,3=>'::Quinton's dimethylmercury:: (dd197d3f-0a1f-4182-ae08-1cd652414aee)'
+36,7=>'::Quinton's dimethylmercury::'
+37,3=>'::Repair the lockpad:: (920be5c3-e56f-4388-a849-c3645540280f)'
+37,7=>'::Repair the lockpad::'
+38,3=>'::Surgery room lights:: (f8091491-759f-4c7d-89e6-65779488dd2b)'
+38,7=>'::Surgery room lights::'
+39,3=>'::Empty:: (1f3c5c14-34b0-4173-868c-3dfa1eddf876)'
+39,7=>'::Empty::'
+40,3=>'::Back:: (d08e062f-93de-438f-aa74-090282804da6)'
+40,7=>'::Back::'
+41,2=>'::Symptoms: InsomniaArlene reported havi (13fdf076-9b7c-4711-bd0f-f334b1dcc365)'
+41,6=>'::Symptoms: Insomnia
+
+Arlene reported having trouble falling asleep, again. Prescribed some mirtazapine for now; we'll see tomorrow how it went.
+
+Update: It worked. Will continue monitoring her condition.::'
+42,2=>'::Symptoms: Chronic back painPrescribed  (80e831cc-7c1d-427c-9174-c5a81e199a11)'
+42,7=>'::Symptoms: Chronic back pain
+
+Prescribed painkillers, gabapentin this time. We are getting low on other painkillers, and since we don't have anyone suffering from epilepsy, gabapentin will have to do.::'
+43,2=>'::Symptoms: Forehead lacerationBig Bret  (65987b8d-eb29-4705-8bb5-3e51bec8c8e5)'
+43,7=>'::Symptoms: Forehead laceration
+
+Big Bret showed up with a deep cut, about ten centimeters long, across his forehead. Caused by him tripping in the hopper pen and hitting his head on one of the rocks. Disinfected, stiched up and bandaged his head and told him to return tomorrow so that I can check for any potential complications, infections, etc.::'
+44,2=>'::Symptoms: Sharp chest painMordre came  (51a5e63a-e8ab-4ca5-b70a-da4bd6675b72)'
+44,7=>'::Symptoms: Sharp chest pain
+
+Mordre came while everyone was asleep and complained about a sharp chest pain waking him up. I checked him out but couldn't find anything. Took some samples, left him in the office while I did some testing and, other than slightly lower Vitamin B levels, nothing seems to be wrong with him.
+
+Update: He said everything is fine now. Few days have gone by without any chest pains. Told him to see me if the pain returns.::'
+45,2=>'::Symptoms: DepressionJo came and asked  (d2ab679b-a6d4-4429-aec1-97cb3aaa8a83)'
+45,6=>'::Symptoms: Depression
+
+Jo came and asked for depression tablets, sertaline. Said it's the only thing that helps her. I administered placebo treatment because I have reasons to believe it's all in her head. Gave her some inert tablets and will monitor her condition.
+
+Update: The tablets helped her a lot, just as I suspected. Will prescribe more and continue to monitor her condition further.
+::'
+46,2=>'::Symptoms: Broken toeLucas dropped a gr (88e35dc5-383e-499f-a634-299c6d6cae7e)'
+46,6=>'::Symptoms: Broken toe
+
+Lucas dropped a grenade case on his foot and smashed his toe. Fixed him up and prescribed him painkillers. Recommended only light painkiller doses so that the overuse doesn't slow down the healing process. ::'
+47,3=>'::Luxator - (Select to open submenu)Lyth (c89189e6-f225-4e26-9462-1414f746be40)'
+47,7=>'::Luxator - (Select to open submenu)
+Lythotome - (Select to open submenu)	
+Lythotript - (Select to open submenu)	
+Mallet - 15/15
+Mammotome - 2/2 (Note: I don't think those are usable anymore. Recheck.)
+Occluder - (Select to open submenu)
+Osteotome - (Select to open submenu)
+Elevator - (Select to open submenu)
+Probe - (Select to open submenu)	
+Retractor - (Select to open submenu)
+Rib spreader - 5/5
+Rongeur - (Select to open submenu)
+Ultrasonic scalpel - 10/10
+Laser scalpel - 10/10	
+Scissors - (Select to open submenu)::'
+48,3=>'::Syringe - (Select to open submenu)Canu (fb2d602c-72b3-4f31-b997-427405f77b78)'
+48,7=>'::Syringe - (Select to open submenu)
+Canula - (Select to open submenu)
+Transfusion sets - (Select to open submenu)
+Gastrointestinal tubes - (Select to open submenu)
+Nasogastric tube - (Select to open submenu)
+Stomach tube - (Select to open submenu)
+Levin's tube - (Select to open submenu)
+Kehr's "T" tube - (Select to open submenu)
+Infant feeding tube - (Select to open submenu)
+Spectacles - (Select to open submenu)
+Enema set::'
+49,2=>'::We'll be receiving new medical equipme (d7d1dec5-0c61-4c8f-a0a3-d2d384318d41)'
+49,6=>'::We'll be receiving new medical equipment soon. The existing inventory will need to be rechecked and expanded, unless we want to risk the same thing from the last time happening again.::'
+50,2=>'::Quinton retreived a dose of dimethylme (85e6deee-9134-42e4-929f-d2da2ce4e4df)'
+50,7=>'::Quinton retrieved a single dose of dimethylmercury; he mentioned he needed it for testing on burrowers.
+
+Note: Why do we even have one of the strongest neurotoxins in our inventory?::'
+51,2=>'::Reminder to notify someone to check th (48262040-5fac-4ac5-9cba-58a981f10079)'
+51,6=>'::Reminder to notify someone to check that broken lockpad. I swear, it took ten to fifteen tries for it to finally accept my keycard.::'
+52,2=>'::Surgery room lights are flickering. It (a9f89180-9279-4823-88bc-c7c79b533fea)'
+52,6=>'::Surgery room lights are flickering. It looks like a horror scene in there. Call someone to fix it.::'
+53,2=>'::Empty:: (c12ef3db-4eb2-47e6-b6a0-3bba577f65b6)'
+53,6=>'::Empty::'
+54,3=>'::Back:: (9eeff88d-906d-4d58-8831-bd4565592d7e)'
+54,7=>'::Back::'
+55,0=>'16770af4-797b-4c04-a294-a5e08bbc0961'
+55,1=>'context.watch_quest_sgsMurder_PasqualePatDrugIssue'
+56,0=>'1b84d1da-e01d-4567-9312-838c12888133'
+56,1=>'context.quest_watch_sgsMurder_knowBretVisitedDoctor'
+57,0=>'6a951065-b7e9-4b4c-88ac-32ad636c09df'
+57,1=>'context.quest_watch_sgsMurder_readMordreVisitDoc'
+58,3=>'::Spatula - (Select to open submenu)	Spe (8aeb8a61-670b-4b76-9701-28a508909718)'
+58,8=>'::Spatula - (Select to open submenu)	
+Speculum - (Select to open submenu)
+Sponge bowl - (Select to open submenu)
+Sterilization tray - (Select to open submenu)
+Sternal saw - 3/3 (Note: Def need more.)
+Suction tube - (Select to open submenu) (Note: Running low on these)		
+Surgical knife - (Select to open submenu)
+Surgical mesh - (Select to open submenu)
+Surgical needle - (Select to open submenu)
+Surgical needle (straight) - (Select to open submenu)
+Surgical needle (straight, extra large) - 1/2 (Note: One is inexplicably missing from operating room, doubt it was broken and discarded, they're big and sturdy)
+Surgical snare - (Select to open submenu)
+Surgical sponge - 34/50		
+Surgical spoon - (Select to open submenu)::'
+59,3=>'::Bandage - (Select to open submenu)Pipe (3397fe6f-c027-4259-ae09-5024571c2064)'
+59,7=>'::Bandage - (Select to open submenu)
+Pipettes or droppers - (Select to open submenu)
+Graduated spoons - (Select to open submenu)
+Ophthalmoscope - 2/5 (Note: We should get more)
+Otoscope - 6/7
+Endoscope - 3/4
+Proctoscope (Kelly's) - 4/7::'
+60,3=>'::Back:: (feb99d46-997e-4a62-bbdb-c29e5c8493a4)'
+60,7=>'::Back::'
+61,0=>'c19d9f9b-9d0a-49d8-abf8-2efe6c093c65'
+61,1=>'context.quest_watch_sgsMurder_knowQuintonPoison'
+62,3=>'::Surgical stapler - 10/10Surgical tray  (effa3d7f-a136-4636-8d90-cd7a0074bda6)'
+62,7=>'::Surgical stapler - 10/10
+Surgical tray - 20/21
+Suture Atraumatisches - 10/10
+Tonsillotome - 4/4
+Towel clamp - (Select to open submenu)
+Tracheotome - 5/5
+Tissue expander - (Select to open submenu)
+Subcutaneous - (Select to open submenu)
+Trephine - 14/14
+Trocar - 9/9::'
+63,0=>'f3202c45-9fa7-4043-a63c-c8b515e67dae'
+63,1=>'context.quest_watch_sgsMurder_noticeLargeNeedle'

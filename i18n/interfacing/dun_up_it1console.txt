@@ -1,0 +1,56 @@
+1,0=>'dun_cc_sFurnace_mainConsole'
+1,1=>''
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::BCE-HX - B_...-^rp C Eletrncccz_Firmwa (02229418-7adf-4aa9-99fe-93a965e695bb)*'
+5,7=>'::BCE-HX - B_...-^rp C Eletrncccz_
+Firmware version: 0.997::
+
+::Time since last manual decompression: 4444---
+
+Stabilization systems offline, full automatic maintenance disabled. Applied most recent stable flow configuration. Missing all sensor data.
+::'
+6,2=>' (7537c1e3-67a7-4e75-b428-251074db63f0)*'
+7,3=>'::Cooling system diagnostics:: (a210269c-b50e-4c29-a76c-daed5cc657f9)'
+7,7=>'::Cooling system diagnostics::'
+8,2=>'::Power display/management:: (dbd5718f-adb0-4a82-ad7a-8b812975bac9)'
+8,6=>'::Power display/management::'
+9,2=>'::Pressure-flow control:: (07d634a0-6ec8-4dcc-b867-a81af717da5b)'
+9,6=>'::Pressure-flow control::'
+10,3=>'::Acess to H__ towwr:: (a766a107-b4da-4f5f-bbe2-4f5aa71fbe25)'
+10,7=>'::Acess to H__ towwr::'
+11,2=>'::Leave.:: (a8deb867-874d-4e6a-8de4-265d58b113a5)'
+11,6=>'::Leave.::'
+12,3=>'::Processing data...Please wait...A load (f370298e-bb3a-4f72-ab50-7708a52df523)'
+12,7=>'::Processing data...
+
+Please wait...
+
+A loading bar is displayed, but it's not filling up at all. Red exclamation point is flashing at the end of the bar.::'
+13,1=>'tempcontext.disabled'
+14,1=>'tempcontext.disabled'
+15,3=>'::It takes a while for the program to re (7bdf5506-6337-4a38-bf0f-69462ee594da)'
+15,7=>'::It takes a while for the program to respond. Whenever you would try to hover over another option, the display doesn't respond.  
+
+Suddenly the screen goes blank, periodically flashing previously seen information. Three desultory beeping sounds play out, followed up by a distant, loud mechanical noise of a huge engine starting up. You can hear the gears turning, as the walls start to shake. The image on the monitor is restored.::'
+16,3=>'::Sensors offline. Most recent readings: (4510c549-6f1d-4c0a-b20a-e3cd63716405)*'
+16,7=>'::Sensors offline. 
+
+Most recent readings: All levels critical, insufficient core pressure, divert power immediately. Engage asynchronous pressure stabilization.::'
+17,3=>'::Access granted.Be advised, cold depres (26e7ed47-0305-4b2b-8422-702d0c51af29)*'
+17,11=>'::Access granted.
+
+Be advised, cold depressurization commencing. ::'
+18,0=>'2ea4f137-0be8-465a-8ff2-d8502adaf330'
+19,0=>'1060a59c-d8a1-4f24-aa86-c9990db9f6b9'
+20,0=>'c3c76d95-a8fe-4027-b109-b3ccd0128273'
+21,0=>'9da1dc59-0ef6-4c01-8b78-b8ffc1b38ec7'
+23,3=>'dun_up_it1_upper'
+24,2=>'dun_up_it1_vent'
+25,2=>'dun_up_it1_upper'

@@ -1,0 +1,78 @@
+1,0=>'dc_inm'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,3=>'::Main:: (6610d406-42af-42b3-b4ca-39427c1ab238)*'
+5,7=>'::Welcome, W. Abdul
+
+Main::'
+6,2=>' (fd5f5558-f697-41c0-8702-59431e0a1bab)'
+6,6=>''
+7,3=>'::Access INM:: (57a8b232-bdda-49cd-8335-0cea82d29e09)'
+7,7=>'::Access INM::'
+8,2=>'::Exit:: (7daca2d9-9899-4809-b70a-ce54c355a3c8)'
+8,6=>'::Exit::'
+9,2=>'::Warning! INM is currently offline. Ple (a8ba3cda-ffb8-4e84-b2fa-0d2907d8b6e3)*'
+9,6=>'::Warning! INM is currently offline. Please check your connection to INHE network and restart your client.
+If the problem persists, contact one of the network administrators.
+
+Number of contacts: 92
+Contacts online: 0::'
+10,3=>'::Archive:: (84139217-2b41-4e48-bf7d-e4add8d65594)'
+10,7=>'::Archive::'
+11,2=>'::Back to main:: (659d6f75-cb84-4a8a-bc82-357ef7a23bbf)'
+11,6=>'::Back to main::'
+12,3=>'::Archive:: (c354e1e3-024a-4f45-93d6-f415495663dc)*'
+12,7=>'::Archive::'
+13,2=>' (0e01a10b-0647-495b-b27b-62b014f57b9c)'
+14,3=>'::Log: 987663 - J. Dyson.:: (2b27a4ab-7af4-4441-b91c-3126060beaa2)'
+14,7=>'::Log: 987663 - J. Dyson::'
+15,3=>'::Log: 987665 - F. Manu:: (852bc1e1-1c7e-40e7-9e7d-b4014b604ce1)'
+15,7=>'::Log: 987665 - F. Manu::'
+16,3=>'::Back:: (d2661e30-e840-4c79-a84e-ea1e5bdc083b)'
+16,7=>'::Back::'
+17,2=>'::J. Dyson: Wasi, are you there?:: (6d97d0ed-a7c8-412c-84e4-ca5b0cc30f81)'
+17,6=>'::J. Dyson: Wasi, are you there?::'
+18,3=>'::F. Manu: Wasi, I'm in my room with Dys (faccb418-b5d3-4c9a-9d78-f897bc2f5746)'
+18,7=>'::F. Manu: Wasi, I'm in my room with Dyson. We knocked at your door but you didn't respond.
+F. Manu: Are you there?
+F. Manu: It's been half an hour. We're calling someone to open the door.
+W. Abdul: If they come here here, they will separate us, Wasi.
+W. Abdul: I can't take this anymore I am tired and and I can brly see And you are hurting me. 
+W. Abdul: They will hurt you more.
+W. Abdul: i just want this to end
+W. Abdul: Peel the skin from your chest now. There is nothing left on your back.::'
+19,3=>'::Back to Archive:: (20628a6d-97a8-4508-bba6-f98c9d2a82ba)'
+19,7=>'::Back to Archive::'
+20,3=>'::W. Abdul: I cantW. Abdul: You have to. (fe1f2ab8-74b2-4de9-96e0-062aed1c9d37)'
+20,7=>'::W. Abdul: I cant
+W. Abdul: You have to. You are not you anymore, don't you remember? Your body is a prison made of flesh. Get rid of it.
+W. Abdul: i can't.
+W. Abdul: You must.
+W. Abdul: I can't do it  why can't I just kill myself I can't take it anymore.
+W. Abdul: Don't cry. Pain is but a small price for your new existence. Your freedom.::'
+21,2=>'::W. Abdul: i am tired I havent slept.W. (c0463cc7-18cb-4bd4-bcd9-59ef454456fb)'
+21,6=>'::W. Abdul: i am tired I havent slept.
+W. Abdul: You will never sleep again. You don't need to. You are getting rid of it all.
+W. Abdul: why can't I kill myself
+W. Abdul: We don't want that. We don't want your existence to end. You need to remove your flesh slowly, peel off all the outer layers. What is left is you in your purest form.
+W. Abdul: i cant.
+W. Abdul: It is too late. Just set yourself free, Wasi.::'

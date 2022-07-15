@@ -1,0 +1,83 @@
+1,0=>'tch_mu1Console'
+1,4=>'English'
+1,5=>'English'
+1,6=>'English'
+1,7=>'English'
+1,8=>'English'
+1,9=>'English'
+1,10=>'English'
+1,11=>'English'
+1,12=>'English'
+1,13=>'English'
+1,14=>'English'
+1,15=>'English'
+1,16=>'English'
+1,17=>'English'
+1,18=>'English'
+1,19=>'English'
+1,20=>'English'
+1,21=>'English'
+2,3=>'Start Element'
+3,0=>'interface'
+4,0=>'player'
+5,2=>'::Utility Dumpster 6 - Terminal +-3^WeeE (a8a14ba1-a82c-4bb8-93d0-e954f2627fa0)'
+5,6=>'::Utility Dumpster 6 - Terminal +-3^
+WeeEee are coming... HEhe haHA...
+
+RegulatoRRRrs deeerailed. Sensors wEnt haYWire!!!::'
+6,3=>'::Display imaginary dysfunctiOns.:: (2977cbf3-ed71-4cd8-8e8b-91a4ea1eb601)'
+6,7=>'::Display imaginary dysfunctiOns.::'
+7,3=>'::Run diagnostics.:: (a5d6b122-9587-410d-ae16-91341700752c)'
+7,7=>'::Run diagnostics.::'
+8,2=>'::Exit:: (9bdc39a3-7d85-465e-b06c-3016bcb44283)'
+8,6=>'::Exit::'
+9,1=>'context.tch_mu2_cablesConnected'
+10,2=>'::Missing signals from at least two (O_O (8f8f60c4-836f-405b-8475-1863ab3bb74d)'
+10,8=>'::Missing signals from at least two (O_O) sensors? Disconnected connections. Manual maintenance required! ---/ /--- nope
+
+Sensor 45+3__)! interruption located N=0r7h, l0wer s3cti0n! <- misleading!>?
+
+Sensor LUN7!c interruption located $0U7h, preeeesent l33v33l.  <- lies'
+11,1=>'context.tch_mu2_cablesConnected'
+12,3=>'::System fully dyYys +- functional. Pres (64fd4f54-79ab-4c8d-bc84-31907cdb9321)*'
+12,7=>'::System fully dyYys +- functional. 
+
+Press a button from below... ummm, maybe...::'
+13,0=>'c4ca3313-c216-40f7-ae93-cd8746b083fe'
+14,0=>'21314ac0-2222-4a40-95a7-f39848945357'
+15,2=>' (2e672052-9104-4ce2-9bb3-8472e3093943)'
+15,6=>''
+16,2=>'tch_mu2_lowerArea'
+17,2=>'tch_mu2'
+18,3=>'::Activate defense systems. (all trashed (fb9555ac-745b-4463-a647-cab4a5acf7e2)'
+18,7=>'::Activate defense systems. (all trashed, don't bother hehehe)::'
+19,3=>'::Toggle gates. (some were broken before (81b123ec-6379-4259-9b4b-b5bec8dda0d2)'
+19,7=>'::Toggle gates. (some were broken before our stampede, woops)::'
+20,3=>'::Don't touch this... IT'S DIRTY #!@!:: (e40837cf-31ce-4e04-86d9-91243c76a223)'
+20,7=>'::Don't touch this... IT'S DIRTY #!@!::'
+21,1=>'context.tch_mu2_defensesActivated'
+22,3=>'::Activating all remaining units... plea (04e79170-02ce-418c-953b-a99e41d4ade1)*'
+22,8=>'::Activating all remaining units... please go away... 
+
+Remaining units low on power, take adequate measures. and what are those, huh!?::'
+23,1=>'context.tch_mu2_gatesOpened'
+24,3=>'::Gates locked and loaded... forever.:: (204fa62f-e44f-4fea-8e66-28ce6a66d445)*'
+24,9=>'::Gates locked and loaded... forever.::'
+25,1=>'context.tch_mu2_oilSpilled'
+26,3=>'::Reallocating pressure from north... se (c7057045-1931-4069-9613-c25076a909ee)*'
+26,9=>'::Reallocating pressure from north... sensors indicate numerous leaking spots, finding alternate routes... 
+
+Estimated wait time: 10^10+-123456 mindshrooms/
+
+Functional routes detected, pressure squeezed through unsuccessfully.::'
+27,0=>'3c520dda-7a8a-46b2-8b1e-03249f51aaf8'
+27,1=>'context.tch_mu2_defensesActivated'
+28,0=>'bd58bd52-a712-44bf-9311-314f85d430fd'
+28,1=>'context.tch_mu2_gatesOpened'
+29,0=>'0984d476-55e8-40e5-a38d-ec3e1b79fa51'
+30,0=>'a4fbf51f-c6fb-4a01-bfa0-3eb57cd11375'
+31,0=>'f34981b9-4aa8-4fb3-b2fd-5c8f652e33ef'
+31,1=>'context.tch_mu2_oilSpilled'
+32,1=>'tch_mu2'
+32,5=>'tch_mu2_gates'
+33,1=>'TCHMU2JSBO'
