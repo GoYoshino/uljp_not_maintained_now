@@ -45,7 +45,7 @@
     "HeaderOffset": 8404,
     "StartTextOffset": 8410,
     "EndTextOffset": 8780,
-    "Text": "ピストル、クロスボウ、サブマシンガンのいずれかを装備中に使用できる。敵を出血状態にし、{2}ターンの間ダメージを与える。出血ダメージは攻撃ダメージの{0}%を基本値とし、キャラクターのPER1ポイントごとに{1}%追加される。出血中の敵はMPが0になる。(APは残るので行動することはできる)\r\n\r\nかかとのある生命体にしか効果がない。クールダウン: {3}."
+    "Text": "ピストル、クロスボウ、サブマシンガンのいずれかを装備中に使用できる。敵を出血状態にし、{2}の間ダメージを与える。出血ダメージは攻撃ダメージの{0}%を基本値とし、キャラクターのPER1ポイントごとに{1}%追加される。出血中の敵はMPが0になる。(APは残るので行動することはできる)\r\n\r\nかかとのある生命体にしか効果がない。クールダウン: {3}."
   },
   {
     "HeaderOffset": 8790,
@@ -57,7 +57,7 @@
     "HeaderOffset": 9087,
     "StartTextOffset": 9093,
     "EndTextOffset": 9378,
-    "Text": "An attack with a pistol, crossbow, SMG or shotgun that does normal damage and applies a bleeding wound that deals additional {0}% of the original damage over {1} and removes all movement points for the same duration.\r\n\r\nOnly works on living targets (that have knees).\r\n\r\nクールダウン: {2}."
+    "Text": "ピストル、クロスボウ、サブマシンガンのいずれかを装備中に使用できる。敵を出血状態にし、{1}の間ダメージを与える。出血ダメージは攻撃ダメージの{0}%で、出血中の敵はMPが0になる。\r\n\r\nかかとのある生命体にしか効果がない。クールダウン: {2}"
   },
   {
     "HeaderOffset": 9391,
@@ -81,7 +81,7 @@
     "HeaderOffset": 9915,
     "StartTextOffset": 9921,
     "EndTextOffset": 10066,
-    "Text": "Reduces the amount of action points required to fire pistols by {0} and increases initiative by {1} while wielding one. Only applies to firearms."
+    "Text": "ピストルを発射する際の消費APが{0}減少する。ピストルを装備しているとき、イニシアティブが{1}増加する。火薬武器にしか効果がない。"
   },
   {
     "HeaderOffset": 10075,
@@ -117,7 +117,7 @@
     "HeaderOffset": 11140,
     "StartTextOffset": 11146,
     "EndTextOffset": 11272,
-    "Text": "Lowers the stealth movement speed penalty to {0}% and allows you to retain up to {1} movement points in combat while stealthed."
+    "Text": "ステルス中の移動速度ペナルティを{0}%に軽減し、ステルス状態で戦闘に入った際、MPが{1}残る。"
   },
   {
     "HeaderOffset": 11281,
@@ -129,7 +129,7 @@
     "HeaderOffset": 11469,
     "StartTextOffset": 11475,
     "EndTextOffset": 11662,
-    "Text": "Increases the base damage of your Neural Overload psi ability by {0}%. Also, whenever it lands it reduces all target's psi point gains by {1}% for {2} turns. This effect stacks {3} times."
+    "Text": "Neural Overloadの基本ダメージが{0}%上昇する。また命中時、対象のPSIポイントの自然回復を{1}%低下させる効果を{2}ターン発生させる。この効果は{3}つまで重複する。"
   },
   {
     "HeaderOffset": 11671,
@@ -159,7 +159,7 @@
     "HeaderOffset": 12263,
     "StartTextOffset": 12269,
     "EndTextOffset": 12331,
-    "Text": "Removes additional action point cost when firing special bolts."
+    "Text": "特殊ボルトを撃つ際の追加APコストがなくなる。"
   },
   {
     "HeaderOffset": 12344,
@@ -207,7 +207,7 @@
     "HeaderOffset": 13845,
     "StartTextOffset": 13851,
     "EndTextOffset": 14062,
-    "Text": "Telekinesis is strong with you.\r\n\r\nDamage from your telekinetic punch is increased by {0}%, your force field has {1}% more health and lasts {2} additional turns, and your force emission costs {3} less psi point."
+    "Text": "テレキネシス系の能力を強化する。\r\n\r\nTelekinetic Punchのダメージが{0}%増加する。Force FieldのHPが{1}%増加し、持続時間が{2}ターン増加する。Forse EmissionのPSIポイントコストが{3}減少する。"
   },
   {
     "HeaderOffset": 14083,
@@ -225,13 +225,13 @@
     "HeaderOffset": 14552,
     "StartTextOffset": 14558,
     "EndTextOffset": 14636,
-    "Text": "Reduces the action point cost of all psi abilities by {0} while at full health."
+    "Text": "HPが満タンのとき、全てのPSIアビリティのAPコストが{0}減少する。"
   },
   {
     "HeaderOffset": 14652,
     "StartTextOffset": 14658,
     "EndTextOffset": 14761,
-    "Text": "Increases critical chance of all psi abilities by {0}%, but also increases their psi point cost by {1}%."
+    "Text": "すべてのPSIアビリティのクリティカル率が{0}%増加するが、PSIポイントコストも{1}%増加する。"
   },
   {
     "HeaderOffset": 14785,
@@ -261,7 +261,7 @@
     "HeaderOffset": 15722,
     "StartTextOffset": 15728,
     "EndTextOffset": 15790,
-    "Text": "Electronic devices you craft have {0}% greater energy capacity."
+    "Text": "電子デバイスのクラフト時、電池容量が{0}%増加する。"
   },
   {
     "HeaderOffset": 15817,
@@ -273,7 +273,7 @@
     "HeaderOffset": 15944,
     "StartTextOffset": 15950,
     "EndTextOffset": 16065,
-    "Text": "Reduces the action point cost of your unarmed and fist weapon attacks by {0} while your armor penalty is below {1}%."
+    "Text": "重装ペナルティが{1}%より低いとき、素手・拳武器による攻撃のAPコストが{0}減少する。"
   },
   {
     "HeaderOffset": 16082,
@@ -333,7 +333,7 @@
     "HeaderOffset": 17604,
     "StartTextOffset": 17610,
     "EndTextOffset": 17910,
-    "Text": "You can perform a special attack with a sledgehammer that deals {0}% weapon damage and does not ignore damage threshold, but puts living targets off balance for {1} if it lands and costs only {2} action points.\r\n\r\nOff-balanced characters have their dodge and evasion reduced to zero.\r\n\r\nクールダウン: {3}"
+    "Text": "スレッジハンマーを装備中のみ使用できる。武器ダメージの{0}%を与え(装甲は有効)、対象が生命体ならば、{1}ターンの間転倒状態にする。この攻撃が命中した場合、この攻撃の消費APは{2}になる。\r\n\r\n転倒状態の敵は近接回避・遠隔回避が0になる。\r\n\r\nクールダウン: {3}"
   },
   {
     "HeaderOffset": 17931,
@@ -351,13 +351,13 @@
     "HeaderOffset": 18189,
     "StartTextOffset": 18195,
     "EndTextOffset": 18468,
-    "Text": "You can issue an intimidating shout in an attempt to reduce combat readiness of surrounding enemies and remove them from stealth . All affected enemies will have their offensive skills reduced by an amount equal to {0}% of your intimidation skill for {1}.\r\n\r\nクールダウン: {2}."
+    "Text": "恐ろしい雄たけびを発する。周辺のすべての敵は{1}ターンの間威圧状態になり、ステルス状態の敵はステルスが解除される。威圧状態の敵の攻撃スキルはプレイヤーのIntimidationスキルの{0}%と同じ数値だけ減少する。\r\n\r\nクールダウン: {2}."
   },
   {
     "HeaderOffset": 18484,
     "StartTextOffset": 18490,
     "EndTextOffset": 18650,
-    "Text": "Every time you kill an enemy with your melee or ranged weapon your movement points are reset to {0} (cannot exceed your maximum) if they were below that number."
+    "Text": "近接武器か遠隔武器で敵を倒すたび、MPが{0}まで回復する。(ただし、最大MPを超えることはない)"
   },
   {
     "HeaderOffset": 18670,
@@ -369,13 +369,13 @@
     "HeaderOffset": 18868,
     "StartTextOffset": 18874,
     "EndTextOffset": 19215,
-    "Text": "You can perform a special melee attack for {3} action points that deals increased unarmed damage and stuns living targets for {0}. If the target is humanoid male, it's stunned for {1} instead.\r\n\r\nThis attack can be performed regardless of the currently equipped weapon. The damage scales up with your unarmed attack damage.\r\n\r\nクールダウン: {2}."
+    "Text": "特別な近接攻撃アビリティを習得する。APコストは{3}で、対象が生命体ならば、{0}ターンの間スタンする。もし対象が人型の生命体かつ男ならば、スタンは{1}ターンに伸びる。\r\n\r\nこのアビリティは装備中の武器にかかわらず使える。基本ダメージは素手攻撃の威力によって決まる。\r\n\r\nクールダウン: {2}."
   },
   {
     "HeaderOffset": 19232,
     "StartTextOffset": 19238,
     "EndTextOffset": 19349,
-    "Text": "You can perform an unconditional unarmed or fist weapon attack that deals {0}% damage at {1}% action point cost."
+    "Text": "素手か拳武器でのみ使用できる。通常攻撃の{1}%のAPを消費し、{0}%のダメージを与える。"
   },
   {
     "HeaderOffset": 19371,
@@ -459,7 +459,7 @@
     "HeaderOffset": 22165,
     "StartTextOffset": 22171,
     "EndTextOffset": 22279,
-    "Text": "Increases critical hit chance with a pistol by {0}% for each base action point required to fire it above {1}."
+    "Text": "ピストルを装備しているとき、APが余っているほどクリティカル率が増加する。(攻撃に必要なAP)+10を超えた分1ポイントにつきクリティカル率+{0}%。"
   },
   {
     "HeaderOffset": 22293,
@@ -471,7 +471,7 @@
     "HeaderOffset": 22481,
     "StartTextOffset": 22487,
     "EndTextOffset": 22712,
-    "Text": "Enemies caught in your assault rifle or SMG burst attack cone (regardless of whether they've been shot) have their ranged chance to hit reduced by {0}%, action points reduced by {1} and movement points reduced by {2} for {3}."
+    "Text": "アサルトライフルかサブマシンガンのバースト射撃の扇形範囲内にいる敵(命中する必要はない)は{3}ターンの間制圧状態になる。制圧状態の敵は遠隔武器の命中率が{0}%低下し、APが{1}減少する。"
   },
   {
     "HeaderOffset": 22739,
@@ -489,7 +489,7 @@
     "HeaderOffset": 23198,
     "StartTextOffset": 23204,
     "EndTextOffset": 23372,
-    "Text": "Grants you an ability that when activated will allow you to arm your next trap instantly, even in combat in which case it will cost {0} action points.\r\n\r\nクールダウン: {1}."
+    "Text": "Quick Tinkeringのアビリティを習得する。戦闘中でも罠を即座に設置することができる。APコストは{0}。\r\n\r\nクールダウン: {1}."
   },
   {
     "HeaderOffset": 23392,
@@ -573,13 +573,13 @@
     "HeaderOffset": 25953,
     "StartTextOffset": 25959,
     "EndTextOffset": 26172,
-    "Text": "Grants you a blueprint that enables you to disassemble items that are marked as disassemble-able, obtaining the components from which it was constructed. The retreived components have {0}% of the original quality."
+    "Text": "「分解」レシピを習得する。分解可能なすべてのアイテムを分解することができ、材料をすべて回収することができる。ただし回収された素材の品質は元の{0}%になる。"
   },
   {
     "HeaderOffset": 26189,
     "StartTextOffset": 26195,
     "EndTextOffset": 26343,
-    "Text": "Whenever you should be stunned, you're dazed instead which reduces your action points by {0} and movement points by {1} but still allows you to act."
+    "Text": "スタンを無効化し、代わりにめまい状態になる(APが{0}低下し、MPが{1}低下する)。"
   },
   {
     "HeaderOffset": 26366,
@@ -645,25 +645,25 @@
     "HeaderOffset": 28117,
     "StartTextOffset": 28123,
     "EndTextOffset": 28295,
-    "Text": "Grants you the ability to perform a quick pistol, SMG or assault rifle attack that costs {0}% of the standard action point cost but has reduced precision.\r\n\r\nクールダウン: {1}."
+    "Text": "Quick Pistolアビリティを習得する。ピストル、サブマシンガン、アサルトライフルを装備時に使用でき、APコストが通常攻撃の{0}%になる代わりに精度が低下する。\r\n\r\nクールダウン: {1}."
   },
   {
     "HeaderOffset": 28319,
     "StartTextOffset": 28325,
     "EndTextOffset": 28443,
-    "Text": "Increases the chance to critically hit with weapons, unarmed attacks and psi abilities by {0}% while under {1}% health."
+    "Text": "HPが{1}%未満のとき、武器・素手・PSIによるクリティカルを受ける確率が{0}%低下する。"
   },
   {
     "HeaderOffset": 28458,
     "StartTextOffset": 28464,
     "EndTextOffset": 28538,
-    "Text": "You receive {0}% less damage from all sources for each {1}% health missing."
+    "Text": "失ったHP{1}%につき、受ける全てのダメージを{0}%軽減する。"
   },
   {
     "HeaderOffset": 28555,
     "StartTextOffset": 28561,
     "EndTextOffset": 28666,
-    "Text": "Total health increased by {0}% while wearing armor suit with (unmodified) armor penalty of {1}% or higher."
+    "Text": "重装ペナルティが{1}%以上のアーマーを胴体に装備していると、HPが{0}%増加する。."
   },
   {
     "HeaderOffset": 28687,
@@ -723,13 +723,13 @@
     "HeaderOffset": 29849,
     "StartTextOffset": 29855,
     "EndTextOffset": 29922,
-    "Text": "The quality of leathers counts as if {0}% higher in all your crafts."
+    "Text": "クラフト時、革素材の品質が{0}%増加する。"
   },
   {
     "HeaderOffset": 29941,
     "StartTextOffset": 29947,
     "EndTextOffset": 30047,
-    "Text": "アーマーをクラフトする際、金属板を素材に使用した場合の重装ペナルティを{0}%下げる。(累積)."
+    "Text": "アーマーをクラフトする際、金属板を素材に使用した場合に追加される重装ペナルティを{0}%下げる。(累積)."
   },
   {
     "HeaderOffset": 30062,
@@ -801,7 +801,7 @@
     "HeaderOffset": 31351,
     "StartTextOffset": 31357,
     "EndTextOffset": 31467,
-    "Text": "When you damage a living target by moving your telekinetic proxy, there's {0}% chance it will be dazed for {1}."
+    "Text": "[未訳]When you damage a living target by moving your telekinetic proxy, there's {0}% chance it will be dazed for {1}."
   },
   {
     "HeaderOffset": 31493,
@@ -969,13 +969,13 @@
     "HeaderOffset": 34408,
     "StartTextOffset": 34414,
     "EndTextOffset": 34506,
-    "Text": "Increases the chance to block with shields by {0}% (additive) and the amount blocked by {1}%."
+    "Text": "盾のブロック率が{0}%増加し(累加)、ブロックダメージが{1}%増加する。"
   },
   {
     "HeaderOffset": 34525,
     "StartTextOffset": 34531,
     "EndTextOffset": 34558,
-    "Text": "Initiative increased by {0}."
+    "Text": "イニシアティブが{0}増加する。"
   },
   {
     "HeaderOffset": 34578,
@@ -1041,7 +1041,7 @@
     "HeaderOffset": 36622,
     "StartTextOffset": 36628,
     "EndTextOffset": 36990,
-    "Text": "Grants you the ability to throw a spear at the target, dealing {0}%, plus additional {1}% per unit of range, of normal weapon damage. The precision of this attack is dependent on throwing skill. Costs {2} action points.\r\n\r\nクールダウン: {3}.\r\n\r\nYou will usually be able to retrieve the thrown spear afterwards, as it lands nearby the target, at no action point cost."
+    "Text": "槍投げのアビリティを習得する。槍投げは武器ダメージの{0}%を基本威力とし、対象との距離1マスにつき{1}%増加する。消費APは{2}。\r\n\r\nクールダウン: {3}.\r\n\r\n投げた後の槍はAPコストなしで回収することができる。"
   },
   {
     "HeaderOffset": 37006,
@@ -1113,7 +1113,7 @@
     "HeaderOffset": 38813,
     "StartTextOffset": 38819,
     "EndTextOffset": 38904,
-    "Text": "Increases damage done by energy pistols by {0}% for each intelligence point above {1}."
+    "Text": "INTが{1}を超えている場合、超えている1ポイントにつきエネルギーピストルのダメージが{0}%上昇する。"
   },
   {
     "HeaderOffset": 38916,
@@ -1245,7 +1245,7 @@
     "HeaderOffset": 42501,
     "StartTextOffset": 42507,
     "EndTextOffset": 42682,
-    "Text": "Each shotgun shot will grant {0}% bonus damage to shotgun attacks. When stacked up to 5, this damage bonus will change to {1}% and after the sixth attack the bonus will reset."
+    "Text": "ショットガンで攻撃するたび、自身にショットガンの攻撃力を+{0}%する能力を付与する。この能力は5つまで重複し、5つ重複したときに{1}%になる。その次の攻撃(6回目)で能力は解除される。"
   },
   {
     "HeaderOffset": 42709,
@@ -1269,7 +1269,7 @@
     "HeaderOffset": 43322,
     "StartTextOffset": 43328,
     "EndTextOffset": 43358,
-    "Text": "Psi reserves increased by {0}%."
+    "Text": "PSI能力の最大ストック数が{0}%増加する。"
   },
   {
     "HeaderOffset": 43383,
