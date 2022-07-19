@@ -3,13 +3,13 @@
     "HeaderOffset": 155,
     "StartTextOffset": 161,
     "EndTextOffset": 203,
-    "Text": "These points can only be used for movement."
+    "Text": "MP／移動にのみ使用することができる。"
   },
   {
     "HeaderOffset": 222,
     "StartTextOffset": 228,
     "EndTextOffset": 398,
-    "Text": "These points can be used for performing actions or for movement if there are no movement points left. You can carry over up to {0} unspent action points to the next turn."
+    "Text": "AP／行動に使用する。MPの代わりに移動に使うこともできる。未使用のAPは{0}まで次のターンに持ち越せる。"
   },
   {
     "HeaderOffset": 414,

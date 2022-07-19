@@ -3,7 +3,7 @@
     "HeaderOffset": 1645,
     "StartTextOffset": 1651,
     "EndTextOffset": 1743,
-    "Text": "Shows current and maximum health points. When your current health points reach zero, you die."
+    "Text": "HPの現在値と最大値。HPが0になると死亡する。"
   },
   {
     "HeaderOffset": 1770,
@@ -15,7 +15,7 @@
     "HeaderOffset": 1852,
     "StartTextOffset": 1858,
     "EndTextOffset": 2113,
-    "Text": "Shows current and maximum shield points. Whenever you're hit, the shield will absorb certain amount of damage depending on the impact speed of the attack as long as you have shield points left. Shield will also slowly deplete on their own while turned on."
+    "Text": "シールドの現在値と最大値。攻撃を受けたとき、HPの代わりにダメージを吸収する。吸収量は攻撃のShows current and maximum shield points. Whenever you're hit, the shield will absorb certain amount of damage depending on the impact speed of the attack as long as you have shield points left. Shield will also slowly deplete on their own while turned on."
   },
   {
     "HeaderOffset": 2123,

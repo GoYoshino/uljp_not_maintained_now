@@ -3,49 +3,49 @@
     "HeaderOffset": 7649,
     "StartTextOffset": 7655,
     "EndTextOffset": 7707,
-    "Text": "Movement points increased by {0} when not in stealth."
+    "Text": "ステルス状態でない限り、MPが{0}増加。"
   },
   {
     "HeaderOffset": 7722,
     "StartTextOffset": 7728,
     "EndTextOffset": 7833,
-    "Text": "Movement points increased by {0}. This character will deal {1}% bonus damage if their charge attack lands."
+    "Text": "MPが{0}増加。チャージアタックのダメージが{1}%増加。"
   },
   {
     "HeaderOffset": 7856,
     "StartTextOffset": 7862,
     "EndTextOffset": 7987,
-    "Text": "Movement points increased by {0}. This character will deal {1}% bonus damage and stun the target if their charge attack lands."
+    "Text": "移動力が{0}増加する。チャージアタックのダメージが{1}%増加し、さらに敵をスタンさせるようになる。"
   },
   {
     "HeaderOffset": 8003,
     "StartTextOffset": 8009,
     "EndTextOffset": 8061,
-    "Text": "Movement speed increased by {0}% when not in stealth."
+    "Text": "ステルス状態でない限り、MPが{0}増加。"
   },
   {
     "HeaderOffset": 8074,
     "StartTextOffset": 8080,
     "EndTextOffset": 8165,
-    "Text": "Frozen solid. Cannot perform any action, but any direct damage will cancel the effect."
+    "Text": "カチカチに凍っている。行動不能だが、直接ダメージを受けると解除される。"
   },
   {
     "HeaderOffset": 8179,
     "StartTextOffset": 8185,
     "EndTextOffset": 8215,
-    "Text": "Movement points reduced by {0}."
+    "Text": "移動力が{0}低下。"
   },
   {
     "HeaderOffset": 8240,
     "StartTextOffset": 8246,
     "EndTextOffset": 8278,
-    "Text": "This character is immune to slow."
+    "Text": "スロウ状態にならない。"
   },
   {
     "HeaderOffset": 8295,
     "StartTextOffset": 8301,
     "EndTextOffset": 8332,
-    "Text": "Movement speed decreased by {0}%"
+    "Text": "移動速度が{0}%低下。"
   },
   {
     "HeaderOffset": 8357,
