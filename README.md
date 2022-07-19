@@ -1,7 +1,7 @@
 # underrail 人間による日本語化
 
 ## これは何？
-名作"underrail"(https://store.steampowered.com/app/250520/UnderRail/)の日本語翻訳データです。
+名作"underrail"([https://store.steampowered.com/app/250520/UnderRail/](https://store.steampowered.com/app/250520/UnderRail/) )の日本語翻訳データです。
 未完成です。
 個人で空いた時間にやっているので速度はご容赦ください。
 
