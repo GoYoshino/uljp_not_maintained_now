@@ -111,7 +111,7 @@
     "HeaderOffset": 11331,
     "StartTextOffset": 11337,
     "EndTextOffset": 11610,
-    "Text": "Your cold based metathermic psi abilities also reduce target's constitution by {0}. This effect stacks up to {1} times and lasts up to {2}.\r\n\r\nCan be mitigated with cold resistance and targets that are immune to chilling and freezing effects are also immune to hypothermia."
+    "Text": "冷気系のPSIアビリティに、{1}ターンの間対象のCONを{0}低下させる効果を付与する。この効果は{1}回まで重複する。\r\n\r\nこの効果は冷気耐性によって軽減でき、冷気が効かない対象には効果がない。"
   },
   {
     "HeaderOffset": 11618,
@@ -183,13 +183,13 @@
     "HeaderOffset": 13505,
     "StartTextOffset": 13511,
     "EndTextOffset": 13740,
-    "Text": "Whenever you deal damage with your fire based psi abilities you have a chance to set the target on fire, dealing {0}% of that damage again over {1} turns.\r\n\r\nSetting living targets on fire will put them in state of extreme panic."
+    "Text": "炎系のPSIアビリティでダメージを与えた際、一定確率で対象を{1}ターンの間炎上状態にする。炎上のダメージは炎上を引き起こした攻撃のダメージの{0}%。\r\n\r\n炎上状態の敵は、もし生命体ならば、極度の混乱に陥る。"
   },
   {
     "HeaderOffset": 13755,
     "StartTextOffset": 13761,
     "EndTextOffset": 13883,
-    "Text": "You can fire two extra rounds during your assault rifle and SMG burst attack if you are strong enough to take the kickback."
+    "Text": "アサルトライフルかサブマシンガンのバースト射撃の発射数が2増える。反動に耐えられる筋力が必要。"
   },
   {
     "HeaderOffset": 13903,
@@ -201,7 +201,7 @@
     "HeaderOffset": 14087,
     "StartTextOffset": 14093,
     "EndTextOffset": 14312,
-    "Text": "When attacking an illuminated target from out of the darkness with a single-target ranged weapon you ignore half the target's evasion and your critical chance is increased by {0}% plus {1}% for each stealth skill point."
+    "Text": "自分が暗いタイルにいるときに明るいタイルにいる敵に対して単体遠隔武器で攻撃したとき、対象のEvasionスキルの半分を無視し、クリティカル率を({0}%+自身のStealthスキル1につき{1}%)する。"
   },
   {
     "HeaderOffset": 14328,
@@ -243,7 +243,7 @@
     "HeaderOffset": 15477,
     "StartTextOffset": 15483,
     "EndTextOffset": 15710,
-    "Text": "When activated this ability will reduce the psi cost of your next psi ability by {0}%, its action point cost by {1}% and increase its range by {2}. The range is not increased for channeled abilities.\r\n\r\nクールダウン: {3}."
+    "Text": "アビリティを習得する。次に使用するPSIアビリティはPSIポイントコストが{0}%軽減され、APコストが{1}%軽減され、さらに射程が{2}伸びる。ただしChannelling系のアビリティは射程が伸びない。\r\n\r\nクールダウン: {3}."
   },
   {
     "HeaderOffset": 15726,
@@ -399,7 +399,7 @@
     "HeaderOffset": 20975,
     "StartTextOffset": 20981,
     "EndTextOffset": 21119,
-    "Text": "Increases critical damage bonus of your melee attacks by {0}% and gives your melee attacks {1}% chance to incapacitate the target for {2}."
+    "Text": "近接攻撃のクリティカルダメージボーナスが{0}%増加し、すべての近接攻撃に{1}%の確率で{2}ターンの間対象を無力化する追加効果を付与する。"
   },
   {
     "HeaderOffset": 21134,
@@ -411,7 +411,7 @@
     "HeaderOffset": 21413,
     "StartTextOffset": 21419,
     "EndTextOffset": 21636,
-    "Text": "Grants you an ability that when activated will cause you to dodge the next {0} regular or special melee attacks targeted against you, plus an additional attack for each {1} points in dodge.\r\n\r\nクールダウン: {2}."
+    "Text": "アビリティを習得する。近接攻撃である限り、通常／特殊攻撃を{0}回だけ回避する。Dodgeスキル{1}ポイントにつき回避回数が+1される。\r\n\r\nクールダウン: {2}."
   },
   {
     "HeaderOffset": 21659,
@@ -453,7 +453,7 @@
     "HeaderOffset": 22692,
     "StartTextOffset": 22698,
     "EndTextOffset": 22875,
-    "Text": "You can perform a special melee attack that deals normal damage and reduces target's mechanical resistance and threshold by {0}% for {1} if it lands.\r\n\r\nクールダウン: {2}."
+    "Text": "アビリティを習得する。近接攻撃でAPコストは{3}。命中したならば、{1}の間対象の物理耐性と物理装甲を50%低下させる。\r\n\r\nクールダウン: {2}."
   },
   {
     "HeaderOffset": 22894,
@@ -495,7 +495,7 @@
     "HeaderOffset": 24175,
     "StartTextOffset": 24181,
     "EndTextOffset": 24351,
-    "Text": "When you land a melee attack you gain up to {0} movement points, depending on your armor penalty. This cannot raise your movement points beyond twice your normal maximum."
+    "Text": "近接攻撃を命中させるたび、重装ペナルティを基準に最大{0}のMPを回復する。もともとの最大MPの2倍を超えては回復しない。"
   },
   {
     "HeaderOffset": 24375,
@@ -537,7 +537,7 @@
     "HeaderOffset": 25597,
     "StartTextOffset": 25603,
     "EndTextOffset": 25823,
-    "Text": "When you strike a living target with fist weapon or unarmed attack you have {0}% chance to reduce target's movement points by {1}, action points by {2} and chance to hit with all ranged weapons by {3}%. Stacks {4} times."
+    "Text": "拳武器か素手で生命体を攻撃したとき、{0}%の確率で対象のMPを{1}、APを{2}減らし、すべての遠隔攻撃の命中率を{3}%低下させる。この効果は{4}回まで重複する。"
   },
   {
     "HeaderOffset": 25835,
@@ -567,7 +567,7 @@
     "HeaderOffset": 26656,
     "StartTextOffset": 26662,
     "EndTextOffset": 26748,
-    "Text": "Increases the amount of goods merchants will buy from you by {0}% per mercantile skill."
+    "Text": "Merchantileスキル1につき、商人が買い取ってくれるアイテムの個数が{0}%増加する。"
   },
   {
     "HeaderOffset": 26766,
@@ -597,7 +597,7 @@
     "HeaderOffset": 27519,
     "StartTextOffset": 27525,
     "EndTextOffset": 27611,
-    "Text": "Your throwing knives have {0}% chance to pin living targets to the ground for one turn."
+    "Text": "投げナイフによる攻撃に{0}%の確率で対象を地面に束縛する追加効果を得る。"
   },
   {
     "HeaderOffset": 27628,
@@ -741,7 +741,7 @@
     "HeaderOffset": 31138,
     "StartTextOffset": 31144,
     "EndTextOffset": 31208,
-    "Text": "On-hit effects of chemical pistols you craft are twice as strong."
+    "Text": "化学ピストルをクラフトすると、完成品の命中時の追加効果が2倍になる。"
   },
   {
     "HeaderOffset": 31226,
@@ -813,7 +813,7 @@
     "HeaderOffset": 32669,
     "StartTextOffset": 32675,
     "EndTextOffset": 32893,
-    "Text": "When you damage a target with your electrical psionics you apply a debuff that increases the chance for the target to be critically hit by weapon and unarmed attacks and psi abilities by {0}% for {1}. Stacks {2} times."
+    "Text": "電気系のPSIアビリティで敵を攻撃した際、武器・素手・PSIアビリティによる被クリティカル率を{0}%上昇させるデバフを{1}ターンの間付与する追加効果を得る。デバフは{2}回まで重複する。"
   },
   {
     "HeaderOffset": 32916,
@@ -1023,7 +1023,7 @@
     "HeaderOffset": 36827,
     "StartTextOffset": 36833,
     "EndTextOffset": 36949,
-    "Text": "Grants you a special attack with the spear that automatically critically hits if it lands.\r\n\r\nクールダウン: {0}"
+    "Text": "アビリティを習得する。槍を装備中のみ使用でき、命中すればかならずクリティカルになる。\r\n\r\nクールダウン: {0}"
   },
   {
     "HeaderOffset": 36962,
@@ -1053,13 +1053,13 @@
     "HeaderOffset": 38346,
     "StartTextOffset": 38352,
     "EndTextOffset": 38587,
-    "Text": "Grants you a special sword attack that deals {0}% of normal weapon damage and can instantly kill a living target if it deals more than {1}% of its remaining health (providing the target has an exposed head).\r\n\r\nクールダウン: {2}."
+    "Text": "アビリティを習得する。剣を装備中のみ使用可能。通常攻撃の{0}%のダメージを与える。対象が生命体かつ頭部が保護されていないならば、このアビリティで残りHPの{1}%以上のダメージを与えたとき、一定確率で即死させる。\r\n\r\nクールダウン: {2}."
   },
   {
     "HeaderOffset": 38601,
     "StartTextOffset": 38607,
     "EndTextOffset": 38780,
-    "Text": "When you block any damage while holding a sword, you can perform a special sword attack with increased chance to hit that deals normal weapon damage at no action point cost."
+    "Text": "剣を装備中にブロックが発動したとき、特殊な反撃アビリティをAPコストなしで使えるようになる。威力は通常攻撃と同じで、命中率は通常攻撃より高い。"
   },
   {
     "HeaderOffset": 38798,
@@ -1089,7 +1089,7 @@
     "HeaderOffset": 39296,
     "StartTextOffset": 39302,
     "EndTextOffset": 39414,
-    "Text": "Your shotgun attacks grant you additional {0}% critical chance for each target you hit for the next shotgun shot."
+    "Text": "ショットガンを命中させると、次のショットガンによる攻撃はその相手に対して追加の{0}%のクリティカル率を得る。"
   },
   {
     "HeaderOffset": 39432,
@@ -1209,7 +1209,7 @@
     "HeaderOffset": 42345,
     "StartTextOffset": 42351,
     "EndTextOffset": 42531,
-    "Text": "Grants you a melee attack that deals mechanical damage equal to {0}%-{1}% of the amount blocked by the carried riot shield and dazes the target for {2}.\r\n\r\nクールダウン: {3}."
+    "Text": "アビリティを習得する。ライオットシールドを装備中のみ使用可能な近接攻撃で、シールドによってブロックしたダメージの{0}%-{1}%に等しい物理ダメージを与え、対象を{2}ターンの間めまい状態にする。\r\n\r\nクールダウン: {3}."
   },
   {
     "HeaderOffset": 42548,
@@ -1401,7 +1401,7 @@
     "HeaderOffset": 47406,
     "StartTextOffset": 47412,
     "EndTextOffset": 47588,
-    "Text": "When attacking with firearm pistols in melee range, your effective attack skill is increased by {0}% of your unmodified melee skill for all purposes, including the damage done."
+    "Text": "隣接する敵に火薬式のピストルで攻撃した際、その攻撃のスキルは近接攻撃スキルの{0}%を足したものとして判定する。"
   },
   {
     "HeaderOffset": 47605,
