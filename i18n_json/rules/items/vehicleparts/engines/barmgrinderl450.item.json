@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 308,
+    "Text": "VehiclePart.BArmGrinderL450"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 331,
+    "Text": "BArm Grinder L450"
+  },
+  {
+    "HeaderOffset": 367,
+    "StartTextOffset": 373,
+    "EndTextOffset": 521,
+    "Text": "A rare electrical engine from Biocorp Armory's limited \"Grinder\" series. Though powerful, these engines are infamous for their size and consumption."
+  },
+  {
+    "HeaderOffset": 522,
+    "StartTextOffset": 528,
+    "EndTextOffset": 554,
+    "Text": "VehiclePart.BArmGrinderL450"
+  },
+  {
+    "HeaderOffset": 705,
+    "StartTextOffset": 711,
+    "EndTextOffset": 717,
+    "Text": "biocorp"
+  }
+]

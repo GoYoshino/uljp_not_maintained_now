@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 250,
+    "Text": "Oddity.VeryOldCheeseWheel"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 277,
+    "Text": "Very Old Cheese Wheel"
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 390,
+    "Text": "It hardened so much that it can probably be used as a railcar wheel now."
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 421,
+    "Text": "Oddity.VeryOldCheeseWheel"
+  }
+]

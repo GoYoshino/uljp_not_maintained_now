@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 231,
+    "Text": "Ammo.BroadheadBolt"
+  },
+  {
+    "HeaderOffset": 232,
+    "StartTextOffset": 238,
+    "EndTextOffset": 251,
+    "Text": "Broadhead Bolt"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 365,
+    "Text": "A broad bolt head has less penetration, but creates a big bleeding wound."
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 358,
+    "Text": " broad bolt head has less penetration, but creates a big bleeding"
+  },
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 378,
+    "Text": "Ammo.91"
+  },
+  {
+    "HeaderOffset": 568,
+    "StartTextOffset": 574,
+    "EndTextOffset": 591,
+    "Text": "ShootBroadheadBolt"
+  }
+]

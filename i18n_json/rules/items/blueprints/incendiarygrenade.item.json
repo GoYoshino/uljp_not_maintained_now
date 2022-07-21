@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 256,
+    "Text": "incendiaryGrenadeBlueprint"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 291,
+    "Text": "Blueprint: Incendiary Grenade"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 393,
+    "Text": "Contains instructions on how to create an incendiary grenade."
+  },
+  {
+    "HeaderOffset": 394,
+    "StartTextOffset": 400,
+    "EndTextOffset": 408,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 541,
+    "StartTextOffset": 547,
+    "EndTextOffset": 563,
+    "Text": "incendiaryGrenade"
+  },
+  {
+    "HeaderOffset": 622,
+    "StartTextOffset": 628,
+    "EndTextOffset": 647,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 237,
+    "Text": "supersoldierDrug"
+  },
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 260,
+    "Text": "Supersoldier Drug"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 324,
+    "Text": "Harder better faster..."
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 352,
+    "Text": "Items.SupersoldierDrug"
+  },
+  {
+    "HeaderOffset": 543,
+    "StartTextOffset": 549,
+    "EndTextOffset": 575,
+    "Text": "SupersoldierDrugConsumation"
+  }
+]

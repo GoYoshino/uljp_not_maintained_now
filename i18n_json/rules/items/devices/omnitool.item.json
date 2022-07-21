@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 237,
+    "Text": "omniTool"
+  },
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 252,
+    "Text": "Omni-Tool"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 328,
+    "Text": "A set of standard mechanical tools."
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 344,
+    "Text": "Devices.13"
+  },
+  {
+    "HeaderOffset": 539,
+    "StartTextOffset": 545,
+    "EndTextOffset": 552,
+    "Text": "openVent"
+  },
+  {
+    "HeaderOffset": 562,
+    "StartTextOffset": 568,
+    "EndTextOffset": 576,
+    "Text": "closeVent"
+  }
+]

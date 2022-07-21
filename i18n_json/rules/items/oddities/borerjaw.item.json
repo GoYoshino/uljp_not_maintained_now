@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 234,
+    "Text": "Oddity.BorerJaw"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 249,
+    "Text": "Borer Jaw"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 356,
+    "Text": "It's the inner jaw of a borer. It's lined with sharp stoney teeth."
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 377,
+    "Text": "Oddity.BorerJaw"
+  }
+]

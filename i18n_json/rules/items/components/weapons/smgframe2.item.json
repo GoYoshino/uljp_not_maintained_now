@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 305,
+    "Text": "smgFrame2"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 331,
+    "Text": "SMG Frame: Steel Cat"
+  },
+  {
+    "HeaderOffset": 367,
+    "StartTextOffset": 373,
+    "EndTextOffset": 472,
+    "Text": "This frame is used to create a Steel Cat type submachine gun. It supports 7.62mm and 8.60mm barrels."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 457,
+    "Text": "his frame is used to create a Steel Cat type submachine gun. It supports 7.62mm and "
+  },
+  {
+    "HeaderOffset": 473,
+    "StartTextOffset": 479,
+    "EndTextOffset": 489,
+    "Text": "smg.2.frame"
+  },
+  {
+    "HeaderOffset": 812,
+    "StartTextOffset": 818,
+    "EndTextOffset": 826,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 864,
+    "StartTextOffset": 870,
+    "EndTextOffset": 889,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 958,
+    "StartTextOffset": 964,
+    "EndTextOffset": 967,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 968,
+    "StartTextOffset": 974,
+    "EndTextOffset": 982,
+    "Text": "Steel Cat"
+  },
+  {
+    "HeaderOffset": 1033,
+    "StartTextOffset": 1039,
+    "EndTextOffset": 1058,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1090,
+    "StartTextOffset": 1096,
+    "EndTextOffset": 1114,
+    "Text": "CriticalDamageBonus"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 255,
+    "Text": "psiMentor.ForceField"
+  },
+  {
+    "HeaderOffset": 256,
+    "StartTextOffset": 262,
+    "EndTextOffset": 288,
+    "Text": "Psionic Mentor: Force Field"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 437,
+    "Text": "This device can be used to automatically teach yourself Force Field psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 414,
+    "Text": "his device can be used to automatically teach yourself Force Field psi ability throu"
+  },
+  {
+    "HeaderOffset": 438,
+    "StartTextOffset": 444,
+    "EndTextOffset": 462,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 596,
+    "StartTextOffset": 602,
+    "EndTextOffset": 611,
+    "Text": "Forcefield"
+  },
+  {
+    "HeaderOffset": 670,
+    "StartTextOffset": 676,
+    "EndTextOffset": 695,
+    "Text": "PsiMentorConsumation"
+  }
+]

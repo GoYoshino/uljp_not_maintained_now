@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 248,
+    "Text": "trap.BearTrap"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 263,
+    "Text": "Bear Trap"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 370,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim."
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 370,
+    "Text": " simple mechanical trap designed to wound and ensnare the victim."
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 389,
+    "Text": "Explosives.90"
+  },
+  {
+    "HeaderOffset": 592,
+    "StartTextOffset": 598,
+    "EndTextOffset": 610,
+    "Text": "PlaceBearTrap"
+  }
+]

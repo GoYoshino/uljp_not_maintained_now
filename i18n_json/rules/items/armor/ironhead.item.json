@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 499,
+    "Text": "ironHead"
+  },
+  {
+    "HeaderOffset": 500,
+    "StartTextOffset": 506,
+    "EndTextOffset": 514,
+    "Text": "Iron Head"
+  },
+  {
+    "HeaderOffset": 550,
+    "StartTextOffset": 556,
+    "EndTextOffset": 631,
+    "Text": "A heavy weirdly-shaped tungsten helmet inlined with malodorous rathound fur."
+  },
+  {
+    "HeaderOffset": 551,
+    "StartTextOffset": 557,
+    "EndTextOffset": 621,
+    "Text": " heavy weirdly-shaped tungsten helmet inlined with malodorous rat"
+  },
+  {
+    "HeaderOffset": 632,
+    "StartTextOffset": 638,
+    "EndTextOffset": 651,
+    "Text": "Armor.IronHead"
+  },
+  {
+    "HeaderOffset": 1191,
+    "StartTextOffset": 1197,
+    "EndTextOffset": 1206,
+    "Text": "Perception"
+  },
+  {
+    "HeaderOffset": 1352,
+    "StartTextOffset": 1358,
+    "EndTextOffset": 1367,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1428,
+    "StartTextOffset": 1434,
+    "EndTextOffset": 1450,
+    "Text": "MonsterInfrequent"
+  }
+]

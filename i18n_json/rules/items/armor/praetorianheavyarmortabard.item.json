@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 550,
+    "StartTextOffset": 556,
+    "EndTextOffset": 581,
+    "Text": "praetorianHeavyArmorTabard"
+  },
+  {
+    "HeaderOffset": 582,
+    "StartTextOffset": 588,
+    "EndTextOffset": 609,
+    "Text": "Praetorian Peacekeeper"
+  },
+  {
+    "HeaderOffset": 645,
+    "StartTextOffset": 651,
+    "EndTextOffset": 906,
+    "Text": "It's a high-quality full steel suit of armor specially designed to deter any potential criminal activity of resident zoners while anticipating their rascally backstabbing attacks. This version comes with a cloth overlay commonly referred to as a scapular."
+  },
+  {
+    "HeaderOffset": 907,
+    "StartTextOffset": 913,
+    "EndTextOffset": 944,
+    "Text": "Armor.PraetorianHeavyArmorTabard"
+  },
+  {
+    "HeaderOffset": 1327,
+    "StartTextOffset": 1333,
+    "EndTextOffset": 1337,
+    "Text": "praet"
+  },
+  {
+    "HeaderOffset": 1581,
+    "StartTextOffset": 1587,
+    "EndTextOffset": 1596,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1615,
+    "StartTextOffset": 1621,
+    "EndTextOffset": 1632,
+    "Text": "Intimidation"
+  }
+]

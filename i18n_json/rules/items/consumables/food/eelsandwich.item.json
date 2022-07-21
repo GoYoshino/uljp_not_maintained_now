@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 243,
+    "Text": "food.eelSandwich"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 261,
+    "Text": "Eel Sandwich"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 380,
+    "Text": "Delicious cooked meat of variety of eels between two slices of dark rootbread."
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 371,
+    "Text": "elicious cooked meat of variety of eels between two slices of dark r"
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 392,
+    "Text": "Food.4"
+  },
+  {
+    "HeaderOffset": 622,
+    "StartTextOffset": 628,
+    "EndTextOffset": 642,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 668,
+    "StartTextOffset": 674,
+    "EndTextOffset": 681,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 682,
+    "StartTextOffset": 688,
+    "EndTextOffset": 698,
+    "Text": "eelSandwich"
+  },
+  {
+    "HeaderOffset": 708,
+    "StartTextOffset": 714,
+    "EndTextOffset": 721,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 722,
+    "StartTextOffset": 728,
+    "EndTextOffset": 739,
+    "Text": "Eel Sandwich"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 240,
+    "Text": "riotGearBlueprint"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 266,
+    "Text": "Blueprint: Riot Gear"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 368,
+    "Text": "Contains instructions on how to create a riot gear armor set."
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 383,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 515,
+    "StartTextOffset": 521,
+    "EndTextOffset": 528,
+    "Text": "riotGear"
+  },
+  {
+    "HeaderOffset": 587,
+    "StartTextOffset": 593,
+    "EndTextOffset": 612,
+    "Text": "blueprintconsumation"
+  }
+]

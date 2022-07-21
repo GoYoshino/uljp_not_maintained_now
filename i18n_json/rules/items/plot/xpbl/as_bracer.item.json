@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 242,
+    "Text": "plot.xpbl_as_toolBracer"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 288,
+    "Text": "Empty Tool Bracer (Abyssal Station Zero)"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 696,
+    "Text": "Through its transparent cover you can see slots for various tools, none of which are present. These tools are stored around the user's forearm and could be rotated until reaching an opening at the anterior side. From here, they are likely inserted into or even extracted from the hand. Unfortunately, this neat-looking device doesn't appear to be functional anymore."
+  },
+  {
+    "HeaderOffset": 697,
+    "StartTextOffset": 703,
+    "EndTextOffset": 714,
+    "Text": "xpbl_Plot.38"
+  }
+]

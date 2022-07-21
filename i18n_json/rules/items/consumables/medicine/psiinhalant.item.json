@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 245,
+    "Text": "psiInhalant"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 279,
+    "Text": "Desaturated Psionic Inhalant"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 473,
+    "Text": "It's a one-time use inhaler containing a moderate dose of desaturated psionic inhalant. This is the most common way of restoring one's psionic reserves."
+  },
+  {
+    "HeaderOffset": 474,
+    "StartTextOffset": 480,
+    "EndTextOffset": 486,
+    "Text": "Meds.24"
+  },
+  {
+    "HeaderOffset": 679,
+    "StartTextOffset": 685,
+    "EndTextOffset": 710,
+    "Text": "PsionicInhalantConsumation"
+  }
+]

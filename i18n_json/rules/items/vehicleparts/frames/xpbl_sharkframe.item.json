@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 455,
+    "StartTextOffset": 461,
+    "EndTextOffset": 475,
+    "Text": "xpbl_sharkFrame"
+  },
+  {
+    "HeaderOffset": 476,
+    "StartTextOffset": 482,
+    "EndTextOffset": 492,
+    "Text": "Shark Frame"
+  },
+  {
+    "HeaderOffset": 529,
+    "StartTextOffset": 535,
+    "EndTextOffset": 540,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1034,
+    "StartTextOffset": 1040,
+    "EndTextOffset": 1049,
+    "Text": "xpbl_shark"
+  },
+  {
+    "HeaderOffset": 1116,
+    "StartTextOffset": 1122,
+    "EndTextOffset": 1137,
+    "Text": "ShootHarp1Rocket"
+  }
+]

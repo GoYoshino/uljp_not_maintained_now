@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 228,
+    "Text": "Ammo.ShockBolt3"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 251,
+    "Text": "Shock Bolt Mk III"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 380,
+    "Text": "When fired from a crossbow this bolt inflicts electrical damage and can stun the target."
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 380,
+    "Text": "hen fired from a crossbow this bolt inflicts electrical damage and can stun the target."
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 401,
+    "Text": "Ammo.ShockBolt3"
+  },
+  {
+    "HeaderOffset": 610,
+    "StartTextOffset": 616,
+    "EndTextOffset": 629,
+    "Text": "ShootShockBolt"
+  },
+  {
+    "HeaderOffset": 656,
+    "StartTextOffset": 662,
+    "EndTextOffset": 666,
+    "Text": "power"
+  }
+]

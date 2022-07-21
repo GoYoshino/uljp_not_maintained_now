@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 719,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 782,
+    "Text": "wep.ak_rf"
+  },
+  {
+    "HeaderOffset": 783,
+    "StartTextOffset": 789,
+    "EndTextOffset": 803,
+    "Text": "Refurbished AKX"
+  },
+  {
+    "HeaderOffset": 839,
+    "StartTextOffset": 845,
+    "EndTextOffset": 1045,
+    "Text": "Though of modest appearance, this old world rifle is basically indestructible. Unfortunately, the impression of historic ruggedness and perseverance seems to have been diminished by its refurbishment."
+  },
+  {
+    "HeaderOffset": 1046,
+    "StartTextOffset": 1052,
+    "EndTextOffset": 1063,
+    "Text": "Weapon.AK_rf"
+  },
+  {
+    "HeaderOffset": 1740,
+    "StartTextOffset": 1746,
+    "EndTextOffset": 1749,
+    "Text": "uwep"
+  }
+]

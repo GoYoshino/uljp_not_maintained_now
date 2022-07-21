@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 441,
+    "Text": "Biotechnician's Suit"
+  },
+  {
+    "HeaderOffset": 477,
+    "StartTextOffset": 483,
+    "EndTextOffset": 531,
+    "Text": "This suit offers a moderate biohazard protection."
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 546,
+    "Text": "Armors.41"
+  },
+  {
+    "HeaderOffset": 807,
+    "StartTextOffset": 813,
+    "EndTextOffset": 819,
+    "Text": "biotech"
+  }
+]

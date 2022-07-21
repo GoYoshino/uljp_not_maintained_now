@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 265,
+    "Text": "psiMentor.ForceEmission"
+  },
+  {
+    "HeaderOffset": 266,
+    "StartTextOffset": 272,
+    "EndTextOffset": 301,
+    "Text": "Psionic Mentor: Force Emission"
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 453,
+    "Text": "This device can be used to automatically teach yourself Force Emission psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 427,
+    "Text": "his device can be used to automatically teach yourself Force Emission psi ability th"
+  },
+  {
+    "HeaderOffset": 454,
+    "StartTextOffset": 460,
+    "EndTextOffset": 478,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 613,
+    "StartTextOffset": 619,
+    "EndTextOffset": 631,
+    "Text": "ForceEmission"
+  },
+  {
+    "HeaderOffset": 690,
+    "StartTextOffset": 696,
+    "EndTextOffset": 715,
+    "Text": "PsiMentorConsumation"
+  }
+]

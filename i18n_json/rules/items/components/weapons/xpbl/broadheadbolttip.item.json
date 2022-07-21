@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 306,
+    "Text": "broadheadBoltTip"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 330,
+    "Text": "Broadhead Bolt Tip"
+  },
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 438,
+    "Text": "A broad bolt head has less penetration, but creates a bigger wound."
+  },
+  {
+    "HeaderOffset": 367,
+    "StartTextOffset": 373,
+    "EndTextOffset": 437,
+    "Text": " broad bolt head has less penetration, but creates a bigger wound"
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 471,
+    "Text": "Components.BroadheadBoltTip"
+  },
+  {
+    "HeaderOffset": 724,
+    "StartTextOffset": 730,
+    "EndTextOffset": 738,
+    "Text": "Mechanics"
+  }
+]

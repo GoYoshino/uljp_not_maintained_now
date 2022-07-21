@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 396,
+    "StartTextOffset": 402,
+    "EndTextOffset": 435,
+    "Text": "component.infusedCaveHopperLeather"
+  },
+  {
+    "HeaderOffset": 436,
+    "StartTextOffset": 442,
+    "EndTextOffset": 468,
+    "Text": "Infused Cave Hopper Leather"
+  },
+  {
+    "HeaderOffset": 504,
+    "StartTextOffset": 510,
+    "EndTextOffset": 701,
+    "Text": "Cave hopper skin can be turned into a suit of leather armor. Usually it provides only meager protection, but in this case it has been infused with super steel fiber to enhance its properties."
+  },
+  {
+    "HeaderOffset": 702,
+    "StartTextOffset": 708,
+    "EndTextOffset": 721,
+    "Text": "Components.281"
+  },
+  {
+    "HeaderOffset": 1213,
+    "StartTextOffset": 1219,
+    "EndTextOffset": 1227,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1295,
+    "StartTextOffset": 1301,
+    "EndTextOffset": 1307,
+    "Text": "Agility"
+  },
+  {
+    "HeaderOffset": 1333,
+    "StartTextOffset": 1339,
+    "EndTextOffset": 1354,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1355,
+    "StartTextOffset": 1361,
+    "EndTextOffset": 1409,
+    "Text": "This {0} is made of infused cave hopper leather. "
+  },
+  {
+    "HeaderOffset": 1419,
+    "StartTextOffset": 1425,
+    "EndTextOffset": 1438,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1439,
+    "StartTextOffset": 1445,
+    "EndTextOffset": 1463,
+    "Text": "Infused Cave Hopper"
+  },
+  {
+    "HeaderOffset": 1473,
+    "StartTextOffset": 1479,
+    "EndTextOffset": 1500,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1501,
+    "StartTextOffset": 1507,
+    "EndTextOffset": 1557,
+    "Text": "These {0} are made of infused cave hopper leather. "
+  },
+  {
+    "HeaderOffset": 1584,
+    "StartTextOffset": 1590,
+    "EndTextOffset": 1602,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1633,
+    "StartTextOffset": 1639,
+    "EndTextOffset": 1646,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1677,
+    "StartTextOffset": 1683,
+    "EndTextOffset": 1690,
+    "Text": "Infusion"
+  }
+]

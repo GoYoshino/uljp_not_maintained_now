@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 241,
+    "Text": "tntChargeBlueprint"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 270,
+    "Text": "Blueprint: T.N.T Charge"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 383,
+    "Text": "Contains instructions on how to assemble a timer triggered T.N.T charge."
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 379,
+    "Text": "ontains instructions on how to assemble a timer triggered T.N.T cha"
+  },
+  {
+    "HeaderOffset": 384,
+    "StartTextOffset": 390,
+    "EndTextOffset": 398,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 530,
+    "StartTextOffset": 536,
+    "EndTextOffset": 539,
+    "Text": "tntc"
+  },
+  {
+    "HeaderOffset": 598,
+    "StartTextOffset": 604,
+    "EndTextOffset": 623,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 239,
+    "Text": "empMineBlueprint"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 264,
+    "Text": "Blueprint: EMP Mine"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 356,
+    "Text": "Contains instructions on how to create an EMP mine."
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 371,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 503,
+    "StartTextOffset": 509,
+    "EndTextOffset": 515,
+    "Text": "empMine"
+  },
+  {
+    "HeaderOffset": 574,
+    "StartTextOffset": 580,
+    "EndTextOffset": 599,
+    "Text": "blueprintconsumation"
+  }
+]

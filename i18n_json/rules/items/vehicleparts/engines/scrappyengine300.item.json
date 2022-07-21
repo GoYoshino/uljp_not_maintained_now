@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 309,
+    "Text": "VehiclePart.ScrappyEngine300"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 335,
+    "Text": "Large Scrappy Engine"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 441,
+    "Text": "It's a large unmarked electrical vehicle engine in bad condition."
+  },
+  {
+    "HeaderOffset": 442,
+    "StartTextOffset": 448,
+    "EndTextOffset": 475,
+    "Text": "VehiclePart.ScrappyEngine300"
+  },
+  {
+    "HeaderOffset": 626,
+    "StartTextOffset": 632,
+    "EndTextOffset": 638,
+    "Text": "default"
+  }
+]

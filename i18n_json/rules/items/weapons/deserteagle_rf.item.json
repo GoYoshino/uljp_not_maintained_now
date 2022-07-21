@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 746,
+    "StartTextOffset": 752,
+    "EndTextOffset": 755,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 804,
+    "StartTextOffset": 810,
+    "EndTextOffset": 827,
+    "Text": "wep.desertEagle_rf"
+  },
+  {
+    "HeaderOffset": 828,
+    "StartTextOffset": 834,
+    "EndTextOffset": 859,
+    "Text": "Refurbished Wasteland Hawk"
+  },
+  {
+    "HeaderOffset": 895,
+    "StartTextOffset": 901,
+    "EndTextOffset": 938,
+    "Text": "Powerful old world .44 caliber pistol."
+  },
+  {
+    "HeaderOffset": 939,
+    "StartTextOffset": 945,
+    "EndTextOffset": 965,
+    "Text": "Weapon.DesertEagle_rf"
+  },
+  {
+    "HeaderOffset": 1651,
+    "StartTextOffset": 1657,
+    "EndTextOffset": 1660,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1710,
+    "StartTextOffset": 1716,
+    "EndTextOffset": 1733,
+    "Text": "dazeNearbyOnAttack"
+  },
+  {
+    "HeaderOffset": 1756,
+    "StartTextOffset": 1762,
+    "EndTextOffset": 1784,
+    "Text": "stunMeleeSingleOnAttack"
+  }
+]

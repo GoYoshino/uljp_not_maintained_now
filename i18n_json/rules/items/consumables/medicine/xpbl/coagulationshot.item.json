@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 236,
+    "Text": "coagulationShot"
+  },
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 258,
+    "Text": "Coagulation Shot"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 335,
+    "Text": "Used to quickly stop heavy bleeding."
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 362,
+    "Text": "Items.CoagulationShot"
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 584,
+    "Text": "coagulationShotConsumation"
+  }
+]

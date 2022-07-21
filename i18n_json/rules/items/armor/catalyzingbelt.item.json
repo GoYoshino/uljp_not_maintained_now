@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 266,
+    "StartTextOffset": 272,
+    "EndTextOffset": 290,
+    "Text": "belt.catalyzingBelt"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 311,
+    "Text": "Catalyzing Belt"
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 559,
+    "Text": "A chemical apparatus designed to connect to chemical pistols and keep the loaded ammunition on the edge of being chemically destabilized; the state which actuates to fullest once it's released into the air."
+  },
+  {
+    "HeaderOffset": 560,
+    "StartTextOffset": 566,
+    "EndTextOffset": 585,
+    "Text": "Items.CatalyzingBelt"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 263,
+    "Text": "med.healthHypoEnriched"
+  },
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 289,
+    "Text": "Enriched Health Hypo"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 510,
+    "Text": "A hypo filled with blood and enzymes that catalyze a rapid regenerative process. Enriched with an unstable regenerative agent that can sometimes trigger to accelerate the process."
+  },
+  {
+    "HeaderOffset": 511,
+    "StartTextOffset": 517,
+    "EndTextOffset": 523,
+    "Text": "Meds.40"
+  },
+  {
+    "HeaderOffset": 755,
+    "StartTextOffset": 761,
+    "EndTextOffset": 781,
+    "Text": "healthhypoconsumation"
+  },
+  {
+    "HeaderOffset": 808,
+    "StartTextOffset": 814,
+    "EndTextOffset": 821,
+    "Text": "Enriched"
+  },
+  {
+    "HeaderOffset": 849,
+    "StartTextOffset": 855,
+    "EndTextOffset": 864,
+    "Text": "HealAmount"
+  }
+]

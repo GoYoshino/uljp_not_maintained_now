@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 306,
+    "Text": "VehiclePart.BioInTitan500"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 327,
+    "Text": "BioIn Titan 500"
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 427,
+    "Text": "Large electrical vehicle engine made by Biocorp Industries."
+  },
+  {
+    "HeaderOffset": 428,
+    "StartTextOffset": 434,
+    "EndTextOffset": 458,
+    "Text": "VehiclePart.BioInTitan500"
+  },
+  {
+    "HeaderOffset": 609,
+    "StartTextOffset": 615,
+    "EndTextOffset": 621,
+    "Text": "biocorp"
+  }
+]

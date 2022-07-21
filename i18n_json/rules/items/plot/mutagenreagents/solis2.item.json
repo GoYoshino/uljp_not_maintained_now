@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 228,
+    "Text": "mutagenReagent.solis.2"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 257,
+    "Text": "Mutagen Reagent Solis-2"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 333,
+    "Text": "A container holding potent mutagen."
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 347,
+    "Text": "Plot.162"
+  },
+  {
+    "HeaderOffset": 565,
+    "StartTextOffset": 571,
+    "EndTextOffset": 589,
+    "Text": "MutagenReagentIndex"
+  },
+  {
+    "HeaderOffset": 619,
+    "StartTextOffset": 625,
+    "EndTextOffset": 635,
+    "Text": "MutagenName"
+  },
+  {
+    "HeaderOffset": 636,
+    "StartTextOffset": 642,
+    "EndTextOffset": 648,
+    "Text": "Solis-2"
+  }
+]

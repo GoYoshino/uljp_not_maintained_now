@@ -1,0 +1,98 @@
+[
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 395,
+    "Text": "Soft Foam Padding"
+  },
+  {
+    "HeaderOffset": 431,
+    "StartTextOffset": 437,
+    "EndTextOffset": 580,
+    "Text": "This material can be used as padding when creating a suit of leather armor to mitigate the sounds the leather makes as the wearer moves around."
+  },
+  {
+    "HeaderOffset": 581,
+    "StartTextOffset": 587,
+    "EndTextOffset": 599,
+    "Text": "Components.20"
+  },
+  {
+    "HeaderOffset": 1009,
+    "StartTextOffset": 1015,
+    "EndTextOffset": 1023,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1069,
+    "StartTextOffset": 1075,
+    "EndTextOffset": 1081,
+    "Text": "Stealth"
+  },
+  {
+    "HeaderOffset": 1115,
+    "StartTextOffset": 1121,
+    "EndTextOffset": 1136,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1137,
+    "StartTextOffset": 1143,
+    "EndTextOffset": 1237,
+    "Text": "It's padded with soft foam that prevents the squeaky leather sounds as the wearer moves around."
+  },
+  {
+    "HeaderOffset": 1264,
+    "StartTextOffset": 1270,
+    "EndTextOffset": 1302,
+    "Text": "MetalHelmetCritModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1337,
+    "StartTextOffset": 1343,
+    "EndTextOffset": 1369,
+    "Text": "MetalHelmetCritModifierBase"
+  },
+  {
+    "HeaderOffset": 1387,
+    "StartTextOffset": 1393,
+    "EndTextOffset": 1409,
+    "Text": "MetalHelmetPrefix"
+  },
+  {
+    "HeaderOffset": 1410,
+    "StartTextOffset": 1416,
+    "EndTextOffset": 1427,
+    "Text": "Soft-padding"
+  },
+  {
+    "HeaderOffset": 1437,
+    "StartTextOffset": 1443,
+    "EndTextOffset": 1457,
+    "Text": "MetalHelmetDesc"
+  },
+  {
+    "HeaderOffset": 1458,
+    "StartTextOffset": 1464,
+    "EndTextOffset": 1523,
+    "Text": "It's padded with soft foam which provides impact cushioning."
+  },
+  {
+    "HeaderOffset": 1533,
+    "StartTextOffset": 1539,
+    "EndTextOffset": 1547,
+    "Text": "BootsDesc"
+  },
+  {
+    "HeaderOffset": 1548,
+    "StartTextOffset": 1554,
+    "EndTextOffset": 1584,
+    "Text": "They are padded with soft foam."
+  },
+  {
+    "HeaderOffset": 1594,
+    "StartTextOffset": 1600,
+    "EndTextOffset": 1610,
+    "Text": "BootsPrefix"
+  }
+]

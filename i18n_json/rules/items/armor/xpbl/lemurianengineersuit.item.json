@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 454,
+    "StartTextOffset": 460,
+    "EndTextOffset": 464,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 578,
+    "Text": "lemurianEngineerSuit"
+  },
+  {
+    "HeaderOffset": 579,
+    "StartTextOffset": 585,
+    "EndTextOffset": 606,
+    "Text": "Lemurian Engineer Suit"
+  },
+  {
+    "HeaderOffset": 642,
+    "StartTextOffset": 648,
+    "EndTextOffset": 787,
+    "Text": "Suit that was likely worn by the Lemurian engineers. It has a number of integrated accessories that can help with a variety of field tasks."
+  },
+  {
+    "HeaderOffset": 788,
+    "StartTextOffset": 794,
+    "EndTextOffset": 806,
+    "Text": "xpbl_Armors.5"
+  },
+  {
+    "HeaderOffset": 1132,
+    "StartTextOffset": 1138,
+    "EndTextOffset": 1145,
+    "Text": "xpbl_lae"
+  },
+  {
+    "HeaderOffset": 1264,
+    "StartTextOffset": 1270,
+    "EndTextOffset": 1274,
+    "Text": "Traps"
+  },
+  {
+    "HeaderOffset": 1294,
+    "StartTextOffset": 1300,
+    "EndTextOffset": 1306,
+    "Text": "Hacking"
+  },
+  {
+    "HeaderOffset": 1326,
+    "StartTextOffset": 1332,
+    "EndTextOffset": 1342,
+    "Text": "Lockpicking"
+  },
+  {
+    "HeaderOffset": 1362,
+    "StartTextOffset": 1368,
+    "EndTextOffset": 1376,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1396,
+    "StartTextOffset": 1402,
+    "EndTextOffset": 1412,
+    "Text": "Electronics"
+  }
+]

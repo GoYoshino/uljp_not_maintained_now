@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 728,
+    "StartTextOffset": 734,
+    "EndTextOffset": 737,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 804,
+    "Text": "weapon.uzi_rf"
+  },
+  {
+    "HeaderOffset": 805,
+    "StartTextOffset": 811,
+    "EndTextOffset": 830,
+    "Text": "Refurbished Mini-Izu"
+  },
+  {
+    "HeaderOffset": 866,
+    "StartTextOffset": 872,
+    "EndTextOffset": 922,
+    "Text": "A small 5mm old world SMG equipped with a silencer."
+  },
+  {
+    "HeaderOffset": 923,
+    "StartTextOffset": 929,
+    "EndTextOffset": 941,
+    "Text": "Weapon.Uzi_rf"
+  },
+  {
+    "HeaderOffset": 1623,
+    "StartTextOffset": 1629,
+    "EndTextOffset": 1632,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1682,
+    "StartTextOffset": 1688,
+    "EndTextOffset": 1698,
+    "Text": "rapidReload"
+  }
+]

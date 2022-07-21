@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 309,
+    "Text": "Smart Lens"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 445,
+    "Text": "This lens can interact with the targeting system to increase the efficiency of precision shots."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 435,
+    "Text": "his lens can interact with the targeting system to increase the efficiency of precis"
+  },
+  {
+    "HeaderOffset": 446,
+    "StartTextOffset": 452,
+    "EndTextOffset": 471,
+    "Text": "Components.SmartLens"
+  },
+  {
+    "HeaderOffset": 815,
+    "StartTextOffset": 821,
+    "EndTextOffset": 829,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 843,
+    "StartTextOffset": 849,
+    "EndTextOffset": 859,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 890,
+    "StartTextOffset": 896,
+    "EndTextOffset": 908,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 938,
+    "StartTextOffset": 944,
+    "EndTextOffset": 953,
+    "Text": "DescPlural"
+  },
+  {
+    "HeaderOffset": 954,
+    "StartTextOffset": 960,
+    "EndTextOffset": 971,
+    "Text": "smart lenses"
+  },
+  {
+    "HeaderOffset": 997,
+    "StartTextOffset": 1003,
+    "EndTextOffset": 1012,
+    "Text": "NamePrefix"
+  },
+  {
+    "HeaderOffset": 1013,
+    "StartTextOffset": 1019,
+    "EndTextOffset": 1023,
+    "Text": "Smart"
+  },
+  {
+    "HeaderOffset": 1050,
+    "StartTextOffset": 1056,
+    "EndTextOffset": 1077,
+    "Text": "BaseSpecialAttackBonus"
+  },
+  {
+    "HeaderOffset": 1112,
+    "StartTextOffset": 1118,
+    "EndTextOffset": 1145,
+    "Text": "SpecialAttackBonusPerQuality"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 400,
+    "Text": "Insulated Vest"
+  },
+  {
+    "HeaderOffset": 436,
+    "StartTextOffset": 442,
+    "EndTextOffset": 493,
+    "Text": "This carrier vest is useful in warding off the cold."
+  },
+  {
+    "HeaderOffset": 494,
+    "StartTextOffset": 500,
+    "EndTextOffset": 513,
+    "Text": "Components.100"
+  },
+  {
+    "HeaderOffset": 981,
+    "StartTextOffset": 987,
+    "EndTextOffset": 995,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1025,
+    "StartTextOffset": 1031,
+    "EndTextOffset": 1038,
+    "Text": "VestType"
+  },
+  {
+    "HeaderOffset": 1039,
+    "StartTextOffset": 1045,
+    "EndTextOffset": 1053,
+    "Text": "Insulated"
+  },
+  {
+    "HeaderOffset": 1063,
+    "StartTextOffset": 1069,
+    "EndTextOffset": 1084,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1085,
+    "StartTextOffset": 1091,
+    "EndTextOffset": 1117,
+    "Text": "This insulated vest carries"
+  },
+  {
+    "HeaderOffset": 1127,
+    "StartTextOffset": 1133,
+    "EndTextOffset": 1149,
+    "Text": "ArmorDescription2"
+  },
+  {
+    "HeaderOffset": 1150,
+    "StartTextOffset": 1156,
+    "EndTextOffset": 1172,
+    "Text": "an insulated vest"
+  },
+  {
+    "HeaderOffset": 1182,
+    "StartTextOffset": 1188,
+    "EndTextOffset": 1204,
+    "Text": "ArmorDescription3"
+  },
+  {
+    "HeaderOffset": 1205,
+    "StartTextOffset": 1211,
+    "EndTextOffset": 1240,
+    "Text": "an insulated vest that carries"
+  },
+  {
+    "HeaderOffset": 1267,
+    "StartTextOffset": 1273,
+    "EndTextOffset": 1280,
+    "Text": "MatIndex"
+  }
+]

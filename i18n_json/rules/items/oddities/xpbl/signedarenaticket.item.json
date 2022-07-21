@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 249,
+    "Text": "Oddity.SignedArenaTicket"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 274,
+    "Text": "Signed Arena Ticket"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 440,
+    "Text": "A damaged weathered arena ticket. You can't quite make it out the scribbled named, but you're pretty sure it starts with a C."
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 381,
+    "Text": " damaged weathered arena ticket. You can't quite make it out the "
+  },
+  {
+    "HeaderOffset": 441,
+    "StartTextOffset": 447,
+    "EndTextOffset": 470,
+    "Text": "Oddity.SignedArenaTicket"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 241,
+    "Text": "Oddity.FourCapMushroom"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 264,
+    "Text": "Four-cap Mushroom"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 372,
+    "Text": "These are usually considered a good omen by scavengers and hunters."
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 400,
+    "Text": "Oddity.FourCapMushroom"
+  }
+]

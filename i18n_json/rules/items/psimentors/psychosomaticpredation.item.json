@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 281,
+    "Text": "psiMentor.PsychosomaticPredation"
+  },
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 326,
+    "Text": "Psionic Mentor: Psychosomatic Predation"
+  },
+  {
+    "HeaderOffset": 362,
+    "StartTextOffset": 368,
+    "EndTextOffset": 487,
+    "Text": "This device can be used to automatically teach yourself Psychosomatic Predation psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 452,
+    "Text": "his device can be used to automatically teach yourself Psychosomatic Predation psi a"
+  },
+  {
+    "HeaderOffset": 488,
+    "StartTextOffset": 494,
+    "EndTextOffset": 512,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 648,
+    "StartTextOffset": 654,
+    "EndTextOffset": 675,
+    "Text": "PsychosomaticPredation"
+  },
+  {
+    "HeaderOffset": 734,
+    "StartTextOffset": 740,
+    "EndTextOffset": 759,
+    "Text": "PsiMentorConsumation"
+  }
+]

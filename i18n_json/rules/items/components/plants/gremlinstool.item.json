@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 289,
+    "Text": "gremlinStool"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 308,
+    "Text": "Gremlin Stool"
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 393,
+    "Text": "This yellow-dotted mushroom looks poisonous."
+  },
+  {
+    "HeaderOffset": 394,
+    "StartTextOffset": 400,
+    "EndTextOffset": 407,
+    "Text": "Plants.5"
+  },
+  {
+    "HeaderOffset": 677,
+    "StartTextOffset": 683,
+    "EndTextOffset": 689,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 719,
+    "StartTextOffset": 725,
+    "EndTextOffset": 731,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 732,
+    "StartTextOffset": 738,
+    "EndTextOffset": 746,
+    "Text": "Muscarine"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 247,
+    "Text": "cigar"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 258,
+    "Text": "Cigar"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 409,
+    "Text": "A compact roll of dried and fermented tobacco leaves, intended for smoking. Has a calming neurological effect."
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 365,
+    "Text": " compact roll of dried and fermented tobacco leaves, intended for"
+  },
+  {
+    "HeaderOffset": 410,
+    "StartTextOffset": 416,
+    "EndTextOffset": 422,
+    "Text": "Food.22"
+  },
+  {
+    "HeaderOffset": 616,
+    "StartTextOffset": 622,
+    "EndTextOffset": 637,
+    "Text": "CigarConsumation"
+  }
+]

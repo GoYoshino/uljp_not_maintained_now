@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 289,
+    "Text": "oozingShroom"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 308,
+    "Text": "Oozing Shroom"
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 413,
+    "Text": "The cap of this mushroom is filled with bright oozing substance."
+  },
+  {
+    "HeaderOffset": 414,
+    "StartTextOffset": 420,
+    "EndTextOffset": 427,
+    "Text": "Plants.7"
+  },
+  {
+    "HeaderOffset": 697,
+    "StartTextOffset": 703,
+    "EndTextOffset": 709,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 739,
+    "StartTextOffset": 745,
+    "EndTextOffset": 751,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 752,
+    "StartTextOffset": 758,
+    "EndTextOffset": 771,
+    "Text": "BiofusiveScoby"
+  }
+]

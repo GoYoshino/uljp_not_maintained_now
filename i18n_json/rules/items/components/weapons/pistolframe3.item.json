@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 308,
+    "Text": "pistolFrame3"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 337,
+    "Text": "Pistol Frame: Neo Luger"
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 464,
+    "Text": "This frame is used to create a Neo Luger type pistol. It supports 5mm and 9mm barrels."
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 463,
+    "Text": "his frame is used to create a Neo Luger type pistol. It supports 5mm and 9mm barrels"
+  },
+  {
+    "HeaderOffset": 465,
+    "StartTextOffset": 471,
+    "EndTextOffset": 484,
+    "Text": "pistol.3.frame"
+  },
+  {
+    "HeaderOffset": 826,
+    "StartTextOffset": 832,
+    "EndTextOffset": 840,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 870,
+    "StartTextOffset": 876,
+    "EndTextOffset": 879,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 880,
+    "StartTextOffset": 886,
+    "EndTextOffset": 894,
+    "Text": "Neo Luger"
+  },
+  {
+    "HeaderOffset": 945,
+    "StartTextOffset": 951,
+    "EndTextOffset": 970,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1009,
+    "StartTextOffset": 1015,
+    "EndTextOffset": 1026,
+    "Text": "DamageSpread"
+  },
+  {
+    "HeaderOffset": 1096,
+    "StartTextOffset": 1102,
+    "EndTextOffset": 1118,
+    "Text": "PrecisionModifier"
+  },
+  {
+    "HeaderOffset": 1153,
+    "StartTextOffset": 1159,
+    "EndTextOffset": 1177,
+    "Text": "CriticalDamageBonus"
+  }
+]

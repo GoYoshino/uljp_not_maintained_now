@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 439,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 540,
+    "StartTextOffset": 546,
+    "EndTextOffset": 571,
+    "Text": "synestheteHeadbandImproved"
+  },
+  {
+    "HeaderOffset": 572,
+    "StartTextOffset": 578,
+    "EndTextOffset": 610,
+    "Text": "Synesthetic Refocus (Hexagon Gem)"
+  },
+  {
+    "HeaderOffset": 646,
+    "StartTextOffset": 652,
+    "EndTextOffset": 832,
+    "Text": "Each face of this brilliant gem displays a differently-dimensioned, fractal reflection when looked into. Staring at the hexagon gem hurts your eyes even more than the pentagon one."
+  },
+  {
+    "HeaderOffset": 833,
+    "StartTextOffset": 839,
+    "EndTextOffset": 870,
+    "Text": "Armor.SynestheticRefocusImproved"
+  },
+  {
+    "HeaderOffset": 1205,
+    "StartTextOffset": 1211,
+    "EndTextOffset": 1223,
+    "Text": "Psychokinesis"
+  },
+  {
+    "HeaderOffset": 1387,
+    "StartTextOffset": 1393,
+    "EndTextOffset": 1402,
+    "Text": "Perception"
+  },
+  {
+    "HeaderOffset": 1523,
+    "StartTextOffset": 1529,
+    "EndTextOffset": 1538,
+    "Text": "Perception"
+  }
+]

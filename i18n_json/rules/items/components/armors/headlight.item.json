@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 299,
+    "Text": "headlight"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 313,
+    "Text": "Headlamp"
+  },
+  {
+    "HeaderOffset": 349,
+    "StartTextOffset": 355,
+    "EndTextOffset": 452,
+    "Text": "The combat purpose headlamp meant to be mounted on a metal helmet and connected to an energy core."
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 439,
+    "Text": "he combat purpose headlamp meant to be mounted on a metal helmet and connected to an"
+  },
+  {
+    "HeaderOffset": 453,
+    "StartTextOffset": 459,
+    "EndTextOffset": 478,
+    "Text": "Components.Headlight"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 747,
+    "Text": "Electronics"
+  }
+]

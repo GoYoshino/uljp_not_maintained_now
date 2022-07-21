@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 279,
+    "Text": "daggerMold"
+  },
+  {
+    "HeaderOffset": 280,
+    "StartTextOffset": 286,
+    "EndTextOffset": 296,
+    "Text": "Dagger Mold"
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 375,
+    "Text": "A mold for a long pointy dagger blade."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 395,
+    "Text": "Components.143"
+  },
+  {
+    "HeaderOffset": 676,
+    "StartTextOffset": 682,
+    "EndTextOffset": 690,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 743,
+    "Text": "KnifeType"
+  },
+  {
+    "HeaderOffset": 801,
+    "StartTextOffset": 807,
+    "EndTextOffset": 815,
+    "Text": "KnifeName"
+  },
+  {
+    "HeaderOffset": 816,
+    "StartTextOffset": 822,
+    "EndTextOffset": 831,
+    "Text": "{0} Dagger"
+  }
+]

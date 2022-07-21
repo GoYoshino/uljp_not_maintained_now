@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 290,
+    "Text": "poisonGland.Burrower"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 317,
+    "Text": "Burrower Poison Gland"
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 458,
+    "Text": "This is a poison gland of a burrower. With the right skills powerful toxin can be extracted from it."
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 443,
+    "Text": "his is a poison gland of a burrower. With the right skills powerful toxin can be ext"
+  },
+  {
+    "HeaderOffset": 459,
+    "StartTextOffset": 465,
+    "EndTextOffset": 478,
+    "Text": "Components.157"
+  },
+  {
+    "HeaderOffset": 747,
+    "StartTextOffset": 753,
+    "EndTextOffset": 759,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 789,
+    "StartTextOffset": 795,
+    "EndTextOffset": 801,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 802,
+    "StartTextOffset": 808,
+    "EndTextOffset": 821,
+    "Text": "BurrowerPoison"
+  }
+]

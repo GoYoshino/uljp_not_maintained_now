@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 287,
+    "Text": "forwardGrip"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 305,
+    "Text": "Forward Grip"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 497,
+    "Text": "A forward grip is designed to attach to a submachine gun (and some other firearms) for the forward hand to improve weapon stability during burst fire."
+  },
+  {
+    "HeaderOffset": 498,
+    "StartTextOffset": 504,
+    "EndTextOffset": 516,
+    "Text": "Components.78"
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 793,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 824,
+    "StartTextOffset": 830,
+    "EndTextOffset": 848,
+    "Text": "BurstPrecisionBonus"
+  }
+]

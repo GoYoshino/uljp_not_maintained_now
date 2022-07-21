@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 279,
+    "Text": "VehiclePart.BioInHDS3"
+  },
+  {
+    "HeaderOffset": 280,
+    "StartTextOffset": 286,
+    "EndTextOffset": 296,
+    "Text": "BioIn HDS 3"
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 396,
+    "Text": "Large jet ski suspension system made by Biocorp Industries."
+  },
+  {
+    "HeaderOffset": 397,
+    "StartTextOffset": 403,
+    "EndTextOffset": 423,
+    "Text": "VehiclePart.BioInHDS3"
+  }
+]

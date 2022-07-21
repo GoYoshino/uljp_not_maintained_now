@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 229,
+    "Text": "plot.mushroomBeastHeart"
+  },
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 245,
+    "Text": "Mycokardia"
+  },
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 438,
+    "Text": "This slimy organ has an appearance of a heart whose muscle fibers are entwined with red mycelium, and it is full of viscous liquid. It smells horrible."
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 451,
+    "Text": "Plot.98"
+  }
+]

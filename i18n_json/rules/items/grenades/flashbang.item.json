@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 221,
+    "Text": "flashbang"
+  },
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 236,
+    "Text": "Flashbang"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 392,
+    "Text": "These grenades are used to temporarily neutralize the combat effectiveness of enemies by disorienting their senses."
+  },
+  {
+    "HeaderOffset": 273,
+    "StartTextOffset": 279,
+    "EndTextOffset": 362,
+    "Text": "hese grenades are used to temporarily neutralize the combat effectiveness of enemies"
+  },
+  {
+    "HeaderOffset": 393,
+    "StartTextOffset": 399,
+    "EndTextOffset": 410,
+    "Text": "Explosives.0"
+  },
+  {
+    "HeaderOffset": 600,
+    "StartTextOffset": 606,
+    "EndTextOffset": 619,
+    "Text": "flashbangthrow"
+  }
+]

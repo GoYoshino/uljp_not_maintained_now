@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 250,
+    "Text": "Oddity.WeirdSurgicalClamp"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 276,
+    "Text": "Weird Surgical Clamp"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 371,
+    "Text": "Even the tool itself looks confused about its purpose."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 402,
+    "Text": "Oddity.WeirdSurgicalClamp"
+  }
+]

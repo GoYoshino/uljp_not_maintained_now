@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 284,
+    "Text": "psionicHeadband"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 312,
+    "Text": "Psionic Headband Frame"
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 477,
+    "Text": "This is a base psionic headband frame. When combined with a psionic modulator it can enhance the wearer's psionic abilities."
+  },
+  {
+    "HeaderOffset": 349,
+    "StartTextOffset": 355,
+    "EndTextOffset": 438,
+    "Text": "his is a base psionic headband frame. When combined with a psionic modulator it can "
+  },
+  {
+    "HeaderOffset": 478,
+    "StartTextOffset": 484,
+    "EndTextOffset": 497,
+    "Text": "Components.200"
+  },
+  {
+    "HeaderOffset": 740,
+    "StartTextOffset": 746,
+    "EndTextOffset": 756,
+    "Text": "Electronics"
+  }
+]

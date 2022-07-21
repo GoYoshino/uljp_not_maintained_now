@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 315,
+    "Text": "combatShotgunFrame1"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 345,
+    "Text": "Shotgun Frame: Sovereign"
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 447,
+    "Text": "This frame is used to create a Sovereign type combat shotgun."
+  },
+  {
+    "HeaderOffset": 448,
+    "StartTextOffset": 454,
+    "EndTextOffset": 474,
+    "Text": "combatShotgun.1.frame"
+  },
+  {
+    "HeaderOffset": 778,
+    "StartTextOffset": 784,
+    "EndTextOffset": 792,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 822,
+    "StartTextOffset": 828,
+    "EndTextOffset": 831,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 846,
+    "Text": "Sovereign"
+  },
+  {
+    "HeaderOffset": 873,
+    "StartTextOffset": 879,
+    "EndTextOffset": 897,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 936,
+    "StartTextOffset": 942,
+    "EndTextOffset": 952,
+    "Text": "ShotgunType"
+  }
+]

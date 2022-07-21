@@ -1,0 +1,110 @@
+[
+  {
+    "HeaderOffset": 446,
+    "StartTextOffset": 452,
+    "EndTextOffset": 485,
+    "Text": "component.infusedMutatedDogLeather"
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 518,
+    "Text": "Infused Mutated Dog Leather"
+  },
+  {
+    "HeaderOffset": 554,
+    "StartTextOffset": 560,
+    "EndTextOffset": 659,
+    "Text": "This skin can be turned into a suit of acid resistant leather armor infused with super steel fibers."
+  },
+  {
+    "HeaderOffset": 555,
+    "StartTextOffset": 561,
+    "EndTextOffset": 644,
+    "Text": "his skin can be turned into a suit of acid resistant leather armor infused with supe"
+  },
+  {
+    "HeaderOffset": 660,
+    "StartTextOffset": 666,
+    "EndTextOffset": 679,
+    "Text": "Components.282"
+  },
+  {
+    "HeaderOffset": 1227,
+    "StartTextOffset": 1233,
+    "EndTextOffset": 1241,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1255,
+    "StartTextOffset": 1261,
+    "EndTextOffset": 1269,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 1315,
+    "StartTextOffset": 1321,
+    "EndTextOffset": 1330,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1348,
+    "StartTextOffset": 1354,
+    "EndTextOffset": 1365,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1399,
+    "StartTextOffset": 1405,
+    "EndTextOffset": 1420,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1421,
+    "StartTextOffset": 1427,
+    "EndTextOffset": 1519,
+    "Text": "This {0} is made from leather of mutated dog infused with super steel fiber. It sure is ugly."
+  },
+  {
+    "HeaderOffset": 1529,
+    "StartTextOffset": 1535,
+    "EndTextOffset": 1548,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1549,
+    "StartTextOffset": 1555,
+    "EndTextOffset": 1573,
+    "Text": "Infused Mutated Dog"
+  },
+  {
+    "HeaderOffset": 1583,
+    "StartTextOffset": 1589,
+    "EndTextOffset": 1610,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1611,
+    "StartTextOffset": 1617,
+    "EndTextOffset": 1714,
+    "Text": "These {0} are made from leather of mutated dog infused with super steel fiber. They sure are ugly."
+  },
+  {
+    "HeaderOffset": 1741,
+    "StartTextOffset": 1747,
+    "EndTextOffset": 1759,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1790,
+    "StartTextOffset": 1796,
+    "EndTextOffset": 1803,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1834,
+    "StartTextOffset": 1840,
+    "EndTextOffset": 1847,
+    "Text": "Infusion"
+  }
+]

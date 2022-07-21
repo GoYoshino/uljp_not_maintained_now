@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 240,
+    "Text": "burrowerPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 276,
+    "Text": "Burrower Poison Throwing Knife"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 441,
+    "Text": "This knife is specially designed and weighted so that it can be thrown effectively. It has been coated with burrower poison."
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 402,
+    "Text": "his knife is specially designed and weighted so that it can be thrown effectively. I"
+  },
+  {
+    "HeaderOffset": 442,
+    "StartTextOffset": 448,
+    "EndTextOffset": 474,
+    "Text": "BurrowerPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 664,
+    "StartTextOffset": 670,
+    "EndTextOffset": 693,
+    "Text": "BurrowerPoisonKnifeThrow"
+  }
+]

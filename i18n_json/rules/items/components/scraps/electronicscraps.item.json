@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 299,
+    "Text": "electronicScraps"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 322,
+    "Text": "Electronic Scraps"
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 431,
+    "Text": "Various pieces of electronic, such as wires, diodes and transistors."
+  },
+  {
+    "HeaderOffset": 432,
+    "StartTextOffset": 438,
+    "EndTextOffset": 447,
+    "Text": "Devices.80"
+  },
+  {
+    "HeaderOffset": 718,
+    "StartTextOffset": 724,
+    "EndTextOffset": 734,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 764,
+    "StartTextOffset": 770,
+    "EndTextOffset": 782,
+    "Text": "RepairKitName"
+  },
+  {
+    "HeaderOffset": 783,
+    "StartTextOffset": 789,
+    "EndTextOffset": 807,
+    "Text": "ElectronicRepairKit"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 407,
+    "Text": "Component.SerratedTungstenSteelBlade"
+  },
+  {
+    "HeaderOffset": 408,
+    "StartTextOffset": 414,
+    "EndTextOffset": 442,
+    "Text": "Serrated Tungsten Steel Blade"
+  },
+  {
+    "HeaderOffset": 478,
+    "StartTextOffset": 484,
+    "EndTextOffset": 603,
+    "Text": "It's a nasty looking serrated tungsten steel blade that can be mounted on a metal armor suit to inflict bleeding wounds."
+  },
+  {
+    "HeaderOffset": 479,
+    "StartTextOffset": 485,
+    "EndTextOffset": 557,
+    "Text": "t's a nasty looking serrated tungsten steel blade that can be mounted on "
+  },
+  {
+    "HeaderOffset": 604,
+    "StartTextOffset": 610,
+    "EndTextOffset": 623,
+    "Text": "Components.133"
+  },
+  {
+    "HeaderOffset": 956,
+    "StartTextOffset": 962,
+    "EndTextOffset": 970,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1119,
+    "StartTextOffset": 1125,
+    "EndTextOffset": 1131,
+    "Text": "IsBlade"
+  },
+  {
+    "HeaderOffset": 1159,
+    "StartTextOffset": 1165,
+    "EndTextOffset": 1177,
+    "Text": "GloveEnhIndex"
+  },
+  {
+    "HeaderOffset": 1207,
+    "StartTextOffset": 1213,
+    "EndTextOffset": 1220,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1221,
+    "StartTextOffset": 1227,
+    "EndTextOffset": 1240,
+    "Text": "Tungsten Steel"
+  }
+]

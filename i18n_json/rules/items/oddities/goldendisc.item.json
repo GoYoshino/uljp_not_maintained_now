@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 236,
+    "Text": "Oddity.GoldenDisc"
+  },
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 253,
+    "Text": "Golden Disc"
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 358,
+    "Text": "Some type of data disc painted gold. It's clearly just for show."
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 381,
+    "Text": "Oddity.GoldenDisc"
+  }
+]

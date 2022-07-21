@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 313,
+    "Text": "Ammo.Caliber_5_W2C"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 332,
+    "Text": "5mm W2C Round"
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 439,
+    "Text": "This armor-piercing cartridge packs a 5mm tungsten carbide bullet."
+  },
+  {
+    "HeaderOffset": 440,
+    "StartTextOffset": 446,
+    "EndTextOffset": 463,
+    "Text": "Ammo.Caliber_5_W2C"
+  },
+  {
+    "HeaderOffset": 703,
+    "StartTextOffset": 709,
+    "EndTextOffset": 712,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 722,
+    "StartTextOffset": 728,
+    "EndTextOffset": 734,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 744,
+    "StartTextOffset": 750,
+    "EndTextOffset": 755,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 765,
+    "StartTextOffset": 771,
+    "EndTextOffset": 779,
+    "Text": "ldsingcur"
+  }
+]

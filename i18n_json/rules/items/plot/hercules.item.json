@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 233,
+    "Text": "herculesDrug"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 247,
+    "Text": "Hercules"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 333,
+    "Text": "It's got a label on it that reads \"Hercules.\""
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 345,
+    "Text": "Meds.8"
+  },
+  {
+    "HeaderOffset": 536,
+    "StartTextOffset": 542,
+    "EndTextOffset": 560,
+    "Text": "HerculesConsumation"
+  }
+]

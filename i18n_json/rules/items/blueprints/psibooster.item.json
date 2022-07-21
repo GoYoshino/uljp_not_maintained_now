@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 226,
+    "StartTextOffset": 232,
+    "EndTextOffset": 253,
+    "Text": "Blueprint: Psi Booster"
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 353,
+    "Text": "Contains instructions on how to concoct a psi booster drug."
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 368,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 501,
+    "StartTextOffset": 507,
+    "EndTextOffset": 516,
+    "Text": "PsiBooster"
+  },
+  {
+    "HeaderOffset": 575,
+    "StartTextOffset": 581,
+    "EndTextOffset": 600,
+    "Text": "blueprintconsumation"
+  }
+]

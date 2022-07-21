@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 291,
+    "Text": "biofusiveScoby"
+  },
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 312,
+    "Text": "Biofusive Scoby"
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 447,
+    "Text": "A symbiotic colony of bacteria and yeast that can be used in concocting regenerative medicine."
+  },
+  {
+    "HeaderOffset": 349,
+    "StartTextOffset": 355,
+    "EndTextOffset": 419,
+    "Text": " symbiotic colony of bacteria and yeast that can be used in conco"
+  },
+  {
+    "HeaderOffset": 448,
+    "StartTextOffset": 454,
+    "EndTextOffset": 478,
+    "Text": "Components.BiofusiveScoby"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 741,
+    "Text": "Biology"
+  }
+]

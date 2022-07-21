@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 254,
+    "Text": "charm.deathStalkerClaw"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 284,
+    "Text": "Death Stalker Claw Charm"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 390,
+    "Text": "Lucky charm made from a death stalker's claw. Unexpectedly light."
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 418,
+    "Text": "Plot.DeathStalkerCharm"
+  },
+  {
+    "HeaderOffset": 604,
+    "StartTextOffset": 610,
+    "EndTextOffset": 617,
+    "Text": "UseCharm"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 249,
+    "Text": "jhpBulletsBlueprint"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 277,
+    "Text": "Blueprint: JHP Bullets"
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 387,
+    "Text": "Contains instructions on how to reload jacketed hollow point bullets."
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 386,
+    "Text": "ontains instructions on how to reload jacketed hollow point bullets"
+  },
+  {
+    "HeaderOffset": 388,
+    "StartTextOffset": 394,
+    "EndTextOffset": 402,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 535,
+    "StartTextOffset": 541,
+    "EndTextOffset": 550,
+    "Text": "jhpBullets"
+  },
+  {
+    "HeaderOffset": 609,
+    "StartTextOffset": 615,
+    "EndTextOffset": 634,
+    "Text": "blueprintconsumation"
+  }
+]

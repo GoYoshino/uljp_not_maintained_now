@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 772,
+    "StartTextOffset": 778,
+    "EndTextOffset": 781,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 830,
+    "StartTextOffset": 836,
+    "EndTextOffset": 844,
+    "Text": "theGlaive"
+  },
+  {
+    "HeaderOffset": 845,
+    "StartTextOffset": 851,
+    "EndTextOffset": 860,
+    "Text": "The Glaive"
+  },
+  {
+    "HeaderOffset": 896,
+    "StartTextOffset": 902,
+    "EndTextOffset": 1069,
+    "Text": "This ceremonial looking weapon is as just as dangerous as it is beautiful. Its sharp blade is decorated with two golden plated rings that clink as the weapon is swung."
+  },
+  {
+    "HeaderOffset": 1070,
+    "StartTextOffset": 1076,
+    "EndTextOffset": 1091,
+    "Text": "xpbl_Weapons.225"
+  },
+  {
+    "HeaderOffset": 1480,
+    "StartTextOffset": 1486,
+    "EndTextOffset": 1490,
+    "Text": "xpbls"
+  },
+  {
+    "HeaderOffset": 1945,
+    "StartTextOffset": 1951,
+    "EndTextOffset": 1960,
+    "Text": "spearGuard"
+  },
+  {
+    "HeaderOffset": 1983,
+    "StartTextOffset": 1989,
+    "EndTextOffset": 1995,
+    "Text": "carveUp"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 235,
+    "Text": "Ammo.CaveEarPoisonBolt"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 261,
+    "Text": "Cave Ear Poison Bolt"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 381,
+    "Text": "This bolt is packed with an ampule of poison extracted from cave ear mushrooms."
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 409,
+    "Text": "Ammo.CaveEarPoisonBolt"
+  },
+  {
+    "HeaderOffset": 656,
+    "StartTextOffset": 662,
+    "EndTextOffset": 683,
+    "Text": "ShootCaveEarPoisonBolt"
+  },
+  {
+    "HeaderOffset": 709,
+    "StartTextOffset": 715,
+    "EndTextOffset": 724,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 725,
+    "StartTextOffset": 731,
+    "EndTextOffset": 743,
+    "Text": "CaveEarPoison"
+  },
+  {
+    "HeaderOffset": 753,
+    "StartTextOffset": 759,
+    "EndTextOffset": 768,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 769,
+    "StartTextOffset": 775,
+    "EndTextOffset": 789,
+    "Text": "Cave Ear Poison"
+  },
+  {
+    "HeaderOffset": 816,
+    "StartTextOffset": 822,
+    "EndTextOffset": 835,
+    "Text": "PoisonDuration"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 315,
+    "Text": "anatomicallyAwareScope"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 345,
+    "Text": "Anatomically-Aware Scope"
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 486,
+    "Text": "This scope has an integrated computer which can recognize general anatomy of mammals and insectoids."
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 471,
+    "Text": "his scope has an integrated computer which can recognize general anatomy of mammals "
+  },
+  {
+    "HeaderOffset": 487,
+    "StartTextOffset": 493,
+    "EndTextOffset": 505,
+    "Text": "Components.98"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 806,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 820,
+    "StartTextOffset": 826,
+    "EndTextOffset": 836,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 867,
+    "StartTextOffset": 873,
+    "EndTextOffset": 894,
+    "Text": "CriticalDamageModifier"
+  },
+  {
+    "HeaderOffset": 929,
+    "StartTextOffset": 935,
+    "EndTextOffset": 943,
+    "Text": "ScopeType"
+  }
+]

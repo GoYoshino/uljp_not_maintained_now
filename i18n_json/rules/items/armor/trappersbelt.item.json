@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 304,
+    "Text": "belt.trappers"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 324,
+    "Text": "Trapper's Belt"
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 404,
+    "Text": "Keep all your trapping equipment handy."
+  },
+  {
+    "HeaderOffset": 405,
+    "StartTextOffset": 411,
+    "EndTextOffset": 419,
+    "Text": "Armors.63"
+  },
+  {
+    "HeaderOffset": 733,
+    "StartTextOffset": 739,
+    "EndTextOffset": 743,
+    "Text": "Traps"
+  }
+]

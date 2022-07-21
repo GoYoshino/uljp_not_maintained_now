@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 215,
+    "StartTextOffset": 221,
+    "EndTextOffset": 242,
+    "Text": "coretechTrackingDevice"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 272,
+    "Text": "Coretech Tracking Device"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 373,
+    "Text": "A device used to track down “tagged” Coretech employees."
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 386,
+    "Text": "Plot.64"
+  },
+  {
+    "HeaderOffset": 570,
+    "StartTextOffset": 576,
+    "EndTextOffset": 607,
+    "Text": "coretechTrackingDeviceActivation"
+  }
+]

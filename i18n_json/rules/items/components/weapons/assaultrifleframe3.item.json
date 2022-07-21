@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 314,
+    "Text": "assaultRifleFrame3"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 347,
+    "Text": "Assault Rifle Frame: Hornet"
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 490,
+    "Text": "This frame is used to create a Hornet type assault rifle. It supports, 7.62mm, 8.6mm, and 9mm barrels."
+  },
+  {
+    "HeaderOffset": 384,
+    "StartTextOffset": 390,
+    "EndTextOffset": 473,
+    "Text": "his frame is used to create a Hornet type assault rifle. It supports, 7.62mm, 8.6mm,"
+  },
+  {
+    "HeaderOffset": 491,
+    "StartTextOffset": 497,
+    "EndTextOffset": 509,
+    "Text": "rifle.3.frame"
+  },
+  {
+    "HeaderOffset": 889,
+    "StartTextOffset": 895,
+    "EndTextOffset": 903,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 941,
+    "StartTextOffset": 947,
+    "EndTextOffset": 966,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1035,
+    "StartTextOffset": 1041,
+    "EndTextOffset": 1044,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 1045,
+    "StartTextOffset": 1051,
+    "EndTextOffset": 1056,
+    "Text": "Hornet"
+  },
+  {
+    "HeaderOffset": 1107,
+    "StartTextOffset": 1113,
+    "EndTextOffset": 1132,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1164,
+    "StartTextOffset": 1170,
+    "EndTextOffset": 1188,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 1219,
+    "StartTextOffset": 1225,
+    "EndTextOffset": 1246,
+    "Text": "BurstPrecisionModifier"
+  },
+  {
+    "HeaderOffset": 1281,
+    "StartTextOffset": 1287,
+    "EndTextOffset": 1300,
+    "Text": "ApCostModifier"
+  },
+  {
+    "HeaderOffset": 1331,
+    "StartTextOffset": 1337,
+    "EndTextOffset": 1355,
+    "Text": "CriticalDamageBonus"
+  }
+]

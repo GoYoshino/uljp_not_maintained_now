@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 510,
+    "StartTextOffset": 516,
+    "EndTextOffset": 531,
+    "Text": "greySpecOpsArmor"
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 556,
+    "Text": "Gray Spec Ops Armor"
+  },
+  {
+    "HeaderOffset": 592,
+    "StartTextOffset": 598,
+    "EndTextOffset": 668,
+    "Text": "A suit of gray tactical vest type armor worn by the Gray Army spec ops."
+  },
+  {
+    "HeaderOffset": 593,
+    "StartTextOffset": 599,
+    "EndTextOffset": 663,
+    "Text": " suit of gray tactical vest type armor worn by the Gray Army spec"
+  },
+  {
+    "HeaderOffset": 669,
+    "StartTextOffset": 675,
+    "EndTextOffset": 688,
+    "Text": "xpbl_Armors.01"
+  },
+  {
+    "HeaderOffset": 1004,
+    "StartTextOffset": 1010,
+    "EndTextOffset": 1017,
+    "Text": "xpbl_rac"
+  },
+  {
+    "HeaderOffset": 1260,
+    "StartTextOffset": 1266,
+    "EndTextOffset": 1272,
+    "Text": "Stealth"
+  }
+]

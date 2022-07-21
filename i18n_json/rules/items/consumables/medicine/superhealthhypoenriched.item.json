@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 268,
+    "Text": "med.superHealthHypoEnriched"
+  },
+  {
+    "HeaderOffset": 269,
+    "StartTextOffset": 275,
+    "EndTextOffset": 300,
+    "Text": "Enriched Super Health Hypo"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 495,
+    "Text": "The most powerful of healing concoctions. Enriched with an unstable regenerative agent that can sometimes trigger to accelerate the regenerative process."
+  },
+  {
+    "HeaderOffset": 496,
+    "StartTextOffset": 502,
+    "EndTextOffset": 508,
+    "Text": "Meds.42"
+  },
+  {
+    "HeaderOffset": 740,
+    "StartTextOffset": 746,
+    "EndTextOffset": 766,
+    "Text": "healthhypoconsumation"
+  },
+  {
+    "HeaderOffset": 793,
+    "StartTextOffset": 799,
+    "EndTextOffset": 806,
+    "Text": "Enriched"
+  },
+  {
+    "HeaderOffset": 834,
+    "StartTextOffset": 840,
+    "EndTextOffset": 849,
+    "Text": "HealAmount"
+  }
+]

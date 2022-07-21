@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 244,
+    "Text": "charm.dogPaw"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 263,
+    "Text": "Dog Paw Charm"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 358,
+    "Text": "Lucky charm made from a paw of some unfortunate mutt. "
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 377,
+    "Text": "Plot.DogCharm"
+  },
+  {
+    "HeaderOffset": 563,
+    "StartTextOffset": 569,
+    "EndTextOffset": 576,
+    "Text": "UseCharm"
+  }
+]

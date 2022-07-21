@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 258,
+    "Text": "broadheadBoltBlueprint"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 289,
+    "Text": "Blueprint: Broadhead Bolt"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 385,
+    "Text": "Contains instructions on how to create broadhead bolts."
+  },
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 404,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 538,
+    "StartTextOffset": 544,
+    "EndTextOffset": 556,
+    "Text": "broadheadBolt"
+  },
+  {
+    "HeaderOffset": 615,
+    "StartTextOffset": 621,
+    "EndTextOffset": 640,
+    "Text": "blueprintconsumation"
+  }
+]

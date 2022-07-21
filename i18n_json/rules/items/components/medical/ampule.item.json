@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 259,
+    "Text": "ampule"
+  },
+  {
+    "HeaderOffset": 260,
+    "StartTextOffset": 266,
+    "EndTextOffset": 271,
+    "Text": "Ampule"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 329,
+    "Text": "A sterile ampule."
+  },
+  {
+    "HeaderOffset": 330,
+    "StartTextOffset": 336,
+    "EndTextOffset": 347,
+    "Text": "Items.Ampule"
+  }
+]

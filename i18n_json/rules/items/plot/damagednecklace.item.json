@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 239,
+    "Text": "plot.damagedNecklace"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 261,
+    "Text": "Damaged Necklace"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 479,
+    "Text": "It's some sort of electronic necklace. It's out of order due to the visible damage it suffered. Perhaps one of the electronics merchants will be able to tell you more about it."
+  },
+  {
+    "HeaderOffset": 480,
+    "StartTextOffset": 486,
+    "EndTextOffset": 492,
+    "Text": "Plot.71"
+  }
+]

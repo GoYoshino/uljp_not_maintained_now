@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 249,
+    "Text": "blueprint.focusStim"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 276,
+    "Text": "Blueprint: Focus Stim"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 369,
+    "Text": "Contains instructions on how to create a focus stim."
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 384,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 517,
+    "StartTextOffset": 523,
+    "EndTextOffset": 531,
+    "Text": "focusStim"
+  },
+  {
+    "HeaderOffset": 590,
+    "StartTextOffset": 596,
+    "EndTextOffset": 615,
+    "Text": "blueprintconsumation"
+  }
+]

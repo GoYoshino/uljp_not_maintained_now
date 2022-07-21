@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 285,
+    "Text": "mutantAcidGland"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 308,
+    "Text": "Mutant Acid Gland"
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 446,
+    "Text": "This is the acid gland of a mutant. With the right skills powerful acid can be extracted from it."
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 434,
+    "Text": "his is the acid gland of a mutant. With the right skills powerful acid can be extrac"
+  },
+  {
+    "HeaderOffset": 447,
+    "StartTextOffset": 453,
+    "EndTextOffset": 473,
+    "Text": "Items.MutantAcidGland"
+  },
+  {
+    "HeaderOffset": 742,
+    "StartTextOffset": 748,
+    "EndTextOffset": 754,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 784,
+    "StartTextOffset": 790,
+    "EndTextOffset": 796,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 797,
+    "StartTextOffset": 803,
+    "EndTextOffset": 806,
+    "Text": "Acid"
+  }
+]

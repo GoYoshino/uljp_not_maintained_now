@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 461,
+    "Text": "xpbl_junkJetFrame"
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 481,
+    "Text": "Junk Jet Frame"
+  },
+  {
+    "HeaderOffset": 518,
+    "StartTextOffset": 524,
+    "EndTextOffset": 529,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1018,
+    "StartTextOffset": 1024,
+    "EndTextOffset": 1035,
+    "Text": "xpbl_junkJet"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 255,
+    "Text": "explosiveBulletsBlueprint"
+  },
+  {
+    "HeaderOffset": 256,
+    "StartTextOffset": 262,
+    "EndTextOffset": 289,
+    "Text": "Blueprint: Explosive Bullets"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 391,
+    "Text": "Contains instructions on how to create .44 explosive bullets."
+  },
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 406,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 539,
+    "StartTextOffset": 545,
+    "EndTextOffset": 560,
+    "Text": "explosiveBullets"
+  },
+  {
+    "HeaderOffset": 619,
+    "StartTextOffset": 625,
+    "EndTextOffset": 644,
+    "Text": "blueprintconsumation"
+  }
+]

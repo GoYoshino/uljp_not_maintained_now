@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 249,
+    "Text": "gasGrenadeBlueprint"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 277,
+    "Text": "Blueprint: Gas Grenade"
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 371,
+    "Text": "Contains instructions on how to create a gas grenade."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 386,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 519,
+    "StartTextOffset": 525,
+    "EndTextOffset": 534,
+    "Text": "gasGrenade"
+  },
+  {
+    "HeaderOffset": 593,
+    "StartTextOffset": 599,
+    "EndTextOffset": 618,
+    "Text": "blueprintconsumation"
+  }
+]

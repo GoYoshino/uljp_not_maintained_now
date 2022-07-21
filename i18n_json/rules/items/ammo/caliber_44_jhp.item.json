@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 327,
+    "Text": "Ammo.Caliber_44_JHP"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 346,
+    "Text": ".44 JHP Round"
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 429,
+    "Text": "This is a .44 jacketed hollow point round."
+  },
+  {
+    "HeaderOffset": 430,
+    "StartTextOffset": 436,
+    "EndTextOffset": 454,
+    "Text": "Ammo.Caliber_44_JHP"
+  },
+  {
+    "HeaderOffset": 696,
+    "StartTextOffset": 702,
+    "EndTextOffset": 705,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 715,
+    "StartTextOffset": 721,
+    "EndTextOffset": 727,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 737,
+    "StartTextOffset": 743,
+    "EndTextOffset": 748,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 758,
+    "StartTextOffset": 764,
+    "EndTextOffset": 772,
+    "Text": "ldsingcur"
+  }
+]

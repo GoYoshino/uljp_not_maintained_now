@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 573,
+    "StartTextOffset": 579,
+    "EndTextOffset": 599,
+    "Text": "praetorianMediumArmor"
+  },
+  {
+    "HeaderOffset": 600,
+    "StartTextOffset": 606,
+    "EndTextOffset": 626,
+    "Text": "Praetorian Chestguard"
+  },
+  {
+    "HeaderOffset": 662,
+    "StartTextOffset": 668,
+    "EndTextOffset": 1045,
+    "Text": "Also referred to as \"tactical cuirass\". This is the lighter version of Praetorian enforcer armor and is essentially a hybrid between the standard metal and riot armor, designed primarily to protect the chest while still allowing for some mobility. It sports a pair of sturdy metal shin guards for when the further dissuasion of a downed opponent is warranted... which is often."
+  },
+  {
+    "HeaderOffset": 1046,
+    "StartTextOffset": 1052,
+    "EndTextOffset": 1078,
+    "Text": "Armor.PraetorianMediumArmor"
+  },
+  {
+    "HeaderOffset": 1438,
+    "StartTextOffset": 1444,
+    "EndTextOffset": 1448,
+    "Text": "praem"
+  },
+  {
+    "HeaderOffset": 1719,
+    "StartTextOffset": 1725,
+    "EndTextOffset": 1734,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1754,
+    "StartTextOffset": 1760,
+    "EndTextOffset": 1771,
+    "Text": "Intimidation"
+  }
+]

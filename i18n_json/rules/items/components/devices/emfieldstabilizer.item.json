@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 270,
+    "StartTextOffset": 276,
+    "EndTextOffset": 307,
+    "Text": "Electromagnetic Field Stabilizer"
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 454,
+    "Text": "Many devices that create or control electromagnetic fields use this component to limit and stabilize them."
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 426,
+    "Text": "any devices that create or control electromagnetic fields use this component "
+  },
+  {
+    "HeaderOffset": 455,
+    "StartTextOffset": 461,
+    "EndTextOffset": 473,
+    "Text": "Components.35"
+  },
+  {
+    "HeaderOffset": 716,
+    "StartTextOffset": 722,
+    "EndTextOffset": 732,
+    "Text": "Electronics"
+  }
+]

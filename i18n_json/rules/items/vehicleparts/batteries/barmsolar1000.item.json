@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 276,
+    "Text": "VehiclePart.BArmSolar1000"
+  },
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 297,
+    "Text": "BArm Solar 1000"
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 383,
+    "Text": "Large vehicle battery made by Biocorp Armory."
+  },
+  {
+    "HeaderOffset": 384,
+    "StartTextOffset": 390,
+    "EndTextOffset": 414,
+    "Text": "VehiclePart.BArmSolar1000"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 738,
+    "StartTextOffset": 744,
+    "EndTextOffset": 747,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 788,
+    "StartTextOffset": 794,
+    "EndTextOffset": 800,
+    "Text": "needler"
+  },
+  {
+    "HeaderOffset": 801,
+    "StartTextOffset": 807,
+    "EndTextOffset": 813,
+    "Text": "Needler"
+  },
+  {
+    "HeaderOffset": 849,
+    "StartTextOffset": 855,
+    "EndTextOffset": 1037,
+    "Text": "Though not particularly heavy, this metal crossbow is very long and unwieldy. It has a powerful string that, if stretched far back over its large frame, could fire devastating shots."
+  },
+  {
+    "HeaderOffset": 1038,
+    "StartTextOffset": 1044,
+    "EndTextOffset": 1057,
+    "Text": "Weapon.Needler"
+  },
+  {
+    "HeaderOffset": 1828,
+    "StartTextOffset": 1834,
+    "EndTextOffset": 1845,
+    "Text": "PiercingShot"
+  },
+  {
+    "HeaderOffset": 1895,
+    "StartTextOffset": 1901,
+    "EndTextOffset": 1910,
+    "Text": "immobilize"
+  }
+]

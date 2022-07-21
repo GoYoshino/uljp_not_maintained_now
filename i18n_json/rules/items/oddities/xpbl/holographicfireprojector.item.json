@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 256,
+    "Text": "Oddity.HolographicFireProjector"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 288,
+    "Text": "Holographic Fire Projector"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 403,
+    "Text": "When connected to a power source, projects an animated ball of blue flame."
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 440,
+    "Text": "Oddity.HolographicFireProjector"
+  }
+]

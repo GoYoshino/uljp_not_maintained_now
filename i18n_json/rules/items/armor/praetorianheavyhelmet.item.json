@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 482,
+    "StartTextOffset": 488,
+    "EndTextOffset": 508,
+    "Text": "praetorianHeavyHelmet"
+  },
+  {
+    "HeaderOffset": 509,
+    "StartTextOffset": 515,
+    "EndTextOffset": 533,
+    "Text": "Praetorian Lawgiver"
+  },
+  {
+    "HeaderOffset": 569,
+    "StartTextOffset": 575,
+    "EndTextOffset": 641,
+    "Text": "A heavy metal helmet featuring a built-in respirator and megaphone."
+  },
+  {
+    "HeaderOffset": 570,
+    "StartTextOffset": 576,
+    "EndTextOffset": 640,
+    "Text": " heavy metal helmet featuring a built-in respirator and megaphone"
+  },
+  {
+    "HeaderOffset": 642,
+    "StartTextOffset": 648,
+    "EndTextOffset": 674,
+    "Text": "Armor.PraetorianHeavyHelmet"
+  },
+  {
+    "HeaderOffset": 1231,
+    "StartTextOffset": 1237,
+    "EndTextOffset": 1246,
+    "Text": "Perception"
+  }
+]

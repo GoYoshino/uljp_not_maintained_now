@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 309,
+    "Text": "VehiclePart.BArmLightstep250"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 333,
+    "Text": "BArm Lightstep 250"
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 429,
+    "Text": "Small electrical vehicle engine made by Biocorp Armory."
+  },
+  {
+    "HeaderOffset": 430,
+    "StartTextOffset": 436,
+    "EndTextOffset": 463,
+    "Text": "VehiclePart.BArmLightstep250"
+  },
+  {
+    "HeaderOffset": 614,
+    "StartTextOffset": 620,
+    "EndTextOffset": 626,
+    "Text": "biocorp"
+  }
+]

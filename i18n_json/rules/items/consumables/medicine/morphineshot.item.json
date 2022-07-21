@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 233,
+    "Text": "morphineShot"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 252,
+    "Text": "Morphine Shot"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 372,
+    "Text": "Morphine is a potent opiate analgesic drug that is used to relieve severe pain."
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 371,
+    "Text": "orphine is a potent opiate analgesic drug that is used to relieve severe pain"
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 384,
+    "Text": "Meds.5"
+  },
+  {
+    "HeaderOffset": 575,
+    "StartTextOffset": 581,
+    "EndTextOffset": 603,
+    "Text": "MorphineHypoConsumation"
+  }
+]

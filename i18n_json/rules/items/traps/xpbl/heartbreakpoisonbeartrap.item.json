@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 270,
+    "Text": "trap.heartbreakPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 303,
+    "Text": "Heartbreak Poison Bear Trap"
+  },
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 558,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim. As if the excruciating pain of having your foot caught in one of these wasn't enough, the metal jaws have also been coated with heartbreak poison."
+  },
+  {
+    "HeaderOffset": 559,
+    "StartTextOffset": 565,
+    "EndTextOffset": 577,
+    "Text": "Explosives.98"
+  },
+  {
+    "HeaderOffset": 781,
+    "StartTextOffset": 787,
+    "EndTextOffset": 815,
+    "Text": "PlaceHeartbreakPoisonBearTrap"
+  }
+]

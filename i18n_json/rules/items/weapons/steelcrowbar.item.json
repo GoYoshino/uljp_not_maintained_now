@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 652,
+    "StartTextOffset": 658,
+    "EndTextOffset": 661,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 682,
+    "StartTextOffset": 688,
+    "EndTextOffset": 699,
+    "Text": "steelCrowbar"
+  },
+  {
+    "HeaderOffset": 700,
+    "StartTextOffset": 706,
+    "EndTextOffset": 718,
+    "Text": "Steel Crowbar"
+  },
+  {
+    "HeaderOffset": 754,
+    "StartTextOffset": 760,
+    "EndTextOffset": 815,
+    "Text": "This handy tool can also be used as a weapon in a pinch."
+  },
+  {
+    "HeaderOffset": 816,
+    "StartTextOffset": 822,
+    "EndTextOffset": 831,
+    "Text": "Weapons.80"
+  },
+  {
+    "HeaderOffset": 1467,
+    "StartTextOffset": 1473,
+    "EndTextOffset": 1481,
+    "Text": "forceVent"
+  }
+]

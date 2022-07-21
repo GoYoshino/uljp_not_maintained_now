@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 642,
+    "StartTextOffset": 648,
+    "EndTextOffset": 653,
+    "Text": "CFDBME"
+  },
+  {
+    "HeaderOffset": 730,
+    "StartTextOffset": 736,
+    "EndTextOffset": 739,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 788,
+    "StartTextOffset": 794,
+    "EndTextOffset": 800,
+    "Text": "wep.m16"
+  },
+  {
+    "HeaderOffset": 845,
+    "StartTextOffset": 851,
+    "EndTextOffset": 885,
+    "Text": "A fine old world 5mm assault rifle."
+  },
+  {
+    "HeaderOffset": 886,
+    "StartTextOffset": 892,
+    "EndTextOffset": 901,
+    "Text": "Weapon.M16"
+  },
+  {
+    "HeaderOffset": 1583,
+    "StartTextOffset": 1589,
+    "EndTextOffset": 1592,
+    "Text": "uwep"
+  }
+]

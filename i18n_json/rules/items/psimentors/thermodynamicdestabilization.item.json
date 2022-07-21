@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 267,
+    "Text": "psiMentor.ThermodynamicDestabilization"
+  },
+  {
+    "HeaderOffset": 268,
+    "StartTextOffset": 274,
+    "EndTextOffset": 318,
+    "Text": "Psionic Mentor: Thermodynamic Destabilization"
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 485,
+    "Text": "This device can be used to automatically teach yourself Thermodynamic Destabilization psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 444,
+    "Text": "his device can be used to automatically teach yourself Thermodynamic Destabilization"
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 510,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 643,
+    "StartTextOffset": 649,
+    "EndTextOffset": 676,
+    "Text": "ThermodynamicDestabilization"
+  },
+  {
+    "HeaderOffset": 735,
+    "StartTextOffset": 741,
+    "EndTextOffset": 760,
+    "Text": "PsiMentorConsumation"
+  }
+]

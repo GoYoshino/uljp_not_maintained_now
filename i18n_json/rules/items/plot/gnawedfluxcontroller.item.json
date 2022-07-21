@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 226,
+    "Text": "gnawedFluxController"
+  },
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 254,
+    "Text": "Gnawed Flux Controller"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 347,
+    "Text": "This flux controller looks like it's been gnawed on."
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 362,
+    "Text": "Devices.9"
+  }
+]

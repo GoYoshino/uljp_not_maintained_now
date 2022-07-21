@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 290,
+    "Text": "silencer"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 304,
+    "Text": "Silencer"
+  },
+  {
+    "HeaderOffset": 340,
+    "StartTextOffset": 346,
+    "EndTextOffset": 412,
+    "Text": "Can be used when crafting 5mm caliber firearms to make them silent."
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 432,
+    "Text": "Components.109"
+  },
+  {
+    "HeaderOffset": 677,
+    "StartTextOffset": 683,
+    "EndTextOffset": 691,
+    "Text": "Mechanics"
+  }
+]

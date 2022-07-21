@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 230,
+    "Text": "Ammo.SerratedBolt"
+  },
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 249,
+    "Text": "Serrated Bolt"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 371,
+    "Text": "A special crossbow bolt with serrated metal tip that can inflict bleeding wounds."
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 356,
+    "Text": " special crossbow bolt with serrated metal tip that can inflict b"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 384,
+    "Text": "Ammo.90"
+  },
+  {
+    "HeaderOffset": 574,
+    "StartTextOffset": 580,
+    "EndTextOffset": 596,
+    "Text": "ShootSerratedBolt"
+  }
+]

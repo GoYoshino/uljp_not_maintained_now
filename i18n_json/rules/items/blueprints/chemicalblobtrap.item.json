@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 248,
+    "Text": "chemicalBlobTrapBlueprint"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 283,
+    "Text": "Blueprint: Chemical Blob Trap"
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 384,
+    "Text": "Contains instructions on how to create a chemical blob trap."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 399,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 531,
+    "StartTextOffset": 537,
+    "EndTextOffset": 552,
+    "Text": "chemicalBlobTrap"
+  },
+  {
+    "HeaderOffset": 611,
+    "StartTextOffset": 617,
+    "EndTextOffset": 636,
+    "Text": "blueprintconsumation"
+  }
+]

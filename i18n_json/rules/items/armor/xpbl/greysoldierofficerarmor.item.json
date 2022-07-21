@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 454,
+    "StartTextOffset": 460,
+    "EndTextOffset": 463,
+    "Text": "MRPE"
+  },
+  {
+    "HeaderOffset": 546,
+    "StartTextOffset": 552,
+    "EndTextOffset": 567,
+    "Text": "greyOfficerArmor"
+  },
+  {
+    "HeaderOffset": 568,
+    "StartTextOffset": 574,
+    "EndTextOffset": 591,
+    "Text": "Gray Officer Armor"
+  },
+  {
+    "HeaderOffset": 627,
+    "StartTextOffset": 633,
+    "EndTextOffset": 865,
+    "Text": "A suit of gray tactical vest type armor for officers of the army. Along the rank insignia, it also has markings that feature black compass blades and a jackhammer, which replaces the north one, against a yellow and white background."
+  },
+  {
+    "HeaderOffset": 866,
+    "StartTextOffset": 872,
+    "EndTextOffset": 885,
+    "Text": "xpbl_Armors.02"
+  },
+  {
+    "HeaderOffset": 1211,
+    "StartTextOffset": 1217,
+    "EndTextOffset": 1224,
+    "Text": "xpbl_rao"
+  },
+  {
+    "HeaderOffset": 1463,
+    "StartTextOffset": 1469,
+    "EndTextOffset": 1480,
+    "Text": "Intimidation"
+  }
+]

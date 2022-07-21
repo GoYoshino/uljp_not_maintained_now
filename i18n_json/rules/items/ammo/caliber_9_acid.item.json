@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 351,
+    "Text": "Ammo.Caliber_9_Acid"
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 371,
+    "Text": "9mm Acid Round"
+  },
+  {
+    "HeaderOffset": 407,
+    "StartTextOffset": 413,
+    "EndTextOffset": 495,
+    "Text": "This cartridge packs a 9mm bullet embedded with acid that will burst out on impact."
+  },
+  {
+    "HeaderOffset": 496,
+    "StartTextOffset": 502,
+    "EndTextOffset": 520,
+    "Text": "Ammo.Caliber_9_Acid"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 777,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 787,
+    "StartTextOffset": 793,
+    "EndTextOffset": 799,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 809,
+    "StartTextOffset": 815,
+    "EndTextOffset": 820,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 830,
+    "StartTextOffset": 836,
+    "EndTextOffset": 844,
+    "Text": "ldsingcur"
+  },
+  {
+    "HeaderOffset": 894,
+    "StartTextOffset": 900,
+    "EndTextOffset": 903,
+    "Text": "acid"
+  }
+]

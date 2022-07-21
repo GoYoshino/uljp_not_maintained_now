@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 235,
+    "Text": "Oddity.WeirdHook"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 251,
+    "Text": "Weird Hook"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 395,
+    "Text": "You found this hook stuck to the carapace of a giant worm. Was someone trying to restrain these things?"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 382,
+    "Text": "ou found this hook stuck to the carapace of a giant worm. Was someone trying to restrain "
+  },
+  {
+    "HeaderOffset": 396,
+    "StartTextOffset": 402,
+    "EndTextOffset": 417,
+    "Text": "Oddity.WeirdHook"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 292,
+    "Text": "plasmaCore"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 309,
+    "Text": "Plasma Core"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 489,
+    "Text": "There are a number of different types of energy cores, but they all serve the same purpose, which is to power up various portable devices."
+  },
+  {
+    "HeaderOffset": 490,
+    "StartTextOffset": 496,
+    "EndTextOffset": 511,
+    "Text": "Items.PlasmaCore"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 848,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 879,
+    "StartTextOffset": 885,
+    "EndTextOffset": 901,
+    "Text": "EnergyPistolIndex"
+  },
+  {
+    "HeaderOffset": 932,
+    "StartTextOffset": 938,
+    "EndTextOffset": 947,
+    "Text": "BaseEnergy"
+  },
+  {
+    "HeaderOffset": 982,
+    "StartTextOffset": 988,
+    "EndTextOffset": 1003,
+    "Text": "EnergyPerQuality"
+  },
+  {
+    "HeaderOffset": 1037,
+    "StartTextOffset": 1043,
+    "EndTextOffset": 1059,
+    "Text": "PowerSourcePrefix"
+  },
+  {
+    "HeaderOffset": 1060,
+    "StartTextOffset": 1066,
+    "EndTextOffset": 1079,
+    "Text": "Plasma Powered"
+  }
+]

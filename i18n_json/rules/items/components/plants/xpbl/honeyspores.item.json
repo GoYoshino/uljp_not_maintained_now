@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 288,
+    "Text": "honeySpores"
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 306,
+    "Text": "Honey Spores"
+  },
+  {
+    "HeaderOffset": 342,
+    "StartTextOffset": 348,
+    "EndTextOffset": 361,
+    "Text": "Do not ingest."
+  },
+  {
+    "HeaderOffset": 362,
+    "StartTextOffset": 368,
+    "EndTextOffset": 376,
+    "Text": "Plants.11"
+  },
+  {
+    "HeaderOffset": 646,
+    "StartTextOffset": 652,
+    "EndTextOffset": 658,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 688,
+    "StartTextOffset": 694,
+    "EndTextOffset": 700,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 701,
+    "StartTextOffset": 707,
+    "EndTextOffset": 716,
+    "Text": "Gyromitrin"
+  }
+]

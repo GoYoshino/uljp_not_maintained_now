@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 534,
+    "StartTextOffset": 540,
+    "EndTextOffset": 548,
+    "Text": "xpbl_rash"
+  },
+  {
+    "HeaderOffset": 549,
+    "StartTextOffset": 555,
+    "EndTextOffset": 579,
+    "Text": "Gray Army Spec Ops Helmet"
+  },
+  {
+    "HeaderOffset": 615,
+    "StartTextOffset": 621,
+    "EndTextOffset": 770,
+    "Text": "A tactical helmet worn by the Gray Army spec ops. Comes with fixed night vision goggles and a respirator which provides limited biohazard protection."
+  },
+  {
+    "HeaderOffset": 771,
+    "StartTextOffset": 777,
+    "EndTextOffset": 790,
+    "Text": "xpbl_Armors.11"
+  },
+  {
+    "HeaderOffset": 1225,
+    "StartTextOffset": 1231,
+    "EndTextOffset": 1241,
+    "Text": "NightVision"
+  },
+  {
+    "HeaderOffset": 1561,
+    "StartTextOffset": 1567,
+    "EndTextOffset": 1582,
+    "Text": "PowerPerTurnCost"
+  },
+  {
+    "HeaderOffset": 1600,
+    "StartTextOffset": 1606,
+    "EndTextOffset": 1616,
+    "Text": "PowerOnCost"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 259,
+    "Text": "ludenlofCoinPouch"
+  },
+  {
+    "HeaderOffset": 260,
+    "StartTextOffset": 266,
+    "EndTextOffset": 284,
+    "Text": "Ludenlof Coin pouch"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 543,
+    "Text": "A luxurious coin pouch stamped with the name \"Ludenlof\". Its drawstring is made from a high-quality super steel fiber. As it's partially sown into the pouch, it can only be removed at the expense of ruining the pouch."
+  },
+  {
+    "HeaderOffset": 544,
+    "StartTextOffset": 550,
+    "EndTextOffset": 571,
+    "Text": "Plot.LudenlofCoinPouch"
+  },
+  {
+    "HeaderOffset": 784,
+    "StartTextOffset": 790,
+    "EndTextOffset": 806,
+    "Text": "genericUseJobItem"
+  },
+  {
+    "HeaderOffset": 841,
+    "StartTextOffset": 847,
+    "EndTextOffset": 854,
+    "Text": "UsageJob"
+  },
+  {
+    "HeaderOffset": 938,
+    "StartTextOffset": 944,
+    "EndTextOffset": 962,
+    "Text": "Removing drawstring"
+  },
+  {
+    "HeaderOffset": 963,
+    "StartTextOffset": 969,
+    "EndTextOffset": 1003,
+    "Text": "Remove drawstring. Ruins the pouch."
+  },
+  {
+    "HeaderOffset": 1004,
+    "StartTextOffset": 1010,
+    "EndTextOffset": 1018,
+    "Text": "Operating"
+  },
+  {
+    "HeaderOffset": 1020,
+    "StartTextOffset": 1026,
+    "EndTextOffset": 1031,
+    "Text": "LIJDLP"
+  },
+  {
+    "HeaderOffset": 1080,
+    "StartTextOffset": 1086,
+    "EndTextOffset": 1096,
+    "Text": "ClothRustle"
+  },
+  {
+    "HeaderOffset": 1097,
+    "StartTextOffset": 1103,
+    "EndTextOffset": 1114,
+    "Text": "PaperCrumple"
+  }
+]

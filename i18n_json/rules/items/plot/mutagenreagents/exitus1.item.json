@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 229,
+    "Text": "mutagenReagent.exitus.1"
+  },
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 259,
+    "Text": "Mutagen Reagent Exitus-1"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 335,
+    "Text": "A container holding potent mutagen."
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 349,
+    "Text": "Plot.201"
+  },
+  {
+    "HeaderOffset": 567,
+    "StartTextOffset": 573,
+    "EndTextOffset": 591,
+    "Text": "MutagenReagentIndex"
+  },
+  {
+    "HeaderOffset": 621,
+    "StartTextOffset": 627,
+    "EndTextOffset": 637,
+    "Text": "MutagenName"
+  },
+  {
+    "HeaderOffset": 638,
+    "StartTextOffset": 644,
+    "EndTextOffset": 651,
+    "Text": "Exitus-1"
+  }
+]

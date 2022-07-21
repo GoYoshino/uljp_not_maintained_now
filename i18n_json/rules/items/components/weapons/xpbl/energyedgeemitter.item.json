@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 299,
+    "Text": "energyEdgeEmitter"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 324,
+    "Text": "Energy Edge Emitter"
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 485,
+    "Text": "Can be attached to melee weapon with a cutting edge to emit energy on impact, but sacrificing the sharpness of the edge."
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 433,
+    "Text": "an be attached to melee weapon with a cutting edge to emit energy o"
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 519,
+    "Text": "Components.EnergyEdgeEmitter"
+  },
+  {
+    "HeaderOffset": 821,
+    "StartTextOffset": 827,
+    "EndTextOffset": 837,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 867,
+    "StartTextOffset": 873,
+    "EndTextOffset": 888,
+    "Text": "EnergyWeaponType"
+  },
+  {
+    "HeaderOffset": 889,
+    "StartTextOffset": 895,
+    "EndTextOffset": 900,
+    "Text": "Energy"
+  },
+  {
+    "HeaderOffset": 927,
+    "StartTextOffset": 933,
+    "EndTextOffset": 947,
+    "Text": "BaseEnergyUsage"
+  },
+  {
+    "HeaderOffset": 982,
+    "StartTextOffset": 988,
+    "EndTextOffset": 1008,
+    "Text": "EnergyUsagePerQuality"
+  }
+]

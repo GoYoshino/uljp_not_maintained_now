@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 242,
+    "Text": "Oddity.CyberneticModule"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 265,
+    "Text": "Cybernetic Module"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 388,
+    "Text": "Some sort of cybernetic enhancements, but you have no idea how you'd implant them."
+  },
+  {
+    "HeaderOffset": 389,
+    "StartTextOffset": 395,
+    "EndTextOffset": 417,
+    "Text": "Oddity.CyberneticModule"
+  }
+]

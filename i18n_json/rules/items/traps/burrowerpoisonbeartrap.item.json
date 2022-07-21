@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 262,
+    "Text": "trap.burrowerPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 263,
+    "StartTextOffset": 269,
+    "EndTextOffset": 293,
+    "Text": "Burrower Poison Bear Trap"
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 546,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim. As if the excruciating pain of having your foot caught in one of these wasn't enough, the metal jaws have also been coated with burrower poison."
+  },
+  {
+    "HeaderOffset": 547,
+    "StartTextOffset": 553,
+    "EndTextOffset": 565,
+    "Text": "Explosives.91"
+  },
+  {
+    "HeaderOffset": 863,
+    "StartTextOffset": 869,
+    "EndTextOffset": 889,
+    "Text": "PlacePoisonedBearTrap"
+  },
+  {
+    "HeaderOffset": 916,
+    "StartTextOffset": 922,
+    "EndTextOffset": 934,
+    "Text": "DamagePerTurn"
+  },
+  {
+    "HeaderOffset": 948,
+    "StartTextOffset": 954,
+    "EndTextOffset": 967,
+    "Text": "PoisonDuration"
+  },
+  {
+    "HeaderOffset": 997,
+    "StartTextOffset": 1003,
+    "EndTextOffset": 1012,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 1013,
+    "StartTextOffset": 1019,
+    "EndTextOffset": 1032,
+    "Text": "BurrowerPoison"
+  },
+  {
+    "HeaderOffset": 1042,
+    "StartTextOffset": 1048,
+    "EndTextOffset": 1062,
+    "Text": "MaxPoisonStacks"
+  },
+  {
+    "HeaderOffset": 1092,
+    "StartTextOffset": 1098,
+    "EndTextOffset": 1107,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 1108,
+    "StartTextOffset": 1114,
+    "EndTextOffset": 1128,
+    "Text": "Burrower Poison"
+  }
+]

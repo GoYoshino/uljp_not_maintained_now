@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 246,
+    "Text": "cameraJammer"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 265,
+    "Text": "Camera Jammer"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 398,
+    "Text": "A remote jamming device designed to reduce tracking and reporting speed of security cameras."
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 372,
+    "Text": " remote jamming device designed to reduce tracking and reporting "
+  },
+  {
+    "HeaderOffset": 399,
+    "StartTextOffset": 405,
+    "EndTextOffset": 416,
+    "Text": "CameraJammer"
+  },
+  {
+    "HeaderOffset": 612,
+    "StartTextOffset": 618,
+    "EndTextOffset": 639,
+    "Text": "RemoteScanCallOverload"
+  }
+]

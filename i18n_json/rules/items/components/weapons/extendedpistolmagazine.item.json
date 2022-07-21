@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 291,
+    "Text": "extendedPistolMagazine"
+  },
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 314,
+    "Text": "Extended Magazine"
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 471,
+    "Text": "It can be used instead of the regular pistol or SMG magazine to provide bullet storage beyond the standard capacity."
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 429,
+    "Text": "t can be used instead of the regular pistol or SMG magazine to provide bu"
+  },
+  {
+    "HeaderOffset": 472,
+    "StartTextOffset": 478,
+    "EndTextOffset": 490,
+    "Text": "Components.74"
+  },
+  {
+    "HeaderOffset": 752,
+    "StartTextOffset": 758,
+    "EndTextOffset": 766,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 797,
+    "StartTextOffset": 803,
+    "EndTextOffset": 826,
+    "Text": "MagazineCapacityModifier"
+  }
+]

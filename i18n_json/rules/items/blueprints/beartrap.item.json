@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 241,
+    "Text": "blueprint.bearTrap"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 267,
+    "Text": "Blueprint: Bear Trap"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 375,
+    "Text": "Contains instructions on how to create traps for the mythical bear."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 390,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 522,
+    "StartTextOffset": 528,
+    "EndTextOffset": 535,
+    "Text": "bearTrap"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 619,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 243,
+    "Text": "med.healingSalve"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 262,
+    "Text": "Healing Salve"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 375,
+    "Text": "This appears to be a shell filled with some sort of a balm. Smells nice."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 392,
+    "Text": "xpbl_Meds.2"
+  },
+  {
+    "HeaderOffset": 584,
+    "StartTextOffset": 590,
+    "EndTextOffset": 612,
+    "Text": "HealingSalveConsumption"
+  }
+]

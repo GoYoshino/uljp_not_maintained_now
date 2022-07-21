@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 223,
+    "StartTextOffset": 229,
+    "EndTextOffset": 235,
+    "Text": "haxxor3"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 254,
+    "Text": "ハッカー・コンソールMk-III/Haxxor Mk III"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 370,
+    "Text": "コンピュータデバイスをハッキングしたり、電子錠を解錠するのに用いる。"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 389,
+    "Text": "Items.Haxxor3"
+  },
+  {
+    "HeaderOffset": 603,
+    "StartTextOffset": 609,
+    "EndTextOffset": 619,
+    "Text": "hackutility"
+  },
+  {
+    "HeaderOffset": 646,
+    "StartTextOffset": 652,
+    "EndTextOffset": 663,
+    "Text": "HackingBonus"
+  }
+]

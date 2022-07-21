@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 394,
+    "StartTextOffset": 400,
+    "EndTextOffset": 404,
+    "Text": "MBAFE"
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 493,
+    "Text": "buckleShoesNormal"
+  },
+  {
+    "HeaderOffset": 494,
+    "StartTextOffset": 500,
+    "EndTextOffset": 522,
+    "Text": "Undersized Buckle Shoes"
+  },
+  {
+    "HeaderOffset": 558,
+    "StartTextOffset": 564,
+    "EndTextOffset": 751,
+    "Text": "A pair of elegantly simple leather shoes featuring a metal buckle. Unfortunately, the shoes are quite a few sizes too small, which makes wearing them a painfully uncomfortable experience."
+  },
+  {
+    "HeaderOffset": 752,
+    "StartTextOffset": 758,
+    "EndTextOffset": 774,
+    "Text": "Armor.BuckleShoes"
+  },
+  {
+    "HeaderOffset": 1166,
+    "StartTextOffset": 1172,
+    "EndTextOffset": 1178,
+    "Text": "Agility"
+  },
+  {
+    "HeaderOffset": 1434,
+    "StartTextOffset": 1440,
+    "EndTextOffset": 1449,
+    "Text": "Mercantile"
+  },
+  {
+    "HeaderOffset": 1469,
+    "StartTextOffset": 1475,
+    "EndTextOffset": 1481,
+    "Text": "Stealth"
+  }
+]

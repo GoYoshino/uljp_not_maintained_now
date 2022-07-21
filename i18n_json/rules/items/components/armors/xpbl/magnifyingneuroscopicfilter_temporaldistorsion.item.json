@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 357,
+    "Text": "Magnifying Neuroscopic Filter: Temporal Distortion"
+  },
+  {
+    "HeaderOffset": 393,
+    "StartTextOffset": 399,
+    "EndTextOffset": 484,
+    "Text": "When added to a psionic device, increases the power of the user's Temporal Distortion."
+  },
+  {
+    "HeaderOffset": 485,
+    "StartTextOffset": 491,
+    "EndTextOffset": 546,
+    "Text": "Components.MagnifyingNeuroscopicFilterTemporalDistorsion"
+  },
+  {
+    "HeaderOffset": 892,
+    "StartTextOffset": 898,
+    "EndTextOffset": 908,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 922,
+    "StartTextOffset": 928,
+    "EndTextOffset": 934,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 964,
+    "StartTextOffset": 970,
+    "EndTextOffset": 993,
+    "Text": "CapabilityDamageModified"
+  },
+  {
+    "HeaderOffset": 994,
+    "StartTextOffset": 1000,
+    "EndTextOffset": 1017,
+    "Text": "TemporalDistorsion"
+  },
+  {
+    "HeaderOffset": 1044,
+    "StartTextOffset": 1050,
+    "EndTextOffset": 1062,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 1080,
+    "StartTextOffset": 1086,
+    "EndTextOffset": 1100,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 1101,
+    "StartTextOffset": 1107,
+    "EndTextOffset": 1152,
+    "Text": "1MagnifyingNeuroscopicFilterTemporalDistorsion"
+  },
+  {
+    "HeaderOffset": 1162,
+    "StartTextOffset": 1168,
+    "EndTextOffset": 1186,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1187,
+    "StartTextOffset": 1193,
+    "EndTextOffset": 1286,
+    "Text": "It's equipped with magnifying neuroscopic filter that amplifies the power of the wearer's {0}."
+  },
+  {
+    "HeaderOffset": 1296,
+    "StartTextOffset": 1302,
+    "EndTextOffset": 1322,
+    "Text": "PsionicHeadbandPrefix"
+  },
+  {
+    "HeaderOffset": 1323,
+    "StartTextOffset": 1329,
+    "EndTextOffset": 1338,
+    "Text": "Distortive"
+  }
+]

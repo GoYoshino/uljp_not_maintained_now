@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 249,
+    "Text": "charm.warthogFoot"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 273,
+    "Text": "Warthog Foot Charm"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 374,
+    "Text": "Lucky charm made from a warthog's foot. Unusable in cooking."
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 397,
+    "Text": "Plot.WarthogCharm"
+  },
+  {
+    "HeaderOffset": 583,
+    "StartTextOffset": 589,
+    "EndTextOffset": 596,
+    "Text": "UseCharm"
+  }
+]

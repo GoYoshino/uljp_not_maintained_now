@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 258,
+    "Text": "energyShieldEmitterBlueprint"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 296,
+    "Text": "Blueprint: Energy Shield Emitter"
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 401,
+    "Text": "Contains instructions on how to create an energy shield emitter."
+  },
+  {
+    "HeaderOffset": 402,
+    "StartTextOffset": 408,
+    "EndTextOffset": 416,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 549,
+    "StartTextOffset": 555,
+    "EndTextOffset": 573,
+    "Text": "energyShieldEmitter"
+  },
+  {
+    "HeaderOffset": 632,
+    "StartTextOffset": 638,
+    "EndTextOffset": 657,
+    "Text": "blueprintconsumation"
+  }
+]

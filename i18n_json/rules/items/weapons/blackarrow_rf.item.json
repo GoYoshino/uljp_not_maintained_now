@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 652,
+    "StartTextOffset": 658,
+    "EndTextOffset": 665,
+    "Text": "MSSARAME"
+  },
+  {
+    "HeaderOffset": 750,
+    "StartTextOffset": 756,
+    "EndTextOffset": 759,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 808,
+    "StartTextOffset": 814,
+    "EndTextOffset": 830,
+    "Text": "wep.blackArrow_rf"
+  },
+  {
+    "HeaderOffset": 831,
+    "StartTextOffset": 837,
+    "EndTextOffset": 859,
+    "Text": "Refurbished Black Arrow"
+  },
+  {
+    "HeaderOffset": 895,
+    "StartTextOffset": 901,
+    "EndTextOffset": 1002,
+    "Text": "A loud and powerful old world 12.7mm anti-materiel sniper rifle. Capable of piercing multiple targets."
+  },
+  {
+    "HeaderOffset": 1003,
+    "StartTextOffset": 1009,
+    "EndTextOffset": 1028,
+    "Text": "Weapon.BlackArrow_rf"
+  },
+  {
+    "HeaderOffset": 1615,
+    "StartTextOffset": 1621,
+    "EndTextOffset": 1633,
+    "Text": "blackArrow_rf"
+  },
+  {
+    "HeaderOffset": 1733,
+    "StartTextOffset": 1739,
+    "EndTextOffset": 1742,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1864,
+    "StartTextOffset": 1870,
+    "EndTextOffset": 1885,
+    "Text": "dazeSelfOnAttack"
+  }
+]

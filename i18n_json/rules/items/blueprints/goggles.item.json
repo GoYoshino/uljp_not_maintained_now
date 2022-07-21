@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 239,
+    "Text": "gogglesBlueprint"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 263,
+    "Text": "Blueprint: Goggles"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 361,
+    "Text": "Contains instructions on how to create a pair of goggles."
+  },
+  {
+    "HeaderOffset": 362,
+    "StartTextOffset": 368,
+    "EndTextOffset": 376,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 508,
+    "StartTextOffset": 514,
+    "EndTextOffset": 520,
+    "Text": "goggles"
+  },
+  {
+    "HeaderOffset": 579,
+    "StartTextOffset": 585,
+    "EndTextOffset": 604,
+    "Text": "blueprintconsumation"
+  }
+]

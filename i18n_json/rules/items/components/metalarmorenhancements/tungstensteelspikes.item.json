@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 405,
+    "Text": "tungstenSpikes"
+  },
+  {
+    "HeaderOffset": 406,
+    "StartTextOffset": 412,
+    "EndTextOffset": 432,
+    "Text": "Tungsten Steel Spikes"
+  },
+  {
+    "HeaderOffset": 468,
+    "StartTextOffset": 474,
+    "EndTextOffset": 552,
+    "Text": "It's a set of tungsten steel spikes. They can be mounted on a metal armor suit."
+  },
+  {
+    "HeaderOffset": 469,
+    "StartTextOffset": 475,
+    "EndTextOffset": 547,
+    "Text": "t's a set of tungsten steel spikes. They can be mounted on a metal armor "
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 572,
+    "Text": "Components.132"
+  },
+  {
+    "HeaderOffset": 908,
+    "StartTextOffset": 914,
+    "EndTextOffset": 922,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1091,
+    "StartTextOffset": 1097,
+    "EndTextOffset": 1103,
+    "Text": "IsSpike"
+  },
+  {
+    "HeaderOffset": 1131,
+    "StartTextOffset": 1137,
+    "EndTextOffset": 1149,
+    "Text": "GloveEnhIndex"
+  },
+  {
+    "HeaderOffset": 1179,
+    "StartTextOffset": 1185,
+    "EndTextOffset": 1192,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1193,
+    "StartTextOffset": 1199,
+    "EndTextOffset": 1212,
+    "Text": "Tungsten Steel"
+  }
+]

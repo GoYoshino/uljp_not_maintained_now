@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 306,
+    "Text": "VehiclePart.BioInGiant375"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 327,
+    "Text": "BioIn Giant 375"
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 433,
+    "Text": "Medium size electrical vehicle engine made by Biocorp Industries."
+  },
+  {
+    "HeaderOffset": 434,
+    "StartTextOffset": 440,
+    "EndTextOffset": 464,
+    "Text": "VehiclePart.BioInGiant375"
+  },
+  {
+    "HeaderOffset": 615,
+    "StartTextOffset": 621,
+    "EndTextOffset": 627,
+    "Text": "biocorp"
+  }
+]

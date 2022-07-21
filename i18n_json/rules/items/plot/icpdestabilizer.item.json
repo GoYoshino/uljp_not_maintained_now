@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 221,
+    "Text": "ICPDestabilizer"
+  },
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 231,
+    "Text": "ICPD"
+  },
+  {
+    "HeaderOffset": 267,
+    "StartTextOffset": 273,
+    "EndTextOffset": 427,
+    "Text": "You have no idea what all the different buttons on this thing do. The big blue one seems very tempting, but then again, maybe it's better not to touch it."
+  },
+  {
+    "HeaderOffset": 428,
+    "StartTextOffset": 434,
+    "EndTextOffset": 440,
+    "Text": "Plot.63"
+  }
+]

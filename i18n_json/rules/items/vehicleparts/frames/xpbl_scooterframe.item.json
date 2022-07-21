@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 461,
+    "Text": "xpbl_scooterFrame"
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 480,
+    "Text": "Scooter Frame"
+  },
+  {
+    "HeaderOffset": 517,
+    "StartTextOffset": 523,
+    "EndTextOffset": 528,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1017,
+    "StartTextOffset": 1023,
+    "EndTextOffset": 1034,
+    "Text": "xpbl_scooter"
+  }
+]

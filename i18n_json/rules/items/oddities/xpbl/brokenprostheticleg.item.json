@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 251,
+    "Text": "Oddity.BrokenProstheticLeg"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 278,
+    "Text": "Broken Prosthetic Leg"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 395,
+    "Text": "Some manner of primitive prosthetic device. It appears to be broken, though."
+  },
+  {
+    "HeaderOffset": 396,
+    "StartTextOffset": 402,
+    "EndTextOffset": 427,
+    "Text": "Oddity.BrokenProstheticLeg"
+  }
+]

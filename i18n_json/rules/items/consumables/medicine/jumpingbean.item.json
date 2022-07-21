@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 232,
+    "Text": "jumpingBean"
+  },
+  {
+    "HeaderOffset": 233,
+    "StartTextOffset": 239,
+    "EndTextOffset": 250,
+    "Text": "Jumping Bean"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 357,
+    "Text": "Not actually a bean. When consumed makes you feel light and agile."
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 370,
+    "Text": "Meds.31"
+  },
+  {
+    "HeaderOffset": 561,
+    "StartTextOffset": 567,
+    "EndTextOffset": 588,
+    "Text": "JumpingBeanConsumation"
+  }
+]

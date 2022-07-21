@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 239,
+    "Text": "Oddity.ObsidianShard"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 259,
+    "Text": "Obsidian Shard"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 331,
+    "Text": "It's a shard of volcanic glass."
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 357,
+    "Text": "Oddity.ObsidianShard"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 328,
+    "Text": "Ammo.ShotgunShell_20"
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 351,
+    "Text": "20p Shotgun Shell"
+  },
+  {
+    "HeaderOffset": 387,
+    "StartTextOffset": 393,
+    "EndTextOffset": 450,
+    "Text": "It's a 12-gauge, 20-pellet steel hoppershot shotgun shell."
+  },
+  {
+    "HeaderOffset": 451,
+    "StartTextOffset": 457,
+    "EndTextOffset": 476,
+    "Text": "Ammo.ShotgunShell_20"
+  },
+  {
+    "HeaderOffset": 718,
+    "StartTextOffset": 724,
+    "EndTextOffset": 727,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 737,
+    "StartTextOffset": 743,
+    "EndTextOffset": 749,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 759,
+    "StartTextOffset": 765,
+    "EndTextOffset": 770,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 780,
+    "StartTextOffset": 786,
+    "EndTextOffset": 794,
+    "Text": "ldsingcur"
+  }
+]

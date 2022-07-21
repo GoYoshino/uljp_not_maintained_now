@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 397,
+    "StartTextOffset": 403,
+    "EndTextOffset": 412,
+    "Text": "workerSuit"
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 431,
+    "Text": "Work Coverall"
+  },
+  {
+    "HeaderOffset": 467,
+    "StartTextOffset": 473,
+    "EndTextOffset": 500,
+    "Text": "Dirty old worker's coverall."
+  },
+  {
+    "HeaderOffset": 501,
+    "StartTextOffset": 507,
+    "EndTextOffset": 522,
+    "Text": "Armor.WorkerSuit"
+  }
+]

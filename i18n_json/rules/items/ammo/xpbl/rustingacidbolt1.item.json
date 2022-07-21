@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 240,
+    "Text": "Ammo.RustingAcidBolt1"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 263,
+    "Text": "Rusting Acid Bolt"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 380,
+    "Text": "Carries a vial that breaks on impact, spraying rusting acid onto the target."
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 372,
+    "Text": "arries a vial that breaks on impact, spraying rusting acid onto the"
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 407,
+    "Text": "Ammo.RustingAcidBolt1"
+  },
+  {
+    "HeaderOffset": 617,
+    "StartTextOffset": 623,
+    "EndTextOffset": 642,
+    "Text": "ShootRustingAcidBolt"
+  },
+  {
+    "HeaderOffset": 669,
+    "StartTextOffset": 675,
+    "EndTextOffset": 679,
+    "Text": "power"
+  }
+]

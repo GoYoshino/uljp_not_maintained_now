@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 237,
+    "Text": "Oddity.MetroTicket"
+  },
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 259,
+    "Text": "Old Metro Ticket"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 337,
+    "Text": "Don't think these are valid any more."
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 361,
+    "Text": "Oddity.MetroTicket"
+  }
+]

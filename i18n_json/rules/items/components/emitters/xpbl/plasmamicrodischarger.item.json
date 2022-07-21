@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 304,
+    "Text": "plasmaMicroDischarger"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 333,
+    "Text": "Plasma Micro-discharger"
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 511,
+    "Text": "When coupled with an energy source, this device can discharge a powerful plasma explosion. It's commonly used to create plasma grenades."
+  },
+  {
+    "HeaderOffset": 512,
+    "StartTextOffset": 518,
+    "EndTextOffset": 530,
+    "Text": "Components.49"
+  },
+  {
+    "HeaderOffset": 782,
+    "StartTextOffset": 788,
+    "EndTextOffset": 798,
+    "Text": "Electronics"
+  }
+]

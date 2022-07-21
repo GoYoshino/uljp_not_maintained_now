@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 310,
+    "Text": "Psionic Mufflers"
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 476,
+    "Text": "When added to a psionic enhancement device, these reduce the dispersion of psionic energy, making the invoker more efficient."
+  },
+  {
+    "HeaderOffset": 477,
+    "StartTextOffset": 483,
+    "EndTextOffset": 496,
+    "Text": "Components.208"
+  },
+  {
+    "HeaderOffset": 859,
+    "StartTextOffset": 865,
+    "EndTextOffset": 875,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 889,
+    "StartTextOffset": 895,
+    "EndTextOffset": 901,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 932,
+    "StartTextOffset": 938,
+    "EndTextOffset": 956,
+    "Text": "BasePsiCostModifier"
+  },
+  {
+    "HeaderOffset": 974,
+    "StartTextOffset": 980,
+    "EndTextOffset": 1004,
+    "Text": "PsiCostModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1038,
+    "StartTextOffset": 1044,
+    "EndTextOffset": 1061,
+    "Text": "MaxPsiCostModifier"
+  },
+  {
+    "HeaderOffset": 1062,
+    "StartTextOffset": 1068,
+    "EndTextOffset": 1071,
+    "Text": "0.35"
+  },
+  {
+    "HeaderOffset": 1097,
+    "StartTextOffset": 1103,
+    "EndTextOffset": 1117,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 1118,
+    "StartTextOffset": 1124,
+    "EndTextOffset": 1139,
+    "Text": "3PsionicMufflers"
+  },
+  {
+    "HeaderOffset": 1165,
+    "StartTextOffset": 1171,
+    "EndTextOffset": 1191,
+    "Text": "PsionicHeadbandPrefix"
+  },
+  {
+    "HeaderOffset": 1192,
+    "StartTextOffset": 1198,
+    "EndTextOffset": 1204,
+    "Text": "Muffled"
+  },
+  {
+    "HeaderOffset": 1230,
+    "StartTextOffset": 1236,
+    "EndTextOffset": 1254,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1255,
+    "StartTextOffset": 1261,
+    "EndTextOffset": 1357,
+    "Text": "The attached mufflers reduce the dispersion of psionic energy, making the invoker more efficient."
+  }
+]

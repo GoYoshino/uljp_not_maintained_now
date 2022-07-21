@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 330,
+    "Text": "poison.LeperPoison"
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 348,
+    "Text": "Leper Poison"
+  },
+  {
+    "HeaderOffset": 384,
+    "StartTextOffset": 390,
+    "EndTextOffset": 618,
+    "Text": "This is a vial of poison extracted from a leper sea serpent. When injected into the victim it can cause serious skin damage on the point of entrance and elsewhere on the body, so much so that it can become very easy to peel off."
+  },
+  {
+    "HeaderOffset": 619,
+    "StartTextOffset": 625,
+    "EndTextOffset": 646,
+    "Text": "Components.LeperPoison"
+  },
+  {
+    "HeaderOffset": 935,
+    "StartTextOffset": 941,
+    "EndTextOffset": 956,
+    "Text": "applyGearBooster"
+  },
+  {
+    "HeaderOffset": 990,
+    "StartTextOffset": 996,
+    "EndTextOffset": 1002,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1043,
+    "StartTextOffset": 1049,
+    "EndTextOffset": 1059,
+    "Text": "GearBooster"
+  },
+  {
+    "HeaderOffset": 1090,
+    "StartTextOffset": 1096,
+    "EndTextOffset": 1105,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 1106,
+    "StartTextOffset": 1112,
+    "EndTextOffset": 1127,
+    "Text": "Xpbl\\LeperPoison"
+  }
+]

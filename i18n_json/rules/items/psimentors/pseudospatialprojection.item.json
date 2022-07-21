@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 262,
+    "Text": "psiMentor.PseudoSpatialProjection"
+  },
+  {
+    "HeaderOffset": 263,
+    "StartTextOffset": 269,
+    "EndTextOffset": 309,
+    "Text": "Psionic Mentor: Pseudo-spatial Projection"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 472,
+    "Text": "This device can be used to automatically teach yourself Pseudo-spatial Projection psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 435,
+    "Text": "his device can be used to automatically teach yourself Pseudo-spatial Projection psi"
+  },
+  {
+    "HeaderOffset": 473,
+    "StartTextOffset": 479,
+    "EndTextOffset": 497,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 658,
+    "Text": "PseudoSpatialProjection"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 742,
+    "Text": "PsiMentorConsumation"
+  }
+]

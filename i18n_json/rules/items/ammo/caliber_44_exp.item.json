@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 351,
+    "Text": "Ammo.Caliber_44_Exp"
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 376,
+    "Text": ".44 Explosive Round"
+  },
+  {
+    "HeaderOffset": 412,
+    "StartTextOffset": 418,
+    "EndTextOffset": 489,
+    "Text": "This cartridge packs a .44 explosive bullet. Do not fire at point-blank."
+  },
+  {
+    "HeaderOffset": 490,
+    "StartTextOffset": 496,
+    "EndTextOffset": 514,
+    "Text": "Ammo.Caliber_44_Exp"
+  },
+  {
+    "HeaderOffset": 762,
+    "StartTextOffset": 768,
+    "EndTextOffset": 771,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 781,
+    "StartTextOffset": 787,
+    "EndTextOffset": 793,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 803,
+    "StartTextOffset": 809,
+    "EndTextOffset": 814,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 824,
+    "StartTextOffset": 830,
+    "EndTextOffset": 838,
+    "Text": "ldsingcur"
+  },
+  {
+    "HeaderOffset": 888,
+    "StartTextOffset": 894,
+    "EndTextOffset": 905,
+    "Text": "explosiveHit"
+  }
+]

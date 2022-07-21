@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 309,
+    "Text": "shotgunFrame2"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 340,
+    "Text": "Shotgun Frame: Vindicator"
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 436,
+    "Text": "This frame is used to create a Vindicator type shotgun."
+  },
+  {
+    "HeaderOffset": 437,
+    "StartTextOffset": 443,
+    "EndTextOffset": 457,
+    "Text": "shotgun.2.frame"
+  },
+  {
+    "HeaderOffset": 837,
+    "StartTextOffset": 843,
+    "EndTextOffset": 851,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 881,
+    "StartTextOffset": 887,
+    "EndTextOffset": 890,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 891,
+    "StartTextOffset": 897,
+    "EndTextOffset": 906,
+    "Text": "Vindicator"
+  },
+  {
+    "HeaderOffset": 933,
+    "StartTextOffset": 939,
+    "EndTextOffset": 957,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 996,
+    "StartTextOffset": 1002,
+    "EndTextOffset": 1012,
+    "Text": "ShotgunType"
+  },
+  {
+    "HeaderOffset": 1078,
+    "StartTextOffset": 1084,
+    "EndTextOffset": 1103,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1173,
+    "StartTextOffset": 1179,
+    "EndTextOffset": 1200,
+    "Text": "CriticalChanceModifier"
+  },
+  {
+    "HeaderOffset": 1235,
+    "StartTextOffset": 1241,
+    "EndTextOffset": 1256,
+    "Text": "MagazineModifier"
+  },
+  {
+    "HeaderOffset": 1287,
+    "StartTextOffset": 1293,
+    "EndTextOffset": 1319,
+    "Text": "CriticalDamageBonusModifier"
+  }
+]

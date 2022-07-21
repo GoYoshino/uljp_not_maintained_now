@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 257,
+    "Text": "cocktail.bloodyOligarch"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 278,
+    "Text": "Bloody Oligarch"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 473,
+    "Text": "Essentially a cold soup in a salt- and lake poppy seeds-rimmed glass, sometimes garnished with root slices. Made from actual animal blood, usually pig's."
+  },
+  {
+    "HeaderOffset": 474,
+    "StartTextOffset": 480,
+    "EndTextOffset": 498,
+    "Text": "Food.BloodyOligarch"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 749,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 775,
+    "StartTextOffset": 781,
+    "EndTextOffset": 788,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 789,
+    "StartTextOffset": 795,
+    "EndTextOffset": 808,
+    "Text": "bloodyOligarch"
+  },
+  {
+    "HeaderOffset": 818,
+    "StartTextOffset": 824,
+    "EndTextOffset": 831,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 852,
+    "Text": "Bloody Oligarch"
+  }
+]

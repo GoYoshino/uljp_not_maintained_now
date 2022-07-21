@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 233,
+    "Text": "nailBomb"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 248,
+    "Text": "Nail Bomb"
+  },
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 371,
+    "Text": "A makeshift explosive device filled with nails - many of which are rusty or worse."
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 355,
+    "Text": " makeshift explosive device filled with nails - many of which are"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 389,
+    "Text": "Explosives.3"
+  },
+  {
+    "HeaderOffset": 581,
+    "StartTextOffset": 587,
+    "EndTextOffset": 599,
+    "Text": "NailBombThrow"
+  }
+]

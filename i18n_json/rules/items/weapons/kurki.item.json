@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 723,
+    "StartTextOffset": 729,
+    "EndTextOffset": 732,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 773,
+    "StartTextOffset": 779,
+    "EndTextOffset": 787,
+    "Text": "wep.kurki"
+  },
+  {
+    "HeaderOffset": 788,
+    "StartTextOffset": 794,
+    "EndTextOffset": 798,
+    "Text": "Kukri"
+  },
+  {
+    "HeaderOffset": 834,
+    "StartTextOffset": 840,
+    "EndTextOffset": 907,
+    "Text": "Long inwardly curved knife. Surprisingly good at lopping things off."
+  },
+  {
+    "HeaderOffset": 908,
+    "StartTextOffset": 914,
+    "EndTextOffset": 925,
+    "Text": "Weapon.Kukri"
+  },
+  {
+    "HeaderOffset": 1605,
+    "StartTextOffset": 1611,
+    "EndTextOffset": 1617,
+    "Text": "cripple"
+  },
+  {
+    "HeaderOffset": 1640,
+    "StartTextOffset": 1646,
+    "EndTextOffset": 1659,
+    "Text": "exposeWeakness"
+  }
+]

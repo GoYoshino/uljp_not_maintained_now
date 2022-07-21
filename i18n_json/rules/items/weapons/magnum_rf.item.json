@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 726,
+    "StartTextOffset": 732,
+    "EndTextOffset": 735,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 784,
+    "StartTextOffset": 790,
+    "EndTextOffset": 802,
+    "Text": "wep.magnum_rf"
+  },
+  {
+    "HeaderOffset": 803,
+    "StartTextOffset": 809,
+    "EndTextOffset": 834,
+    "Text": "Refurbished W&S .44 Magnum"
+  },
+  {
+    "HeaderOffset": 870,
+    "StartTextOffset": 876,
+    "EndTextOffset": 918,
+    "Text": "A beautiful .44 caliber old world revolver."
+  },
+  {
+    "HeaderOffset": 919,
+    "StartTextOffset": 925,
+    "EndTextOffset": 940,
+    "Text": "Weapon.Magnum_rf"
+  },
+  {
+    "HeaderOffset": 1621,
+    "StartTextOffset": 1627,
+    "EndTextOffset": 1630,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1640,
+    "StartTextOffset": 1646,
+    "EndTextOffset": 1660,
+    "Text": "QuickDrawAttack"
+  }
+]

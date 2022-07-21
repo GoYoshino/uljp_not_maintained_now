@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 285,
+    "Text": "FirearmBarrel44"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 309,
+    "Text": ".44 Firearm Barrel"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 421,
+    "Text": "Barrel of .44 inch caliber that can be used to construct a new firearm."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 417,
+    "Text": "arrel of .44 inch caliber that can be used to construct a new fire"
+  },
+  {
+    "HeaderOffset": 422,
+    "StartTextOffset": 428,
+    "EndTextOffset": 440,
+    "Text": "Components.83"
+  },
+  {
+    "HeaderOffset": 709,
+    "StartTextOffset": 715,
+    "EndTextOffset": 723,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 761,
+    "StartTextOffset": 767,
+    "EndTextOffset": 776,
+    "Text": "BarrelType"
+  }
+]

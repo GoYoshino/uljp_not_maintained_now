@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 305,
+    "Text": "smgFrame4"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 328,
+    "Text": "SMG Frame: Impala"
+  },
+  {
+    "HeaderOffset": 364,
+    "StartTextOffset": 370,
+    "EndTextOffset": 464,
+    "Text": "This frame is used to create an Impala type submachine gun. It supports 5mm and 7.62mm barrels."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 454,
+    "Text": "his frame is used to create an Impala type submachine gun. It supports 5mm and 7.62m"
+  },
+  {
+    "HeaderOffset": 465,
+    "StartTextOffset": 471,
+    "EndTextOffset": 481,
+    "Text": "smg.4.frame"
+  },
+  {
+    "HeaderOffset": 785,
+    "StartTextOffset": 791,
+    "EndTextOffset": 799,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 829,
+    "StartTextOffset": 835,
+    "EndTextOffset": 838,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 839,
+    "StartTextOffset": 845,
+    "EndTextOffset": 850,
+    "Text": "Impala"
+  },
+  {
+    "HeaderOffset": 901,
+    "StartTextOffset": 907,
+    "EndTextOffset": 926,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 958,
+    "StartTextOffset": 964,
+    "EndTextOffset": 985,
+    "Text": "CriticalChanceModifier"
+  }
+]

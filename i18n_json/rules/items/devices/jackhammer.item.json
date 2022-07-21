@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 223,
+    "StartTextOffset": 229,
+    "EndTextOffset": 238,
+    "Text": "jackhammer"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 254,
+    "Text": "Jackhammer"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 389,
+    "Text": "This large electro-mechanical hammer is usually used to break up rock, pavement, and concrete."
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 380,
+    "Text": "his large electro-mechanical hammer is usually used to break up rock, pavement, and "
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 405,
+    "Text": "Devices.24"
+  },
+  {
+    "HeaderOffset": 600,
+    "StartTextOffset": 606,
+    "EndTextOffset": 613,
+    "Text": "MineRock"
+  }
+]

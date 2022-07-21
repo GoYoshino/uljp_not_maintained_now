@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 252,
+    "Text": "Oddity.MedicinePerscription"
+  },
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 279,
+    "Text": "Medicine Prescription"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 419,
+    "Text": "A medicine prescription for 250mg of Baherpaire-... Dohek-... Banerralkepvec? You cannot read this."
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 386,
+    "Text": " medicine prescription for 250mg of Baherpaire-... Dohek-... Bane"
+  },
+  {
+    "HeaderOffset": 420,
+    "StartTextOffset": 426,
+    "EndTextOffset": 452,
+    "Text": "Oddity.MedicinePerscription"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 495,
+    "Text": "xpbl_freighterFrame"
+  },
+  {
+    "HeaderOffset": 496,
+    "StartTextOffset": 502,
+    "EndTextOffset": 516,
+    "Text": "Freighter Frame"
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 564,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1063,
+    "StartTextOffset": 1069,
+    "EndTextOffset": 1082,
+    "Text": "xpbl_freighter"
+  },
+  {
+    "HeaderOffset": 1149,
+    "StartTextOffset": 1155,
+    "EndTextOffset": 1163,
+    "Text": "TowJetSki"
+  },
+  {
+    "HeaderOffset": 1173,
+    "StartTextOffset": 1179,
+    "EndTextOffset": 1194,
+    "Text": "StopTowingJetSki"
+  }
+]

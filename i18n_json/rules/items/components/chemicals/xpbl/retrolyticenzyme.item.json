@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 293,
+    "Text": "retrolyticEnzyme"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 316,
+    "Text": "Retrolytic Enzyme"
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 412,
+    "Text": "Powerful enzymes extracted from mutant crustacean eggs."
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 445,
+    "Text": "Components.RetrolyticEnzyme"
+  },
+  {
+    "HeaderOffset": 696,
+    "StartTextOffset": 702,
+    "EndTextOffset": 708,
+    "Text": "Biology"
+  }
+]

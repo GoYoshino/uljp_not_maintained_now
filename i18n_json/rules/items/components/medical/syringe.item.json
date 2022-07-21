@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 260,
+    "Text": "syringe"
+  },
+  {
+    "HeaderOffset": 261,
+    "StartTextOffset": 267,
+    "EndTextOffset": 273,
+    "Text": "Syringe"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 503,
+    "Text": "A syringe is a simple pump consisting of a plunger that fits tightly in a tube. It can be used to create various medical consumables and other items that need to inject fluids into a body."
+  },
+  {
+    "HeaderOffset": 504,
+    "StartTextOffset": 510,
+    "EndTextOffset": 522,
+    "Text": "Items.Syringe"
+  }
+]

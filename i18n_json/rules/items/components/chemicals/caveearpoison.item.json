@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 332,
+    "Text": "poison.CaveEarPoison"
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 353,
+    "Text": "Cave Ear Poison"
+  },
+  {
+    "HeaderOffset": 389,
+    "StartTextOffset": 395,
+    "EndTextOffset": 559,
+    "Text": "This poison was extracted from the cave ear mushroom. When injected into the victim it can cause bellyaches, temporary weakening of immune system and blurred vision"
+  },
+  {
+    "HeaderOffset": 560,
+    "StartTextOffset": 566,
+    "EndTextOffset": 589,
+    "Text": "Components.CaveEarPoison"
+  },
+  {
+    "HeaderOffset": 878,
+    "StartTextOffset": 884,
+    "EndTextOffset": 899,
+    "Text": "applyGearBooster"
+  },
+  {
+    "HeaderOffset": 933,
+    "StartTextOffset": 939,
+    "EndTextOffset": 945,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 986,
+    "StartTextOffset": 992,
+    "EndTextOffset": 1002,
+    "Text": "GearBooster"
+  },
+  {
+    "HeaderOffset": 1033,
+    "StartTextOffset": 1039,
+    "EndTextOffset": 1048,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 1049,
+    "StartTextOffset": 1055,
+    "EndTextOffset": 1067,
+    "Text": "CaveEarPoison"
+  }
+]

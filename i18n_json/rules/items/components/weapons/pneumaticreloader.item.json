@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 292,
+    "Text": "crossbowReloader"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 316,
+    "Text": "Pneumatic Reloader"
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 460,
+    "Text": "A pneumatic automated crossbow reloading mechanism. It can be used to enhance crossbow reloading speed."
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 423,
+    "Text": " pneumatic automated crossbow reloading mechanism. It can be used"
+  },
+  {
+    "HeaderOffset": 461,
+    "StartTextOffset": 467,
+    "EndTextOffset": 479,
+    "Text": "Components.71"
+  },
+  {
+    "HeaderOffset": 742,
+    "StartTextOffset": 748,
+    "EndTextOffset": 756,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 787,
+    "StartTextOffset": 793,
+    "EndTextOffset": 807,
+    "Text": "ApCostReduction"
+  }
+]

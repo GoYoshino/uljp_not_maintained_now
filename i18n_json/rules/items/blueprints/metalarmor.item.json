@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 219,
+    "StartTextOffset": 225,
+    "EndTextOffset": 246,
+    "Text": "Blueprint: Metal Armor"
+  },
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 347,
+    "Text": "Contains detailed instructions on how to create metal armor."
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 362,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 494,
+    "StartTextOffset": 500,
+    "EndTextOffset": 509,
+    "Text": "MetalArmor"
+  },
+  {
+    "HeaderOffset": 568,
+    "StartTextOffset": 574,
+    "EndTextOffset": 593,
+    "Text": "blueprintconsumation"
+  }
+]

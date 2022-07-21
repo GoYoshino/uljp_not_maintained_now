@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "sledgehammerBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 273,
+    "Text": "Blueprint: Sledgehammer"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 377,
+    "Text": "Contains detailed instructions on how to create a sledgehammer."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 392,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 524,
+    "StartTextOffset": 530,
+    "EndTextOffset": 541,
+    "Text": "sledgehammer"
+  },
+  {
+    "HeaderOffset": 600,
+    "StartTextOffset": 606,
+    "EndTextOffset": 625,
+    "Text": "blueprintconsumation"
+  }
+]

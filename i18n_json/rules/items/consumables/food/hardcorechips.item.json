@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 245,
+    "Text": "food.hardcoreChips"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 265,
+    "Text": "Hardcore Chips"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 374,
+    "Text": "A bag of extra-hot deep-fried root chips. Manufactured in Core City."
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 372,
+    "Text": " bag of extra-hot deep-fried root chips. Manufactured in Core Cit"
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 398,
+    "Text": "Food.HardcoreChips"
+  },
+  {
+    "HeaderOffset": 628,
+    "StartTextOffset": 634,
+    "EndTextOffset": 648,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 674,
+    "StartTextOffset": 680,
+    "EndTextOffset": 687,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 688,
+    "StartTextOffset": 694,
+    "EndTextOffset": 706,
+    "Text": "hardcoreChips"
+  },
+  {
+    "HeaderOffset": 716,
+    "StartTextOffset": 722,
+    "EndTextOffset": 729,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 730,
+    "StartTextOffset": 736,
+    "EndTextOffset": 749,
+    "Text": "Hardcore Chips"
+  }
+]

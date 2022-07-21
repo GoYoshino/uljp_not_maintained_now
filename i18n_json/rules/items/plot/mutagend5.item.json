@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 228,
+    "Text": "mutagenD5"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 244,
+    "Text": "Mutagen D5"
+  },
+  {
+    "HeaderOffset": 280,
+    "StartTextOffset": 286,
+    "EndTextOffset": 357,
+    "Text": "This is a sealed can of a highly potent and dangerous D5 mutating agent."
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 371,
+    "Text": "Plot.130"
+  }
+]

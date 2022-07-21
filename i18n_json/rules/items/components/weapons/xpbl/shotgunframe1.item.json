@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 309,
+    "Text": "shotgunFrame1"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 335,
+    "Text": "Shotgun Frame: Rebel"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 426,
+    "Text": "This frame is used to create a Rebel type shotgun."
+  },
+  {
+    "HeaderOffset": 427,
+    "StartTextOffset": 433,
+    "EndTextOffset": 447,
+    "Text": "shotgun.1.frame"
+  },
+  {
+    "HeaderOffset": 751,
+    "StartTextOffset": 757,
+    "EndTextOffset": 765,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 795,
+    "StartTextOffset": 801,
+    "EndTextOffset": 804,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 805,
+    "StartTextOffset": 811,
+    "EndTextOffset": 815,
+    "Text": "Rebel"
+  },
+  {
+    "HeaderOffset": 842,
+    "StartTextOffset": 848,
+    "EndTextOffset": 866,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 905,
+    "StartTextOffset": 911,
+    "EndTextOffset": 921,
+    "Text": "ShotgunType"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 254,
+    "Text": "cocktail.iceOfSpades"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 273,
+    "Text": "Ice of Spades"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 421,
+    "Text": "A drink made for the cold-blooded. Once consumed, one can feel the cold liquid running through their veins."
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 380,
+    "Text": " drink made for the cold-blooded. Once consumed, one can feel the"
+  },
+  {
+    "HeaderOffset": 422,
+    "StartTextOffset": 428,
+    "EndTextOffset": 443,
+    "Text": "Food.IceofSpades"
+  },
+  {
+    "HeaderOffset": 674,
+    "StartTextOffset": 680,
+    "EndTextOffset": 694,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 720,
+    "StartTextOffset": 726,
+    "EndTextOffset": 733,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 734,
+    "StartTextOffset": 740,
+    "EndTextOffset": 750,
+    "Text": "iceOfSpades"
+  },
+  {
+    "HeaderOffset": 760,
+    "StartTextOffset": 766,
+    "EndTextOffset": 773,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 774,
+    "StartTextOffset": 780,
+    "EndTextOffset": 792,
+    "Text": "Ice of Spades"
+  }
+]

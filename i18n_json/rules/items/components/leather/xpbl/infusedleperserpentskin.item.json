@@ -1,0 +1,134 @@
+[
+  {
+    "HeaderOffset": 444,
+    "StartTextOffset": 450,
+    "EndTextOffset": 482,
+    "Text": "component.infusedLeperSerpentSkin"
+  },
+  {
+    "HeaderOffset": 483,
+    "StartTextOffset": 489,
+    "EndTextOffset": 514,
+    "Text": "Infused Leper Serpent Skin"
+  },
+  {
+    "HeaderOffset": 550,
+    "StartTextOffset": 556,
+    "EndTextOffset": 744,
+    "Text": "This piece of leper serpent scaly skin is rough and unpleasant to the touch and gives out acrid smell. It's infused with super steel fiber. It can be used to craft a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 769,
+    "Text": "xpbl_Components.100"
+  },
+  {
+    "HeaderOffset": 1349,
+    "StartTextOffset": 1355,
+    "EndTextOffset": 1363,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1377,
+    "StartTextOffset": 1383,
+    "EndTextOffset": 1389,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1489,
+    "StartTextOffset": 1495,
+    "EndTextOffset": 1504,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1530,
+    "StartTextOffset": 1536,
+    "EndTextOffset": 1551,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1552,
+    "StartTextOffset": 1558,
+    "EndTextOffset": 1701,
+    "Text": "This {0} is made of tough scaly leper serpent skin infused with super steel fiber. It's rough and unpleasant to touch and gives out acrid odor."
+  },
+  {
+    "HeaderOffset": 1711,
+    "StartTextOffset": 1717,
+    "EndTextOffset": 1738,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1739,
+    "StartTextOffset": 1745,
+    "EndTextOffset": 1890,
+    "Text": "These {0} are made of tough scaly leper serpent skin infused with super steel fiber. It's rough and unpleasant to touch and gives out acrid odor."
+  },
+  {
+    "HeaderOffset": 1900,
+    "StartTextOffset": 1906,
+    "EndTextOffset": 1930,
+    "Text": "CustomInfusionLeatherType"
+  },
+  {
+    "HeaderOffset": 1931,
+    "StartTextOffset": 1937,
+    "EndTextOffset": 1940,
+    "Text": "Skin"
+  },
+  {
+    "HeaderOffset": 1959,
+    "StartTextOffset": 1965,
+    "EndTextOffset": 1968,
+    "Text": "Xpbl"
+  },
+  {
+    "HeaderOffset": 1995,
+    "StartTextOffset": 2001,
+    "EndTextOffset": 2013,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 2044,
+    "StartTextOffset": 2050,
+    "EndTextOffset": 2057,
+    "Text": "Infusion"
+  },
+  {
+    "HeaderOffset": 2071,
+    "StartTextOffset": 2077,
+    "EndTextOffset": 2101,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 2102,
+    "StartTextOffset": 2108,
+    "EndTextOffset": 2115,
+    "Text": "xpbl_lps"
+  },
+  {
+    "HeaderOffset": 2142,
+    "StartTextOffset": 2148,
+    "EndTextOffset": 2155,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 2169,
+    "StartTextOffset": 2175,
+    "EndTextOffset": 2188,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 2189,
+    "StartTextOffset": 2195,
+    "EndTextOffset": 2215,
+    "Text": "Infused Leper Serpent"
+  },
+  {
+    "HeaderOffset": 2242,
+    "StartTextOffset": 2248,
+    "EndTextOffset": 2266,
+    "Text": "UsesDefaultOvercoat"
+  }
+]

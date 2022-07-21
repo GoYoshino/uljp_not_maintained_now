@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 252,
+    "Text": "psionicAccelerator"
+  },
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 277,
+    "Text": "Psionic Accelerator"
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 376,
+    "Text": "When consumed accelerates short-term psionic regeneration."
+  },
+  {
+    "HeaderOffset": 377,
+    "StartTextOffset": 383,
+    "EndTextOffset": 406,
+    "Text": "Items.PsionicAccelerator"
+  },
+  {
+    "HeaderOffset": 599,
+    "StartTextOffset": 605,
+    "EndTextOffset": 622,
+    "Text": "PsionicAccelerator"
+  }
+]

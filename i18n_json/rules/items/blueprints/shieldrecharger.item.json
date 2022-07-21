@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 219,
+    "StartTextOffset": 225,
+    "EndTextOffset": 251,
+    "Text": "Blueprint: Shield Recharger"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 359,
+    "Text": "Contains detailed instructions on how to create a shield recharger."
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 374,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 506,
+    "StartTextOffset": 512,
+    "EndTextOffset": 526,
+    "Text": "ShieldRecharger"
+  },
+  {
+    "HeaderOffset": 585,
+    "StartTextOffset": 591,
+    "EndTextOffset": 610,
+    "Text": "blueprintconsumation"
+  }
+]

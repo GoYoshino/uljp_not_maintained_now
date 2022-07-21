@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 312,
+    "Text": "Motion Tracking Lens"
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 464,
+    "Text": "Motion tracking lenses highlight various, potentially hostile, movement patterns in the user's field of vision."
+  },
+  {
+    "HeaderOffset": 349,
+    "StartTextOffset": 355,
+    "EndTextOffset": 431,
+    "Text": "otion tracking lenses highlight various, potentially hostile, movement patter"
+  },
+  {
+    "HeaderOffset": 465,
+    "StartTextOffset": 471,
+    "EndTextOffset": 499,
+    "Text": "Components.MotionTrackingLens"
+  },
+  {
+    "HeaderOffset": 842,
+    "StartTextOffset": 848,
+    "EndTextOffset": 856,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 870,
+    "StartTextOffset": 876,
+    "EndTextOffset": 886,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 917,
+    "StartTextOffset": 923,
+    "EndTextOffset": 935,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 965,
+    "StartTextOffset": 971,
+    "EndTextOffset": 980,
+    "Text": "DescPlural"
+  },
+  {
+    "HeaderOffset": 981,
+    "StartTextOffset": 987,
+    "EndTextOffset": 1008,
+    "Text": "motion tracking lenses"
+  },
+  {
+    "HeaderOffset": 1034,
+    "StartTextOffset": 1040,
+    "EndTextOffset": 1049,
+    "Text": "NamePrefix"
+  },
+  {
+    "HeaderOffset": 1050,
+    "StartTextOffset": 1056,
+    "EndTextOffset": 1070,
+    "Text": "Motion Tracking"
+  },
+  {
+    "HeaderOffset": 1097,
+    "StartTextOffset": 1103,
+    "EndTextOffset": 1123,
+    "Text": "BaseDetectionModifier"
+  },
+  {
+    "HeaderOffset": 1158,
+    "StartTextOffset": 1164,
+    "EndTextOffset": 1190,
+    "Text": "DetectionModifierPerQuality"
+  }
+]

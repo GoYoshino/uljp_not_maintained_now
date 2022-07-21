@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 233,
+    "Text": "Oddity.OldCage"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 247,
+    "Text": "Old Cage"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 338,
+    "Text": "An old cage probably used to keep rodents or bugs."
+  },
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 358,
+    "Text": "Oddity.OldCage"
+  }
+]

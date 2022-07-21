@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 251,
+    "Text": "charm.psiBeetleClaw"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 278,
+    "Text": "Psi Beetle Claw Charm"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 384,
+    "Text": "Lucky charm made from a psi beetle's claw. Smells of mindshrooms."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 409,
+    "Text": "Plot.PsiBeetleCharm"
+  },
+  {
+    "HeaderOffset": 595,
+    "StartTextOffset": 601,
+    "EndTextOffset": 608,
+    "Text": "UseCharm"
+  }
+]

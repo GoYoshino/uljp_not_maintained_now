@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 250,
+    "Text": "Oddity.GlassFloat"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 267,
+    "Text": "Glass Float"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 355,
+    "Text": "A small sphere of colored glass tied with rope."
+  },
+  {
+    "HeaderOffset": 356,
+    "StartTextOffset": 362,
+    "EndTextOffset": 378,
+    "Text": "Oddity.GlassFloat"
+  }
+]

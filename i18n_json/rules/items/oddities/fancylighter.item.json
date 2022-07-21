@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 238,
+    "Text": "Oddity.FancyLighter"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 257,
+    "Text": "Fancy Lighter"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 352,
+    "Text": "This fancy old lighter isn't functional unfortunately."
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 377,
+    "Text": "Oddity.FancyLighter"
+  }
+]

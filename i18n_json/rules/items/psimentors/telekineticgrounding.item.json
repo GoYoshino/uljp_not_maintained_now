@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 279,
+    "Text": "psiMentor.TelekineticGrounding"
+  },
+  {
+    "HeaderOffset": 280,
+    "StartTextOffset": 286,
+    "EndTextOffset": 322,
+    "Text": "Psionic Mentor: Telekinetic Grounding"
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 481,
+    "Text": "This device can be used to automatically teach yourself Telekinetic Grounding psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 448,
+    "Text": "his device can be used to automatically teach yourself Telekinetic Grounding psi abi"
+  },
+  {
+    "HeaderOffset": 482,
+    "StartTextOffset": 488,
+    "EndTextOffset": 506,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 642,
+    "StartTextOffset": 648,
+    "EndTextOffset": 667,
+    "Text": "TelekineticGrounding"
+  },
+  {
+    "HeaderOffset": 726,
+    "StartTextOffset": 732,
+    "EndTextOffset": 751,
+    "Text": "PsiMentorConsumation"
+  }
+]

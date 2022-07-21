@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 248,
+    "Text": "Oddity.MergedSpiderEyes"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 272,
+    "Text": "Merged Spider Eyes"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 374,
+    "Text": "These two spider eyes have merged, but their nerves have not."
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 403,
+    "Text": "Oddity.MergedSpiderEyes"
+  }
+]

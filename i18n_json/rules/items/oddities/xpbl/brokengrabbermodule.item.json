@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 258,
+    "Text": "Oddity.BrokenGrabberModule"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 285,
+    "Text": "Broken Grabber Module"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 610,
+    "Text": "An industrial exoskeleton module, intended for heavy lifting. It shows the usual signs of wear and tear, but oddly enough it doesn't appear to have seen that much use before it buckled and broke off at the base, right where the module connects to the exoskeleton. Rather useless now."
+  },
+  {
+    "HeaderOffset": 611,
+    "StartTextOffset": 617,
+    "EndTextOffset": 642,
+    "Text": "Oddity.BrokenGrabberModule"
+  }
+]

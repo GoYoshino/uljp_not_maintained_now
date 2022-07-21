@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 261,
+    "Text": "experimentalAcidJar"
+  },
+  {
+    "HeaderOffset": 262,
+    "StartTextOffset": 268,
+    "EndTextOffset": 284,
+    "Text": "Acidic Concoction"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 472,
+    "Text": "A canister containing some unknown acidic mixture. There's a lot of spillover, probably from the unchecked chemical reactions taking place inside."
+  },
+  {
+    "HeaderOffset": 473,
+    "StartTextOffset": 479,
+    "EndTextOffset": 486,
+    "Text": "Plot.210"
+  },
+  {
+    "HeaderOffset": 699,
+    "StartTextOffset": 705,
+    "EndTextOffset": 721,
+    "Text": "genericUseJobItem"
+  },
+  {
+    "HeaderOffset": 756,
+    "StartTextOffset": 762,
+    "EndTextOffset": 769,
+    "Text": "UsageJob"
+  },
+  {
+    "HeaderOffset": 853,
+    "StartTextOffset": 859,
+    "EndTextOffset": 866,
+    "Text": "Drinking"
+  },
+  {
+    "HeaderOffset": 867,
+    "StartTextOffset": 873,
+    "EndTextOffset": 889,
+    "Text": "Drink the liquid."
+  },
+  {
+    "HeaderOffset": 890,
+    "StartTextOffset": 896,
+    "EndTextOffset": 904,
+    "Text": "Operating"
+  },
+  {
+    "HeaderOffset": 906,
+    "StartTextOffset": 912,
+    "EndTextOffset": 947,
+    "Text": "PlayerMutant_GiveRustingAcidInfusion"
+  },
+  {
+    "HeaderOffset": 996,
+    "StartTextOffset": 1002,
+    "EndTextOffset": 1012,
+    "Text": "DrinkPotion"
+  },
+  {
+    "HeaderOffset": 1013,
+    "StartTextOffset": 1019,
+    "EndTextOffset": 1025,
+    "Text": "Swallow"
+  }
+]

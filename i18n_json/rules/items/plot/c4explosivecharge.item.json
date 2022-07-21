@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 238,
+    "Text": "c4ExplosiveCharge"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 263,
+    "Text": "C4 Explosive Charge"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 481,
+    "Text": "This is a remotely detonated C4 explosive charge specifically designed to adhere to vertical surfaces. You need to place one of these on each load-bearing pillar in Epione Lab."
+  },
+  {
+    "HeaderOffset": 482,
+    "StartTextOffset": 488,
+    "EndTextOffset": 495,
+    "Text": "Plot.120"
+  },
+  {
+    "HeaderOffset": 679,
+    "StartTextOffset": 685,
+    "EndTextOffset": 706,
+    "Text": "PlaceC4ExplosiveCharge"
+  }
+]

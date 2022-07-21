@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 254,
+    "Text": "incendiaryBlobTrap3"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 287,
+    "Text": "Incendiary Blob Trap Mk III"
+  },
+  {
+    "HeaderOffset": 323,
+    "StartTextOffset": 329,
+    "EndTextOffset": 379,
+    "Text": "Special chemical trap that sets the target on fire."
+  },
+  {
+    "HeaderOffset": 380,
+    "StartTextOffset": 386,
+    "EndTextOffset": 399,
+    "Text": "Explosives.152"
+  },
+  {
+    "HeaderOffset": 621,
+    "StartTextOffset": 627,
+    "EndTextOffset": 649,
+    "Text": "PlaceIncendiaryBlobTrap"
+  },
+  {
+    "HeaderOffset": 676,
+    "StartTextOffset": 682,
+    "EndTextOffset": 686,
+    "Text": "power"
+  }
+]

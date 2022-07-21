@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 242,
+    "Text": "food.stuffedBat"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 259,
+    "Text": "Stuffed Bat"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 365,
+    "Text": "Bat stuffed with three kinds of mushrooms and a mixture of seeds."
+  },
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 386,
+    "Text": "Food.StuffedBat"
+  },
+  {
+    "HeaderOffset": 616,
+    "StartTextOffset": 622,
+    "EndTextOffset": 636,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 662,
+    "StartTextOffset": 668,
+    "EndTextOffset": 675,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 676,
+    "StartTextOffset": 682,
+    "EndTextOffset": 691,
+    "Text": "stuffedBat"
+  },
+  {
+    "HeaderOffset": 701,
+    "StartTextOffset": 707,
+    "EndTextOffset": 714,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 715,
+    "StartTextOffset": 721,
+    "EndTextOffset": 731,
+    "Text": "Stuffed Bat"
+  }
+]

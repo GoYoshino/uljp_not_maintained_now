@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 270,
+    "StartTextOffset": 276,
+    "EndTextOffset": 298,
+    "Text": "Electromagnetic Emitter"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 403,
+    "Text": "This device can emit electromagnetic radiation at any frequency."
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 422,
+    "Text": "Components.33"
+  },
+  {
+    "HeaderOffset": 665,
+    "StartTextOffset": 671,
+    "EndTextOffset": 681,
+    "Text": "Electronics"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 240,
+    "Text": "Oddity.ThreeEyedSkull"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 262,
+    "Text": "Three-Eyed Skull"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 356,
+    "Text": "It's a three-eyed human skull. Where is your god now?"
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 383,
+    "Text": "Oddity.ThreeEyedSkull"
+  }
+]

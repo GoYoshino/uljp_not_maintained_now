@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 266,
+    "Text": "Oddity.SmoulderingBlindfold"
+  },
+  {
+    "HeaderOffset": 267,
+    "StartTextOffset": 273,
+    "EndTextOffset": 292,
+    "Text": "Smoldering Blindfold"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 529,
+    "Text": "This blindfold is too hot to be worn long, but when you endure to put it on for a moment it turns your sight pitch dark beyond anything a normal cloth could do. Soon the blindfold will burn away."
+  },
+  {
+    "HeaderOffset": 530,
+    "StartTextOffset": 536,
+    "EndTextOffset": 562,
+    "Text": "Oddity.SmoulderingBlindfold"
+  }
+]

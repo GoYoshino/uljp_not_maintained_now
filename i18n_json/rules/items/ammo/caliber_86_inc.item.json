@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 368,
+    "Text": "Ammo.Caliber_86_Inc"
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 396,
+    "Text": "8.6mm Incendiary Round"
+  },
+  {
+    "HeaderOffset": 432,
+    "StartTextOffset": 438,
+    "EndTextOffset": 518,
+    "Text": "This cartridge contains a 8.6mm incendiary round that can set the target on fire."
+  },
+  {
+    "HeaderOffset": 519,
+    "StartTextOffset": 525,
+    "EndTextOffset": 543,
+    "Text": "Ammo.Caliber_86_Inc"
+  },
+  {
+    "HeaderOffset": 796,
+    "StartTextOffset": 802,
+    "EndTextOffset": 805,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 815,
+    "StartTextOffset": 821,
+    "EndTextOffset": 827,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 837,
+    "StartTextOffset": 843,
+    "EndTextOffset": 848,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 858,
+    "StartTextOffset": 864,
+    "EndTextOffset": 872,
+    "Text": "ldsingcur"
+  },
+  {
+    "HeaderOffset": 922,
+    "StartTextOffset": 928,
+    "EndTextOffset": 931,
+    "Text": "burn"
+  },
+  {
+    "HeaderOffset": 954,
+    "StartTextOffset": 960,
+    "EndTextOffset": 975,
+    "Text": "incendiaryIgnite"
+  }
+]

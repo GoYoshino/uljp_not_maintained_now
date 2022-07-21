@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 258,
+    "Text": "food.butterySteamedClams"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 285,
+    "Text": "Buttery Steamed Clams"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 412,
+    "Text": "Steamed clams covered in spices and butter of unknown origin. Looks deliciously slimy."
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 410,
+    "Text": "teamed clams covered in spices and butter of unknown origin. Looks deliciously slim"
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 429,
+    "Text": "xpbl_Food.6"
+  },
+  {
+    "HeaderOffset": 660,
+    "StartTextOffset": 666,
+    "EndTextOffset": 680,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 706,
+    "StartTextOffset": 712,
+    "EndTextOffset": 719,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 720,
+    "StartTextOffset": 726,
+    "EndTextOffset": 744,
+    "Text": "butterySteamedClams"
+  },
+  {
+    "HeaderOffset": 754,
+    "StartTextOffset": 760,
+    "EndTextOffset": 767,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 794,
+    "Text": "Buttery Steamed Clams"
+  }
+]

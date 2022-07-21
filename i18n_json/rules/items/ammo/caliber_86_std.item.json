@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 314,
+    "Text": "Ammo.Caliber_86_Std"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 340,
+    "Text": "8.6mm Standard Round"
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 412,
+    "Text": "This is a standard 8.6mm round."
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 437,
+    "Text": "Ammo.Caliber_86_Std"
+  },
+  {
+    "HeaderOffset": 677,
+    "StartTextOffset": 683,
+    "EndTextOffset": 686,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 696,
+    "StartTextOffset": 702,
+    "EndTextOffset": 708,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 718,
+    "StartTextOffset": 724,
+    "EndTextOffset": 729,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 739,
+    "StartTextOffset": 745,
+    "EndTextOffset": 753,
+    "Text": "ldsingcur"
+  }
+]

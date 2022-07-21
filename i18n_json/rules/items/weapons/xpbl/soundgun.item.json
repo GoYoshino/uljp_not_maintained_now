@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 736,
+    "StartTextOffset": 742,
+    "EndTextOffset": 745,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 799,
+    "Text": "soundGun"
+  },
+  {
+    "HeaderOffset": 800,
+    "StartTextOffset": 806,
+    "EndTextOffset": 815,
+    "Text": "Sonocaster"
+  },
+  {
+    "HeaderOffset": 851,
+    "StartTextOffset": 857,
+    "EndTextOffset": 1180,
+    "Text": "A short range directed-sound weapon whose destructive energy comes from the infrasonic component of a focused sound wave capable of passing through and damaging multiple targets. The sound wave's higher frequencies have been pre-tuned to various musical intervals and are reflected off objects with which the wave collides."
+  },
+  {
+    "HeaderOffset": 1181,
+    "StartTextOffset": 1187,
+    "EndTextOffset": 1202,
+    "Text": "xpbl_Weapons.222"
+  },
+  {
+    "HeaderOffset": 1792,
+    "StartTextOffset": 1798,
+    "EndTextOffset": 1805,
+    "Text": "soundGun"
+  },
+  {
+    "HeaderOffset": 1880,
+    "StartTextOffset": 1886,
+    "EndTextOffset": 1906,
+    "Text": "SoundGunAmplifiedWave"
+  },
+  {
+    "HeaderOffset": 1916,
+    "StartTextOffset": 1922,
+    "EndTextOffset": 1943,
+    "Text": "SoundGunResonatingWave"
+  },
+  {
+    "HeaderOffset": 1953,
+    "StartTextOffset": 1959,
+    "EndTextOffset": 1980,
+    "Text": "SoundGunDisruptiveWave"
+  }
+]

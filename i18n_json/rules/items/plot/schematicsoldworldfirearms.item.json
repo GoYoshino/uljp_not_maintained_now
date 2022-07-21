@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 254,
+    "Text": "schematics.oldWorldFirearms"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 299,
+    "Text": "Old World Firearms, by Mikhail Browning"
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 793,
+    "Text": "\"An unparalleled authoritative technical guide to firearms of the old world. Even though so much of the global information has been lost since the Descent, Mikhail Browning, Biocorp's most famous weapon scientist, has taken upon himself to compile as much technical information as possible into a single publication. The result is his magnum opus - a guide containing technical manuals and holograms for over 30000 firearms.\" - Biocorp Publishing North"
+  },
+  {
+    "HeaderOffset": 794,
+    "StartTextOffset": 800,
+    "EndTextOffset": 818,
+    "Text": "SchematicsBlueprint"
+  }
+]

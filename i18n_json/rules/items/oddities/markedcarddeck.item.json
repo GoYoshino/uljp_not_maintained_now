@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 240,
+    "Text": "Oddity.MarkedCardDeck"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 262,
+    "Text": "Marked Card Deck"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 391,
+    "Text": "It takes quite a bit of observation, but you figure out these cards are actually marked."
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 377,
+    "Text": "t takes quite a bit of observation, but you figure out these cards are ac"
+  },
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 418,
+    "Text": "Oddity.MarkedCardDeck"
+  }
+]

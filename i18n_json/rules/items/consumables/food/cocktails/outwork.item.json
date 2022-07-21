@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 257,
+    "Text": "cocktail.outwork"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 270,
+    "Text": "Outwork"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 449,
+    "Text": "After all the fun and games, hard work awaits everyone. Served in a handy flask, this drink will provide great company during hard times."
+  },
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 467,
+    "Text": "Food.Outwork"
+  },
+  {
+    "HeaderOffset": 699,
+    "StartTextOffset": 705,
+    "EndTextOffset": 719,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 758,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 759,
+    "StartTextOffset": 765,
+    "EndTextOffset": 771,
+    "Text": "outwork"
+  },
+  {
+    "HeaderOffset": 781,
+    "StartTextOffset": 787,
+    "EndTextOffset": 794,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 795,
+    "StartTextOffset": 801,
+    "EndTextOffset": 807,
+    "Text": "Outwork"
+  }
+]

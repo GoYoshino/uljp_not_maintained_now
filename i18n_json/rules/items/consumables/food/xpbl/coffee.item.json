@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 240,
+    "Text": "coffee"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 252,
+    "Text": "Coffee"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 321,
+    "Text": "Made from real coffee beans."
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 338,
+    "Text": "Food.Coffee"
+  },
+  {
+    "HeaderOffset": 569,
+    "StartTextOffset": 575,
+    "EndTextOffset": 589,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 615,
+    "StartTextOffset": 621,
+    "EndTextOffset": 628,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 629,
+    "StartTextOffset": 635,
+    "EndTextOffset": 640,
+    "Text": "coffee"
+  },
+  {
+    "HeaderOffset": 650,
+    "StartTextOffset": 656,
+    "EndTextOffset": 663,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 664,
+    "StartTextOffset": 670,
+    "EndTextOffset": 675,
+    "Text": "Coffee"
+  }
+]

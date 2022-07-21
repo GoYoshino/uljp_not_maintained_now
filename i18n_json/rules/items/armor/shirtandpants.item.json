@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 397,
+    "StartTextOffset": 403,
+    "EndTextOffset": 415,
+    "Text": "shirtAndPants"
+  },
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 434,
+    "Text": "Shirt & Pants"
+  },
+  {
+    "HeaderOffset": 470,
+    "StartTextOffset": 476,
+    "EndTextOffset": 530,
+    "Text": "It's not much, but it's better than going around naked."
+  },
+  {
+    "HeaderOffset": 531,
+    "StartTextOffset": 537,
+    "EndTextOffset": 555,
+    "Text": "Armor.ShirtAndPants"
+  }
+]

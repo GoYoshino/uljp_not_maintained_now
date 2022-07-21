@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 260,
+    "Text": "psiMentor.Frighten"
+  },
+  {
+    "HeaderOffset": 261,
+    "StartTextOffset": 267,
+    "EndTextOffset": 290,
+    "Text": "Psionic Mentor: Frighten"
+  },
+  {
+    "HeaderOffset": 326,
+    "StartTextOffset": 332,
+    "EndTextOffset": 436,
+    "Text": "This device can be used to automatically teach yourself Frighten psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 416,
+    "Text": "his device can be used to automatically teach yourself Frighten psi ability through "
+  },
+  {
+    "HeaderOffset": 437,
+    "StartTextOffset": 443,
+    "EndTextOffset": 461,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 596,
+    "StartTextOffset": 602,
+    "EndTextOffset": 609,
+    "Text": "Frighten"
+  },
+  {
+    "HeaderOffset": 668,
+    "StartTextOffset": 674,
+    "EndTextOffset": 693,
+    "Text": "PsiMentorConsumation"
+  }
+]

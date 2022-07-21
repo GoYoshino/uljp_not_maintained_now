@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 257,
+    "Text": "vial"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 267,
+    "Text": "Vial"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 328,
+    "Text": "Sealed sterile vial."
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 349,
+    "Text": "Components.Vial"
+  }
+]

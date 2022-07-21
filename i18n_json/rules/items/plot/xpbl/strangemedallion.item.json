@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 256,
+    "Text": "xpbl.temporalMedallion"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 279,
+    "Text": "Strange Medallion"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 408,
+    "Text": "A medallion made out of super steel. Its proximity evokes memories of different times..."
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 386,
+    "Text": " medallion made out of super steel. Its proximity evokes memories"
+  },
+  {
+    "HeaderOffset": 409,
+    "StartTextOffset": 415,
+    "EndTextOffset": 426,
+    "Text": "xpbl_Plot.46"
+  },
+  {
+    "HeaderOffset": 641,
+    "StartTextOffset": 647,
+    "EndTextOffset": 662,
+    "Text": "StrangeMedallion"
+  },
+  {
+    "HeaderOffset": 689,
+    "StartTextOffset": 695,
+    "EndTextOffset": 715,
+    "Text": "PsiSkillLevelOverride"
+  }
+]

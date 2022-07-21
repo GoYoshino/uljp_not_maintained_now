@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 644,
+    "StartTextOffset": 650,
+    "EndTextOffset": 654,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 773,
+    "StartTextOffset": 779,
+    "EndTextOffset": 782,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 805,
+    "StartTextOffset": 811,
+    "EndTextOffset": 831,
+    "Text": "sormirbarenStaffSpear"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 862,
+    "Text": "Sørmirbæren Staff-spear"
+  },
+  {
+    "HeaderOffset": 898,
+    "StartTextOffset": 904,
+    "EndTextOffset": 1026,
+    "Text": "A cross between a spear and a staff made out of long bone and tipped with sharpened rock. It has an unwholesome feel to it."
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 969,
+    "Text": " cross between a spear and a staff made out of long bone and tipp"
+  },
+  {
+    "HeaderOffset": 1027,
+    "StartTextOffset": 1033,
+    "EndTextOffset": 1048,
+    "Text": "xpbl_Weapons.205"
+  },
+  {
+    "HeaderOffset": 1446,
+    "StartTextOffset": 1452,
+    "EndTextOffset": 1456,
+    "Text": "xpbls"
+  },
+  {
+    "HeaderOffset": 1762,
+    "StartTextOffset": 1768,
+    "EndTextOffset": 1779,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 2039,
+    "StartTextOffset": 2045,
+    "EndTextOffset": 2054,
+    "Text": "spearGuard"
+  }
+]

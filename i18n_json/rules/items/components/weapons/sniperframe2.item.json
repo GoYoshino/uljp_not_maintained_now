@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 308,
+    "Text": "sniperFrame2"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 343,
+    "Text": "Sniper Rifle Frame: Harbinger"
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 481,
+    "Text": "This frame is used to create a Harbinger type sniper rifle. It supports 8.6mm and 12.7mm barrels."
+  },
+  {
+    "HeaderOffset": 380,
+    "StartTextOffset": 386,
+    "EndTextOffset": 469,
+    "Text": "his frame is used to create a Harbinger type sniper rifle. It supports 8.6mm and 12."
+  },
+  {
+    "HeaderOffset": 482,
+    "StartTextOffset": 488,
+    "EndTextOffset": 501,
+    "Text": "sniper.2.frame"
+  },
+  {
+    "HeaderOffset": 843,
+    "StartTextOffset": 849,
+    "EndTextOffset": 857,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 887,
+    "StartTextOffset": 893,
+    "EndTextOffset": 896,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 897,
+    "StartTextOffset": 903,
+    "EndTextOffset": 911,
+    "Text": "Harbinger"
+  },
+  {
+    "HeaderOffset": 962,
+    "StartTextOffset": 968,
+    "EndTextOffset": 987,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1019,
+    "StartTextOffset": 1025,
+    "EndTextOffset": 1043,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 1074,
+    "StartTextOffset": 1080,
+    "EndTextOffset": 1101,
+    "Text": "CriticalChanceModifier"
+  },
+  {
+    "HeaderOffset": 1136,
+    "StartTextOffset": 1142,
+    "EndTextOffset": 1161,
+    "Text": "OptimalRangeModifier"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 277,
+    "Text": "VehiclePart.BArmFurnace900"
+  },
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 299,
+    "Text": "BArm Furnace 900"
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 394,
+    "Text": "A high quality vehicle battery made by Biocorp Armory."
+  },
+  {
+    "HeaderOffset": 395,
+    "StartTextOffset": 401,
+    "EndTextOffset": 426,
+    "Text": "VehiclePart.BArmFurnace900"
+  }
+]

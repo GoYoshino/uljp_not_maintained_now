@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 667,
+    "StartTextOffset": 673,
+    "EndTextOffset": 677,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 795,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 844,
+    "StartTextOffset": 850,
+    "EndTextOffset": 872,
+    "Text": "sormirbarenSkerderSword"
+  },
+  {
+    "HeaderOffset": 873,
+    "StartTextOffset": 879,
+    "EndTextOffset": 906,
+    "Text": "Sørmirbæren Skærder Sword"
+  },
+  {
+    "HeaderOffset": 942,
+    "StartTextOffset": 948,
+    "EndTextOffset": 1017,
+    "Text": "A long heavy sword made of a large bone lined with sharp curved teeth."
+  },
+  {
+    "HeaderOffset": 1018,
+    "StartTextOffset": 1024,
+    "EndTextOffset": 1039,
+    "Text": "xpbl_Weapons.211"
+  },
+  {
+    "HeaderOffset": 1430,
+    "StartTextOffset": 1436,
+    "EndTextOffset": 1440,
+    "Text": "xpblm"
+  },
+  {
+    "HeaderOffset": 1785,
+    "StartTextOffset": 1791,
+    "EndTextOffset": 1802,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1852,
+    "StartTextOffset": 1858,
+    "EndTextOffset": 1864,
+    "Text": "carveUp"
+  },
+  {
+    "HeaderOffset": 1887,
+    "StartTextOffset": 1893,
+    "EndTextOffset": 1905,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 1928,
+    "StartTextOffset": 1934,
+    "EndTextOffset": 1946,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 1969,
+    "StartTextOffset": 1975,
+    "EndTextOffset": 1987,
+    "Text": "bleedingWound"
+  }
+]

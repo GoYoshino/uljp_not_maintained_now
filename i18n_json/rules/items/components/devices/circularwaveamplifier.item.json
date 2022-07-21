@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 307,
+    "Text": "component.circularWaveAmplifier"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 336,
+    "Text": "Circular Wave Amplifier"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 587,
+    "Text": "This device can be used when crafting energy shield emitters to increase the shielding capabilities, but at the cost of energy conversion rate. It can also be used to periodically amplify energy weapon output."
+  },
+  {
+    "HeaderOffset": 588,
+    "StartTextOffset": 594,
+    "EndTextOffset": 607,
+    "Text": "Components.235"
+  },
+  {
+    "HeaderOffset": 1003,
+    "StartTextOffset": 1009,
+    "EndTextOffset": 1019,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 1050,
+    "StartTextOffset": 1056,
+    "EndTextOffset": 1071,
+    "Text": "EnhancementIndex"
+  },
+  {
+    "HeaderOffset": 1231,
+    "StartTextOffset": 1237,
+    "EndTextOffset": 1247,
+    "Text": "ShieldColor"
+  },
+  {
+    "HeaderOffset": 1334,
+    "StartTextOffset": 1340,
+    "EndTextOffset": 1345,
+    "Text": "Prefix"
+  },
+  {
+    "HeaderOffset": 1346,
+    "StartTextOffset": 1352,
+    "EndTextOffset": 1360,
+    "Text": "Amplified"
+  },
+  {
+    "HeaderOffset": 1387,
+    "StartTextOffset": 1393,
+    "EndTextOffset": 1413,
+    "Text": "BaseShieldingModifier"
+  },
+  {
+    "HeaderOffset": 1448,
+    "StartTextOffset": 1454,
+    "EndTextOffset": 1480,
+    "Text": "ShieldingModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1515,
+    "StartTextOffset": 1521,
+    "EndTextOffset": 1546,
+    "Text": "BaseConversionRateModifier"
+  },
+  {
+    "HeaderOffset": 1581,
+    "StartTextOffset": 1587,
+    "EndTextOffset": 1618,
+    "Text": "ConversionRateModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1652,
+    "StartTextOffset": 1658,
+    "EndTextOffset": 1668,
+    "Text": "Description"
+  },
+  {
+    "HeaderOffset": 1669,
+    "StartTextOffset": 1675,
+    "EndTextOffset": 1805,
+    "Text": "A circular wave amplifier is attached to the emitter to increase the shielding capabilities at the cost of energy conversion rate."
+  }
+]

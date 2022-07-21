@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 257,
+    "Text": "corrosiveAcidBlobTrap1"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 287,
+    "Text": "Corrosive Acid Blob Trap"
+  },
+  {
+    "HeaderOffset": 323,
+    "StartTextOffset": 329,
+    "EndTextOffset": 403,
+    "Text": "Special chemical trap that entangles the victim in corrosive acidic sludge."
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 423,
+    "Text": "Explosives.160"
+  },
+  {
+    "HeaderOffset": 645,
+    "StartTextOffset": 651,
+    "EndTextOffset": 676,
+    "Text": "PlaceCorrosiveAcidBlobTrap"
+  },
+  {
+    "HeaderOffset": 703,
+    "StartTextOffset": 709,
+    "EndTextOffset": 713,
+    "Text": "power"
+  }
+]

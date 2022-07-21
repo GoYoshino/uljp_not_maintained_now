@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 275,
+    "StartTextOffset": 281,
+    "EndTextOffset": 294,
+    "Text": "rottenClamMeat"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 316,
+    "Text": "Rotten Clam Meat"
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 397,
+    "Text": "This one has rotted away, unfortunately."
+  },
+  {
+    "HeaderOffset": 398,
+    "StartTextOffset": 404,
+    "EndTextOffset": 421,
+    "Text": "xpbl_Components.67"
+  }
+]

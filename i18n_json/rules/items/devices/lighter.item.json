@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 228,
+    "Text": "lighter"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 241,
+    "Text": "Lighter"
+  },
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 307,
+    "Text": "A simple plastic lighter."
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 326,
+    "Text": "Items.Lighter"
+  },
+  {
+    "HeaderOffset": 517,
+    "StartTextOffset": 523,
+    "EndTextOffset": 531,
+    "Text": "LightFire"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 200,
+    "StartTextOffset": 206,
+    "EndTextOffset": 216,
+    "Text": "capturedCat"
+  },
+  {
+    "HeaderOffset": 217,
+    "StartTextOffset": 223,
+    "EndTextOffset": 234,
+    "Text": "Captured Cat"
+  },
+  {
+    "HeaderOffset": 270,
+    "StartTextOffset": 276,
+    "EndTextOffset": 304,
+    "Text": "Cat in a dog crate. Perverse."
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 316,
+    "Text": "Plot.4"
+  }
+]

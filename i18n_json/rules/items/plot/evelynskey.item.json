@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 233,
+    "Text": "plot.evelynFootlocker"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 251,
+    "Text": "Evelyn's Key"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 356,
+    "Text": "This key is used to unlock something in Evelyn's home. (Foundry)"
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 369,
+    "Text": "Plot.20"
+  }
+]

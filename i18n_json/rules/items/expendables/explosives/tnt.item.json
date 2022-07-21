@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 244,
+    "Text": "tntCharge"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 260,
+    "Text": "TNT Charge"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 464,
+    "Text": "Timer triggered TNT charges are often used to clear up passages and bust open sealed doors of abandoned (or not so abandoned) stations to make way for scavengers."
+  },
+  {
+    "HeaderOffset": 465,
+    "StartTextOffset": 471,
+    "EndTextOffset": 483,
+    "Text": "Explosives.10"
+  },
+  {
+    "HeaderOffset": 676,
+    "StartTextOffset": 682,
+    "EndTextOffset": 685,
+    "Text": "ptnt"
+  }
+]

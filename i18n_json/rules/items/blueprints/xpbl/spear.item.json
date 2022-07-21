@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 250,
+    "Text": "spearBlueprint"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 272,
+    "Text": "Blueprint: Spear"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 369,
+    "Text": "Contains detailed instructions on how to create a spear."
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 388,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 522,
+    "StartTextOffset": 528,
+    "EndTextOffset": 532,
+    "Text": "spear"
+  },
+  {
+    "HeaderOffset": 591,
+    "StartTextOffset": 597,
+    "EndTextOffset": 616,
+    "Text": "blueprintconsumation"
+  }
+]

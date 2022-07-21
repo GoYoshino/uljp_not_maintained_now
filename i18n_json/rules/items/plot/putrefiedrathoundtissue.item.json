@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 202,
+    "StartTextOffset": 208,
+    "EndTextOffset": 235,
+    "Text": "plot.putrefiedRathoundTissue"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 266,
+    "Text": "Putrefied Rathound Tissue"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 351,
+    "Text": "Partially decomposed rathound tissue sample."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 374,
+    "Text": "Plot.TissueSample"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 269,
+    "StartTextOffset": 275,
+    "EndTextOffset": 308,
+    "Text": "VehiclePart.ScrappyEngine250Broken"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 342,
+    "Text": "Broken Medium Scrappy Engine"
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 459,
+    "Text": "It's a medium unmarked electrical vehicle engine. It's broken beyond repair."
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 457,
+    "Text": "t's a medium unmarked electrical vehicle engine. It's broken beyond repai"
+  },
+  {
+    "HeaderOffset": 460,
+    "StartTextOffset": 466,
+    "EndTextOffset": 499,
+    "Text": "VehiclePart.ScrappyEngine250Broken"
+  },
+  {
+    "HeaderOffset": 649,
+    "StartTextOffset": 655,
+    "EndTextOffset": 661,
+    "Text": "default"
+  }
+]

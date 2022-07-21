@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 310,
+    "Text": "VehiclePart.WellMadeEngine325"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 339,
+    "Text": "Medium Well-made Engine"
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 470,
+    "Text": "It's a medium unmarked, but well-made electrical vehicle engine. It's in decent condition."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 454,
+    "Text": "t's a medium unmarked, but well-made electrical vehicle engine. It's in d"
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 505,
+    "Text": "VehiclePart.WellMadeEngine325"
+  },
+  {
+    "HeaderOffset": 656,
+    "StartTextOffset": 662,
+    "EndTextOffset": 668,
+    "Text": "default"
+  }
+]

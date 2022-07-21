@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 245,
+    "Text": "blueprint.aegis"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 267,
+    "Text": "Blueprint: Aegis"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 368,
+    "Text": "Contains instructions on how to create the aegis concoction."
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 383,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 516,
+    "StartTextOffset": 522,
+    "EndTextOffset": 526,
+    "Text": "aegis"
+  },
+  {
+    "HeaderOffset": 585,
+    "StartTextOffset": 591,
+    "EndTextOffset": 610,
+    "Text": "blueprintconsumation"
+  }
+]

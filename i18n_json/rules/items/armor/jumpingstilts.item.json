@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 506,
+    "StartTextOffset": 512,
+    "EndTextOffset": 524,
+    "Text": "jumpingStilts"
+  },
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 544,
+    "Text": "Jumping Stilts"
+  },
+  {
+    "HeaderOffset": 580,
+    "StartTextOffset": 586,
+    "EndTextOffset": 763,
+    "Text": "A pair of weird jumping shoes that are exceptionally awkward to stand in. They are equally awkward when moving, but at least you can gain some speed once you get the hang of it."
+  },
+  {
+    "HeaderOffset": 764,
+    "StartTextOffset": 770,
+    "EndTextOffset": 779,
+    "Text": "Armors.302"
+  },
+  {
+    "HeaderOffset": 1559,
+    "StartTextOffset": 1565,
+    "EndTextOffset": 1571,
+    "Text": "Stealth"
+  },
+  {
+    "HeaderOffset": 1591,
+    "StartTextOffset": 1597,
+    "EndTextOffset": 1606,
+    "Text": "Persuasion"
+  }
+]

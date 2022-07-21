@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 417,
+    "Text": "Medium Frequency Shield Modulator"
+  },
+  {
+    "HeaderOffset": 453,
+    "StartTextOffset": 459,
+    "EndTextOffset": 589,
+    "Text": "This modulator can be used when crafting energy shield emitters that have decent deflecting capabilities across all impact speeds."
+  },
+  {
+    "HeaderOffset": 590,
+    "StartTextOffset": 596,
+    "EndTextOffset": 609,
+    "Text": "Components.232"
+  },
+  {
+    "HeaderOffset": 1143,
+    "StartTextOffset": 1149,
+    "EndTextOffset": 1159,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 1190,
+    "StartTextOffset": 1196,
+    "EndTextOffset": 1209,
+    "Text": "ModulatorIndex"
+  },
+  {
+    "HeaderOffset": 1239,
+    "StartTextOffset": 1245,
+    "EndTextOffset": 1261,
+    "Text": "ShieldVisualModel"
+  },
+  {
+    "HeaderOffset": 1262,
+    "StartTextOffset": 1268,
+    "EndTextOffset": 1279,
+    "Text": "MediumShield"
+  },
+  {
+    "HeaderOffset": 1305,
+    "StartTextOffset": 1311,
+    "EndTextOffset": 1316,
+    "Text": "Prefix"
+  },
+  {
+    "HeaderOffset": 1317,
+    "StartTextOffset": 1323,
+    "EndTextOffset": 1338,
+    "Text": "Medium Frequency"
+  }
+]

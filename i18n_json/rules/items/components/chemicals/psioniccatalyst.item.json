@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 285,
+    "Text": "psionicCatalyst"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 319,
+    "Text": "Unsaturated Psionic Catalyst"
+  },
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 439,
+    "Text": "This powerful psionic catalyst can be used to create psi enhancing concoctions."
+  },
+  {
+    "HeaderOffset": 440,
+    "StartTextOffset": 446,
+    "EndTextOffset": 471,
+    "Text": "Components.PsionicCatalyst"
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 733,
+    "Text": "Biology"
+  }
+]

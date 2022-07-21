@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 267,
+    "Text": "capsule"
+  },
+  {
+    "HeaderOffset": 268,
+    "StartTextOffset": 274,
+    "EndTextOffset": 280,
+    "Text": "Capsule"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 352,
+    "Text": "A sterile hard-shelled capsule."
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 376,
+    "Text": "Components.Capsule"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 292,
+    "Text": "herbicide"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 307,
+    "Text": "Herbicide"
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 381,
+    "Text": "A canister of powerful herbicide."
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 407,
+    "Text": "Components.Herbicide"
+  },
+  {
+    "HeaderOffset": 678,
+    "StartTextOffset": 684,
+    "EndTextOffset": 692,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 722,
+    "StartTextOffset": 728,
+    "EndTextOffset": 737,
+    "Text": "GasGrenade"
+  },
+  {
+    "HeaderOffset": 738,
+    "StartTextOffset": 744,
+    "EndTextOffset": 762,
+    "Text": "HerbicideGasGrenade"
+  }
+]

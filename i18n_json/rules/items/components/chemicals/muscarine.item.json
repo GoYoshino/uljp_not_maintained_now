@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 286,
+    "Text": "muscarine"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 301,
+    "Text": "Muscarine"
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 420,
+    "Text": "A toxic, potentially deadly, substance that should not be consumed on its own."
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 408,
+    "Text": " toxic, potentially deadly, substance that should not be consumed"
+  },
+  {
+    "HeaderOffset": 421,
+    "StartTextOffset": 427,
+    "EndTextOffset": 446,
+    "Text": "Components.Muscarine"
+  },
+  {
+    "HeaderOffset": 697,
+    "StartTextOffset": 703,
+    "EndTextOffset": 709,
+    "Text": "Biology"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 666,
+    "StartTextOffset": 672,
+    "EndTextOffset": 675,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 711,
+    "Text": "wep.shiv"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 721,
+    "Text": "Shiv"
+  },
+  {
+    "HeaderOffset": 757,
+    "StartTextOffset": 763,
+    "EndTextOffset": 830,
+    "Text": "A crude improvised knife. A common tool in gang and prison politics."
+  },
+  {
+    "HeaderOffset": 758,
+    "StartTextOffset": 764,
+    "EndTextOffset": 828,
+    "Text": " crude improvised knife. A common tool in gang and prison politic"
+  },
+  {
+    "HeaderOffset": 831,
+    "StartTextOffset": 837,
+    "EndTextOffset": 847,
+    "Text": "Weapon.Shiv"
+  }
+]

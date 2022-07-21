@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 719,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 788,
+    "Text": "wep.steyrAug_rf"
+  },
+  {
+    "HeaderOffset": 789,
+    "StartTextOffset": 795,
+    "EndTextOffset": 816,
+    "Text": "Refurbished Steyr-Auch"
+  },
+  {
+    "HeaderOffset": 852,
+    "StartTextOffset": 858,
+    "EndTextOffset": 953,
+    "Text": "A versatile old world 9mm assault rifle with an extended magazine. Comes with integrated optics."
+  },
+  {
+    "HeaderOffset": 954,
+    "StartTextOffset": 960,
+    "EndTextOffset": 977,
+    "Text": "Weapon.SteyrAug_rf"
+  },
+  {
+    "HeaderOffset": 1654,
+    "StartTextOffset": 1660,
+    "EndTextOffset": 1663,
+    "Text": "uwep"
+  }
+]

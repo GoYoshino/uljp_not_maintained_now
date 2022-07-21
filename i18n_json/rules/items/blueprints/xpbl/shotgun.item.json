@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 252,
+    "Text": "shotgunBlueprint"
+  },
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 276,
+    "Text": "Blueprint: Shotgun"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 366,
+    "Text": "Contains instructions on how to create a shotgun."
+  },
+  {
+    "HeaderOffset": 367,
+    "StartTextOffset": 373,
+    "EndTextOffset": 385,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 519,
+    "StartTextOffset": 525,
+    "EndTextOffset": 531,
+    "Text": "shotgun"
+  },
+  {
+    "HeaderOffset": 590,
+    "StartTextOffset": 596,
+    "EndTextOffset": 615,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 246,
+    "Text": "Oddity.FacelessMaskFragment"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 274,
+    "Text": "Faceless Mask Fragment"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 496,
+    "Text": "This is a fragment of a Faceless mask. The inner workings of the mask have been destroyed or removed so it's impossible to tell if there's some non-obvious purpose the mask serves."
+  },
+  {
+    "HeaderOffset": 497,
+    "StartTextOffset": 503,
+    "EndTextOffset": 529,
+    "Text": "Oddity.FacelessMaskFragment"
+  }
+]

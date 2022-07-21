@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 235,
+    "Text": "smgBlueprint"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 255,
+    "Text": "Blueprint: SMG"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 351,
+    "Text": "Contains instructions on how to create any type of SMG."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 366,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 565,
+    "StartTextOffset": 571,
+    "EndTextOffset": 590,
+    "Text": "blueprintconsumation"
+  }
+]

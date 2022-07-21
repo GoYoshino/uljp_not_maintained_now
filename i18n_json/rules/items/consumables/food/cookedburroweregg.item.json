@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 249,
+    "Text": "food.cookedBurrowerEgg"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 274,
+    "Text": "Cooked Burrower Egg"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 469,
+    "Text": "A burrower egg cooked at low temperature. The cooking breaks down most of the toxins in the egg green and softens the spawn's carapace if one is present."
+  },
+  {
+    "HeaderOffset": 470,
+    "StartTextOffset": 476,
+    "EndTextOffset": 497,
+    "Text": "Food.CookedBurrowerEgg"
+  },
+  {
+    "HeaderOffset": 727,
+    "StartTextOffset": 733,
+    "EndTextOffset": 747,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 773,
+    "StartTextOffset": 779,
+    "EndTextOffset": 786,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 787,
+    "StartTextOffset": 793,
+    "EndTextOffset": 809,
+    "Text": "cookedBurrowerEgg"
+  },
+  {
+    "HeaderOffset": 819,
+    "StartTextOffset": 825,
+    "EndTextOffset": 832,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 833,
+    "StartTextOffset": 839,
+    "EndTextOffset": 857,
+    "Text": "Cooked Burrower Egg"
+  }
+]

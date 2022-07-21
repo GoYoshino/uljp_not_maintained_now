@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 331,
+    "Text": "poison.SpiritPoison"
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 350,
+    "Text": "Spirit Poison"
+  },
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 495,
+    "Text": "This is a vial of spirit poison. When injected into the victim it may cause paranoia and hallucinations."
+  },
+  {
+    "HeaderOffset": 387,
+    "StartTextOffset": 393,
+    "EndTextOffset": 476,
+    "Text": "his is a vial of spirit poison. When injected into the victim it may cause paranoia "
+  },
+  {
+    "HeaderOffset": 496,
+    "StartTextOffset": 502,
+    "EndTextOffset": 524,
+    "Text": "Components.SpiritPoison"
+  },
+  {
+    "HeaderOffset": 813,
+    "StartTextOffset": 819,
+    "EndTextOffset": 834,
+    "Text": "applyGearBooster"
+  },
+  {
+    "HeaderOffset": 868,
+    "StartTextOffset": 874,
+    "EndTextOffset": 880,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 921,
+    "StartTextOffset": 927,
+    "EndTextOffset": 937,
+    "Text": "GearBooster"
+  },
+  {
+    "HeaderOffset": 968,
+    "StartTextOffset": 974,
+    "EndTextOffset": 983,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 984,
+    "StartTextOffset": 990,
+    "EndTextOffset": 1001,
+    "Text": "SpiritPoison"
+  }
+]

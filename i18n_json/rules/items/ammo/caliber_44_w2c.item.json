@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 314,
+    "Text": "Ammo.Caliber_44_W2C"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 333,
+    "Text": ".44 W2C Round"
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 440,
+    "Text": "This armor-piercing cartridge packs a .44 tungsten carbide bullet."
+  },
+  {
+    "HeaderOffset": 441,
+    "StartTextOffset": 447,
+    "EndTextOffset": 465,
+    "Text": "Ammo.Caliber_44_W2C"
+  },
+  {
+    "HeaderOffset": 705,
+    "StartTextOffset": 711,
+    "EndTextOffset": 714,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 724,
+    "StartTextOffset": 730,
+    "EndTextOffset": 736,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 746,
+    "StartTextOffset": 752,
+    "EndTextOffset": 757,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 767,
+    "StartTextOffset": 773,
+    "EndTextOffset": 781,
+    "Text": "ldsingcur"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 389,
+    "Text": "Black Cloth"
+  },
+  {
+    "HeaderOffset": 425,
+    "StartTextOffset": 431,
+    "EndTextOffset": 452,
+    "Text": "A bolt of black cloth."
+  },
+  {
+    "HeaderOffset": 453,
+    "StartTextOffset": 459,
+    "EndTextOffset": 471,
+    "Text": "Components.10"
+  },
+  {
+    "HeaderOffset": 919,
+    "StartTextOffset": 925,
+    "EndTextOffset": 933,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 979,
+    "StartTextOffset": 985,
+    "EndTextOffset": 991,
+    "Text": "Stealth"
+  },
+  {
+    "HeaderOffset": 1025,
+    "StartTextOffset": 1031,
+    "EndTextOffset": 1042,
+    "Text": "OvercoatType"
+  },
+  {
+    "HeaderOffset": 1043,
+    "StartTextOffset": 1049,
+    "EndTextOffset": 1053,
+    "Text": "Black"
+  },
+  {
+    "HeaderOffset": 1063,
+    "StartTextOffset": 1069,
+    "EndTextOffset": 1085,
+    "Text": "ArmorDescription2"
+  },
+  {
+    "HeaderOffset": 1086,
+    "StartTextOffset": 1092,
+    "EndTextOffset": 1145,
+    "Text": "It comes with a black overcoat that helps with hiding."
+  },
+  {
+    "HeaderOffset": 1155,
+    "StartTextOffset": 1161,
+    "EndTextOffset": 1170,
+    "Text": "HelmetDesc"
+  },
+  {
+    "HeaderOffset": 1171,
+    "StartTextOffset": 1177,
+    "EndTextOffset": 1231,
+    "Text": "It also comes with a black hood that helps with hiding."
+  },
+  {
+    "HeaderOffset": 1241,
+    "StartTextOffset": 1247,
+    "EndTextOffset": 1271,
+    "Text": "TacticalVestVisualVariant"
+  },
+  {
+    "HeaderOffset": 1289,
+    "StartTextOffset": 1295,
+    "EndTextOffset": 1319,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1354,
+    "StartTextOffset": 1360,
+    "EndTextOffset": 1367,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1381,
+    "StartTextOffset": 1387,
+    "EndTextOffset": 1399,
+    "Text": "BalaclavaDesc"
+  },
+  {
+    "HeaderOffset": 1400,
+    "StartTextOffset": 1406,
+    "EndTextOffset": 1509,
+    "Text": "This is a three-hole balaclava made of black cloth. Perfect for ninjas and other types of sneaky people."
+  },
+  {
+    "HeaderOffset": 1519,
+    "StartTextOffset": 1525,
+    "EndTextOffset": 1534,
+    "Text": "BootPrefix"
+  },
+  {
+    "HeaderOffset": 1535,
+    "StartTextOffset": 1541,
+    "EndTextOffset": 1545,
+    "Text": "Ninja"
+  },
+  {
+    "HeaderOffset": 1555,
+    "StartTextOffset": 1561,
+    "EndTextOffset": 1573,
+    "Text": "TabiBootsDesc"
+  },
+  {
+    "HeaderOffset": 1574,
+    "StartTextOffset": 1580,
+    "EndTextOffset": 1674,
+    "Text": "These tabi boots are made from black cloth which helps when you're trying to be a sneaky ninja."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 271,
+    "Text": "Oddity.AntifreezeProteinInjector"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 304,
+    "Text": "Antifreeze Protein Injector"
+  },
+  {
+    "HeaderOffset": 340,
+    "StartTextOffset": 346,
+    "EndTextOffset": 687,
+    "Text": "A tiny device most likely worn on wrist or an ankle which regulates the presence of small ice crystals within blood. It had the ability to inject a dose of antifreeze proteins which bind themselves to the crystals, inhibiting the growth and recrystallization that would otherwise be lethal. It also protects cells from damage caused by cold."
+  },
+  {
+    "HeaderOffset": 688,
+    "StartTextOffset": 694,
+    "EndTextOffset": 725,
+    "Text": "Oddity.AntifreezeProteinInjector"
+  }
+]

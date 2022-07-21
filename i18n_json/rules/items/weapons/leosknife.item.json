@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 671,
+    "StartTextOffset": 677,
+    "EndTextOffset": 680,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 701,
+    "StartTextOffset": 707,
+    "EndTextOffset": 720,
+    "Text": "plot.leosKnife"
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 743,
+    "Text": "Bone Handle Knife"
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 1023,
+    "Text": "This knife's handle is made from bone and covered with a layer of epoxy which still seems in near-pristine condition, unlike the blade scratched from use and numerous sharpenings. It also feels a bit heavier than other knives you've held."
+  },
+  {
+    "HeaderOffset": 1024,
+    "StartTextOffset": 1030,
+    "EndTextOffset": 1036,
+    "Text": "Plot.97"
+  },
+  {
+    "HeaderOffset": 1754,
+    "StartTextOffset": 1760,
+    "EndTextOffset": 1772,
+    "Text": "bleedingWound"
+  }
+]

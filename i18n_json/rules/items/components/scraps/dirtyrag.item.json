@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 285,
+    "Text": "dirtyRag"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 300,
+    "Text": "Dirty Rag"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 358,
+    "Text": "An old dirty rag."
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 383,
+    "Text": "Components.DirtyRag"
+  },
+  {
+    "HeaderOffset": 653,
+    "StartTextOffset": 659,
+    "EndTextOffset": 667,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 697,
+    "StartTextOffset": 703,
+    "EndTextOffset": 715,
+    "Text": "RepairKitName"
+  },
+  {
+    "HeaderOffset": 716,
+    "StartTextOffset": 722,
+    "EndTextOffset": 732,
+    "Text": "PatchingKit"
+  }
+]

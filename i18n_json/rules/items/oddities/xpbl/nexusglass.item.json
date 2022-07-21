@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 242,
+    "Text": "Oddity.NexusGlass"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 259,
+    "Text": "Nexus Glass"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 452,
+    "Text": "A broken pair of high-tech glasses. Probably used to assist the scientist and engineers in their day to day task and definitely not to spy on the user."
+  },
+  {
+    "HeaderOffset": 453,
+    "StartTextOffset": 459,
+    "EndTextOffset": 475,
+    "Text": "Oddity.NexusGlass"
+  }
+]

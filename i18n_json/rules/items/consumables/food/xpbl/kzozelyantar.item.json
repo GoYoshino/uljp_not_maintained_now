@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 251,
+    "Text": "food.kzozelYantar"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 270,
+    "Text": "Kzozel Yantar"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 398,
+    "Text": "A carbonated, amber-colored alcoholic drink. The label depicts a strange horned animal."
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 377,
+    "Text": " carbonated, amber-colored alcoholic drink. The label depicts a s"
+  },
+  {
+    "HeaderOffset": 399,
+    "StartTextOffset": 405,
+    "EndTextOffset": 421,
+    "Text": "Food.KzozelYantar"
+  },
+  {
+    "HeaderOffset": 652,
+    "StartTextOffset": 658,
+    "EndTextOffset": 672,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 711,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 729,
+    "Text": "kzozelYantar"
+  },
+  {
+    "HeaderOffset": 739,
+    "StartTextOffset": 745,
+    "EndTextOffset": 752,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 753,
+    "StartTextOffset": 759,
+    "EndTextOffset": 771,
+    "Text": "Kzozel Yantar"
+  }
+]

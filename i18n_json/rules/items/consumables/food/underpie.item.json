@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 240,
+    "Text": "food.underPie"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 255,
+    "Text": "Under Pie"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 342,
+    "Text": "A pie made from root dough and minced innards."
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 361,
+    "Text": "Food.UnderPie"
+  },
+  {
+    "HeaderOffset": 591,
+    "StartTextOffset": 597,
+    "EndTextOffset": 611,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 637,
+    "StartTextOffset": 643,
+    "EndTextOffset": 650,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 651,
+    "StartTextOffset": 657,
+    "EndTextOffset": 664,
+    "Text": "underPie"
+  },
+  {
+    "HeaderOffset": 674,
+    "StartTextOffset": 680,
+    "EndTextOffset": 687,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 688,
+    "StartTextOffset": 694,
+    "EndTextOffset": 702,
+    "Text": "Under Pie"
+  }
+]

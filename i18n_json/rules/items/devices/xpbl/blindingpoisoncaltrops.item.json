@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 235,
+    "Text": "blindingPoisonCaltrops"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 265,
+    "Text": "Blinding Poison Caltrops"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 589,
+    "Text": "A caltrop is an antipersonnel weapon made up of two or more sharp nails or spines arranged in such a manner that one of them always points upward from a stable base. Caltrops can be deployed to injure and slow down enemies. These caltrops have also been coated with blinding poison."
+  },
+  {
+    "HeaderOffset": 590,
+    "StartTextOffset": 596,
+    "EndTextOffset": 605,
+    "Text": "Devices.64"
+  },
+  {
+    "HeaderOffset": 795,
+    "StartTextOffset": 801,
+    "EndTextOffset": 827,
+    "Text": "BlindingPoisonCaltropsThrow"
+  }
+]

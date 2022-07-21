@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 446,
+    "StartTextOffset": 452,
+    "EndTextOffset": 456,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 531,
+    "StartTextOffset": 537,
+    "EndTextOffset": 563,
+    "Text": "Chemical Assault Unit Armor"
+  },
+  {
+    "HeaderOffset": 599,
+    "StartTextOffset": 605,
+    "EndTextOffset": 900,
+    "Text": "This is the armor of Chemical Assault Unit, the most elite Protectorate special force. It's riot gear type armor specially designed to be worn in biohazardous conditions. Protectorate insignias, depicting a clenched spiky metal fists against red and black background, are sewn onto the armbands."
+  },
+  {
+    "HeaderOffset": 901,
+    "StartTextOffset": 907,
+    "EndTextOffset": 915,
+    "Text": "Armors.48"
+  },
+  {
+    "HeaderOffset": 1265,
+    "StartTextOffset": 1271,
+    "EndTextOffset": 1275,
+    "Text": "prbio"
+  },
+  {
+    "HeaderOffset": 1394,
+    "StartTextOffset": 1400,
+    "EndTextOffset": 1411,
+    "Text": "Intimidation"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 241,
+    "Text": "shockBoltBlueprint"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 268,
+    "Text": "Blueprint: Shock Bolt"
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 360,
+    "Text": "Contains instructions on how to create shock bolts."
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 375,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 507,
+    "StartTextOffset": 513,
+    "EndTextOffset": 521,
+    "Text": "shockBolt"
+  },
+  {
+    "HeaderOffset": 580,
+    "StartTextOffset": 586,
+    "EndTextOffset": 605,
+    "Text": "blueprintconsumation"
+  }
+]

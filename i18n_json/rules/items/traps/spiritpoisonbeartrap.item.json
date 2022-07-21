@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 260,
+    "Text": "trap.spiritPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 261,
+    "StartTextOffset": 267,
+    "EndTextOffset": 289,
+    "Text": "Spirit Poison Bear Trap"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 540,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim. As if the excruciating pain of having your foot caught in one of these wasn't enough, the metal jaws have also been coated with spirit poison."
+  },
+  {
+    "HeaderOffset": 541,
+    "StartTextOffset": 547,
+    "EndTextOffset": 559,
+    "Text": "Explosives.95"
+  },
+  {
+    "HeaderOffset": 800,
+    "StartTextOffset": 806,
+    "EndTextOffset": 830,
+    "Text": "PlaceSpiritPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 856,
+    "StartTextOffset": 862,
+    "EndTextOffset": 871,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 872,
+    "StartTextOffset": 878,
+    "EndTextOffset": 889,
+    "Text": "SpiritPoison"
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 914,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 915,
+    "StartTextOffset": 921,
+    "EndTextOffset": 933,
+    "Text": "Spirit Poison"
+  }
+]

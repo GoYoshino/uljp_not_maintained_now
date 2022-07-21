@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 242,
+    "Text": "Oddity.ForkedRock"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 259,
+    "Text": "Forked Rock"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 342,
+    "Text": "A rock sharpened into the shape of a fork."
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 365,
+    "Text": "Oddity.ForkedRock"
+  }
+]

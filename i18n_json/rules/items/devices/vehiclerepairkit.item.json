@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 243,
+    "Text": "vehicleRepairKit"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 267,
+    "Text": "Vehicle Repair Kit"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 368,
+    "Text": "Can be used to repair any vehicle with an electronic engine."
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 385,
+    "Text": "Devices.110"
+  },
+  {
+    "HeaderOffset": 596,
+    "StartTextOffset": 602,
+    "EndTextOffset": 617,
+    "Text": "VehicleRepairKit"
+  },
+  {
+    "HeaderOffset": 644,
+    "StartTextOffset": 650,
+    "EndTextOffset": 661,
+    "Text": "RepairAmount"
+  }
+]

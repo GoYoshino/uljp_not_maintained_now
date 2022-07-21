@@ -1,0 +1,110 @@
+[
+  {
+    "HeaderOffset": 461,
+    "StartTextOffset": 467,
+    "EndTextOffset": 498,
+    "Text": "component.infusedSiphonerLeather"
+  },
+  {
+    "HeaderOffset": 499,
+    "StartTextOffset": 505,
+    "EndTextOffset": 528,
+    "Text": "Infused Siphoner Leather"
+  },
+  {
+    "HeaderOffset": 564,
+    "StartTextOffset": 570,
+    "EndTextOffset": 765,
+    "Text": "It's a slippery slimy piece of siphoner skin infused with super steel fiber. It can be used to craft a suit of leather armor. It has been infused with super steel fiber to enhance its properties."
+  },
+  {
+    "HeaderOffset": 766,
+    "StartTextOffset": 772,
+    "EndTextOffset": 785,
+    "Text": "Components.285"
+  },
+  {
+    "HeaderOffset": 1413,
+    "StartTextOffset": 1419,
+    "EndTextOffset": 1427,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1559,
+    "StartTextOffset": 1565,
+    "EndTextOffset": 1580,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1581,
+    "StartTextOffset": 1587,
+    "EndTextOffset": 1666,
+    "Text": "This {0} is made of slippery slimy siphoner skin infused with super steel fiber."
+  },
+  {
+    "HeaderOffset": 1676,
+    "StartTextOffset": 1682,
+    "EndTextOffset": 1695,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1696,
+    "StartTextOffset": 1702,
+    "EndTextOffset": 1717,
+    "Text": "Infused Siphoner"
+  },
+  {
+    "HeaderOffset": 1727,
+    "StartTextOffset": 1733,
+    "EndTextOffset": 1754,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1755,
+    "StartTextOffset": 1761,
+    "EndTextOffset": 1842,
+    "Text": "These {0} are made of slippery slimy siphoner skin infused with super steel fiber."
+  },
+  {
+    "HeaderOffset": 1869,
+    "StartTextOffset": 1875,
+    "EndTextOffset": 1887,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1901,
+    "StartTextOffset": 1907,
+    "EndTextOffset": 1928,
+    "Text": "CustomLeatherArmorType"
+  },
+  {
+    "HeaderOffset": 1929,
+    "StartTextOffset": 1935,
+    "EndTextOffset": 1950,
+    "Text": "Leather Jumpsuit"
+  },
+  {
+    "HeaderOffset": 1977,
+    "StartTextOffset": 1983,
+    "EndTextOffset": 1990,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 2021,
+    "StartTextOffset": 2027,
+    "EndTextOffset": 2034,
+    "Text": "Infusion"
+  },
+  {
+    "HeaderOffset": 2048,
+    "StartTextOffset": 2054,
+    "EndTextOffset": 2078,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 2079,
+    "StartTextOffset": 2085,
+    "EndTextOffset": 2089,
+    "Text": "siple"
+  }
+]

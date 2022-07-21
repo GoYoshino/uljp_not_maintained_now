@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 298,
+    "Text": "case.Caliber_44"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 312,
+    "Text": ".44 Case"
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 378,
+    "Text": "An empty .44 bullet case."
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 391,
+    "Text": "Ammo.35"
+  },
+  {
+    "HeaderOffset": 662,
+    "StartTextOffset": 668,
+    "EndTextOffset": 676,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 713,
+    "StartTextOffset": 719,
+    "EndTextOffset": 726,
+    "Text": "CaseType"
+  }
+]

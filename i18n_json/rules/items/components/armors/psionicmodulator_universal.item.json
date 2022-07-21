@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 314,
+    "Text": "Universal Psionic Modulator"
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 444,
+    "Text": "This psionic modulator affects all areas of psionic potential, also known as psi schools."
+  },
+  {
+    "HeaderOffset": 445,
+    "StartTextOffset": 451,
+    "EndTextOffset": 464,
+    "Text": "Components.201"
+  },
+  {
+    "HeaderOffset": 769,
+    "StartTextOffset": 775,
+    "EndTextOffset": 785,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 799,
+    "StartTextOffset": 805,
+    "EndTextOffset": 811,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 842,
+    "StartTextOffset": 848,
+    "EndTextOffset": 861,
+    "Text": "BaseSkillBonus"
+  },
+  {
+    "HeaderOffset": 879,
+    "StartTextOffset": 885,
+    "EndTextOffset": 904,
+    "Text": "SkillBonusPerQuality"
+  },
+  {
+    "HeaderOffset": 922,
+    "StartTextOffset": 928,
+    "EndTextOffset": 942,
+    "Text": "BonusEfficiency"
+  }
+]

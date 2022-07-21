@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 455,
+    "StartTextOffset": 461,
+    "EndTextOffset": 477,
+    "Text": "xpbl_torpedoFrame"
+  },
+  {
+    "HeaderOffset": 478,
+    "StartTextOffset": 484,
+    "EndTextOffset": 496,
+    "Text": "Torpedo Frame"
+  },
+  {
+    "HeaderOffset": 533,
+    "StartTextOffset": 539,
+    "EndTextOffset": 544,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1038,
+    "StartTextOffset": 1044,
+    "EndTextOffset": 1055,
+    "Text": "xpbl_torpedo"
+  },
+  {
+    "HeaderOffset": 1122,
+    "StartTextOffset": 1128,
+    "EndTextOffset": 1139,
+    "Text": "VehicleTurbo"
+  }
+]

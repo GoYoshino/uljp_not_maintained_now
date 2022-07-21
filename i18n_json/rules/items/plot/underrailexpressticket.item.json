@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 248,
+    "Text": "underrailExpressTicket"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 278,
+    "Text": "Underrail Express Ticket"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 625,
+    "Text": "An Underrail Express ticket, valid for a single journey in both Lower and Upper Underrail trains, regardless of destination. Features a highly advanced security hologram that is nigh impossible to forge without specialized equipment and access to the master hologram, from which all others are replicated."
+  },
+  {
+    "HeaderOffset": 626,
+    "StartTextOffset": 632,
+    "EndTextOffset": 638,
+    "Text": "Plot.46"
+  }
+]

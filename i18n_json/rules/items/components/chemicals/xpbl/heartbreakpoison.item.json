@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 335,
+    "Text": "poison.HeartbreakPoison"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 358,
+    "Text": "Heartbreak Poison"
+  },
+  {
+    "HeaderOffset": 394,
+    "StartTextOffset": 400,
+    "EndTextOffset": 649,
+    "Text": "This is a vial of poison extracted from an infamous \"heartbreaker\" sea serpent. When initially injected into the bloodstream it does not do as much damage as other toxins of this type, but untreated and given time it can cause lethal cardiac arrest."
+  },
+  {
+    "HeaderOffset": 650,
+    "StartTextOffset": 656,
+    "EndTextOffset": 682,
+    "Text": "Components.HeartbreakPoison"
+  },
+  {
+    "HeaderOffset": 971,
+    "StartTextOffset": 977,
+    "EndTextOffset": 992,
+    "Text": "applyGearBooster"
+  },
+  {
+    "HeaderOffset": 1026,
+    "StartTextOffset": 1032,
+    "EndTextOffset": 1038,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1079,
+    "StartTextOffset": 1085,
+    "EndTextOffset": 1095,
+    "Text": "GearBooster"
+  },
+  {
+    "HeaderOffset": 1126,
+    "StartTextOffset": 1132,
+    "EndTextOffset": 1141,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 1142,
+    "StartTextOffset": 1148,
+    "EndTextOffset": 1168,
+    "Text": "Xpbl\\HeartbreakPoison"
+  }
+]

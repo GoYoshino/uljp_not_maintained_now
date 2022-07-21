@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 319,
+    "Text": "highResolutionDigitalScope"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 354,
+    "Text": "High Resolution Digital Scope"
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 446,
+    "Text": "A digital scope providing high precision targeting."
+  },
+  {
+    "HeaderOffset": 447,
+    "StartTextOffset": 453,
+    "EndTextOffset": 465,
+    "Text": "Components.97"
+  },
+  {
+    "HeaderOffset": 752,
+    "StartTextOffset": 758,
+    "EndTextOffset": 766,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 780,
+    "StartTextOffset": 786,
+    "EndTextOffset": 796,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 841,
+    "Text": "ScopeType"
+  },
+  {
+    "HeaderOffset": 872,
+    "StartTextOffset": 878,
+    "EndTextOffset": 896,
+    "Text": "CriticalChanceBonus"
+  }
+]

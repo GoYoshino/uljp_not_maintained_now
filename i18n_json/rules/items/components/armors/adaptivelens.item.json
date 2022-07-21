@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 299,
+    "Text": "adaptiveLens"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 318,
+    "Text": "Adaptive Lens"
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 447,
+    "Text": "This is a standard auto-adaptive lens that enhances mid to long range vision of any eye."
+  },
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 444,
+    "Text": "his is a standard auto-adaptive lens that enhances mid to long range vision of any e"
+  },
+  {
+    "HeaderOffset": 448,
+    "StartTextOffset": 454,
+    "EndTextOffset": 476,
+    "Text": "Components.AdaptiveLens"
+  },
+  {
+    "HeaderOffset": 807,
+    "StartTextOffset": 813,
+    "EndTextOffset": 821,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 835,
+    "StartTextOffset": 841,
+    "EndTextOffset": 851,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 882,
+    "StartTextOffset": 888,
+    "EndTextOffset": 905,
+    "Text": "PerceptionModifier"
+  },
+  {
+    "HeaderOffset": 936,
+    "StartTextOffset": 942,
+    "EndTextOffset": 954,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 984,
+    "StartTextOffset": 990,
+    "EndTextOffset": 999,
+    "Text": "DescPlural"
+  },
+  {
+    "HeaderOffset": 1000,
+    "StartTextOffset": 1006,
+    "EndTextOffset": 1020,
+    "Text": "adaptive lenses"
+  },
+  {
+    "HeaderOffset": 1046,
+    "StartTextOffset": 1052,
+    "EndTextOffset": 1061,
+    "Text": "NamePrefix"
+  },
+  {
+    "HeaderOffset": 1062,
+    "StartTextOffset": 1068,
+    "EndTextOffset": 1075,
+    "Text": "Adaptive"
+  }
+]

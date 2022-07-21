@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 328,
+    "Text": "Ammo.Vial_Incendiary"
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 349,
+    "Text": "Incendiary Vial"
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 444,
+    "Text": "Can be loaded into a incendiary based chemical weapon."
+  },
+  {
+    "HeaderOffset": 445,
+    "StartTextOffset": 451,
+    "EndTextOffset": 464,
+    "Text": "Components.177"
+  },
+  {
+    "HeaderOffset": 706,
+    "StartTextOffset": 712,
+    "EndTextOffset": 715,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 725,
+    "StartTextOffset": 731,
+    "EndTextOffset": 737,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 747,
+    "StartTextOffset": 753,
+    "EndTextOffset": 758,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 782,
+    "Text": "ldsingcur"
+  }
+]

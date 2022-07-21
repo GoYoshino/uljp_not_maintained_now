@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 218,
+    "Text": "cc_bcf.pipes"
+  },
+  {
+    "HeaderOffset": 219,
+    "StartTextOffset": 225,
+    "EndTextOffset": 228,
+    "Text": "Pipe"
+  },
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 295,
+    "Text": "Just a regular large pipe."
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 308,
+    "Text": "Plot.62"
+  }
+]

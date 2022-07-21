@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 255,
+    "Text": "psiMentor.TelekineticProxy"
+  },
+  {
+    "HeaderOffset": 256,
+    "StartTextOffset": 262,
+    "EndTextOffset": 294,
+    "Text": "Psionic Mentor: Telekinetic Proxy"
+  },
+  {
+    "HeaderOffset": 330,
+    "StartTextOffset": 336,
+    "EndTextOffset": 449,
+    "Text": "This device can be used to automatically teach yourself Telekinetic Proxy psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 420,
+    "Text": "his device can be used to automatically teach yourself Telekinetic Proxy psi ability"
+  },
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 474,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 607,
+    "StartTextOffset": 613,
+    "EndTextOffset": 628,
+    "Text": "TelekineticProxy"
+  },
+  {
+    "HeaderOffset": 687,
+    "StartTextOffset": 693,
+    "EndTextOffset": 712,
+    "Text": "PsiMentorConsumation"
+  }
+]

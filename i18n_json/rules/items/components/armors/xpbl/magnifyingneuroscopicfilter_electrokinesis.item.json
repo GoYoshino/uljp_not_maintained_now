@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 339,
+    "Text": "Magnifying Neuroscopic Filter: Electrokinesis"
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 461,
+    "Text": "When added to a psionic device, increases the power of the user's Electrokinesis."
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 519,
+    "Text": "Components.MagnifyingNeuroscopicFilterElectrokinesis"
+  },
+  {
+    "HeaderOffset": 863,
+    "StartTextOffset": 869,
+    "EndTextOffset": 879,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 893,
+    "StartTextOffset": 899,
+    "EndTextOffset": 905,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 936,
+    "StartTextOffset": 942,
+    "EndTextOffset": 954,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 988,
+    "StartTextOffset": 994,
+    "EndTextOffset": 1008,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 1009,
+    "StartTextOffset": 1015,
+    "EndTextOffset": 1056,
+    "Text": "1MagnifyingNeuroscopicFilterElectrokinesis"
+  },
+  {
+    "HeaderOffset": 1082,
+    "StartTextOffset": 1088,
+    "EndTextOffset": 1108,
+    "Text": "PsionicHeadbandPrefix"
+  },
+  {
+    "HeaderOffset": 1109,
+    "StartTextOffset": 1115,
+    "EndTextOffset": 1128,
+    "Text": "Electrokinetic"
+  },
+  {
+    "HeaderOffset": 1154,
+    "StartTextOffset": 1160,
+    "EndTextOffset": 1178,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1179,
+    "StartTextOffset": 1185,
+    "EndTextOffset": 1279,
+    "Text": "It's equipped with magnifying neuroscopic filter that amplifies the power of the weaerer's {0}."
+  },
+  {
+    "HeaderOffset": 1305,
+    "StartTextOffset": 1311,
+    "EndTextOffset": 1334,
+    "Text": "CapabilityDamageModified"
+  },
+  {
+    "HeaderOffset": 1335,
+    "StartTextOffset": 1341,
+    "EndTextOffset": 1354,
+    "Text": "Electrokinesis"
+  }
+]

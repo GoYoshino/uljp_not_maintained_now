@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 241,
+    "Text": "vanishingPowder"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 271,
+    "Text": "Vanishing Powder Grenade"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 460,
+    "Text": "A makeshift grenade filled with \"vanishing powder\" that ignites on impact, generating a flash and lots of thick smoke that can cover one's retreat."
+  },
+  {
+    "HeaderOffset": 461,
+    "StartTextOffset": 467,
+    "EndTextOffset": 478,
+    "Text": "Explosives.2"
+  },
+  {
+    "HeaderOffset": 670,
+    "StartTextOffset": 676,
+    "EndTextOffset": 681,
+    "Text": "Vanish"
+  }
+]

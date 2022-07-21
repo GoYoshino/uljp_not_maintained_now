@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 228,
+    "Text": "key.xpbl_e3_jail"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 254,
+    "Text": "Cell Key (Port Ceto)"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 384,
+    "Text": "This must be the key for the cell doors in the basement of a building in the Pirate base."
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 380,
+    "Text": "his must be the key for the cell doors in the basement of a building in the Pirate b"
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 397,
+    "Text": "Plot.20"
+  }
+]

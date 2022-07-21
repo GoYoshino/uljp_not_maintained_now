@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 249,
+    "Text": "w2cBulletsBlueprint"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 277,
+    "Text": "Blueprint: W2C Bullets"
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 397,
+    "Text": "Contains instructions on how to reload tungsten carbide armor piercing bullets."
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 386,
+    "Text": "ontains instructions on how to reload tungsten carbide armor pierci"
+  },
+  {
+    "HeaderOffset": 398,
+    "StartTextOffset": 404,
+    "EndTextOffset": 412,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 545,
+    "StartTextOffset": 551,
+    "EndTextOffset": 560,
+    "Text": "w2cBullets"
+  },
+  {
+    "HeaderOffset": 619,
+    "StartTextOffset": 625,
+    "EndTextOffset": 644,
+    "Text": "blueprintconsumation"
+  }
+]

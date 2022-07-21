@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 247,
+    "Text": "libraryPropagatorCard"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 298,
+    "Text": "Library Propagator Card (Institute of Tchort)"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 532,
+    "Text": "Used with the terminals in Eidein's Library. They give the user propagator rights, which among other things unlock the ability to download files from the library database without restrictions."
+  },
+  {
+    "HeaderOffset": 533,
+    "StartTextOffset": 539,
+    "EndTextOffset": 545,
+    "Text": "Plot.15"
+  }
+]

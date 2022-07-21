@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 728,
+    "StartTextOffset": 734,
+    "EndTextOffset": 737,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 806,
+    "Text": "wep.desertEagle"
+  },
+  {
+    "HeaderOffset": 807,
+    "StartTextOffset": 813,
+    "EndTextOffset": 826,
+    "Text": "Wasteland Hawk"
+  },
+  {
+    "HeaderOffset": 862,
+    "StartTextOffset": 868,
+    "EndTextOffset": 905,
+    "Text": "Powerful old world .44 caliber pistol."
+  },
+  {
+    "HeaderOffset": 906,
+    "StartTextOffset": 912,
+    "EndTextOffset": 929,
+    "Text": "Weapon.DesertEagle"
+  },
+  {
+    "HeaderOffset": 1610,
+    "StartTextOffset": 1616,
+    "EndTextOffset": 1619,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1669,
+    "StartTextOffset": 1675,
+    "EndTextOffset": 1692,
+    "Text": "dazeNearbyOnAttack"
+  }
+]

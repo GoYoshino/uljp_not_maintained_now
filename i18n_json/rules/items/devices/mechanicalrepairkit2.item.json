@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 254,
+    "Text": "mechanicalRepairKit2"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 290,
+    "Text": "上級修理キット／Advanced Mechanical Repair Kit"
+  },
+  {
+    "HeaderOffset": 326,
+    "StartTextOffset": 332,
+    "EndTextOffset": 428,
+    "Text": "機械的な構造を持つ装備品(銃器、近接武器、金属鎧など)を修理する。"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 399,
+    "Text": "an be used to repair mechanical pieces of gear, such as firearms, m"
+  },
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 444,
+    "Text": "Devices.72"
+  },
+  {
+    "HeaderOffset": 675,
+    "StartTextOffset": 681,
+    "EndTextOffset": 689,
+    "Text": "RepairKit"
+  },
+  {
+    "HeaderOffset": 723,
+    "StartTextOffset": 729,
+    "EndTextOffset": 742,
+    "Text": "RepairCategory"
+  },
+  {
+    "HeaderOffset": 782,
+    "StartTextOffset": 788,
+    "EndTextOffset": 799,
+    "Text": "RepairAmount"
+  }
+]

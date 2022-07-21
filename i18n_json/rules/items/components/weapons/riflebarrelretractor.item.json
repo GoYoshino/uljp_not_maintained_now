@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 289,
+    "Text": "rifleBarrelRetractor"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 317,
+    "Text": "Rifle Barrel Retractor"
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 488,
+    "Text": "A pneumatic barrel retractor that can be installed in any sniper rifle to make it more wieldy when used in close quarters combat."
+  },
+  {
+    "HeaderOffset": 489,
+    "StartTextOffset": 495,
+    "EndTextOffset": 507,
+    "Text": "Components.76"
+  },
+  {
+    "HeaderOffset": 750,
+    "StartTextOffset": 756,
+    "EndTextOffset": 764,
+    "Text": "Mechanics"
+  }
+]

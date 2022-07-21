@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 262,
+    "Text": "psiMentor.CryoShield"
+  },
+  {
+    "HeaderOffset": 263,
+    "StartTextOffset": 269,
+    "EndTextOffset": 295,
+    "Text": "Psionic Mentor: Cryo-shield"
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 444,
+    "Text": "This device can be used to automatically teach yourself Cryo-shield psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 421,
+    "Text": "his device can be used to automatically teach yourself Cryo-shield psi ability throu"
+  },
+  {
+    "HeaderOffset": 445,
+    "StartTextOffset": 451,
+    "EndTextOffset": 469,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 604,
+    "StartTextOffset": 610,
+    "EndTextOffset": 619,
+    "Text": "CryoShield"
+  },
+  {
+    "HeaderOffset": 678,
+    "StartTextOffset": 684,
+    "EndTextOffset": 703,
+    "Text": "PsiMentorConsumation"
+  }
+]

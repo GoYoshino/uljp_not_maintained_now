@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 325,
+    "Text": "Temporal Manipulation Modulator"
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 456,
+    "Text": "This psionic modulator is designed specifically to enhance the wearer's temporal psionics."
+  },
+  {
+    "HeaderOffset": 457,
+    "StartTextOffset": 463,
+    "EndTextOffset": 476,
+    "Text": "Components.209"
+  },
+  {
+    "HeaderOffset": 782,
+    "StartTextOffset": 788,
+    "EndTextOffset": 798,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 812,
+    "StartTextOffset": 818,
+    "EndTextOffset": 824,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 863,
+    "StartTextOffset": 869,
+    "EndTextOffset": 877,
+    "Text": "PsiSchool"
+  },
+  {
+    "HeaderOffset": 936,
+    "StartTextOffset": 942,
+    "EndTextOffset": 955,
+    "Text": "BaseSkillBonus"
+  },
+  {
+    "HeaderOffset": 990,
+    "StartTextOffset": 996,
+    "EndTextOffset": 1015,
+    "Text": "SkillBonusPerQuality"
+  }
+]

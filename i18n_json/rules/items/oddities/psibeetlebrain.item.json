@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 240,
+    "Text": "Oddity.PsiBeetleBrain"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 262,
+    "Text": "Psi Beetle Brain"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 356,
+    "Text": "This is a relatively undamaged brain of a psi beetle."
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 383,
+    "Text": "Oddity.PsiBeetleBrain"
+  }
+]

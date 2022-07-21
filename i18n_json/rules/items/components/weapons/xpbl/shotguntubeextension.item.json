@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 296,
+    "Text": "shotgunTubeExtension"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 324,
+    "Text": "Shotgun Tube Extension"
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 399,
+    "Text": "A tube extending shotgun magazine."
+  },
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 423,
+    "Text": "xpbl_Components.33"
+  },
+  {
+    "HeaderOffset": 667,
+    "StartTextOffset": 673,
+    "EndTextOffset": 681,
+    "Text": "Mechanics"
+  }
+]

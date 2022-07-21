@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 285,
+    "Text": "blastema"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 299,
+    "Text": "Blastema"
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 403,
+    "Text": "A large mass of regenerative cells extracted from a giant worm."
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 428,
+    "Text": "Components.Blastema"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 729,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 759,
+    "StartTextOffset": 765,
+    "EndTextOffset": 771,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 772,
+    "StartTextOffset": 778,
+    "EndTextOffset": 790,
+    "Text": "CleanBlastema"
+  },
+  {
+    "HeaderOffset": 800,
+    "StartTextOffset": 806,
+    "EndTextOffset": 814,
+    "Text": "Container"
+  },
+  {
+    "HeaderOffset": 815,
+    "StartTextOffset": 821,
+    "EndTextOffset": 830,
+    "Text": "FlatBeaker"
+  }
+]

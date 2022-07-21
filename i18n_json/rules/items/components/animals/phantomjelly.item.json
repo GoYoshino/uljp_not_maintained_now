@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 294,
+    "Text": "Fish.PhantomJelly"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 313,
+    "Text": "Phantom Jelly"
+  },
+  {
+    "HeaderOffset": 349,
+    "StartTextOffset": 355,
+    "EndTextOffset": 433,
+    "Text": "The elusive phantom jellyfish. It has no brain, but it still wants to kill you."
+  },
+  {
+    "HeaderOffset": 434,
+    "StartTextOffset": 440,
+    "EndTextOffset": 456,
+    "Text": "Fish.PhantomJelly"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 757,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 787,
+    "StartTextOffset": 793,
+    "EndTextOffset": 799,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 800,
+    "StartTextOffset": 806,
+    "EndTextOffset": 826,
+    "Text": "OrganicGelElectrolyte"
+  },
+  {
+    "HeaderOffset": 836,
+    "StartTextOffset": 842,
+    "EndTextOffset": 850,
+    "Text": "Container"
+  },
+  {
+    "HeaderOffset": 851,
+    "StartTextOffset": 857,
+    "EndTextOffset": 866,
+    "Text": "FlatBeaker"
+  }
+]

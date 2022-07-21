@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 244,
+    "Text": "herbicideGasGrenade"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 271,
+    "Text": "Pesticide Gas Grenade"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 478,
+    "Text": "When thrown it slowly releases a gas which is composed of a strong weed-killing herbicide and an even stronger insecticide. Does not leave any toxic residual matter."
+  },
+  {
+    "HeaderOffset": 479,
+    "StartTextOffset": 485,
+    "EndTextOffset": 498,
+    "Text": "Explosives.133"
+  },
+  {
+    "HeaderOffset": 690,
+    "StartTextOffset": 696,
+    "EndTextOffset": 714,
+    "Text": "herbicideGasGrenade"
+  }
+]

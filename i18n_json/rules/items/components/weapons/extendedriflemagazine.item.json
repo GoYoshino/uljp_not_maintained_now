@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 290,
+    "Text": "extendedRifleMagazine"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 319,
+    "Text": "Extended Rifle Magazine"
+  },
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 468,
+    "Text": "It can be used instead of the regular rifle magazine to provide bullet storage beyond the standard capacity."
+  },
+  {
+    "HeaderOffset": 356,
+    "StartTextOffset": 362,
+    "EndTextOffset": 434,
+    "Text": "t can be used instead of the regular rifle magazine to provide bullet sto"
+  },
+  {
+    "HeaderOffset": 469,
+    "StartTextOffset": 475,
+    "EndTextOffset": 487,
+    "Text": "Components.75"
+  },
+  {
+    "HeaderOffset": 749,
+    "StartTextOffset": 755,
+    "EndTextOffset": 763,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 794,
+    "StartTextOffset": 800,
+    "EndTextOffset": 823,
+    "Text": "MagazineCapacityModifier"
+  }
+]

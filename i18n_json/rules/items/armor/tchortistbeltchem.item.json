@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 362,
+    "StartTextOffset": 368,
+    "EndTextOffset": 372,
+    "Text": "MQSNE"
+  },
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 467,
+    "Text": "belt.tchChem"
+  },
+  {
+    "HeaderOffset": 468,
+    "StartTextOffset": 474,
+    "EndTextOffset": 496,
+    "Text": "Chemoinvestigative Belt"
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 691,
+    "Text": "This belt comes with highly advanced miniaturized equipment for analysis and synthesis of chemical compounds. Feels like wearing a lab around your waist."
+  },
+  {
+    "HeaderOffset": 692,
+    "StartTextOffset": 698,
+    "EndTextOffset": 720,
+    "Text": "Armor.TchortistBeltChem"
+  },
+  {
+    "HeaderOffset": 1084,
+    "StartTextOffset": 1090,
+    "EndTextOffset": 1098,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 1393,
+    "StartTextOffset": 1399,
+    "EndTextOffset": 1405,
+    "Text": "Agility"
+  }
+]

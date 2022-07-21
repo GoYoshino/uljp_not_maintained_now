@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 262,
+    "Text": "Oddity.ExpiredCaffeinatedChocolateBar"
+  },
+  {
+    "HeaderOffset": 263,
+    "StartTextOffset": 269,
+    "EndTextOffset": 301,
+    "Text": "Expired Caffeinated Chocolate Bar"
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 399,
+    "Text": "Maybe it's still good. One bite won't kill you, right...?"
+  },
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 442,
+    "Text": "Oddity.ExpiredCaffeinatedChocolateBar"
+  }
+]

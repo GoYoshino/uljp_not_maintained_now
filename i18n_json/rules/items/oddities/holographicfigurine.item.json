@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 245,
+    "Text": "Oddity.HolographicFigurine"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 271,
+    "Text": "Holographic Figurine"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 443,
+    "Text": "It only barely works. The image distorts and disappears regularly. It could be the batteries, but there's no visible battery slot."
+  },
+  {
+    "HeaderOffset": 444,
+    "StartTextOffset": 450,
+    "EndTextOffset": 475,
+    "Text": "Oddity.HolographicFigurine"
+  }
+]

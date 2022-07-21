@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 294,
+    "Text": "metalScraps"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 312,
+    "Text": "Metal Scraps"
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 422,
+    "Text": "Various pieces of metal, such as shrapnel and small metal components."
+  },
+  {
+    "HeaderOffset": 423,
+    "StartTextOffset": 429,
+    "EndTextOffset": 438,
+    "Text": "Devices.70"
+  },
+  {
+    "HeaderOffset": 709,
+    "StartTextOffset": 715,
+    "EndTextOffset": 723,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 753,
+    "StartTextOffset": 759,
+    "EndTextOffset": 771,
+    "Text": "RepairKitName"
+  },
+  {
+    "HeaderOffset": 772,
+    "StartTextOffset": 778,
+    "EndTextOffset": 796,
+    "Text": "MechanicalRepairKit"
+  }
+]

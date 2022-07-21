@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 285,
+    "Text": "insectoidSaliva"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 307,
+    "Text": "Insectoid Saliva"
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 411,
+    "Text": "Preserved insectoid saliva. It can be used in medical purposes."
+  },
+  {
+    "HeaderOffset": 412,
+    "StartTextOffset": 418,
+    "EndTextOffset": 443,
+    "Text": "Components.InsectoidSaliva"
+  },
+  {
+    "HeaderOffset": 693,
+    "StartTextOffset": 699,
+    "EndTextOffset": 705,
+    "Text": "Biology"
+  }
+]

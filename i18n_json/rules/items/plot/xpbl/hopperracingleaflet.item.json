@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 271,
+    "Text": "plot.xpbl_hopperRacing_leaflet"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 305,
+    "Text": "Racing Leaflet (Hopperdrome)"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 516,
+    "Text": "Contains information about the events, hoppers and how to bet. It's well-illustrated and looks easy to understand for those with low or even non-existent reading skills."
+  },
+  {
+    "HeaderOffset": 517,
+    "StartTextOffset": 523,
+    "EndTextOffset": 529,
+    "Text": "Plot.44"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 813,
+    "Text": "startInterfacing"
+  },
+  {
+    "HeaderOffset": 839,
+    "StartTextOffset": 845,
+    "EndTextOffset": 860,
+    "Text": "InterfaceActorId"
+  },
+  {
+    "HeaderOffset": 861,
+    "StartTextOffset": 867,
+    "EndTextOffset": 873,
+    "Text": "leaflet"
+  },
+  {
+    "HeaderOffset": 883,
+    "StartTextOffset": 889,
+    "EndTextOffset": 906,
+    "Text": "InterfaceActorName"
+  },
+  {
+    "HeaderOffset": 907,
+    "StartTextOffset": 913,
+    "EndTextOffset": 919,
+    "Text": "Leaflet"
+  },
+  {
+    "HeaderOffset": 929,
+    "StartTextOffset": 935,
+    "EndTextOffset": 954,
+    "Text": "InterfaceCommandText"
+  },
+  {
+    "HeaderOffset": 955,
+    "StartTextOffset": 961,
+    "EndTextOffset": 977,
+    "Text": "Read the leaflet."
+  },
+  {
+    "HeaderOffset": 987,
+    "StartTextOffset": 993,
+    "EndTextOffset": 1007,
+    "Text": "InterfaceDialog"
+  },
+  {
+    "HeaderOffset": 1008,
+    "StartTextOffset": 1014,
+    "EndTextOffset": 1048,
+    "Text": "interfacing\\xpbl\\dun_cvw_hr_leaflet"
+  }
+]

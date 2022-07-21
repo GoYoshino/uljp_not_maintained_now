@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 245,
+    "Text": "food.mushroomSalad"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 265,
+    "Text": "Mushroom Salad"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 391,
+    "Text": "A bowl of mushroom salad. Contains various types of mushrooms dressed with poppy oil."
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 372,
+    "Text": " bowl of mushroom salad. Contains various types of mushrooms dres"
+  },
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 415,
+    "Text": "Food.MushroomSalad"
+  },
+  {
+    "HeaderOffset": 645,
+    "StartTextOffset": 651,
+    "EndTextOffset": 665,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 691,
+    "StartTextOffset": 697,
+    "EndTextOffset": 704,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 705,
+    "StartTextOffset": 711,
+    "EndTextOffset": 723,
+    "Text": "mushroomSalad"
+  },
+  {
+    "HeaderOffset": 733,
+    "StartTextOffset": 739,
+    "EndTextOffset": 746,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 747,
+    "StartTextOffset": 753,
+    "EndTextOffset": 766,
+    "Text": "Mushroom Salad"
+  }
+]

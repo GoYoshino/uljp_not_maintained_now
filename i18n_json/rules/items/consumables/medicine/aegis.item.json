@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 226,
+    "Text": "aegis"
+  },
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 237,
+    "Text": "Aegis"
+  },
+  {
+    "HeaderOffset": 273,
+    "StartTextOffset": 279,
+    "EndTextOffset": 356,
+    "Text": "Deadens the nerve endings, significantly reducing the amount of pain you feel."
+  },
+  {
+    "HeaderOffset": 274,
+    "StartTextOffset": 280,
+    "EndTextOffset": 347,
+    "Text": "eadens the nerve endings, significantly reducing the amount of pain "
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 373,
+    "Text": "Items.Aegis"
+  },
+  {
+    "HeaderOffset": 564,
+    "StartTextOffset": 570,
+    "EndTextOffset": 585,
+    "Text": "AegisConsumation"
+  }
+]

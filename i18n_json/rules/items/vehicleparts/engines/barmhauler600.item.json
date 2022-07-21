@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 306,
+    "Text": "VehiclePart.BArmHauler600"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 327,
+    "Text": "BArm Hauler 600"
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 423,
+    "Text": "Large electrical vehicle engine made by Biocorp Armory."
+  },
+  {
+    "HeaderOffset": 424,
+    "StartTextOffset": 430,
+    "EndTextOffset": 454,
+    "Text": "VehiclePart.BArmHauler600"
+  },
+  {
+    "HeaderOffset": 605,
+    "StartTextOffset": 611,
+    "EndTextOffset": 617,
+    "Text": "biocorp"
+  }
+]

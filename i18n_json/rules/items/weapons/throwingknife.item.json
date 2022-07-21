@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 226,
+    "Text": "throwingKnife"
+  },
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 246,
+    "Text": "Throwing Knife"
+  },
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 370,
+    "Text": "This knife is specially designed and weighted so that it can be thrown effectively."
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 389,
+    "Text": "ThrowingKnife"
+  },
+  {
+    "HeaderOffset": 579,
+    "StartTextOffset": 585,
+    "EndTextOffset": 601,
+    "Text": "RegularKnifeThrow"
+  }
+]

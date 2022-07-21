@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 435,
+    "StartTextOffset": 441,
+    "EndTextOffset": 445,
+    "Text": "steel"
+  },
+  {
+    "HeaderOffset": 446,
+    "StartTextOffset": 452,
+    "EndTextOffset": 463,
+    "Text": "Steel Plates"
+  },
+  {
+    "HeaderOffset": 499,
+    "StartTextOffset": 505,
+    "EndTextOffset": 537,
+    "Text": "It's a set of thick steel plates."
+  },
+  {
+    "HeaderOffset": 538,
+    "StartTextOffset": 544,
+    "EndTextOffset": 557,
+    "Text": "Components.120"
+  },
+  {
+    "HeaderOffset": 1201,
+    "StartTextOffset": 1207,
+    "EndTextOffset": 1215,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1245,
+    "StartTextOffset": 1251,
+    "EndTextOffset": 1258,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1259,
+    "StartTextOffset": 1265,
+    "EndTextOffset": 1269,
+    "Text": "Steel"
+  },
+  {
+    "HeaderOffset": 1296,
+    "StartTextOffset": 1302,
+    "EndTextOffset": 1313,
+    "Text": "IsMetalPlate"
+  },
+  {
+    "HeaderOffset": 1341,
+    "StartTextOffset": 1347,
+    "EndTextOffset": 1359,
+    "Text": "MaterialIndex"
+  },
+  {
+    "HeaderOffset": 1390,
+    "StartTextOffset": 1396,
+    "EndTextOffset": 1413,
+    "Text": "HelmetCritModifier"
+  },
+  {
+    "HeaderOffset": 1448,
+    "StartTextOffset": 1454,
+    "EndTextOffset": 1467,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1498,
+    "StartTextOffset": 1504,
+    "EndTextOffset": 1516,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1547,
+    "StartTextOffset": 1553,
+    "EndTextOffset": 1565,
+    "Text": "GloveEnhIndex"
+  }
+]

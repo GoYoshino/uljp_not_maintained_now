@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 219,
+    "Text": "key.cc_g_blue"
+  },
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 244,
+    "Text": "Gauntlet Key - Blue"
+  },
+  {
+    "HeaderOffset": 280,
+    "StartTextOffset": 286,
+    "EndTextOffset": 368,
+    "Text": "You found this key inside the Core City Gauntlet. It has a blue tag attached to it."
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 382,
+    "Text": "Plot.101"
+  }
+]

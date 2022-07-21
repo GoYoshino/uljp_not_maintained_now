@@ -1,0 +1,98 @@
+[
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 435,
+    "Text": "Regenerative Vest"
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 566,
+    "Text": "This state of the art carrier vest can regenerate wearer's wounds. Batteries not included."
+  },
+  {
+    "HeaderOffset": 472,
+    "StartTextOffset": 478,
+    "EndTextOffset": 561,
+    "Text": "his state of the art carrier vest can regenerate wearer's wounds. Batteries not incl"
+  },
+  {
+    "HeaderOffset": 567,
+    "StartTextOffset": 573,
+    "EndTextOffset": 586,
+    "Text": "Components.102"
+  },
+  {
+    "HeaderOffset": 968,
+    "StartTextOffset": 974,
+    "EndTextOffset": 982,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 996,
+    "StartTextOffset": 1002,
+    "EndTextOffset": 1012,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 1026,
+    "StartTextOffset": 1032,
+    "EndTextOffset": 1038,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1113,
+    "StartTextOffset": 1119,
+    "EndTextOffset": 1126,
+    "Text": "VestType"
+  },
+  {
+    "HeaderOffset": 1127,
+    "StartTextOffset": 1133,
+    "EndTextOffset": 1144,
+    "Text": "Regenerative"
+  },
+  {
+    "HeaderOffset": 1154,
+    "StartTextOffset": 1160,
+    "EndTextOffset": 1175,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1176,
+    "StartTextOffset": 1182,
+    "EndTextOffset": 1255,
+    "Text": "This state of the art carrier vest regenerates wearer's wounds and carries"
+  },
+  {
+    "HeaderOffset": 1265,
+    "StartTextOffset": 1271,
+    "EndTextOffset": 1287,
+    "Text": "ArmorDescription2"
+  },
+  {
+    "HeaderOffset": 1288,
+    "StartTextOffset": 1294,
+    "EndTextOffset": 1340,
+    "Text": "a state of the art vest that regenerates wounds"
+  },
+  {
+    "HeaderOffset": 1350,
+    "StartTextOffset": 1356,
+    "EndTextOffset": 1372,
+    "Text": "ArmorDescription3"
+  },
+  {
+    "HeaderOffset": 1373,
+    "StartTextOffset": 1379,
+    "EndTextOffset": 1454,
+    "Text": "a state of the art carrier vest that regenerates wearer's wounds and carries"
+  },
+  {
+    "HeaderOffset": 1481,
+    "StartTextOffset": 1487,
+    "EndTextOffset": 1494,
+    "Text": "MatIndex"
+  }
+]

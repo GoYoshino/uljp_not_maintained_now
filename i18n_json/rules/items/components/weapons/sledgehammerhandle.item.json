@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 307,
+    "Text": "sledgehammerHandle"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 332,
+    "Text": "Sledgehammer Handle"
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 434,
+    "Text": "You're going to need this if you want to make a sledgehammer."
+  },
+  {
+    "HeaderOffset": 435,
+    "StartTextOffset": 441,
+    "EndTextOffset": 453,
+    "Text": "Components.79"
+  },
+  {
+    "HeaderOffset": 699,
+    "StartTextOffset": 705,
+    "EndTextOffset": 713,
+    "Text": "Mechanics"
+  }
+]

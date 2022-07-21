@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 253,
+    "Text": "plot.superSteelRefiningData"
+  },
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 284,
+    "Text": "Super Steel Refining Data"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 524,
+    "Text": "This drive contains data on a single technique of super steel refining. While not included here, it is implied that there are other known techniques developed by Biocorp and other supercorporations."
+  },
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 549,
+    "Text": "SchematicsBlueprint"
+  }
+]

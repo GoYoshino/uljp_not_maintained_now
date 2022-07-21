@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 277,
+    "Text": "caveEar"
+  },
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 291,
+    "Text": "Cave Ear"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 544,
+    "Text": "This is a poisonous mushroom. If ingested it can cause bellyaches, temporary weakening of immune system and blurred vision. A skilled biologist could extract the poison from this mushroom for direct application."
+  },
+  {
+    "HeaderOffset": 545,
+    "StartTextOffset": 551,
+    "EndTextOffset": 558,
+    "Text": "Plants.4"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 839,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 869,
+    "StartTextOffset": 875,
+    "EndTextOffset": 881,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 882,
+    "StartTextOffset": 888,
+    "EndTextOffset": 900,
+    "Text": "CaveEarPoison"
+  }
+]

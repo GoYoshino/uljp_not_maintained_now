@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 260,
+    "Text": "cocktail.mindshroomMartini"
+  },
+  {
+    "HeaderOffset": 261,
+    "StartTextOffset": 267,
+    "EndTextOffset": 284,
+    "Text": "Mindshroom Martini"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 333,
+    "Text": "Stirred."
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 361,
+    "Text": "Food.MindshroomMartini"
+  },
+  {
+    "HeaderOffset": 592,
+    "StartTextOffset": 598,
+    "EndTextOffset": 612,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 638,
+    "StartTextOffset": 644,
+    "EndTextOffset": 651,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 652,
+    "StartTextOffset": 658,
+    "EndTextOffset": 674,
+    "Text": "mindshroomMartini"
+  },
+  {
+    "HeaderOffset": 684,
+    "StartTextOffset": 690,
+    "EndTextOffset": 697,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 721,
+    "Text": "Mindshroom Martini"
+  }
+]

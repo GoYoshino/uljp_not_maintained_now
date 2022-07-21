@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 295,
+    "Text": "Crossbow Parts: Hurricane"
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 427,
+    "Text": "With an appropriate blueprint, these parts can be used to create a Hurricane type crossbow."
+  },
+  {
+    "HeaderOffset": 428,
+    "StartTextOffset": 434,
+    "EndTextOffset": 449,
+    "Text": "crossbow.2.parts"
+  },
+  {
+    "HeaderOffset": 730,
+    "StartTextOffset": 736,
+    "EndTextOffset": 744,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 782,
+    "StartTextOffset": 788,
+    "EndTextOffset": 799,
+    "Text": "DamageSpread"
+  },
+  {
+    "HeaderOffset": 868,
+    "StartTextOffset": 874,
+    "EndTextOffset": 877,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 878,
+    "StartTextOffset": 884,
+    "EndTextOffset": 892,
+    "Text": "Hurricane"
+  }
+]

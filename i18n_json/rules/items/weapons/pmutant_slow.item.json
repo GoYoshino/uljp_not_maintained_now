@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 730,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 735,
+    "StartTextOffset": 741,
+    "EndTextOffset": 753,
+    "Text": "%LI%#G1>%s%#-"
+  },
+  {
+    "HeaderOffset": 762,
+    "StartTextOffset": 768,
+    "EndTextOffset": 782,
+    "Text": "pMutantHugeClaw"
+  },
+  {
+    "HeaderOffset": 783,
+    "StartTextOffset": 789,
+    "EndTextOffset": 797,
+    "Text": "Huge Claw"
+  },
+  {
+    "HeaderOffset": 833,
+    "StartTextOffset": 839,
+    "EndTextOffset": 1003,
+    "Text": "Your arm has been badly burnt, almost beyond recognition, and tough carapace-like crust now covers most of it, steadily getting thicker towards the tip of the claw."
+  },
+  {
+    "HeaderOffset": 1004,
+    "StartTextOffset": 1010,
+    "EndTextOffset": 1031,
+    "Text": "Weapon.MutantClaw.Huge"
+  },
+  {
+    "HeaderOffset": 1578,
+    "StartTextOffset": 1584,
+    "EndTextOffset": 1590,
+    "Text": "Attack2"
+  },
+  {
+    "HeaderOffset": 1662,
+    "StartTextOffset": 1668,
+    "EndTextOffset": 1676,
+    "Text": "forceVent"
+  },
+  {
+    "HeaderOffset": 1726,
+    "StartTextOffset": 1732,
+    "EndTextOffset": 1735,
+    "Text": "daze"
+  }
+]

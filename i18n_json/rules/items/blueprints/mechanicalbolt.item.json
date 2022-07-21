@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 253,
+    "Text": "mechanicalBoltBlueprint"
+  },
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 283,
+    "Text": "Blueprint: Serrated Bolt"
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 378,
+    "Text": "Contains instructions on how to create serrated bolts."
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 393,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 526,
+    "StartTextOffset": 532,
+    "EndTextOffset": 545,
+    "Text": "mechanicalBolt"
+  },
+  {
+    "HeaderOffset": 604,
+    "StartTextOffset": 610,
+    "EndTextOffset": 629,
+    "Text": "blueprintconsumation"
+  }
+]

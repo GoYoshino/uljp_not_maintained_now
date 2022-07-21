@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 305,
+    "Text": "smallOxygenTank"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 328,
+    "Text": "Small Oxygen Tank"
+  },
+  {
+    "HeaderOffset": 364,
+    "StartTextOffset": 370,
+    "EndTextOffset": 452,
+    "Text": "It's a small bottle of pure oxygen to be used for medical or recreational purposes."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 443,
+    "Text": "t's a small bottle of pure oxygen to be used for medical or recreational "
+  },
+  {
+    "HeaderOffset": 453,
+    "StartTextOffset": 459,
+    "EndTextOffset": 484,
+    "Text": "Components.SmallOxygenTank"
+  },
+  {
+    "HeaderOffset": 737,
+    "StartTextOffset": 743,
+    "EndTextOffset": 751,
+    "Text": "Chemistry"
+  }
+]

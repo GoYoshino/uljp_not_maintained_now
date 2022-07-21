@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 244,
+    "Text": "food.crabSandwich"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 263,
+    "Text": "Crab Sandwich"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 377,
+    "Text": "Grilled crab meat with orange mushrooms between two slices of rootbread. "
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 376,
+    "Text": "rilled crab meat with orange mushrooms between two slices of rootbread."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 400,
+    "Text": "Food.CrabSandwich"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 650,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 676,
+    "StartTextOffset": 682,
+    "EndTextOffset": 689,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 690,
+    "StartTextOffset": 696,
+    "EndTextOffset": 707,
+    "Text": "crabSandwich"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 730,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 749,
+    "Text": "Crab Sandwich"
+  }
+]

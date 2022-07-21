@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 250,
+    "Text": "barbedThrowingNet"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 275,
+    "Text": "Barbed Throwing Net"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 403,
+    "Text": "A barbed throwing net that can give its victims terrible cuts as well as entangle them."
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 382,
+    "Text": " barbed throwing net that can give its victims terrible cuts as w"
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 426,
+    "Text": "BarbedThrowingNet"
+  },
+  {
+    "HeaderOffset": 638,
+    "StartTextOffset": 644,
+    "EndTextOffset": 657,
+    "Text": "throwBarbedNet"
+  },
+  {
+    "HeaderOffset": 684,
+    "StartTextOffset": 690,
+    "EndTextOffset": 706,
+    "Text": "MonsterInfrequent"
+  }
+]

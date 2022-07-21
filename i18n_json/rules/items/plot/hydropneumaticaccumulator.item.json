@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 229,
+    "Text": "plot.dc_gateAccumulator"
+  },
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 262,
+    "Text": "Hydro-Pneumatic Accumulator"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 483,
+    "Text": "This is an HPA-7-3000 bladder type hydro-pneumatic accumulator rated at 3000 psi. It was manufactured by Biocorp Hydraulics North and seems to be in a surprisingly good condition."
+  },
+  {
+    "HeaderOffset": 484,
+    "StartTextOffset": 490,
+    "EndTextOffset": 519,
+    "Text": "Plot.HydroPneumaticAccumulator"
+  }
+]

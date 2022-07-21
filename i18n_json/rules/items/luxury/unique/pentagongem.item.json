@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 245,
+    "Text": "luxury.pentagonGem"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 263,
+    "Text": "Pentagon Gem"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 370,
+    "Text": "A brilliant pentagonal gem removed from the Synesthete's headband."
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 370,
+    "Text": " brilliant pentagonal gem removed from the Synesthete's headband."
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 392,
+    "Text": "Plot.PentagonGem"
+  }
+]

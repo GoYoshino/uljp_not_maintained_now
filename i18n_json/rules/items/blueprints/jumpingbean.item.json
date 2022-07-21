@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 251,
+    "Text": "blueprint.jumpingBean"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 280,
+    "Text": "Blueprint: Jumping Bean"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 380,
+    "Text": "Contains instructions on how to create a jumping bean pill."
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 395,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 528,
+    "StartTextOffset": 534,
+    "EndTextOffset": 544,
+    "Text": "jumpingBean"
+  },
+  {
+    "HeaderOffset": 603,
+    "StartTextOffset": 609,
+    "EndTextOffset": 628,
+    "Text": "blueprintconsumation"
+  }
+]

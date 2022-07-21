@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 314,
+    "Text": "assaultRifleFrame1"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 349,
+    "Text": "Assault Rifle Frame: Marauder"
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 487,
+    "Text": "This frame is used to create a Marauder type assault rifle. It supports 7.62mm and 8.6mm barrels."
+  },
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 475,
+    "Text": "his frame is used to create a Marauder type assault rifle. It supports 7.62mm and 8."
+  },
+  {
+    "HeaderOffset": 488,
+    "StartTextOffset": 494,
+    "EndTextOffset": 506,
+    "Text": "rifle.1.frame"
+  },
+  {
+    "HeaderOffset": 829,
+    "StartTextOffset": 835,
+    "EndTextOffset": 843,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 881,
+    "StartTextOffset": 887,
+    "EndTextOffset": 906,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 975,
+    "StartTextOffset": 981,
+    "EndTextOffset": 984,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 985,
+    "StartTextOffset": 991,
+    "EndTextOffset": 998,
+    "Text": "Marauder"
+  },
+  {
+    "HeaderOffset": 1049,
+    "StartTextOffset": 1055,
+    "EndTextOffset": 1074,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1106,
+    "StartTextOffset": 1112,
+    "EndTextOffset": 1130,
+    "Text": "StrengthRequirement"
+  }
+]

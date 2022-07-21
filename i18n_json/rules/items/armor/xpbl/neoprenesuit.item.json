@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 355,
+    "Text": "Neoprene Suit"
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 454,
+    "Text": "You have to wear this while riding a jetski unfortunately."
+  },
+  {
+    "HeaderOffset": 455,
+    "StartTextOffset": 461,
+    "EndTextOffset": 466,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 627,
+    "StartTextOffset": 633,
+    "EndTextOffset": 644,
+    "Text": "neopreneSuit"
+  }
+]

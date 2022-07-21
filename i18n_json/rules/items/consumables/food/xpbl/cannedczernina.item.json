@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 246,
+    "Text": "food.cannedCzernina"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 267,
+    "Text": "Canned Czernina"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 381,
+    "Text": "The label reads: \"Osch jesch mesnavo nyamasoschno u zgloznpava konzerva.\""
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 406,
+    "Text": "Food.CannedCzernina"
+  },
+  {
+    "HeaderOffset": 636,
+    "StartTextOffset": 642,
+    "EndTextOffset": 656,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 682,
+    "StartTextOffset": 688,
+    "EndTextOffset": 695,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 696,
+    "StartTextOffset": 702,
+    "EndTextOffset": 715,
+    "Text": "cannedCzernina"
+  },
+  {
+    "HeaderOffset": 725,
+    "StartTextOffset": 731,
+    "EndTextOffset": 738,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 739,
+    "StartTextOffset": 745,
+    "EndTextOffset": 759,
+    "Text": "Canned Czernina"
+  }
+]

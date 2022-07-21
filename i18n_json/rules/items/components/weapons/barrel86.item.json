@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 285,
+    "Text": "FirearmBarrel86"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 311,
+    "Text": "8.6mm Firearm Barrel"
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 420,
+    "Text": "Barrel of 8.6mm caliber that can be used to construct a new firearm."
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 419,
+    "Text": "arrel of 8.6mm caliber that can be used to construct a new firearm"
+  },
+  {
+    "HeaderOffset": 421,
+    "StartTextOffset": 427,
+    "EndTextOffset": 439,
+    "Text": "Components.84"
+  },
+  {
+    "HeaderOffset": 708,
+    "StartTextOffset": 714,
+    "EndTextOffset": 722,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 760,
+    "StartTextOffset": 766,
+    "EndTextOffset": 775,
+    "Text": "BarrelType"
+  }
+]

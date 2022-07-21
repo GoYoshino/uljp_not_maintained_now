@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 628,
+    "StartTextOffset": 634,
+    "EndTextOffset": 637,
+    "Text": "CSMF"
+  },
+  {
+    "HeaderOffset": 725,
+    "StartTextOffset": 731,
+    "EndTextOffset": 734,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 775,
+    "StartTextOffset": 781,
+    "EndTextOffset": 791,
+    "Text": "boningKnife"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 809,
+    "Text": "Boning Knife"
+  },
+  {
+    "HeaderOffset": 845,
+    "StartTextOffset": 851,
+    "EndTextOffset": 909,
+    "Text": "A vicious boning knife no doubt used for unseemly purposes."
+  },
+  {
+    "HeaderOffset": 910,
+    "StartTextOffset": 916,
+    "EndTextOffset": 933,
+    "Text": "Weapon.BoningKnife"
+  },
+  {
+    "HeaderOffset": 1725,
+    "StartTextOffset": 1731,
+    "EndTextOffset": 1737,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1831,
+    "StartTextOffset": 1837,
+    "EndTextOffset": 1853,
+    "Text": "MonsterInfrequent"
+  }
+]

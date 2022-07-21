@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 314,
+    "Text": "poisonGland.HeartbreakerSerpent"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 353,
+    "Text": "Heartbreaker Serpent Poison Gland"
+  },
+  {
+    "HeaderOffset": 389,
+    "StartTextOffset": 395,
+    "EndTextOffset": 692,
+    "Text": "This is a poison gland of a \"heartbreaker\" sea serpent, with the hollow fang attached to it. The fang has an opening on the front side near to where it attaches to the flesh, which the serpent uses to spray its insidious poison onto the victim. The toxin is notoriously hard to extract and handle."
+  },
+  {
+    "HeaderOffset": 693,
+    "StartTextOffset": 699,
+    "EndTextOffset": 739,
+    "Text": "Components.HeartbreakerSerpentPoisonGland"
+  },
+  {
+    "HeaderOffset": 1010,
+    "StartTextOffset": 1016,
+    "EndTextOffset": 1022,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1052,
+    "StartTextOffset": 1058,
+    "EndTextOffset": 1064,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 1065,
+    "StartTextOffset": 1071,
+    "EndTextOffset": 1091,
+    "Text": "Xpbl\\HeartbreakPoison"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 273,
+    "Text": "shockShurikensBlueprint"
+  },
+  {
+    "HeaderOffset": 274,
+    "StartTextOffset": 280,
+    "EndTextOffset": 305,
+    "Text": "Blueprint: Shock Shurikens"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 401,
+    "Text": "Contains instructions on how to create shock shurikens."
+  },
+  {
+    "HeaderOffset": 402,
+    "StartTextOffset": 408,
+    "EndTextOffset": 416,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 552,
+    "StartTextOffset": 558,
+    "EndTextOffset": 571,
+    "Text": "shockShurikens"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 655,
+    "Text": "blueprintconsumation"
+  }
+]

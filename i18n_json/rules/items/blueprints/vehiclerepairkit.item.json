@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 262,
+    "Text": "blueprint.vehicleRepairKit"
+  },
+  {
+    "HeaderOffset": 263,
+    "StartTextOffset": 269,
+    "EndTextOffset": 297,
+    "Text": "Blueprint: Vehicle Repair Kit"
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 398,
+    "Text": "Contains instructions on how to create a vehicle repair kit."
+  },
+  {
+    "HeaderOffset": 399,
+    "StartTextOffset": 405,
+    "EndTextOffset": 413,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 547,
+    "StartTextOffset": 553,
+    "EndTextOffset": 568,
+    "Text": "vehicleRepairKit"
+  },
+  {
+    "HeaderOffset": 627,
+    "StartTextOffset": 633,
+    "EndTextOffset": 652,
+    "Text": "blueprintconsumation"
+  }
+]

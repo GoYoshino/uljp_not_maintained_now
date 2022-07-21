@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 257,
+    "Text": "psiMentor.EntropicRecurrence"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 298,
+    "Text": "Psionic Mentor: Entropic Recurrence"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 455,
+    "Text": "This device can be used to automatically teach yourself Entropic Recurrence psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 424,
+    "Text": "his device can be used to automatically teach yourself Entropic Recurrence psi abili"
+  },
+  {
+    "HeaderOffset": 456,
+    "StartTextOffset": 462,
+    "EndTextOffset": 480,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 613,
+    "StartTextOffset": 619,
+    "EndTextOffset": 636,
+    "Text": "EntropicRecurrence"
+  },
+  {
+    "HeaderOffset": 695,
+    "StartTextOffset": 701,
+    "EndTextOffset": 720,
+    "Text": "PsiMentorConsumation"
+  }
+]

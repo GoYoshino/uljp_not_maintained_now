@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "chemicalBoltBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 274,
+    "Text": "Blueprint: Chemical Bolt"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 390,
+    "Text": "Contains instructions on how to create bolts that inject various chemicals."
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 383,
+    "Text": "ontains instructions on how to create bolts that inject various che"
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 405,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 537,
+    "StartTextOffset": 543,
+    "EndTextOffset": 554,
+    "Text": "chemicalBolt"
+  },
+  {
+    "HeaderOffset": 613,
+    "StartTextOffset": 619,
+    "EndTextOffset": 638,
+    "Text": "blueprintconsumation"
+  }
+]

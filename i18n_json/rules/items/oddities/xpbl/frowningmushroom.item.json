@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 248,
+    "Text": "Oddity.FrowningMushroom"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 271,
+    "Text": "Frowning Mushroom"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 330,
+    "Text": "It is not pleased!"
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 359,
+    "Text": "Oddity.FrowningMushroom"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 315,
+    "Text": "Ammo.Caliber_127_JHP"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 337,
+    "Text": "12.7mm JHP Round"
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 423,
+    "Text": "This is a 12.7mm jacketed hollow point round."
+  },
+  {
+    "HeaderOffset": 424,
+    "StartTextOffset": 430,
+    "EndTextOffset": 449,
+    "Text": "Ammo.Caliber_127_JHP"
+  },
+  {
+    "HeaderOffset": 689,
+    "StartTextOffset": 695,
+    "EndTextOffset": 698,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 708,
+    "StartTextOffset": 714,
+    "EndTextOffset": 720,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 730,
+    "StartTextOffset": 736,
+    "EndTextOffset": 741,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 751,
+    "StartTextOffset": 757,
+    "EndTextOffset": 765,
+    "Text": "ldsingcur"
+  }
+]

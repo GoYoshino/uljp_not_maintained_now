@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 297,
+    "Text": "case.Caliber_5"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 311,
+    "Text": "5mm Case"
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 377,
+    "Text": "An empty 5mm bullet case."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 389,
+    "Text": "Ammo.5"
+  },
+  {
+    "HeaderOffset": 660,
+    "StartTextOffset": 666,
+    "EndTextOffset": 674,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 711,
+    "StartTextOffset": 717,
+    "EndTextOffset": 724,
+    "Text": "CaseType"
+  }
+]

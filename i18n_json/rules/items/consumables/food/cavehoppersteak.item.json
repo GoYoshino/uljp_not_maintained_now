@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 247,
+    "Text": "food.caveHopperSteak"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 270,
+    "Text": "Cave Hopper Steak"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 337,
+    "Text": "A juicy cave hopper steak."
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 349,
+    "Text": "Food.3"
+  },
+  {
+    "HeaderOffset": 579,
+    "StartTextOffset": 585,
+    "EndTextOffset": 599,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 625,
+    "StartTextOffset": 631,
+    "EndTextOffset": 638,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 639,
+    "StartTextOffset": 645,
+    "EndTextOffset": 659,
+    "Text": "caveHopperSteak"
+  },
+  {
+    "HeaderOffset": 669,
+    "StartTextOffset": 675,
+    "EndTextOffset": 682,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 683,
+    "StartTextOffset": 689,
+    "EndTextOffset": 705,
+    "Text": "Cave Hopper Steak"
+  }
+]

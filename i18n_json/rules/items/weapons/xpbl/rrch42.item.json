@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 642,
+    "StartTextOffset": 648,
+    "EndTextOffset": 652,
+    "Text": "SFRME"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 738,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 787,
+    "StartTextOffset": 793,
+    "EndTextOffset": 803,
+    "Text": "wep.srrch42"
+  },
+  {
+    "HeaderOffset": 804,
+    "StartTextOffset": 810,
+    "EndTextOffset": 816,
+    "Text": "RRCh-42"
+  },
+  {
+    "HeaderOffset": 852,
+    "StartTextOffset": 858,
+    "EndTextOffset": 1061,
+    "Text": "It's an old, well-worn 7.62 caliber sub-machine gun with a 50-round drum magazine. The gunstock is made from an unusual material whose chipped edges give you a small insight into its fibrous composition."
+  },
+  {
+    "HeaderOffset": 1062,
+    "StartTextOffset": 1068,
+    "EndTextOffset": 1083,
+    "Text": "xpbl_Weapons.185"
+  },
+  {
+    "HeaderOffset": 1765,
+    "StartTextOffset": 1771,
+    "EndTextOffset": 1774,
+    "Text": "uwep"
+  }
+]

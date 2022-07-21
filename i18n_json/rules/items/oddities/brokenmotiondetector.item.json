@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 246,
+    "Text": "Oddity.BrokenMotionDetector"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 274,
+    "Text": "Broken Motion Detector"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 430,
+    "Text": "This device is clearly broken. It's indicating things moving all around you which clearly isn't the case. Unless..."
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 400,
+    "Text": "his device is clearly broken. It's indicating things moving all around you which cle"
+  },
+  {
+    "HeaderOffset": 431,
+    "StartTextOffset": 437,
+    "EndTextOffset": 463,
+    "Text": "Oddity.BrokenMotionDetector"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 637,
+    "StartTextOffset": 643,
+    "EndTextOffset": 649,
+    "Text": "PFACMME"
+  },
+  {
+    "HeaderOffset": 734,
+    "StartTextOffset": 740,
+    "EndTextOffset": 743,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 813,
+    "Text": "wep.balorsHammer"
+  },
+  {
+    "HeaderOffset": 814,
+    "StartTextOffset": 820,
+    "EndTextOffset": 833,
+    "Text": "Balor's Hammer"
+  },
+  {
+    "HeaderOffset": 869,
+    "StartTextOffset": 875,
+    "EndTextOffset": 1007,
+    "Text": "Due to its extreme weight this sledgehammer is almost completely unwieldy in combat, except for those endowed with demonic strength."
+  },
+  {
+    "HeaderOffset": 1008,
+    "StartTextOffset": 1014,
+    "EndTextOffset": 1032,
+    "Text": "Weapon.BalorsHammer"
+  }
+]

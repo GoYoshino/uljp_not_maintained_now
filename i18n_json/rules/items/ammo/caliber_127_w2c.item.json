@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 315,
+    "Text": "Ammo.Caliber_127_W2C"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 337,
+    "Text": "12.7mm W2C Round"
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 447,
+    "Text": "This armor-piercing cartridge packs a 12.7mm tungsten carbide bullet."
+  },
+  {
+    "HeaderOffset": 448,
+    "StartTextOffset": 454,
+    "EndTextOffset": 473,
+    "Text": "Ammo.Caliber_127_W2C"
+  },
+  {
+    "HeaderOffset": 713,
+    "StartTextOffset": 719,
+    "EndTextOffset": 722,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 732,
+    "StartTextOffset": 738,
+    "EndTextOffset": 744,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 754,
+    "StartTextOffset": 760,
+    "EndTextOffset": 765,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 775,
+    "StartTextOffset": 781,
+    "EndTextOffset": 789,
+    "Text": "ldsingcur"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 457,
+    "StartTextOffset": 463,
+    "EndTextOffset": 476,
+    "Text": "DefaultUnarmed"
+  },
+  {
+    "HeaderOffset": 477,
+    "StartTextOffset": 483,
+    "EndTextOffset": 489,
+    "Text": "Unarmed"
+  },
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 593,
+    "Text": "Nothing like beating the life out of them with your bare fists!"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 608,
+    "Text": "Weapons.0"
+  }
+]

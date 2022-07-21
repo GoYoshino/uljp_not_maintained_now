@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 303,
+    "Text": "hugeShotgunPelletMold"
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 333,
+    "Text": "Huge Shotgun Pellet Mold"
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 504,
+    "Text": "A disposable mold for three huge shotgun pellets. This pellet size is commonly known as trainshot due to its magnitude and power."
+  },
+  {
+    "HeaderOffset": 505,
+    "StartTextOffset": 511,
+    "EndTextOffset": 528,
+    "Text": "xpbl_Components.23"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 806,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 836,
+    "StartTextOffset": 842,
+    "EndTextOffset": 853,
+    "Text": "ShotgunShell"
+  },
+  {
+    "HeaderOffset": 854,
+    "StartTextOffset": 860,
+    "EndTextOffset": 873,
+    "Text": "ShotgunShell_3"
+  }
+]

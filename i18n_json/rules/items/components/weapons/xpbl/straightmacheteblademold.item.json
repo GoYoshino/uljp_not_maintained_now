@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 300,
+    "Text": "straightMacheteBladeMold"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 333,
+    "Text": "Straight Machete Blade Mold"
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 417,
+    "Text": "A mold for standard straight machete blade."
+  },
+  {
+    "HeaderOffset": 418,
+    "StartTextOffset": 424,
+    "EndTextOffset": 441,
+    "Text": "xpbl_Components.11"
+  },
+  {
+    "HeaderOffset": 685,
+    "StartTextOffset": 691,
+    "EndTextOffset": 699,
+    "Text": "Mechanics"
+  }
+]

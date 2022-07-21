@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 228,
+    "Text": "magnesiumGrenade"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 251,
+    "Text": "Magnesium Grenade"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 367,
+    "Text": "This incendiary grenade burns magnesium to create intense flames on impact."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 389,
+    "Text": "MagnesiumGrenade"
+  },
+  {
+    "HeaderOffset": 598,
+    "StartTextOffset": 604,
+    "EndTextOffset": 618,
+    "Text": "molotovCocktail"
+  },
+  {
+    "HeaderOffset": 645,
+    "StartTextOffset": 651,
+    "EndTextOffset": 655,
+    "Text": "power"
+  }
+]

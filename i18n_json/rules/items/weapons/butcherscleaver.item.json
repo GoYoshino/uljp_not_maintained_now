@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 636,
+    "StartTextOffset": 642,
+    "EndTextOffset": 646,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 730,
+    "StartTextOffset": 736,
+    "EndTextOffset": 739,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 788,
+    "StartTextOffset": 794,
+    "EndTextOffset": 805,
+    "Text": "wep.bcleaver"
+  },
+  {
+    "HeaderOffset": 806,
+    "StartTextOffset": 812,
+    "EndTextOffset": 828,
+    "Text": "Butcher's Cleaver"
+  },
+  {
+    "HeaderOffset": 864,
+    "StartTextOffset": 870,
+    "EndTextOffset": 925,
+    "Text": "An old rusty cleaver, baked in gore and human suffering."
+  },
+  {
+    "HeaderOffset": 926,
+    "StartTextOffset": 932,
+    "EndTextOffset": 953,
+    "Text": "Weapon.ButchersCleaver"
+  },
+  {
+    "HeaderOffset": 1692,
+    "StartTextOffset": 1698,
+    "EndTextOffset": 1709,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1735,
+    "StartTextOffset": 1741,
+    "EndTextOffset": 1746,
+    "Text": "cleave"
+  }
+]

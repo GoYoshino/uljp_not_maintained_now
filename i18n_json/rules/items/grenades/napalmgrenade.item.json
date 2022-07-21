@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 225,
+    "Text": "napalmGrenade"
+  },
+  {
+    "HeaderOffset": 226,
+    "StartTextOffset": 232,
+    "EndTextOffset": 245,
+    "Text": "Napalm Grenade"
+  },
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 415,
+    "Text": "Though an improvised weapon, this grenade is packing military grade incendiary substance. Expect extremely hot flames on impact."
+  },
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 434,
+    "Text": "NapalmGrenade"
+  },
+  {
+    "HeaderOffset": 643,
+    "StartTextOffset": 649,
+    "EndTextOffset": 663,
+    "Text": "molotovCocktail"
+  },
+  {
+    "HeaderOffset": 690,
+    "StartTextOffset": 696,
+    "EndTextOffset": 700,
+    "Text": "power"
+  }
+]

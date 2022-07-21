@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 719,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 783,
+    "Text": "wep.awf_rf"
+  },
+  {
+    "HeaderOffset": 784,
+    "StartTextOffset": 790,
+    "EndTextOffset": 804,
+    "Text": "Refurbished AFW"
+  },
+  {
+    "HeaderOffset": 840,
+    "StartTextOffset": 846,
+    "EndTextOffset": 902,
+    "Text": "A quaint old world bolt-action sniper rifle with a bipod."
+  },
+  {
+    "HeaderOffset": 903,
+    "StartTextOffset": 909,
+    "EndTextOffset": 921,
+    "Text": "Weapon.AWF_rf"
+  },
+  {
+    "HeaderOffset": 1598,
+    "StartTextOffset": 1604,
+    "EndTextOffset": 1607,
+    "Text": "uwep"
+  }
+]

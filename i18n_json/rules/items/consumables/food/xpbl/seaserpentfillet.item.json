@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 255,
+    "Text": "food.seaSerpentFillet"
+  },
+  {
+    "HeaderOffset": 256,
+    "StartTextOffset": 262,
+    "EndTextOffset": 279,
+    "Text": "Sea Serpent Fillet"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 382,
+    "Text": "Highly nutritious but pretty sinewy. Has a strong fishy smell."
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 409,
+    "Text": "Food.SeaSerpentFillet"
+  },
+  {
+    "HeaderOffset": 640,
+    "StartTextOffset": 646,
+    "EndTextOffset": 660,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 686,
+    "StartTextOffset": 692,
+    "EndTextOffset": 699,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 700,
+    "StartTextOffset": 706,
+    "EndTextOffset": 721,
+    "Text": "seaSerpentFillet"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 744,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 768,
+    "Text": "Sea Serpent Fillet"
+  }
+]

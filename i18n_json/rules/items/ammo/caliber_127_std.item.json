@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 315,
+    "Text": "Ammo.Caliber_127_Std"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 342,
+    "Text": "12.7mm Standard Round"
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 415,
+    "Text": "This is a standard 12.7mm round."
+  },
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 441,
+    "Text": "Ammo.Caliber_127_Std"
+  },
+  {
+    "HeaderOffset": 681,
+    "StartTextOffset": 687,
+    "EndTextOffset": 690,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 700,
+    "StartTextOffset": 706,
+    "EndTextOffset": 712,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 722,
+    "StartTextOffset": 728,
+    "EndTextOffset": 733,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 743,
+    "StartTextOffset": 749,
+    "EndTextOffset": 757,
+    "Text": "ldsingcur"
+  }
+]

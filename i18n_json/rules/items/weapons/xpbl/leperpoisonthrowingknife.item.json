@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 243,
+    "Text": "leperPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 276,
+    "Text": "Leper Poison Throwing Knife"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 438,
+    "Text": "This knife is specially designed and weighted so that it can be thrown effectively. It has been coated with leper poison."
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 402,
+    "Text": "his knife is specially designed and weighted so that it can be thrown effectively. I"
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 468,
+    "Text": "LeperPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 659,
+    "StartTextOffset": 665,
+    "EndTextOffset": 685,
+    "Text": "LeperPoisonKnifeThrow"
+  }
+]

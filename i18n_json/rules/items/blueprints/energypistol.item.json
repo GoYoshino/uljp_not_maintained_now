@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "energyPistolBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 274,
+    "Text": "Blueprint: Energy Pistol"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 382,
+    "Text": "Contains instructions on how to create all types of energy pistols."
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 397,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 529,
+    "StartTextOffset": 535,
+    "EndTextOffset": 546,
+    "Text": "energyPistol"
+  },
+  {
+    "HeaderOffset": 605,
+    "StartTextOffset": 611,
+    "EndTextOffset": 630,
+    "Text": "blueprintconsumation"
+  }
+]

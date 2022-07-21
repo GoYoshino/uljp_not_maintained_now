@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 396,
+    "StartTextOffset": 402,
+    "EndTextOffset": 421,
+    "Text": "component.pigLeather"
+  },
+  {
+    "HeaderOffset": 422,
+    "StartTextOffset": 428,
+    "EndTextOffset": 438,
+    "Text": "Pig Leather"
+  },
+  {
+    "HeaderOffset": 474,
+    "StartTextOffset": 480,
+    "EndTextOffset": 531,
+    "Text": "Pig skin can be turned into a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 549,
+    "Text": "Components.3"
+  },
+  {
+    "HeaderOffset": 1022,
+    "StartTextOffset": 1028,
+    "EndTextOffset": 1036,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1104,
+    "StartTextOffset": 1110,
+    "EndTextOffset": 1121,
+    "Text": "Constitution"
+  },
+  {
+    "HeaderOffset": 1147,
+    "StartTextOffset": 1153,
+    "EndTextOffset": 1168,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1169,
+    "StartTextOffset": 1175,
+    "EndTextOffset": 1214,
+    "Text": "This {0} is made of durable pig leather."
+  },
+  {
+    "HeaderOffset": 1224,
+    "StartTextOffset": 1230,
+    "EndTextOffset": 1243,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1262,
+    "StartTextOffset": 1268,
+    "EndTextOffset": 1289,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1290,
+    "StartTextOffset": 1296,
+    "EndTextOffset": 1337,
+    "Text": "These {0} are made of durable pig leather."
+  },
+  {
+    "HeaderOffset": 1364,
+    "StartTextOffset": 1370,
+    "EndTextOffset": 1382,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1413,
+    "StartTextOffset": 1419,
+    "EndTextOffset": 1426,
+    "Text": "MatIndex"
+  }
+]

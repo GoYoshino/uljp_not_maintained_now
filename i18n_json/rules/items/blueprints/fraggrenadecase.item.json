@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 268,
+    "Text": "blueprint.fragGrenadeCase"
+  },
+  {
+    "HeaderOffset": 269,
+    "StartTextOffset": 275,
+    "EndTextOffset": 302,
+    "Text": "Blueprint: Frag Grenade Case"
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 401,
+    "Text": "Contains instructions on how to create frag grenade cases."
+  },
+  {
+    "HeaderOffset": 402,
+    "StartTextOffset": 408,
+    "EndTextOffset": 416,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 551,
+    "StartTextOffset": 557,
+    "EndTextOffset": 571,
+    "Text": "fragGrenadeCase"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 655,
+    "Text": "blueprintconsumation"
+  }
+]

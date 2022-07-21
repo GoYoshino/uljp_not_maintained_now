@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 248,
+    "Text": "Oddity.SerratedBladelingBlade"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 278,
+    "Text": "Serrated Bladeling Blade"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 391,
+    "Text": "A sharp serrated knife-like spine taken from the bladeling's rock shell."
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 385,
+    "Text": " sharp serrated knife-like spine taken from the bladeling's rock "
+  },
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 426,
+    "Text": "Oddity.SerratedBladelingBlade"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 298,
+    "Text": "curvedMacheteBladeMold"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 329,
+    "Text": "Curved Machete Blade Mold"
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 413,
+    "Text": "A mold for a slightly curved machete blade."
+  },
+  {
+    "HeaderOffset": 414,
+    "StartTextOffset": 420,
+    "EndTextOffset": 437,
+    "Text": "xpbl_Components.12"
+  },
+  {
+    "HeaderOffset": 681,
+    "StartTextOffset": 687,
+    "EndTextOffset": 695,
+    "Text": "Mechanics"
+  }
+]

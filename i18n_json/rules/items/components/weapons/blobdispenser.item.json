@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 299,
+    "Text": "blobDispenser"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 328,
+    "Text": "Chemical Blob Dispenser"
+  },
+  {
+    "HeaderOffset": 364,
+    "StartTextOffset": 370,
+    "EndTextOffset": 458,
+    "Text": "Used in creating chemical weaponry to form cohesive blobs from chemicals and launch them."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 455,
+    "Text": "sed in creating chemical weaponry to form cohesive blobs from chemicals and launch th"
+  },
+  {
+    "HeaderOffset": 459,
+    "StartTextOffset": 465,
+    "EndTextOffset": 482,
+    "Text": "Items.BlobLauncher"
+  },
+  {
+    "HeaderOffset": 787,
+    "StartTextOffset": 793,
+    "EndTextOffset": 801,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 815,
+    "StartTextOffset": 821,
+    "EndTextOffset": 829,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 860,
+    "StartTextOffset": 866,
+    "EndTextOffset": 884,
+    "Text": "ChemicalPistolIndex"
+  },
+  {
+    "HeaderOffset": 914,
+    "StartTextOffset": 920,
+    "EndTextOffset": 937,
+    "Text": "ChemicalWeaponType"
+  },
+  {
+    "HeaderOffset": 938,
+    "StartTextOffset": 944,
+    "EndTextOffset": 951,
+    "Text": "{0} Blob"
+  },
+  {
+    "HeaderOffset": 977,
+    "StartTextOffset": 983,
+    "EndTextOffset": 1000,
+    "Text": "ChemicalPistolDesc"
+  },
+  {
+    "HeaderOffset": 1001,
+    "StartTextOffset": 1007,
+    "EndTextOffset": 1038,
+    "Text": "This pistol shoots blobs of {0}."
+  }
+]

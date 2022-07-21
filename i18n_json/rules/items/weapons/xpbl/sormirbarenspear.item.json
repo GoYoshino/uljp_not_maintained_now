@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 608,
+    "StartTextOffset": 614,
+    "EndTextOffset": 618,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 703,
+    "StartTextOffset": 709,
+    "EndTextOffset": 712,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 735,
+    "StartTextOffset": 741,
+    "EndTextOffset": 756,
+    "Text": "sormirbarenSpear"
+  },
+  {
+    "HeaderOffset": 757,
+    "StartTextOffset": 763,
+    "EndTextOffset": 781,
+    "Text": "Sørmirbæren Spear"
+  },
+  {
+    "HeaderOffset": 817,
+    "StartTextOffset": 823,
+    "EndTextOffset": 921,
+    "Text": "A spear made of one long pointy bone wrapped in leather. Still well balanced and effective, though."
+  },
+  {
+    "HeaderOffset": 818,
+    "StartTextOffset": 824,
+    "EndTextOffset": 888,
+    "Text": " spear made of one long pointy bone wrapped in leather. Still wel"
+  },
+  {
+    "HeaderOffset": 922,
+    "StartTextOffset": 928,
+    "EndTextOffset": 943,
+    "Text": "xpbl_Weapons.202"
+  },
+  {
+    "HeaderOffset": 1321,
+    "StartTextOffset": 1327,
+    "EndTextOffset": 1331,
+    "Text": "xpbls"
+  },
+  {
+    "HeaderOffset": 1637,
+    "StartTextOffset": 1643,
+    "EndTextOffset": 1654,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1704,
+    "StartTextOffset": 1710,
+    "EndTextOffset": 1719,
+    "Text": "spearGuard"
+  }
+]

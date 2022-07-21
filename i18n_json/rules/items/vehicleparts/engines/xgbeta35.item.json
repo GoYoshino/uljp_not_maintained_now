@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 301,
+    "Text": "VehiclePart.XGBeta35"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 318,
+    "Text": "XG Beta 3.5"
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 413,
+    "Text": "Medium size electrical vehicle engine of Hexagon make."
+  },
+  {
+    "HeaderOffset": 414,
+    "StartTextOffset": 420,
+    "EndTextOffset": 439,
+    "Text": "VehiclePart.XGBeta35"
+  },
+  {
+    "HeaderOffset": 590,
+    "StartTextOffset": 596,
+    "EndTextOffset": 602,
+    "Text": "hexagon"
+  }
+]

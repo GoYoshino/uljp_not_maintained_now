@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 242,
+    "Text": "food.cannedMeat"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 259,
+    "Text": "Canned Meat"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 566,
+    "Text": "A can of cooked mixed meat in preservation gelatine. Additionally, the food inside has been exposed to ionizing radiation in order to eliminate microorganisms and insects. The process does not make the food radioactive but instead ensures extremely long shelf life."
+  },
+  {
+    "HeaderOffset": 567,
+    "StartTextOffset": 573,
+    "EndTextOffset": 578,
+    "Text": "Food.8"
+  },
+  {
+    "HeaderOffset": 808,
+    "StartTextOffset": 814,
+    "EndTextOffset": 828,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 854,
+    "StartTextOffset": 860,
+    "EndTextOffset": 867,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 868,
+    "StartTextOffset": 874,
+    "EndTextOffset": 883,
+    "Text": "cannedMeat"
+  },
+  {
+    "HeaderOffset": 893,
+    "StartTextOffset": 899,
+    "EndTextOffset": 906,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 907,
+    "StartTextOffset": 913,
+    "EndTextOffset": 923,
+    "Text": "Canned Meat"
+  }
+]

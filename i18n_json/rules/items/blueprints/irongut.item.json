@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 247,
+    "Text": "blueprint.irongut"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 271,
+    "Text": "Blueprint: Irongut"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 367,
+    "Text": "Contains instructions on how to create an irongut pill."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 382,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 515,
+    "StartTextOffset": 521,
+    "EndTextOffset": 527,
+    "Text": "irongut"
+  },
+  {
+    "HeaderOffset": 586,
+    "StartTextOffset": 592,
+    "EndTextOffset": 611,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 239,
+    "Text": "shard"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 254,
+    "Text": "The Shard"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 768,
+    "Text": "The shard is about seven centimeters long and looks more like two different items being held together by some unnatural force. One item being made from some strange rock while the other being some manner of crystal which gives out prismatic glow but is not able to illuminate any other object. The more of the one side of the shard you see, the more the whole shard seems to assume the non-visual properties of that side - such as weight, temperature, and surface texture."
+  },
+  {
+    "HeaderOffset": 769,
+    "StartTextOffset": 775,
+    "EndTextOffset": 786,
+    "Text": "xpbl_Plot.42"
+  },
+  {
+    "HeaderOffset": 1048,
+    "StartTextOffset": 1054,
+    "EndTextOffset": 1069,
+    "Text": "startInterfacing"
+  },
+  {
+    "HeaderOffset": 1095,
+    "StartTextOffset": 1101,
+    "EndTextOffset": 1116,
+    "Text": "InterfaceActorId"
+  },
+  {
+    "HeaderOffset": 1117,
+    "StartTextOffset": 1123,
+    "EndTextOffset": 1127,
+    "Text": "shard"
+  },
+  {
+    "HeaderOffset": 1137,
+    "StartTextOffset": 1143,
+    "EndTextOffset": 1160,
+    "Text": "InterfaceActorName"
+  },
+  {
+    "HeaderOffset": 1161,
+    "StartTextOffset": 1167,
+    "EndTextOffset": 1175,
+    "Text": "The Shard"
+  },
+  {
+    "HeaderOffset": 1185,
+    "StartTextOffset": 1191,
+    "EndTextOffset": 1210,
+    "Text": "InterfaceCommandText"
+  },
+  {
+    "HeaderOffset": 1211,
+    "StartTextOffset": 1217,
+    "EndTextOffset": 1234,
+    "Text": "Examine the shard."
+  },
+  {
+    "HeaderOffset": 1244,
+    "StartTextOffset": 1250,
+    "EndTextOffset": 1264,
+    "Text": "InterfaceDialog"
+  },
+  {
+    "HeaderOffset": 1265,
+    "StartTextOffset": 1271,
+    "EndTextOffset": 1292,
+    "Text": "interfacing\\xpbl\\shard"
+  }
+]

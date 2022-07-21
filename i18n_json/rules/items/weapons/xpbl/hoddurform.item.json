@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 1023,
+    "StartTextOffset": 1029,
+    "EndTextOffset": 1032,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 1073,
+    "StartTextOffset": 1079,
+    "EndTextOffset": 1088,
+    "Text": "hoddurform"
+  },
+  {
+    "HeaderOffset": 1089,
+    "StartTextOffset": 1095,
+    "EndTextOffset": 1105,
+    "Text": "Høddurform"
+  },
+  {
+    "HeaderOffset": 1141,
+    "StartTextOffset": 1147,
+    "EndTextOffset": 1504,
+    "Text": "You're not sure, but it seems that the snake actually bites the target with each strike, yet the staff remains a completely rigid object despite your scrutiny. Additionally, the snake's teeth seem to be an inexhaustible source of poison and acid. Merely holding it evokes dread and a veil of almost imperceptible darkness ever lingers before your very eyes."
+  },
+  {
+    "HeaderOffset": 1505,
+    "StartTextOffset": 1511,
+    "EndTextOffset": 1526,
+    "Text": "xpbl_Weapons.216"
+  },
+  {
+    "HeaderOffset": 2035,
+    "StartTextOffset": 2041,
+    "EndTextOffset": 2045,
+    "Text": "xpbls"
+  },
+  {
+    "HeaderOffset": 2212,
+    "StartTextOffset": 2218,
+    "EndTextOffset": 2225,
+    "Text": "AcidFizz"
+  },
+  {
+    "HeaderOffset": 2517,
+    "StartTextOffset": 2523,
+    "EndTextOffset": 2536,
+    "Text": "neuralOverload"
+  },
+  {
+    "HeaderOffset": 2691,
+    "StartTextOffset": 2697,
+    "EndTextOffset": 2708,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 2884,
+    "StartTextOffset": 2890,
+    "EndTextOffset": 2899,
+    "Text": "spearGuard"
+  },
+  {
+    "HeaderOffset": 2922,
+    "StartTextOffset": 2928,
+    "EndTextOffset": 2943,
+    "Text": "HeartbreakPoison"
+  },
+  {
+    "HeaderOffset": 2966,
+    "StartTextOffset": 2972,
+    "EndTextOffset": 2982,
+    "Text": "LeperPoison"
+  },
+  {
+    "HeaderOffset": 3071,
+    "StartTextOffset": 3077,
+    "EndTextOffset": 3086,
+    "Text": "AcidSplash"
+  }
+]

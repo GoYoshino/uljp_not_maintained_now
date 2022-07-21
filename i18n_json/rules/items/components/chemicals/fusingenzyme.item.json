@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 309,
+    "Text": "fusingEnzyme"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 328,
+    "Text": "Fusing Enzyme"
+  },
+  {
+    "HeaderOffset": 364,
+    "StartTextOffset": 370,
+    "EndTextOffset": 462,
+    "Text": "A special enzyme that dissolves and fuses flesh. You do not want to get in contact with this."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 435,
+    "Text": " special enzyme that dissolves and fuses flesh. You do not want t"
+  },
+  {
+    "HeaderOffset": 463,
+    "StartTextOffset": 469,
+    "EndTextOffset": 491,
+    "Text": "Components.FusingEnzyme"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 757,
+    "Text": "Biology"
+  }
+]

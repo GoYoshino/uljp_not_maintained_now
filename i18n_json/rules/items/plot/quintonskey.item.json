@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 221,
+    "Text": "key.quintonsKey"
+  },
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 250,
+    "Text": "Quinton's Keycard (SGS)"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 408,
+    "Text": "You have a pretty good feeling that this keycard unlocks the door to the mushroom growing room at the agronomy level."
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 381,
+    "Text": "ou have a pretty good feeling that this keycard unlocks the door to the mushroom growing "
+  },
+  {
+    "HeaderOffset": 409,
+    "StartTextOffset": 415,
+    "EndTextOffset": 421,
+    "Text": "Plot.13"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 243,
+    "Text": "blackDragonPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 283,
+    "Text": "Black Dragon Poison Throwing Knife"
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 453,
+    "Text": "This knife is specially designed and weighted so that it can be thrown effectively. It has been coated with black dragon poison."
+  },
+  {
+    "HeaderOffset": 454,
+    "StartTextOffset": 460,
+    "EndTextOffset": 489,
+    "Text": "BlackDragonPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 679,
+    "StartTextOffset": 685,
+    "EndTextOffset": 711,
+    "Text": "BlackDragonPoisonKnifeThrow"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 248,
+    "Text": "blueprint.theJuice"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 274,
+    "Text": "Blueprint: The Juice"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 366,
+    "Text": "Contains instructions on how to create \"the Juice\"."
+  },
+  {
+    "HeaderOffset": 367,
+    "StartTextOffset": 373,
+    "EndTextOffset": 381,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 514,
+    "StartTextOffset": 520,
+    "EndTextOffset": 527,
+    "Text": "theJuice"
+  },
+  {
+    "HeaderOffset": 586,
+    "StartTextOffset": 592,
+    "EndTextOffset": 611,
+    "Text": "blueprintconsumation"
+  }
+]

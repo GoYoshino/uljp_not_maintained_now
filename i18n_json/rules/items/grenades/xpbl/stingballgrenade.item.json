@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 228,
+    "Text": "stingballGrenade"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 251,
+    "Text": "Stingball Grenade"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 490,
+    "Text": "A special type of fragmentation grenade filled with hard rubber balls designed to temporarily incapacitate targets by delivering a series of sharp painful stings. Can still be lethal in some cases."
+  },
+  {
+    "HeaderOffset": 491,
+    "StartTextOffset": 497,
+    "EndTextOffset": 508,
+    "Text": "Explosives.1"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 724,
+    "Text": "stingballGrenadeThrow"
+  }
+]

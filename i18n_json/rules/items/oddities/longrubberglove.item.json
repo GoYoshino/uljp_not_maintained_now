@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 241,
+    "Text": "Oddity.LongRubberGlove"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 264,
+    "Text": "Long Rubber Glove"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 353,
+    "Text": "A single long black acrid smelling rubber glove."
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 381,
+    "Text": "Oddity.LongRubberGlove"
+  }
+]

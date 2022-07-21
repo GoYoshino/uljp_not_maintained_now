@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 246,
+    "Text": "patchingKit1"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 264,
+    "Text": "衣服修繕キット／Patching Kit"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 360,
+    "Text": "革鎧やタクティカルベストを修理する。"
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 376,
+    "Text": "Devices.91"
+  },
+  {
+    "HeaderOffset": 607,
+    "StartTextOffset": 613,
+    "EndTextOffset": 621,
+    "Text": "RepairKit"
+  },
+  {
+    "HeaderOffset": 655,
+    "StartTextOffset": 661,
+    "EndTextOffset": 674,
+    "Text": "RepairCategory"
+  },
+  {
+    "HeaderOffset": 714,
+    "StartTextOffset": 720,
+    "EndTextOffset": 731,
+    "Text": "RepairAmount"
+  }
+]

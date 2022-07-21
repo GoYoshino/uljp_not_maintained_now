@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 301,
+    "Text": "poisonGland.GiantCreeper"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 333,
+    "Text": "Giant Creeper Poison Gland"
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 534,
+    "Text": "This is a poison gland of a giant creeper with its curved hollow fang attached to the end of it. With the right skills powerful toxin can be extracted from it."
+  },
+  {
+    "HeaderOffset": 535,
+    "StartTextOffset": 541,
+    "EndTextOffset": 574,
+    "Text": "Components.GiantCreeperPoisonGland"
+  },
+  {
+    "HeaderOffset": 844,
+    "StartTextOffset": 850,
+    "EndTextOffset": 856,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 886,
+    "StartTextOffset": 892,
+    "EndTextOffset": 898,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 923,
+    "Text": "Xpbl\\BlindingPoison"
+  }
+]

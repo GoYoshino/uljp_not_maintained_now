@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 740,
+    "StartTextOffset": 746,
+    "EndTextOffset": 749,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 790,
+    "StartTextOffset": 796,
+    "EndTextOffset": 808,
+    "Text": "lemurianSpear"
+  },
+  {
+    "HeaderOffset": 809,
+    "StartTextOffset": 815,
+    "EndTextOffset": 828,
+    "Text": "Lemurian Spear"
+  },
+  {
+    "HeaderOffset": 864,
+    "StartTextOffset": 870,
+    "EndTextOffset": 1010,
+    "Text": "In addition to being equipped with an energy edge emitter, the head of this strange spear can also open to reveal a miniature plasma cannon."
+  },
+  {
+    "HeaderOffset": 1011,
+    "StartTextOffset": 1017,
+    "EndTextOffset": 1032,
+    "Text": "xpbl_Weapons.220"
+  },
+  {
+    "HeaderOffset": 1416,
+    "StartTextOffset": 1422,
+    "EndTextOffset": 1426,
+    "Text": "xpbls"
+  },
+  {
+    "HeaderOffset": 1700,
+    "StartTextOffset": 1706,
+    "EndTextOffset": 1723,
+    "Text": "ShootLemurianSpear"
+  },
+  {
+    "HeaderOffset": 1773,
+    "StartTextOffset": 1779,
+    "EndTextOffset": 1788,
+    "Text": "spearGuard"
+  },
+  {
+    "HeaderOffset": 1811,
+    "StartTextOffset": 1817,
+    "EndTextOffset": 1825,
+    "Text": "plasmaCut"
+  }
+]

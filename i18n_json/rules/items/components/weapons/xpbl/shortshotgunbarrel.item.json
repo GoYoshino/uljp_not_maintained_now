@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 295,
+    "Text": "shortShotgunBarrel"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 321,
+    "Text": "Short Shotgun Barrel"
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 394,
+    "Text": "A short 12 gauge shotgun barrel."
+  },
+  {
+    "HeaderOffset": 395,
+    "StartTextOffset": 401,
+    "EndTextOffset": 418,
+    "Text": "xpbl_Components.32"
+  },
+  {
+    "HeaderOffset": 669,
+    "StartTextOffset": 675,
+    "EndTextOffset": 683,
+    "Text": "Mechanics"
+  }
+]

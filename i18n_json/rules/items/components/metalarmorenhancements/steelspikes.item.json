@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 402,
+    "Text": "steelSpikes"
+  },
+  {
+    "HeaderOffset": 403,
+    "StartTextOffset": 409,
+    "EndTextOffset": 420,
+    "Text": "Steel Spikes"
+  },
+  {
+    "HeaderOffset": 456,
+    "StartTextOffset": 462,
+    "EndTextOffset": 531,
+    "Text": "It's a set of steel spikes. They can be mounted on a metal armor suit."
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 551,
+    "Text": "Components.130"
+  },
+  {
+    "HeaderOffset": 887,
+    "StartTextOffset": 893,
+    "EndTextOffset": 901,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1070,
+    "StartTextOffset": 1076,
+    "EndTextOffset": 1082,
+    "Text": "IsSpike"
+  },
+  {
+    "HeaderOffset": 1110,
+    "StartTextOffset": 1116,
+    "EndTextOffset": 1128,
+    "Text": "GloveEnhIndex"
+  },
+  {
+    "HeaderOffset": 1158,
+    "StartTextOffset": 1164,
+    "EndTextOffset": 1171,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1172,
+    "StartTextOffset": 1178,
+    "EndTextOffset": 1182,
+    "Text": "Steel"
+  }
+]

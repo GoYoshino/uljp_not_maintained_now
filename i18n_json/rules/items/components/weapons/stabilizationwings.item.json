@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 314,
+    "Text": "stabilizationWings"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 339,
+    "Text": "Stabilization Wings"
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 467,
+    "Text": "When mounted on the sides, these allow the spear to fly farther and faster when thrown."
+  },
+  {
+    "HeaderOffset": 468,
+    "StartTextOffset": 474,
+    "EndTextOffset": 490,
+    "Text": "xpbl_Components.1"
+  },
+  {
+    "HeaderOffset": 737,
+    "StartTextOffset": 743,
+    "EndTextOffset": 751,
+    "Text": "Mechanics"
+  }
+]

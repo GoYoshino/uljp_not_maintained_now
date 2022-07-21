@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 277,
+    "Text": "VehiclePart.BArmCurrent550"
+  },
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 299,
+    "Text": "BArm Current 550"
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 391,
+    "Text": "Medium size vehicle battery made by Biocorp Armory."
+  },
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 423,
+    "Text": "VehiclePart.BArmCurrent550"
+  }
+]

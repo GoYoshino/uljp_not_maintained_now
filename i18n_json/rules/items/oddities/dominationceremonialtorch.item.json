@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 271,
+    "Text": "Oddity.DominationCeremonialTorch"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 304,
+    "Text": "DomiNation Ceremonial Torch"
+  },
+  {
+    "HeaderOffset": 340,
+    "StartTextOffset": 346,
+    "EndTextOffset": 558,
+    "Text": "A devastated silver ceremonial torch. It features a dedicated chamber which contained a liquid capable of producing light controlled by a switch. The chemical has poured out, leaving its mark on the silver below."
+  },
+  {
+    "HeaderOffset": 559,
+    "StartTextOffset": 565,
+    "EndTextOffset": 596,
+    "Text": "Oddity.DominationCeremonialTorch"
+  }
+]

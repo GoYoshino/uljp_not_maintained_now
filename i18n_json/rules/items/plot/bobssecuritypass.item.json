@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 192,
+    "StartTextOffset": 198,
+    "EndTextOffset": 213,
+    "Text": "bobsSecurityPass"
+  },
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 256,
+    "Text": "Port Zenith Security Pass - Bob Smith"
+  },
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 403,
+    "Text": "This is a security pass for the Protectorate base located on the Core City Docks. It belongs to Bob Smith."
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 382,
+    "Text": "his is a security pass for the Protectorate base located on the Core City Docks. It "
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 417,
+    "Text": "Plot.110"
+  }
+]

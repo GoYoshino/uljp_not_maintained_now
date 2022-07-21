@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 268,
+    "Text": "Blueprint: Motion"
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 375,
+    "Text": "Contains instructions on how to concoct the notorious Motion drug."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 396,
+    "Text": "UniqueBlueprint"
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 543,
+    "Text": "Motion"
+  },
+  {
+    "HeaderOffset": 602,
+    "StartTextOffset": 608,
+    "EndTextOffset": 627,
+    "Text": "blueprintconsumation"
+  }
+]

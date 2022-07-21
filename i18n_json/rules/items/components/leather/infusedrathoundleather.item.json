@@ -1,0 +1,98 @@
+[
+  {
+    "HeaderOffset": 422,
+    "StartTextOffset": 428,
+    "EndTextOffset": 459,
+    "Text": "component.infusedRathoundLeather"
+  },
+  {
+    "HeaderOffset": 460,
+    "StartTextOffset": 466,
+    "EndTextOffset": 489,
+    "Text": "Infused Rathound Leather"
+  },
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 657,
+    "Text": "Rathound skin can be turned into a suit of leather armor. It has been infused with super steel fiber to enhance its properties."
+  },
+  {
+    "HeaderOffset": 526,
+    "StartTextOffset": 532,
+    "EndTextOffset": 613,
+    "Text": "athound skin can be turned into a suit of leather armor. It has been infused with "
+  },
+  {
+    "HeaderOffset": 658,
+    "StartTextOffset": 664,
+    "EndTextOffset": 677,
+    "Text": "Components.280"
+  },
+  {
+    "HeaderOffset": 1216,
+    "StartTextOffset": 1222,
+    "EndTextOffset": 1230,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1297,
+    "StartTextOffset": 1303,
+    "EndTextOffset": 1312,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1338,
+    "StartTextOffset": 1344,
+    "EndTextOffset": 1359,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1360,
+    "StartTextOffset": 1366,
+    "EndTextOffset": 1504,
+    "Text": "This {0} is made of infused rathound leather. No matter how hard you try to wash it out, the faint stench of this filthy creature remains."
+  },
+  {
+    "HeaderOffset": 1514,
+    "StartTextOffset": 1520,
+    "EndTextOffset": 1533,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1534,
+    "StartTextOffset": 1540,
+    "EndTextOffset": 1555,
+    "Text": "Infused Rathound"
+  },
+  {
+    "HeaderOffset": 1565,
+    "StartTextOffset": 1571,
+    "EndTextOffset": 1592,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1593,
+    "StartTextOffset": 1599,
+    "EndTextOffset": 1739,
+    "Text": "These {0} are made of infused rathound leather. No matter how hard you try to wash it out, the faint stench of this filthy creature remains."
+  },
+  {
+    "HeaderOffset": 1766,
+    "StartTextOffset": 1772,
+    "EndTextOffset": 1784,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1815,
+    "StartTextOffset": 1821,
+    "EndTextOffset": 1828,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1859,
+    "StartTextOffset": 1865,
+    "EndTextOffset": 1872,
+    "Text": "Infusion"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 237,
+    "Text": "psiReinvigorator"
+  },
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 260,
+    "Text": "Psi Reinvigorator"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 364,
+    "Text": "Excellent at combating psi inhibiting conditions and disorders."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 376,
+    "Text": "Meds.9"
+  },
+  {
+    "HeaderOffset": 567,
+    "StartTextOffset": 573,
+    "EndTextOffset": 599,
+    "Text": "PsiReinvigoratorConsumation"
+  }
+]

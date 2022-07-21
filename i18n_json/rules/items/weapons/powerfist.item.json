@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 647,
+    "StartTextOffset": 653,
+    "EndTextOffset": 657,
+    "Text": "MBAFE"
+  },
+  {
+    "HeaderOffset": 750,
+    "StartTextOffset": 756,
+    "EndTextOffset": 759,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 808,
+    "StartTextOffset": 814,
+    "EndTextOffset": 826,
+    "Text": "wep.powerFist"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 842,
+    "Text": "Power Fist"
+  },
+  {
+    "HeaderOffset": 878,
+    "StartTextOffset": 884,
+    "EndTextOffset": 972,
+    "Text": "A high-tech combat glove equipped with both electroshock emitters and a pneumatic hammer."
+  },
+  {
+    "HeaderOffset": 973,
+    "StartTextOffset": 979,
+    "EndTextOffset": 994,
+    "Text": "Weapon.PowerFist"
+  },
+  {
+    "HeaderOffset": 1726,
+    "StartTextOffset": 1732,
+    "EndTextOffset": 1739,
+    "Text": "Strength"
+  },
+  {
+    "HeaderOffset": 1789,
+    "StartTextOffset": 1795,
+    "EndTextOffset": 1809,
+    "Text": "pneumaticImpact"
+  },
+  {
+    "HeaderOffset": 1832,
+    "StartTextOffset": 1838,
+    "EndTextOffset": 1852,
+    "Text": "electroshockAoe"
+  }
+]

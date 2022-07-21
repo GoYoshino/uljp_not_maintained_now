@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 238,
+    "Text": "pistolBlueprint"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 261,
+    "Text": "Blueprint: Pistol"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 360,
+    "Text": "Contains instructions on how to create any type of pistol."
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 375,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 507,
+    "StartTextOffset": 513,
+    "EndTextOffset": 518,
+    "Text": "pistol"
+  },
+  {
+    "HeaderOffset": 577,
+    "StartTextOffset": 583,
+    "EndTextOffset": 602,
+    "Text": "blueprintconsumation"
+  }
+]

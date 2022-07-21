@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 232,
+    "Text": "med.bandage"
+  },
+  {
+    "HeaderOffset": 233,
+    "StartTextOffset": 239,
+    "EndTextOffset": 245,
+    "Text": "Bandage"
+  },
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 329,
+    "Text": "Bandages can be used to treat light wounds."
+  },
+  {
+    "HeaderOffset": 330,
+    "StartTextOffset": 336,
+    "EndTextOffset": 341,
+    "Text": "Meds.4"
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 555,
+    "Text": "bandageconsumation"
+  }
+]

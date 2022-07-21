@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 233,
+    "Text": "Oddity.OldLamp"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 247,
+    "Text": "Old Lamp"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 391,
+    "Text": "An old looking lamp. Unfortunately, it doesn't seem to be functioning. Rubbing it isn't helping either."
+  },
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 354,
+    "Text": "n old looking lamp. Unfortunately, it doesn't seem to be function"
+  },
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 411,
+    "Text": "Oddity.OldLamp"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 392,
+    "Text": "Ceramic Plate"
+  },
+  {
+    "HeaderOffset": 428,
+    "StartTextOffset": 434,
+    "EndTextOffset": 586,
+    "Text": "Ceramic plates can be used when creating tactical vests to increase the threshold at which they can be penetrated, but at the cost of extra encumbrance."
+  },
+  {
+    "HeaderOffset": 587,
+    "StartTextOffset": 593,
+    "EndTextOffset": 606,
+    "Text": "Components.110"
+  },
+  {
+    "HeaderOffset": 1016,
+    "StartTextOffset": 1022,
+    "EndTextOffset": 1030,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1060,
+    "StartTextOffset": 1066,
+    "EndTextOffset": 1076,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1077,
+    "StartTextOffset": 1083,
+    "EndTextOffset": 1092,
+    "Text": "Anti-Rifle"
+  },
+  {
+    "HeaderOffset": 1102,
+    "StartTextOffset": 1108,
+    "EndTextOffset": 1123,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1124,
+    "StartTextOffset": 1130,
+    "EndTextOffset": 1205,
+    "Text": "It's reinforced with ceramic plates that increase the penetration threshold."
+  }
+]

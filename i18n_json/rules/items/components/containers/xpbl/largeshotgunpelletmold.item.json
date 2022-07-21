@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 304,
+    "Text": "largeShotgunPelletMold"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 335,
+    "Text": "Large Shotgun Pellet Mold"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 472,
+    "Text": "A disposable mold for six large shotgun pellets. This pellet size is commonly known as boarshot."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 442,
+    "Text": " disposable mold for six large shotgun pellets. This pellet size "
+  },
+  {
+    "HeaderOffset": 473,
+    "StartTextOffset": 479,
+    "EndTextOffset": 496,
+    "Text": "xpbl_Components.20"
+  },
+  {
+    "HeaderOffset": 760,
+    "StartTextOffset": 766,
+    "EndTextOffset": 774,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 804,
+    "StartTextOffset": 810,
+    "EndTextOffset": 821,
+    "Text": "ShotgunShell"
+  },
+  {
+    "HeaderOffset": 822,
+    "StartTextOffset": 828,
+    "EndTextOffset": 841,
+    "Text": "ShotgunShell_6"
+  }
+]

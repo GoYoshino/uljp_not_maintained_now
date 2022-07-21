@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 270,
+    "Text": "harp1Rocket"
+  },
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 289,
+    "Text": "Harp-1 Rocket"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 378,
+    "Text": "Rocket meant to be fired from the Shark jet ski."
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 396,
+    "Text": "xpbl_Ammo.30"
+  }
+]

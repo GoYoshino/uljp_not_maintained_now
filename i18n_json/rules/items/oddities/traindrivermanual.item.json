@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 243,
+    "Text": "Oddity.TrainDriverManual"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 268,
+    "Text": "Train Driver Manual"
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 421,
+    "Text": "A drivers manual for the C2X train engine - probably the only remaining functional train of the Lower Underrail."
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 375,
+    "Text": " drivers manual for the C2X train engine - probably the only rema"
+  },
+  {
+    "HeaderOffset": 422,
+    "StartTextOffset": 428,
+    "EndTextOffset": 451,
+    "Text": "Oddity.TrainDriverManual"
+  }
+]

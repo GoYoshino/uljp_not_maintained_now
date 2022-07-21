@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 230,
+    "Text": "plot.dc_gateControlValve"
+  },
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 259,
+    "Text": "Hydraulic Control Valve"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 414,
+    "Text": "This is a FCV-0909 hydraulic control valve produced by Biocorp Hydraulics North. It seems to be in good condition."
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 385,
+    "Text": "his is a FCV-0909 hydraulic control valve produced by Biocorp Hydraulics North. It s"
+  },
+  {
+    "HeaderOffset": 415,
+    "StartTextOffset": 421,
+    "EndTextOffset": 446,
+    "Text": "Plot.HydraulicControlValve"
+  }
+]

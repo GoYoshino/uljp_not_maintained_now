@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 293,
+    "Text": "Fish.BlackDragon"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 311,
+    "Text": "Black Dragon"
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 387,
+    "Text": "It's not as dangerous as it sounds."
+  },
+  {
+    "HeaderOffset": 388,
+    "StartTextOffset": 394,
+    "EndTextOffset": 409,
+    "Text": "Fish.BlackDragon"
+  },
+  {
+    "HeaderOffset": 679,
+    "StartTextOffset": 685,
+    "EndTextOffset": 691,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 733,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 734,
+    "StartTextOffset": 740,
+    "EndTextOffset": 756,
+    "Text": "BlackDragonPoison"
+  }
+]

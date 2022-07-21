@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 294,
+    "Text": "laserEmitter"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 313,
+    "Text": "Laser Emitter"
+  },
+  {
+    "HeaderOffset": 349,
+    "StartTextOffset": 355,
+    "EndTextOffset": 549,
+    "Text": "This laser emitter can be mounted on the energy pistol frame to produce a laser bolt by applying intense Q-switching which packs the normal power of the laser beam into much shorter time frames."
+  },
+  {
+    "HeaderOffset": 550,
+    "StartTextOffset": 556,
+    "EndTextOffset": 568,
+    "Text": "Components.43"
+  },
+  {
+    "HeaderOffset": 889,
+    "StartTextOffset": 895,
+    "EndTextOffset": 905,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 936,
+    "StartTextOffset": 942,
+    "EndTextOffset": 958,
+    "Text": "EnergyPistolIndex"
+  },
+  {
+    "HeaderOffset": 989,
+    "StartTextOffset": 995,
+    "EndTextOffset": 1015,
+    "Text": "EnergyUsagePerQuality"
+  },
+  {
+    "HeaderOffset": 1050,
+    "StartTextOffset": 1056,
+    "EndTextOffset": 1070,
+    "Text": "BaseEnergyUsage"
+  },
+  {
+    "HeaderOffset": 1104,
+    "StartTextOffset": 1110,
+    "EndTextOffset": 1125,
+    "Text": "EnergyWeaponType"
+  },
+  {
+    "HeaderOffset": 1126,
+    "StartTextOffset": 1132,
+    "EndTextOffset": 1136,
+    "Text": "Laser"
+  }
+]

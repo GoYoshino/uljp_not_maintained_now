@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 289,
+    "Text": "thinMineCase"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 309,
+    "Text": "Thin Mine Case"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 415,
+    "Text": "A thin land mine case designed to fragment as little as possible."
+  },
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 434,
+    "Text": "Explosives.65"
+  },
+  {
+    "HeaderOffset": 685,
+    "StartTextOffset": 691,
+    "EndTextOffset": 699,
+    "Text": "Mechanics"
+  }
+]

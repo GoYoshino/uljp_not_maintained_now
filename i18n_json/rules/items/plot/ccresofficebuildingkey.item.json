@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 244,
+    "Text": "key_dun_ccResOfficeAccess"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 288,
+    "Text": "CC residential office building keycard"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 379,
+    "Text": "Core City Residential Office Building access card."
+  },
+  {
+    "HeaderOffset": 380,
+    "StartTextOffset": 386,
+    "EndTextOffset": 393,
+    "Text": "Plot.1,4"
+  }
+]

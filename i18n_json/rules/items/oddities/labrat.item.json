@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 232,
+    "Text": "Oddity.LabRat"
+  },
+  {
+    "HeaderOffset": 233,
+    "StartTextOffset": 239,
+    "EndTextOffset": 245,
+    "Text": "Lab Rat"
+  },
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 336,
+    "Text": "A white lab rat. You probably should not touch it."
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 355,
+    "Text": "Oddity.LabRat"
+  }
+]

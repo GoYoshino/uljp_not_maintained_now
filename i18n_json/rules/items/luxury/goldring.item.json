@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 235,
+    "Text": "goldRing"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 250,
+    "Text": "Gold Ring"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 382,
+    "Text": "A non-descript gold ring. Perhaps one of the wealthier merchants would be interested in it."
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 357,
+    "Text": " non-descript gold ring. Perhaps one of the wealthier merchants w"
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 396,
+    "Text": "Plot.220"
+  }
+]

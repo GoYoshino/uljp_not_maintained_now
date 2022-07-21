@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 299,
+    "Text": "Crossbow Parts: Cyclon"
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 428,
+    "Text": "With an appropriate blueprint, these parts can be used to create a Cyclon type crossbow."
+  },
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 450,
+    "Text": "crossbow.5.parts"
+  },
+  {
+    "HeaderOffset": 751,
+    "StartTextOffset": 757,
+    "EndTextOffset": 765,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 803,
+    "StartTextOffset": 809,
+    "EndTextOffset": 820,
+    "Text": "DamageSpread"
+  },
+  {
+    "HeaderOffset": 889,
+    "StartTextOffset": 895,
+    "EndTextOffset": 898,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 910,
+    "Text": "Cyclon"
+  },
+  {
+    "HeaderOffset": 937,
+    "StartTextOffset": 943,
+    "EndTextOffset": 956,
+    "Text": "ApCostModifier"
+  }
+]

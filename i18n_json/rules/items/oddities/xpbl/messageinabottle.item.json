@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 248,
+    "Text": "Oddity.MessageInABottle"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 273,
+    "Text": "Message in a Bottle"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 369,
+    "Text": "An old cheesy love letter vomited out by the Black Sea."
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 398,
+    "Text": "Oddity.MessageInABottle"
+  }
+]

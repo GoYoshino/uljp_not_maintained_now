@@ -1,0 +1,20 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 225,
+    "Text": "Shoot Rocket"
+  },
+  {
+    "HeaderOffset": 262,
+    "StartTextOffset": 268,
+    "EndTextOffset": 277,
+    "Text": "Attacks.40"
+  },
+  {
+    "HeaderOffset": 460,
+    "StartTextOffset": 466,
+    "EndTextOffset": 487,
+    "Text": "ShootDreadnoughtRocket"
+  }
+]

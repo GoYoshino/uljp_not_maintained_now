@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 264,
+    "Text": "blueprint.psionicAccelerator"
+  },
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 300,
+    "Text": "Blueprint: Psionic Accelerator"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 402,
+    "Text": "Contains instructions on how to create a psionic accelerator."
+  },
+  {
+    "HeaderOffset": 403,
+    "StartTextOffset": 409,
+    "EndTextOffset": 421,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 555,
+    "StartTextOffset": 561,
+    "EndTextOffset": 578,
+    "Text": "psionicAccelerator"
+  },
+  {
+    "HeaderOffset": 637,
+    "StartTextOffset": 643,
+    "EndTextOffset": 662,
+    "Text": "blueprintconsumation"
+  }
+]

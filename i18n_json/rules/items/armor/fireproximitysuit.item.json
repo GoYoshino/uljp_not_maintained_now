@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 420,
+    "StartTextOffset": 426,
+    "EndTextOffset": 442,
+    "Text": "fireProximitySuit"
+  },
+  {
+    "HeaderOffset": 443,
+    "StartTextOffset": 449,
+    "EndTextOffset": 467,
+    "Text": "Fire Proximity Suit"
+  },
+  {
+    "HeaderOffset": 503,
+    "StartTextOffset": 509,
+    "EndTextOffset": 578,
+    "Text": "This suit is designed to protect the wearer from extreme temperatures."
+  },
+  {
+    "HeaderOffset": 579,
+    "StartTextOffset": 585,
+    "EndTextOffset": 593,
+    "Text": "Armors.43"
+  },
+  {
+    "HeaderOffset": 1106,
+    "StartTextOffset": 1112,
+    "EndTextOffset": 1121,
+    "Text": "Perception"
+  }
+]

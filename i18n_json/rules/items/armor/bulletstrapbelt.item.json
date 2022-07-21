@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 304,
+    "Text": "belt.bulletStrap"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 327,
+    "Text": "Bullet Strap Belt"
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 409,
+    "Text": "This belt is both menacing and practical."
+  },
+  {
+    "HeaderOffset": 410,
+    "StartTextOffset": 416,
+    "EndTextOffset": 424,
+    "Text": "Armors.61"
+  },
+  {
+    "HeaderOffset": 725,
+    "StartTextOffset": 731,
+    "EndTextOffset": 742,
+    "Text": "Intimidation"
+  }
+]

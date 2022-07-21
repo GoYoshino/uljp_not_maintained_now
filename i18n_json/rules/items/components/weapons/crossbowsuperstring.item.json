@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 291,
+    "Text": "Crossbow Super String"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 441,
+    "Text": "A shorter stronger crossbow string that can be applied to any crossbow type to maximize the damage potential."
+  },
+  {
+    "HeaderOffset": 442,
+    "StartTextOffset": 448,
+    "EndTextOffset": 460,
+    "Text": "Components.72"
+  },
+  {
+    "HeaderOffset": 722,
+    "StartTextOffset": 728,
+    "EndTextOffset": 736,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 767,
+    "StartTextOffset": 773,
+    "EndTextOffset": 786,
+    "Text": "DamageModifier"
+  }
+]

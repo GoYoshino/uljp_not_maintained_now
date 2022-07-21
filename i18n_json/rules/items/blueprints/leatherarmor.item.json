@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 219,
+    "StartTextOffset": 225,
+    "EndTextOffset": 248,
+    "Text": "Blueprint: Leather Armor"
+  },
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 351,
+    "Text": "Contains detailed instructions on how to create leather armor."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 366,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 498,
+    "StartTextOffset": 504,
+    "EndTextOffset": 515,
+    "Text": "LeatherArmor"
+  },
+  {
+    "HeaderOffset": 574,
+    "StartTextOffset": 580,
+    "EndTextOffset": 599,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 241,
+    "Text": "food.coreChips"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 257,
+    "Text": "Core Chips"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 356,
+    "Text": "A bag of deep-fried root chips. Manufactured in Core City."
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 376,
+    "Text": "Food.CoreChips"
+  },
+  {
+    "HeaderOffset": 606,
+    "StartTextOffset": 612,
+    "EndTextOffset": 626,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 652,
+    "StartTextOffset": 658,
+    "EndTextOffset": 665,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 666,
+    "StartTextOffset": 672,
+    "EndTextOffset": 680,
+    "Text": "coreChips"
+  },
+  {
+    "HeaderOffset": 690,
+    "StartTextOffset": 696,
+    "EndTextOffset": 703,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 704,
+    "StartTextOffset": 710,
+    "EndTextOffset": 719,
+    "Text": "Core Chips"
+  }
+]

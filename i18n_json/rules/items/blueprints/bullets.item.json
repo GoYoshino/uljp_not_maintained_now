@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 246,
+    "Text": "bulletsBlueprint"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 270,
+    "Text": "Blueprint: Bullets"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 367,
+    "Text": "Contains instructions on how to reload standard bullets."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 382,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 515,
+    "StartTextOffset": 521,
+    "EndTextOffset": 527,
+    "Text": "bullets"
+  },
+  {
+    "HeaderOffset": 586,
+    "StartTextOffset": 592,
+    "EndTextOffset": 611,
+    "Text": "blueprintconsumation"
+  }
+]

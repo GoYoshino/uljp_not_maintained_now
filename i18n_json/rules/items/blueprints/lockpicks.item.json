@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 262,
+    "Text": "blueprint.lockpicks"
+  },
+  {
+    "HeaderOffset": 263,
+    "StartTextOffset": 269,
+    "EndTextOffset": 288,
+    "Text": "Blueprint: Lockpicks"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 378,
+    "Text": "Contains instructions on how to create lockpicks."
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 393,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 528,
+    "StartTextOffset": 534,
+    "EndTextOffset": 542,
+    "Text": "lockpicks"
+  },
+  {
+    "HeaderOffset": 601,
+    "StartTextOffset": 607,
+    "EndTextOffset": 626,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 485,
+    "Text": "component.infusedSeaWyrmScales"
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 514,
+    "Text": "Infused Sea Wyrm Scales"
+  },
+  {
+    "HeaderOffset": 550,
+    "StartTextOffset": 556,
+    "EndTextOffset": 742,
+    "Text": "This is a piece of Sea Wyrm skin. It's covered with large tough scales. It's infused with super steel fiber. It's rather heavy, but it still can be used to craft a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 743,
+    "StartTextOffset": 749,
+    "EndTextOffset": 767,
+    "Text": "xpbl_Components.102"
+  },
+  {
+    "HeaderOffset": 1389,
+    "StartTextOffset": 1395,
+    "EndTextOffset": 1403,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1417,
+    "StartTextOffset": 1423,
+    "EndTextOffset": 1429,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1492,
+    "StartTextOffset": 1498,
+    "EndTextOffset": 1513,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1514,
+    "StartTextOffset": 1520,
+    "EndTextOffset": 1612,
+    "Text": "This {0} is made of Sea Wyrm scaly skin infused with super steel fiber. It's tough and heavy."
+  },
+  {
+    "HeaderOffset": 1622,
+    "StartTextOffset": 1628,
+    "EndTextOffset": 1649,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1650,
+    "StartTextOffset": 1656,
+    "EndTextOffset": 1750,
+    "Text": "These {0} are made of Sea Wyrm scaly skin infused with super steel fiber. It's tough and heavy."
+  },
+  {
+    "HeaderOffset": 1760,
+    "StartTextOffset": 1766,
+    "EndTextOffset": 1790,
+    "Text": "CustomInfusionLeatherType"
+  },
+  {
+    "HeaderOffset": 1791,
+    "StartTextOffset": 1797,
+    "EndTextOffset": 1801,
+    "Text": "Scale"
+  },
+  {
+    "HeaderOffset": 1820,
+    "StartTextOffset": 1826,
+    "EndTextOffset": 1829,
+    "Text": "Xpbl"
+  },
+  {
+    "HeaderOffset": 1856,
+    "StartTextOffset": 1862,
+    "EndTextOffset": 1874,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1905,
+    "StartTextOffset": 1911,
+    "EndTextOffset": 1918,
+    "Text": "Infusion"
+  },
+  {
+    "HeaderOffset": 1932,
+    "StartTextOffset": 1938,
+    "EndTextOffset": 1962,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1963,
+    "StartTextOffset": 1969,
+    "EndTextOffset": 1975,
+    "Text": "xpbl_sw"
+  },
+  {
+    "HeaderOffset": 2002,
+    "StartTextOffset": 2008,
+    "EndTextOffset": 2015,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 2029,
+    "StartTextOffset": 2035,
+    "EndTextOffset": 2048,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 2049,
+    "StartTextOffset": 2055,
+    "EndTextOffset": 2070,
+    "Text": "Infused Sea Wyrm"
+  },
+  {
+    "HeaderOffset": 2097,
+    "StartTextOffset": 2103,
+    "EndTextOffset": 2121,
+    "Text": "UsesDefaultOvercoat"
+  }
+]

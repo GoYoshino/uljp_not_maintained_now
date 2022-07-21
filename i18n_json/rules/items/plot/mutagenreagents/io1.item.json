@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 225,
+    "Text": "mutagenReagent.io.1"
+  },
+  {
+    "HeaderOffset": 226,
+    "StartTextOffset": 232,
+    "EndTextOffset": 251,
+    "Text": "Mutagen Reagent Io-1"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 327,
+    "Text": "A container holding potent mutagen."
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 341,
+    "Text": "Plot.181"
+  },
+  {
+    "HeaderOffset": 559,
+    "StartTextOffset": 565,
+    "EndTextOffset": 583,
+    "Text": "MutagenReagentIndex"
+  },
+  {
+    "HeaderOffset": 613,
+    "StartTextOffset": 619,
+    "EndTextOffset": 629,
+    "Text": "MutagenName"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 639,
+    "Text": "Io-1"
+  }
+]

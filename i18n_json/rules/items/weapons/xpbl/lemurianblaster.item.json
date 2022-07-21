@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 747,
+    "StartTextOffset": 753,
+    "EndTextOffset": 756,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 806,
+    "StartTextOffset": 812,
+    "EndTextOffset": 826,
+    "Text": "lemurianBlaster"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 848,
+    "Text": "Lemurian Blaster"
+  },
+  {
+    "HeaderOffset": 884,
+    "StartTextOffset": 890,
+    "EndTextOffset": 1202,
+    "Text": "A beautifully sculpted plasma pistol. The marine motifs are plentiful and interesting, and the lateral illumination coming from the translucent energy core compartment brings the embossed sea waves to life. Despite these distractions and its unconventional shape, the pistol's handling doesn't suffer in any way."
+  },
+  {
+    "HeaderOffset": 1203,
+    "StartTextOffset": 1209,
+    "EndTextOffset": 1224,
+    "Text": "xpbl_Weapons.221"
+  },
+  {
+    "HeaderOffset": 1919,
+    "StartTextOffset": 1925,
+    "EndTextOffset": 1940,
+    "Text": "ShootPlasmaFlare"
+  },
+  {
+    "HeaderOffset": 1990,
+    "StartTextOffset": 1996,
+    "EndTextOffset": 2003,
+    "Text": "polarize"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 240,
+    "Text": "Oddity.RuinedTextbook"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 261,
+    "Text": "Ruined Textbook"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 407,
+    "Text": "This textbook clearly belonged to the Biocorp University, but it has deteriorated far beyond readability."
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 387,
+    "Text": "his textbook clearly belonged to the Biocorp University, but it has deteriorated far"
+  },
+  {
+    "HeaderOffset": 408,
+    "StartTextOffset": 414,
+    "EndTextOffset": 434,
+    "Text": "Oddity.RuinedTextbook"
+  }
+]

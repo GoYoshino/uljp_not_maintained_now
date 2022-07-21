@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 202,
+    "StartTextOffset": 208,
+    "EndTextOffset": 219,
+    "Text": "currency.usd"
+  },
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 247,
+    "Text": "United Stations Dollar"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 342,
+    "Text": "Fiat currency of United Stations and the Protectorate."
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 355,
+    "Text": "Plot.32"
+  }
+]

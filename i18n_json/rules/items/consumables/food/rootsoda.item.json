@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 240,
+    "Text": "food.rootSoda"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 255,
+    "Text": "Root Soda"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 336,
+    "Text": "A non-alcoholic, sweet-tasting beverage."
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 355,
+    "Text": "Food.RootSoda"
+  },
+  {
+    "HeaderOffset": 585,
+    "StartTextOffset": 591,
+    "EndTextOffset": 605,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 631,
+    "StartTextOffset": 637,
+    "EndTextOffset": 644,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 645,
+    "StartTextOffset": 651,
+    "EndTextOffset": 658,
+    "Text": "rootSoda"
+  },
+  {
+    "HeaderOffset": 668,
+    "StartTextOffset": 674,
+    "EndTextOffset": 681,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 682,
+    "StartTextOffset": 688,
+    "EndTextOffset": 696,
+    "Text": "Root Soda"
+  }
+]

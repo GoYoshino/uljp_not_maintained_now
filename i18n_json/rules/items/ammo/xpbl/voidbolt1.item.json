@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 246,
+    "Text": "Ammo.VoidBolt"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 261,
+    "Text": "Void Bolt"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 406,
+    "Text": "A bolt whose tip is coated in an odious tar-like substance. It's warm in an unnatural and unnerving way."
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 368,
+    "Text": " bolt whose tip is coated in an odious tar-like substance. It's w"
+  },
+  {
+    "HeaderOffset": 407,
+    "StartTextOffset": 413,
+    "EndTextOffset": 424,
+    "Text": "Xpbl_Ammo.20"
+  },
+  {
+    "HeaderOffset": 636,
+    "StartTextOffset": 642,
+    "EndTextOffset": 654,
+    "Text": "ShootVoidBolt"
+  },
+  {
+    "HeaderOffset": 681,
+    "StartTextOffset": 687,
+    "EndTextOffset": 691,
+    "Text": "power"
+  }
+]

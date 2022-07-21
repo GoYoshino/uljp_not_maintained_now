@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 275,
+    "Text": "visor"
+  },
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 286,
+    "Text": "Visor"
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 387,
+    "Text": "This toughened glass visor is used in constructing a helmet."
+  },
+  {
+    "HeaderOffset": 388,
+    "StartTextOffset": 394,
+    "EndTextOffset": 409,
+    "Text": "Components.Visor"
+  },
+  {
+    "HeaderOffset": 659,
+    "StartTextOffset": 665,
+    "EndTextOffset": 673,
+    "Text": "Mechanics"
+  }
+]

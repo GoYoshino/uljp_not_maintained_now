@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 314,
+    "Text": "assaultRifleFrame2"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 347,
+    "Text": "Assault Rifle Frame: Huszar"
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 480,
+    "Text": "This frame is used to create a Huszar type assault rifle. It supports 8.6mm and 9mm barrels."
+  },
+  {
+    "HeaderOffset": 384,
+    "StartTextOffset": 390,
+    "EndTextOffset": 473,
+    "Text": "his frame is used to create a Huszar type assault rifle. It supports 8.6mm and 9mm b"
+  },
+  {
+    "HeaderOffset": 481,
+    "StartTextOffset": 487,
+    "EndTextOffset": 499,
+    "Text": "rifle.2.frame"
+  },
+  {
+    "HeaderOffset": 860,
+    "StartTextOffset": 866,
+    "EndTextOffset": 874,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 912,
+    "StartTextOffset": 918,
+    "EndTextOffset": 937,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1006,
+    "StartTextOffset": 1012,
+    "EndTextOffset": 1015,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 1016,
+    "StartTextOffset": 1022,
+    "EndTextOffset": 1027,
+    "Text": "Huszar"
+  },
+  {
+    "HeaderOffset": 1078,
+    "StartTextOffset": 1084,
+    "EndTextOffset": 1103,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1135,
+    "StartTextOffset": 1141,
+    "EndTextOffset": 1159,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 1190,
+    "StartTextOffset": 1196,
+    "EndTextOffset": 1217,
+    "Text": "BurstPrecisionModifier"
+  },
+  {
+    "HeaderOffset": 1252,
+    "StartTextOffset": 1258,
+    "EndTextOffset": 1279,
+    "Text": "CriticalChanceModifier"
+  }
+]

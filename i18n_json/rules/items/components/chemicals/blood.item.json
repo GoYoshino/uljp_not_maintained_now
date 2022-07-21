@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 275,
+    "Text": "blood"
+  },
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 286,
+    "Text": "Blood"
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 386,
+    "Text": "A healthy blood sample. It can be used in medical purposes."
+  },
+  {
+    "HeaderOffset": 387,
+    "StartTextOffset": 393,
+    "EndTextOffset": 408,
+    "Text": "Components.Blood"
+  },
+  {
+    "HeaderOffset": 658,
+    "StartTextOffset": 664,
+    "EndTextOffset": 670,
+    "Text": "Biology"
+  }
+]

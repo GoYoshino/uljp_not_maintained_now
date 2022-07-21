@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 258,
+    "Text": "plasmaGrenadeBlueprint"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 289,
+    "Text": "Blueprint: Plasma Grenade"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 387,
+    "Text": "Contains instructions on how to create an plasma grenade."
+  },
+  {
+    "HeaderOffset": 388,
+    "StartTextOffset": 394,
+    "EndTextOffset": 406,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 540,
+    "StartTextOffset": 546,
+    "EndTextOffset": 558,
+    "Text": "plasmaGrenade"
+  },
+  {
+    "HeaderOffset": 617,
+    "StartTextOffset": 623,
+    "EndTextOffset": 642,
+    "Text": "blueprintconsumation"
+  }
+]

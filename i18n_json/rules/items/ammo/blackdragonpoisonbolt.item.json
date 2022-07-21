@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 239,
+    "Text": "Ammo.BlackDragonPoisonBolt"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 269,
+    "Text": "Black Dragon Poison Bolt"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 368,
+    "Text": "This bolt is packed with an ampule of black dragon poison."
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 400,
+    "Text": "Ammo.BlackDragonPoisonBolt"
+  },
+  {
+    "HeaderOffset": 628,
+    "StartTextOffset": 634,
+    "EndTextOffset": 659,
+    "Text": "ShootBlackDragonPoisonBolt"
+  },
+  {
+    "HeaderOffset": 685,
+    "StartTextOffset": 691,
+    "EndTextOffset": 700,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 701,
+    "StartTextOffset": 707,
+    "EndTextOffset": 723,
+    "Text": "BlackDragonPoison"
+  },
+  {
+    "HeaderOffset": 733,
+    "StartTextOffset": 739,
+    "EndTextOffset": 748,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 749,
+    "StartTextOffset": 755,
+    "EndTextOffset": 773,
+    "Text": "Black Dragon Poison"
+  }
+]

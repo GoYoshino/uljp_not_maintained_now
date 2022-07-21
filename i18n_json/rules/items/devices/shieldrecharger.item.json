@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 212,
+    "StartTextOffset": 218,
+    "EndTextOffset": 233,
+    "Text": "Shield Recharger"
+  },
+  {
+    "HeaderOffset": 269,
+    "StartTextOffset": 275,
+    "EndTextOffset": 384,
+    "Text": "This device projects electromagnetic waves over a limited distance that can quickly recharge shield batteries."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 411,
+    "Text": "Items.ShieldRecharger"
+  },
+  {
+    "HeaderOffset": 623,
+    "StartTextOffset": 629,
+    "EndTextOffset": 632,
+    "Text": "shrc"
+  }
+]

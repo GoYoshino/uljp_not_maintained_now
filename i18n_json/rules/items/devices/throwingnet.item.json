@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 224,
+    "Text": "throwingNet"
+  },
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 242,
+    "Text": "Throwing Net"
+  },
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 329,
+    "Text": "Can be used to immobilize opponents in combat."
+  },
+  {
+    "HeaderOffset": 330,
+    "StartTextOffset": 336,
+    "EndTextOffset": 345,
+    "Text": "Devices.21"
+  },
+  {
+    "HeaderOffset": 535,
+    "StartTextOffset": 541,
+    "EndTextOffset": 544,
+    "Text": "tnet"
+  }
+]

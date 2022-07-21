@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 243,
+    "Text": "combatKnifeBlueprint"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 272,
+    "Text": "Blueprint: Combat Knife"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 388,
+    "Text": "Contains detailed instructions on how to create all types of combat knives."
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 381,
+    "Text": "ontains detailed instructions on how to create all types of combat "
+  },
+  {
+    "HeaderOffset": 389,
+    "StartTextOffset": 395,
+    "EndTextOffset": 403,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 535,
+    "StartTextOffset": 541,
+    "EndTextOffset": 551,
+    "Text": "combatKnife"
+  },
+  {
+    "HeaderOffset": 610,
+    "StartTextOffset": 616,
+    "EndTextOffset": 635,
+    "Text": "blueprintconsumation"
+  }
+]

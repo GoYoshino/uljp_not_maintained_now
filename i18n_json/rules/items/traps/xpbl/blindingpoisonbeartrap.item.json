@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 268,
+    "Text": "trap.blindingPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 269,
+    "StartTextOffset": 275,
+    "EndTextOffset": 299,
+    "Text": "Blinding Poison Bear Trap"
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 552,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim. As if the excruciating pain of having your foot caught in one of these wasn't enough, the metal jaws have also been coated with blinding poison."
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 571,
+    "Text": "Explosives.96"
+  },
+  {
+    "HeaderOffset": 775,
+    "StartTextOffset": 781,
+    "EndTextOffset": 807,
+    "Text": "PlaceBlindingPoisonBearTrap"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 226,
+    "Text": "plot.tch_tRayEmitter"
+  },
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 245,
+    "Text": "T-Ray Emitter"
+  },
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 536,
+    "Text": "This device emits electromagnetic waves with frequencies between two and three terahertz which can penetrate most solid walls and reflect from organic tissue - therefore creating real-time images of all living entities in the vicinity of the device."
+  },
+  {
+    "HeaderOffset": 537,
+    "StartTextOffset": 543,
+    "EndTextOffset": 549,
+    "Text": "Plot.83"
+  }
+]

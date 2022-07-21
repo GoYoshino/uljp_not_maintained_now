@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 252,
+    "Text": "charm.burrowerTarsus"
+  },
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 279,
+    "Text": "Burrower Tarsus Charm"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 394,
+    "Text": "Lucky charm made from a burrower's tarsus. Sturdy, and surprisingly heavy."
+  },
+  {
+    "HeaderOffset": 395,
+    "StartTextOffset": 401,
+    "EndTextOffset": 418,
+    "Text": "Plot.BurrowerCharm"
+  },
+  {
+    "HeaderOffset": 604,
+    "StartTextOffset": 610,
+    "EndTextOffset": 617,
+    "Text": "UseCharm"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 271,
+    "Text": "Battery.PlasmaCell"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 288,
+    "Text": "Plasma Cell"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 477,
+    "Text": "This advanced energy cell stores a small amount of superheated gas which can be harvested at any time to produce vast amounts of electrical energy."
+  },
+  {
+    "HeaderOffset": 478,
+    "StartTextOffset": 484,
+    "EndTextOffset": 493,
+    "Text": "Devices.32"
+  },
+  {
+    "HeaderOffset": 749,
+    "StartTextOffset": 755,
+    "EndTextOffset": 768,
+    "Text": "RechargeObject"
+  },
+  {
+    "HeaderOffset": 795,
+    "StartTextOffset": 801,
+    "EndTextOffset": 805,
+    "Text": "Power"
+  }
+]

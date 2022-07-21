@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 248,
+    "Text": "Oddity.WarehouseInventoryList"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 278,
+    "Text": "Warehouse Inventory List"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 382,
+    "Text": "Partially readable, but probably very outdated, inventory list."
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 417,
+    "Text": "Oddity.WarehouseInventoryList"
+  }
+]

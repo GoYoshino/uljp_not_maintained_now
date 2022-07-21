@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 719,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 783,
+    "Text": "wep.sigMPX"
+  },
+  {
+    "HeaderOffset": 784,
+    "StartTextOffset": 790,
+    "EndTextOffset": 796,
+    "Text": "Syg MPX"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 872,
+    "Text": "An old world 8.6mm sub-machine gun."
+  },
+  {
+    "HeaderOffset": 873,
+    "StartTextOffset": 879,
+    "EndTextOffset": 891,
+    "Text": "Weapon.SigMPX"
+  },
+  {
+    "HeaderOffset": 1568,
+    "StartTextOffset": 1574,
+    "EndTextOffset": 1577,
+    "Text": "uwep"
+  }
+]

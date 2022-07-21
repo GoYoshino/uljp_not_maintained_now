@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 227,
+    "Text": "Ammo.AcidBolt1"
+  },
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 242,
+    "Text": "Acid Bolt"
+  },
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 351,
+    "Text": "Carries a vial that breaks on impact, spraying acid onto the target."
+  },
+  {
+    "HeaderOffset": 279,
+    "StartTextOffset": 285,
+    "EndTextOffset": 351,
+    "Text": "arries a vial that breaks on impact, spraying acid onto the target."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 371,
+    "Text": "Ammo.AcidBolt1"
+  },
+  {
+    "HeaderOffset": 580,
+    "StartTextOffset": 586,
+    "EndTextOffset": 598,
+    "Text": "ShootAcidBolt"
+  },
+  {
+    "HeaderOffset": 625,
+    "StartTextOffset": 631,
+    "EndTextOffset": 635,
+    "Text": "power"
+  }
+]

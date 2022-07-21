@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 228,
+    "Text": "Ammo.ShockBolt1"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 244,
+    "Text": "Shock Bolt"
+  },
+  {
+    "HeaderOffset": 280,
+    "StartTextOffset": 286,
+    "EndTextOffset": 373,
+    "Text": "When fired from a crossbow this bolt inflicts electrical damage and can stun the target."
+  },
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 373,
+    "Text": "hen fired from a crossbow this bolt inflicts electrical damage and can stun the target."
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 394,
+    "Text": "Ammo.ShockBolt1"
+  },
+  {
+    "HeaderOffset": 603,
+    "StartTextOffset": 609,
+    "EndTextOffset": 622,
+    "Text": "ShootShockBolt"
+  },
+  {
+    "HeaderOffset": 649,
+    "StartTextOffset": 655,
+    "EndTextOffset": 659,
+    "Text": "power"
+  }
+]

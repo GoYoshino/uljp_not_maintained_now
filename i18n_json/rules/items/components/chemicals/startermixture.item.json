@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 301,
+    "Text": "Component.StarterMixture"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 322,
+    "Text": "Starter Mixture"
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 435,
+    "Text": "A volatile mixture used in gas grenades to evaporate the filler mixture."
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 429,
+    "Text": " volatile mixture used in gas grenades to evaporate the filler mi"
+  },
+  {
+    "HeaderOffset": 436,
+    "StartTextOffset": 442,
+    "EndTextOffset": 461,
+    "Text": "Items.StarterMixture"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 726,
+    "Text": "Chemistry"
+  }
+]

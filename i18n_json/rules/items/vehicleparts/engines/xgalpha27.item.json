@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 302,
+    "Text": "VehiclePart.XGAlpha27"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 320,
+    "Text": "XG Alpha 2.7"
+  },
+  {
+    "HeaderOffset": 356,
+    "StartTextOffset": 362,
+    "EndTextOffset": 409,
+    "Text": "Small electrical vehicle engine of Hexagon make."
+  },
+  {
+    "HeaderOffset": 410,
+    "StartTextOffset": 416,
+    "EndTextOffset": 436,
+    "Text": "VehiclePart.XGAlpha27"
+  },
+  {
+    "HeaderOffset": 587,
+    "StartTextOffset": 593,
+    "EndTextOffset": 599,
+    "Text": "hexagon"
+  }
+]

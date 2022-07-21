@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 286,
+    "Text": "serratedKnifeMold"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 311,
+    "Text": "Serrated Knife Mold"
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 384,
+    "Text": "A mold for serrated knife blade."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 404,
+    "Text": "Components.142"
+  },
+  {
+    "HeaderOffset": 685,
+    "StartTextOffset": 691,
+    "EndTextOffset": 699,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 738,
+    "StartTextOffset": 744,
+    "EndTextOffset": 752,
+    "Text": "KnifeType"
+  },
+  {
+    "HeaderOffset": 810,
+    "StartTextOffset": 816,
+    "EndTextOffset": 824,
+    "Text": "KnifeName"
+  },
+  {
+    "HeaderOffset": 825,
+    "StartTextOffset": 831,
+    "EndTextOffset": 848,
+    "Text": "Serrated {0} Knife"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 258,
+    "Text": "blueprint.advancedHealthHypo"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 295,
+    "Text": "Blueprint: Advanced Health Hypo"
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 399,
+    "Text": "Contains instructions on how to create an advanced health hypo."
+  },
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 414,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 547,
+    "StartTextOffset": 553,
+    "EndTextOffset": 570,
+    "Text": "advancedHealthHypo"
+  },
+  {
+    "HeaderOffset": 629,
+    "StartTextOffset": 635,
+    "EndTextOffset": 654,
+    "Text": "blueprintconsumation"
+  }
+]

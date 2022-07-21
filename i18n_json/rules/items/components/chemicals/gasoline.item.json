@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 295,
+    "Text": "Component.Gasoline"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 309,
+    "Text": "Gasoline"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 558,
+    "Text": "Gasoline was once largely used as fuel for many types of vehicles. However, since the internal combustion engines fell out of use long time ago, it's now mostly used in creating makeshift incendiary weapons."
+  },
+  {
+    "HeaderOffset": 559,
+    "StartTextOffset": 565,
+    "EndTextOffset": 578,
+    "Text": "Components.160"
+  },
+  {
+    "HeaderOffset": 924,
+    "StartTextOffset": 930,
+    "EndTextOffset": 938,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 969,
+    "StartTextOffset": 975,
+    "EndTextOffset": 979,
+    "Text": "power"
+  },
+  {
+    "HeaderOffset": 1009,
+    "StartTextOffset": 1015,
+    "EndTextOffset": 1035,
+    "Text": "IncendiaryGrenadeName"
+  },
+  {
+    "HeaderOffset": 1036,
+    "StartTextOffset": 1042,
+    "EndTextOffset": 1056,
+    "Text": "MolotovCocktail"
+  },
+  {
+    "HeaderOffset": 1082,
+    "StartTextOffset": 1088,
+    "EndTextOffset": 1099,
+    "Text": "ChemicalAmmo"
+  },
+  {
+    "HeaderOffset": 1100,
+    "StartTextOffset": 1106,
+    "EndTextOffset": 1120,
+    "Text": "Vial_Incendiary"
+  },
+  {
+    "HeaderOffset": 1146,
+    "StartTextOffset": 1152,
+    "EndTextOffset": 1159,
+    "Text": "BlobTrap"
+  },
+  {
+    "HeaderOffset": 1160,
+    "StartTextOffset": 1166,
+    "EndTextOffset": 1183,
+    "Text": "IncendiaryBlobTrap"
+  },
+  {
+    "HeaderOffset": 1210,
+    "StartTextOffset": 1216,
+    "EndTextOffset": 1236,
+    "Text": "ChemicalPowerBlobTrap"
+  }
+]

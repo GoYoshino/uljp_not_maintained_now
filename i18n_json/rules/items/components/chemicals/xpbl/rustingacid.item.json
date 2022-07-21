@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 324,
+    "Text": "acid.rusting"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 342,
+    "Text": "Rusting Acid"
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 447,
+    "Text": "This rusting acid is especially corrosive against metal objects."
+  },
+  {
+    "HeaderOffset": 448,
+    "StartTextOffset": 454,
+    "EndTextOffset": 475,
+    "Text": "Components.RustingAcid"
+  },
+  {
+    "HeaderOffset": 783,
+    "StartTextOffset": 789,
+    "EndTextOffset": 808,
+    "Text": "RustingAcidVialThrow"
+  },
+  {
+    "HeaderOffset": 842,
+    "StartTextOffset": 848,
+    "EndTextOffset": 856,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 886,
+    "StartTextOffset": 892,
+    "EndTextOffset": 903,
+    "Text": "ChemicalAmmo"
+  },
+  {
+    "HeaderOffset": 904,
+    "StartTextOffset": 910,
+    "EndTextOffset": 931,
+    "Text": "Xpbl\\Vial_Acid_Rusting"
+  },
+  {
+    "HeaderOffset": 941,
+    "StartTextOffset": 947,
+    "EndTextOffset": 950,
+    "Text": "Bolt"
+  },
+  {
+    "HeaderOffset": 951,
+    "StartTextOffset": 957,
+    "EndTextOffset": 977,
+    "Text": "Xpbl\\RustingAcidBolt1"
+  },
+  {
+    "HeaderOffset": 987,
+    "StartTextOffset": 993,
+    "EndTextOffset": 1000,
+    "Text": "BlobTrap"
+  },
+  {
+    "HeaderOffset": 1001,
+    "StartTextOffset": 1007,
+    "EndTextOffset": 1030,
+    "Text": "Xpbl\\RustingAcidBlobTrap"
+  }
+]

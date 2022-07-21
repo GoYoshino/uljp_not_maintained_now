@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 252,
+    "Text": "macheteBlueprint"
+  },
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 276,
+    "Text": "Blueprint: Machete"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 375,
+    "Text": "Contains detailed instructions on how to create a machete."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 394,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 528,
+    "StartTextOffset": 534,
+    "EndTextOffset": 540,
+    "Text": "machete"
+  },
+  {
+    "HeaderOffset": 599,
+    "StartTextOffset": 605,
+    "EndTextOffset": 624,
+    "Text": "blueprintconsumation"
+  }
+]

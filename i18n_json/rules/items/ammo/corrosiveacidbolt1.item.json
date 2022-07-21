@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 236,
+    "Text": "Ammo.CorrosiveAcidBolt1"
+  },
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 261,
+    "Text": "Corrosive Acid Bolt"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 380,
+    "Text": "Carries a vial that breaks on impact, spraying corrosive acid onto the target."
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 370,
+    "Text": "arries a vial that breaks on impact, spraying corrosive acid onto t"
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 409,
+    "Text": "Ammo.CorrosiveAcidBolt1"
+  },
+  {
+    "HeaderOffset": 618,
+    "StartTextOffset": 624,
+    "EndTextOffset": 645,
+    "Text": "ShootCorrosiveAcidBolt"
+  },
+  {
+    "HeaderOffset": 672,
+    "StartTextOffset": 678,
+    "EndTextOffset": 682,
+    "Text": "power"
+  }
+]

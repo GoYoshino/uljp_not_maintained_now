@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 250,
+    "Text": "food.pickledMindshrooms"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 275,
+    "Text": "Pickled Mindshrooms"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 353,
+    "Text": "A jar of pickled chopped mindshrooms."
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 382,
+    "Text": "Food.PickledMindshrooms"
+  },
+  {
+    "HeaderOffset": 612,
+    "StartTextOffset": 618,
+    "EndTextOffset": 632,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 658,
+    "StartTextOffset": 664,
+    "EndTextOffset": 671,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 672,
+    "StartTextOffset": 678,
+    "EndTextOffset": 695,
+    "Text": "pickledMindshrooms"
+  },
+  {
+    "HeaderOffset": 705,
+    "StartTextOffset": 711,
+    "EndTextOffset": 718,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 719,
+    "StartTextOffset": 725,
+    "EndTextOffset": 743,
+    "Text": "Pickled Mindshrooms"
+  }
+]

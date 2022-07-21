@@ -1,0 +1,20 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 233,
+    "Text": "Dismount Dreadnought"
+  },
+  {
+    "HeaderOffset": 270,
+    "StartTextOffset": 276,
+    "EndTextOffset": 287,
+    "Text": "Abilities.70"
+  },
+  {
+    "HeaderOffset": 470,
+    "StartTextOffset": 476,
+    "EndTextOffset": 494,
+    "Text": "DismountDreadnought"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 227,
+    "Text": "plot.strangePowerCell"
+  },
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 251,
+    "Text": "Strange Power Cell"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 374,
+    "Text": "Some sort of a power cell. It doesn't have the standard power connectors, however."
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 387,
+    "Text": "Plot.73"
+  }
+]

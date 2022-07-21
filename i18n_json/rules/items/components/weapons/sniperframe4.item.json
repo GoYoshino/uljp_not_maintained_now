@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 308,
+    "Text": "sniperFrame4"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 343,
+    "Text": "Sniper Rifle Frame: Spearhead"
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 475,
+    "Text": "This frame is used to create a Spearhead type sniper rifle. It only supports 7.62mm barrel."
+  },
+  {
+    "HeaderOffset": 380,
+    "StartTextOffset": 386,
+    "EndTextOffset": 469,
+    "Text": "his frame is used to create a Spearhead type sniper rifle. It only supports 7.62mm b"
+  },
+  {
+    "HeaderOffset": 476,
+    "StartTextOffset": 482,
+    "EndTextOffset": 495,
+    "Text": "sniper.4.frame"
+  },
+  {
+    "HeaderOffset": 894,
+    "StartTextOffset": 900,
+    "EndTextOffset": 908,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 939,
+    "StartTextOffset": 945,
+    "EndTextOffset": 958,
+    "Text": "ApCostModifier"
+  },
+  {
+    "HeaderOffset": 989,
+    "StartTextOffset": 995,
+    "EndTextOffset": 1011,
+    "Text": "CannotAttachBipod"
+  },
+  {
+    "HeaderOffset": 1046,
+    "StartTextOffset": 1052,
+    "EndTextOffset": 1071,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1141,
+    "StartTextOffset": 1147,
+    "EndTextOffset": 1166,
+    "Text": "FocusPenaltyModifier"
+  },
+  {
+    "HeaderOffset": 1201,
+    "StartTextOffset": 1207,
+    "EndTextOffset": 1226,
+    "Text": "MeleePenaltyModifier"
+  },
+  {
+    "HeaderOffset": 1260,
+    "StartTextOffset": 1266,
+    "EndTextOffset": 1269,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 1270,
+    "StartTextOffset": 1276,
+    "EndTextOffset": 1284,
+    "Text": "Spearhead"
+  },
+  {
+    "HeaderOffset": 1294,
+    "StartTextOffset": 1300,
+    "EndTextOffset": 1318,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 1373,
+    "StartTextOffset": 1379,
+    "EndTextOffset": 1398,
+    "Text": "SupportedBarrelTypes"
+  }
+]

@@ -1,0 +1,98 @@
+[
+  {
+    "HeaderOffset": 411,
+    "StartTextOffset": 417,
+    "EndTextOffset": 433,
+    "Text": "psiBeetleCarapace"
+  },
+  {
+    "HeaderOffset": 434,
+    "StartTextOffset": 440,
+    "EndTextOffset": 458,
+    "Text": "Psi Beetle Carapace"
+  },
+  {
+    "HeaderOffset": 494,
+    "StartTextOffset": 500,
+    "EndTextOffset": 595,
+    "Text": "Carapace of a psi beetle is not only tough, but also acts as an amplifier of psionic activities."
+  },
+  {
+    "HeaderOffset": 495,
+    "StartTextOffset": 501,
+    "EndTextOffset": 567,
+    "Text": "arapace of a psi beetle is not only tough, but also acts as an ampl"
+  },
+  {
+    "HeaderOffset": 596,
+    "StartTextOffset": 602,
+    "EndTextOffset": 615,
+    "Text": "Components.186"
+  },
+  {
+    "HeaderOffset": 1093,
+    "StartTextOffset": 1099,
+    "EndTextOffset": 1107,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1121,
+    "StartTextOffset": 1127,
+    "EndTextOffset": 1133,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1221,
+    "StartTextOffset": 1227,
+    "EndTextOffset": 1237,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1238,
+    "StartTextOffset": 1244,
+    "EndTextOffset": 1250,
+    "Text": "Psionic"
+  },
+  {
+    "HeaderOffset": 1260,
+    "StartTextOffset": 1266,
+    "EndTextOffset": 1281,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1282,
+    "StartTextOffset": 1288,
+    "EndTextOffset": 1426,
+    "Text": "It's reinforced with psi beetle carapace that somewhat increases the penetration threshold and enhances the wearer's psionic capabilities."
+  },
+  {
+    "HeaderOffset": 1436,
+    "StartTextOffset": 1442,
+    "EndTextOffset": 1449,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1450,
+    "StartTextOffset": 1456,
+    "EndTextOffset": 1474,
+    "Text": "Psi Beetle Carapace"
+  },
+  {
+    "HeaderOffset": 1501,
+    "StartTextOffset": 1507,
+    "EndTextOffset": 1520,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1534,
+    "StartTextOffset": 1540,
+    "EndTextOffset": 1554,
+    "Text": "ShieldShortName"
+  },
+  {
+    "HeaderOffset": 1555,
+    "StartTextOffset": 1561,
+    "EndTextOffset": 1576,
+    "Text": "Psionic Carapace"
+  }
+]

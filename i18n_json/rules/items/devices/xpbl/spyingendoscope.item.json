@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 236,
+    "Text": "spyingEndoscope"
+  },
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 258,
+    "Text": "Spying Endoscope"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 369,
+    "Text": "A rare spying device. It can be used to spy under most standard doors."
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 365,
+    "Text": " rare spying device. It can be used to spy under most standard do"
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 385,
+    "Text": "Devices.46"
+  },
+  {
+    "HeaderOffset": 576,
+    "StartTextOffset": 582,
+    "EndTextOffset": 593,
+    "Text": "spyUnderDoor"
+  }
+]

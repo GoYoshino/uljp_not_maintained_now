@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 244,
+    "Text": "Oddity.RuneNecklace"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 263,
+    "Text": "Rune Necklace"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 364,
+    "Text": "A string of masterfully carved runestones. Worthy of a king."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 389,
+    "Text": "Oddity.RuneNecklace"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 231,
+    "Text": "Oddity.AcidicTongue"
+  },
+  {
+    "HeaderOffset": 232,
+    "StartTextOffset": 238,
+    "EndTextOffset": 250,
+    "Text": "Acidic Tongue"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 350,
+    "Text": "This tongue is bloated with corrosive acid. Do not squeeze."
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 375,
+    "Text": "Oddity.AcidicTongue"
+  }
+]

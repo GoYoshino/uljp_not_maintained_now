@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 393,
+    "Text": "demolitionPlate"
+  },
+  {
+    "HeaderOffset": 394,
+    "StartTextOffset": 400,
+    "EndTextOffset": 418,
+    "Text": "Nanocomposite Plate"
+  },
+  {
+    "HeaderOffset": 454,
+    "StartTextOffset": 460,
+    "EndTextOffset": 607,
+    "Text": "These high-end nanocomposite armor plates can be inserted into vest carriers when creating a set of armor to mitigate the most devastating attacks."
+  },
+  {
+    "HeaderOffset": 608,
+    "StartTextOffset": 614,
+    "EndTextOffset": 627,
+    "Text": "Components.111"
+  },
+  {
+    "HeaderOffset": 942,
+    "StartTextOffset": 948,
+    "EndTextOffset": 956,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1019,
+    "StartTextOffset": 1025,
+    "EndTextOffset": 1035,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1036,
+    "StartTextOffset": 1042,
+    "EndTextOffset": 1054,
+    "Text": "Nanocomposite"
+  },
+  {
+    "HeaderOffset": 1064,
+    "StartTextOffset": 1070,
+    "EndTextOffset": 1085,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1086,
+    "StartTextOffset": 1092,
+    "EndTextOffset": 1194,
+    "Text": "It's reinforced with nanocomposite plating that reduces damage taken from the most devastating attacks."
+  }
+]

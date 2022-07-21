@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 226,
+    "StartTextOffset": 232,
+    "EndTextOffset": 251,
+    "Text": "Blueprint: Balaclava"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 352,
+    "Text": "Contains detailed instructions on how to create a balaclava."
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 367,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 500,
+    "StartTextOffset": 506,
+    "EndTextOffset": 514,
+    "Text": "Balaclava"
+  },
+  {
+    "HeaderOffset": 573,
+    "StartTextOffset": 579,
+    "EndTextOffset": 598,
+    "Text": "blueprintconsumation"
+  }
+]

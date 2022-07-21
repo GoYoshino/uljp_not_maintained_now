@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 314,
+    "Text": "Ammo.Caliber_44_Std"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 338,
+    "Text": ".44 Standard Round"
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 408,
+    "Text": "This is a standard .44 round."
+  },
+  {
+    "HeaderOffset": 409,
+    "StartTextOffset": 415,
+    "EndTextOffset": 433,
+    "Text": "Ammo.Caliber_44_Std"
+  },
+  {
+    "HeaderOffset": 673,
+    "StartTextOffset": 679,
+    "EndTextOffset": 682,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 692,
+    "StartTextOffset": 698,
+    "EndTextOffset": 704,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 714,
+    "StartTextOffset": 720,
+    "EndTextOffset": 725,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 735,
+    "StartTextOffset": 741,
+    "EndTextOffset": 749,
+    "Text": "ldsingcur"
+  }
+]

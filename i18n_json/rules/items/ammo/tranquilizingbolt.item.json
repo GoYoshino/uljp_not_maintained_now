@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 248,
+    "Text": "Ammo.TranquilizingBolt"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 272,
+    "Text": "Tranquilizing Bolt"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 513,
+    "Text": "When fired from a crossbow, this bolt does a purposely limited amount of damage, but can put a human or an animal to sleep if it penetrates their armor. The smaller the target - the longer it sleeps."
+  },
+  {
+    "HeaderOffset": 514,
+    "StartTextOffset": 520,
+    "EndTextOffset": 541,
+    "Text": "Ammo.TranquilizingBolt"
+  },
+  {
+    "HeaderOffset": 771,
+    "StartTextOffset": 777,
+    "EndTextOffset": 798,
+    "Text": "ShootTranquilizingBolt"
+  },
+  {
+    "HeaderOffset": 825,
+    "StartTextOffset": 831,
+    "EndTextOffset": 841,
+    "Text": "MaxDuration"
+  },
+  {
+    "HeaderOffset": 855,
+    "StartTextOffset": 861,
+    "EndTextOffset": 877,
+    "Text": "TranquilizerPower"
+  }
+]

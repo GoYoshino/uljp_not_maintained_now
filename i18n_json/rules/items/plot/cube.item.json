@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 210,
+    "Text": "cube"
+  },
+  {
+    "HeaderOffset": 211,
+    "StartTextOffset": 217,
+    "EndTextOffset": 224,
+    "Text": "The Cube"
+  },
+  {
+    "HeaderOffset": 260,
+    "StartTextOffset": 266,
+    "EndTextOffset": 1082,
+    "Text": "This must be the single weirdest item you've ever held. First of all, \"the cube\" is not a cube at all. It's an irregular polyhedron.<br><br>On most polygon faces there's a symbol. Some symbols are simple and some are complex. The most recurring patterns in them are crosses (often taking the central position with other symbols being placed around them), filled and empty circles, brackets, and something that resembles the letter M (or maybe W).<br><br>On some faces there are slots of irregular shapes. The cube itself is very light and pleasantly smooth to the touch.<br><br>What makes the object especially strange is the illusion of flatness it gives off when you direct your eyes towards its imaginary center for long enough, while simultaneously the polygon faces on the edges of the projection appear curved."
+  },
+  {
+    "HeaderOffset": 261,
+    "StartTextOffset": 267,
+    "EndTextOffset": 272,
+    "Text": "This m"
+  },
+  {
+    "HeaderOffset": 266,
+    "StartTextOffset": 272,
+    "EndTextOffset": 303,
+    "Text": "must be the single weirdest item"
+  },
+  {
+    "HeaderOffset": 1083,
+    "StartTextOffset": 1089,
+    "EndTextOffset": 1097,
+    "Text": "Plot.Cube"
+  }
+]

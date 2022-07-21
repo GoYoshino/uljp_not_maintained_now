@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 248,
+    "Text": "blueprint.bullhead"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 273,
+    "Text": "Blueprint: Bullhead"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 369,
+    "Text": "Contains instructions on how to create a bullhead pill."
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 384,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 517,
+    "StartTextOffset": 523,
+    "EndTextOffset": 530,
+    "Text": "bullhead"
+  },
+  {
+    "HeaderOffset": 589,
+    "StartTextOffset": 595,
+    "EndTextOffset": 614,
+    "Text": "blueprintconsumation"
+  }
+]

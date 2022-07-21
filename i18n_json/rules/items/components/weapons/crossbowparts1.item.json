@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 292,
+    "Text": "Crossbow Parts: Zephyr"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 421,
+    "Text": "With an appropriate blueprint, these parts can be used to create a Zephyr type crossbow."
+  },
+  {
+    "HeaderOffset": 422,
+    "StartTextOffset": 428,
+    "EndTextOffset": 443,
+    "Text": "crossbow.1.parts"
+  },
+  {
+    "HeaderOffset": 743,
+    "StartTextOffset": 749,
+    "EndTextOffset": 757,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 795,
+    "StartTextOffset": 801,
+    "EndTextOffset": 812,
+    "Text": "DamageSpread"
+  },
+  {
+    "HeaderOffset": 881,
+    "StartTextOffset": 887,
+    "EndTextOffset": 890,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 891,
+    "StartTextOffset": 897,
+    "EndTextOffset": 902,
+    "Text": "Zephyr"
+  },
+  {
+    "HeaderOffset": 929,
+    "StartTextOffset": 935,
+    "EndTextOffset": 953,
+    "Text": "CriticalDamageBonus"
+  }
+]

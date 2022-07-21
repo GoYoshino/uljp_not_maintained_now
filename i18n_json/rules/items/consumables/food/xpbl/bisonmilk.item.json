@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 248,
+    "Text": "food.bisonMilk"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 264,
+    "Text": "Bison Milk"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 345,
+    "Text": "A waterskin filled with rich bison milk."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 363,
+    "Text": "xpbl_Food.10"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 614,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 640,
+    "StartTextOffset": 646,
+    "EndTextOffset": 653,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 654,
+    "StartTextOffset": 660,
+    "EndTextOffset": 668,
+    "Text": "bisonMilk"
+  },
+  {
+    "HeaderOffset": 678,
+    "StartTextOffset": 684,
+    "EndTextOffset": 691,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 692,
+    "StartTextOffset": 698,
+    "EndTextOffset": 707,
+    "Text": "Bison Milk"
+  }
+]

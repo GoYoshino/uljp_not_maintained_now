@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 240,
+    "Text": "med.superHealthHypo"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 263,
+    "Text": "Super Health Hypo"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 345,
+    "Text": "The most powerful of healing concoctions."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 366,
+    "Text": "SuperHealthHypo"
+  },
+  {
+    "HeaderOffset": 576,
+    "StartTextOffset": 582,
+    "EndTextOffset": 602,
+    "Text": "healthhypoconsumation"
+  },
+  {
+    "HeaderOffset": 629,
+    "StartTextOffset": 635,
+    "EndTextOffset": 644,
+    "Text": "HealAmount"
+  }
+]

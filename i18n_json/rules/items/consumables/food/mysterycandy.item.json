@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 251,
+    "Text": "food.mysteryCandy"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 270,
+    "Text": "Mystery Candy"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 586,
+    "Text": "The main part of this \"candy\", whatever it might be, is encased in some sort of transparent sugary overcoating. Considering where you found it and the unusual looks, it's probably not a good idea to consume these. Just having them in your possession makes you uncomfortable."
+  },
+  {
+    "HeaderOffset": 587,
+    "StartTextOffset": 593,
+    "EndTextOffset": 609,
+    "Text": "Food.MysteryCandy"
+  },
+  {
+    "HeaderOffset": 840,
+    "StartTextOffset": 846,
+    "EndTextOffset": 860,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 886,
+    "StartTextOffset": 892,
+    "EndTextOffset": 899,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 900,
+    "StartTextOffset": 906,
+    "EndTextOffset": 917,
+    "Text": "mysteryCandy"
+  },
+  {
+    "HeaderOffset": 927,
+    "StartTextOffset": 933,
+    "EndTextOffset": 940,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 941,
+    "StartTextOffset": 947,
+    "EndTextOffset": 959,
+    "Text": "Mystery Candy"
+  }
+]

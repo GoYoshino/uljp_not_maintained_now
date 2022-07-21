@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 247,
+    "Text": "food.cannedMushrooms"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 269,
+    "Text": "Canned Mushrooms"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 541,
+    "Text": "A can of mixed dried mushrooms. The food inside has been exposed to ionizing radiation in order to eliminate microorganisms and insects. The process does not make the food radioactive but instead ensures extremely long shelf life."
+  },
+  {
+    "HeaderOffset": 542,
+    "StartTextOffset": 548,
+    "EndTextOffset": 553,
+    "Text": "Food.9"
+  },
+  {
+    "HeaderOffset": 783,
+    "StartTextOffset": 789,
+    "EndTextOffset": 803,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 829,
+    "StartTextOffset": 835,
+    "EndTextOffset": 842,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 843,
+    "StartTextOffset": 849,
+    "EndTextOffset": 863,
+    "Text": "cannedMushrooms"
+  },
+  {
+    "HeaderOffset": 873,
+    "StartTextOffset": 879,
+    "EndTextOffset": 886,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 887,
+    "StartTextOffset": 893,
+    "EndTextOffset": 908,
+    "Text": "Canned Mushrooms"
+  }
+]

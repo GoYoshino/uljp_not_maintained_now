@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 246,
+    "Text": "plasmaMine2"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 269,
+    "Text": "Plasma Mine Mk II"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 412,
+    "Text": "This mine discharges powerful plasma explosion when triggered, dealing heavy damage to nearby targets."
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 395,
+    "Text": "his mine discharges powerful plasma explosion when triggered, dealing heavy damage t"
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 432,
+    "Text": "Explosives.171"
+  },
+  {
+    "HeaderOffset": 654,
+    "StartTextOffset": 660,
+    "EndTextOffset": 674,
+    "Text": "PlacePlasmaMine"
+  },
+  {
+    "HeaderOffset": 701,
+    "StartTextOffset": 707,
+    "EndTextOffset": 711,
+    "Text": "power"
+  }
+]

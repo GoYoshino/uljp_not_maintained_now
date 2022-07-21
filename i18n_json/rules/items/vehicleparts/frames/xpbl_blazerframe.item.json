@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 455,
+    "StartTextOffset": 461,
+    "EndTextOffset": 476,
+    "Text": "xpbl_blazerFrame"
+  },
+  {
+    "HeaderOffset": 477,
+    "StartTextOffset": 483,
+    "EndTextOffset": 494,
+    "Text": "Blazer Frame"
+  },
+  {
+    "HeaderOffset": 531,
+    "StartTextOffset": 537,
+    "EndTextOffset": 542,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1036,
+    "StartTextOffset": 1042,
+    "EndTextOffset": 1052,
+    "Text": "xpbl_blazer"
+  },
+  {
+    "HeaderOffset": 1119,
+    "StartTextOffset": 1125,
+    "EndTextOffset": 1136,
+    "Text": "VehicleTurbo"
+  }
+]

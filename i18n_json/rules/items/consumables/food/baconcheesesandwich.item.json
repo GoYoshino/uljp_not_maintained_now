@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 251,
+    "Text": "food.baconCheeseSandwich"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 282,
+    "Text": "Bacon and Cheese Sandwich"
+  },
+  {
+    "HeaderOffset": 318,
+    "StartTextOffset": 324,
+    "EndTextOffset": 335,
+    "Text": "Mmmm, bacon."
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 347,
+    "Text": "Food.6"
+  },
+  {
+    "HeaderOffset": 577,
+    "StartTextOffset": 583,
+    "EndTextOffset": 597,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 623,
+    "StartTextOffset": 629,
+    "EndTextOffset": 636,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 637,
+    "StartTextOffset": 643,
+    "EndTextOffset": 661,
+    "Text": "baconCheeseSandwich"
+  },
+  {
+    "HeaderOffset": 671,
+    "StartTextOffset": 677,
+    "EndTextOffset": 684,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 685,
+    "StartTextOffset": 691,
+    "EndTextOffset": 715,
+    "Text": "Bacon and Cheese Sandwich"
+  }
+]

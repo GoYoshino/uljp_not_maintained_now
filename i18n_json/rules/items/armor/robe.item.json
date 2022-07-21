@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 425,
+    "Text": "robe"
+  },
+  {
+    "HeaderOffset": 426,
+    "StartTextOffset": 432,
+    "EndTextOffset": 435,
+    "Text": "Robe"
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 491,
+    "Text": "Plain old robe."
+  },
+  {
+    "HeaderOffset": 492,
+    "StartTextOffset": 498,
+    "EndTextOffset": 506,
+    "Text": "Armors.45"
+  },
+  {
+    "HeaderOffset": 809,
+    "StartTextOffset": 815,
+    "EndTextOffset": 824,
+    "Text": "Perception"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 412,
+    "StartTextOffset": 418,
+    "EndTextOffset": 434,
+    "Text": "giantCrabCarapace"
+  },
+  {
+    "HeaderOffset": 435,
+    "StartTextOffset": 441,
+    "EndTextOffset": 459,
+    "Text": "Giant Crab Carapace"
+  },
+  {
+    "HeaderOffset": 495,
+    "StartTextOffset": 501,
+    "EndTextOffset": 546,
+    "Text": "Giant crab carapace is tough but rather heavy."
+  },
+  {
+    "HeaderOffset": 547,
+    "StartTextOffset": 553,
+    "EndTextOffset": 580,
+    "Text": "Components.GiantCrabCarapace"
+  },
+  {
+    "HeaderOffset": 1099,
+    "StartTextOffset": 1105,
+    "EndTextOffset": 1113,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1127,
+    "StartTextOffset": 1133,
+    "EndTextOffset": 1139,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1169,
+    "StartTextOffset": 1175,
+    "EndTextOffset": 1185,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1186,
+    "StartTextOffset": 1192,
+    "EndTextOffset": 1201,
+    "Text": "Giant Crab"
+  },
+  {
+    "HeaderOffset": 1211,
+    "StartTextOffset": 1217,
+    "EndTextOffset": 1232,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1233,
+    "StartTextOffset": 1239,
+    "EndTextOffset": 1320,
+    "Text": "It's reinforced with giant crab carapace that increases the penetration threshold."
+  },
+  {
+    "HeaderOffset": 1330,
+    "StartTextOffset": 1336,
+    "EndTextOffset": 1343,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1344,
+    "StartTextOffset": 1350,
+    "EndTextOffset": 1368,
+    "Text": "Giant Crab Carapace"
+  },
+  {
+    "HeaderOffset": 1395,
+    "StartTextOffset": 1401,
+    "EndTextOffset": 1414,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1428,
+    "StartTextOffset": 1434,
+    "EndTextOffset": 1448,
+    "Text": "ShieldShortName"
+  },
+  {
+    "HeaderOffset": 1449,
+    "StartTextOffset": 1455,
+    "EndTextOffset": 1464,
+    "Text": "Giant Crab"
+  }
+]

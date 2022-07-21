@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 263,
+    "Text": "psiMentor.PsiCognitiveInterruption"
+  },
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 311,
+    "Text": "Psionic Mentor: Psi-cognitive Interruption"
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 475,
+    "Text": "This device can be used to automatically teach yourself Psi-cognitive Interruption psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 437,
+    "Text": "his device can be used to automatically teach yourself Psi-cognitive Interruption ps"
+  },
+  {
+    "HeaderOffset": 476,
+    "StartTextOffset": 482,
+    "EndTextOffset": 500,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 633,
+    "StartTextOffset": 639,
+    "EndTextOffset": 662,
+    "Text": "PsiCognitiveInterruption"
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 746,
+    "Text": "PsiMentorConsumation"
+  }
+]

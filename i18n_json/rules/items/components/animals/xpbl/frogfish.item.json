@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 310,
+    "Text": "Fish.Frogfish"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 324,
+    "Text": "Frogfish"
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 403,
+    "Text": "Small, short, stocky, ugly anglerfish."
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 416,
+    "Text": "Food.50"
+  },
+  {
+    "HeaderOffset": 689,
+    "StartTextOffset": 695,
+    "EndTextOffset": 701,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 743,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 744,
+    "StartTextOffset": 750,
+    "EndTextOffset": 761,
+    "Text": "FusingEnzyme"
+  }
+]

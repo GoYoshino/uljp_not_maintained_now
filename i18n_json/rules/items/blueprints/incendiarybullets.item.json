@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 256,
+    "Text": "incendiaryBulletsBlueprint"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 291,
+    "Text": "Blueprint: Incendiary Bullets"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 396,
+    "Text": "Contains instructions on how to create 8.6mm incendiary bullets."
+  },
+  {
+    "HeaderOffset": 397,
+    "StartTextOffset": 403,
+    "EndTextOffset": 411,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 544,
+    "StartTextOffset": 550,
+    "EndTextOffset": 566,
+    "Text": "incendiaryBullets"
+  },
+  {
+    "HeaderOffset": 625,
+    "StartTextOffset": 631,
+    "EndTextOffset": 650,
+    "Text": "blueprintconsumation"
+  }
+]

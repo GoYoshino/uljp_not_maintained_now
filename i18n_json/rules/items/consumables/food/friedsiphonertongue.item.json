@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 258,
+    "Text": "food.friedSiphonerTongue"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 285,
+    "Text": "Fried Siphoner Tongue"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 410,
+    "Text": "Can be impossible to chew through if prepared untenderized, but otherwise delicious."
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 394,
+    "Text": "an be impossible to chew through if prepared untenderized, but othe"
+  },
+  {
+    "HeaderOffset": 411,
+    "StartTextOffset": 417,
+    "EndTextOffset": 440,
+    "Text": "Food.FriedSiphonerTongue"
+  },
+  {
+    "HeaderOffset": 671,
+    "StartTextOffset": 677,
+    "EndTextOffset": 691,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 730,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 755,
+    "Text": "friedSiphonerTongue"
+  },
+  {
+    "HeaderOffset": 765,
+    "StartTextOffset": 771,
+    "EndTextOffset": 778,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 805,
+    "Text": "Fried Siphoner Tongue"
+  }
+]

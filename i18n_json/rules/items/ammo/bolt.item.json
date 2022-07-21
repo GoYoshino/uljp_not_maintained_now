@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 244,
+    "Text": "Ammo.Bolt"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 254,
+    "Text": "Bolt"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 320,
+    "Text": "A standard crossbow bolt."
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 335,
+    "Text": "Ammo.Bolt"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 220,
+    "Text": "capturedHopper"
+  },
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 241,
+    "Text": "Captured Hopper"
+  },
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 309,
+    "Text": "Cave Hopper in a dog crate."
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 321,
+    "Text": "Plot.0"
+  }
+]

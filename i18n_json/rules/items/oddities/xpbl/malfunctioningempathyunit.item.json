@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 257,
+    "Text": "Oddity.MalfunctioningEmpathyUnit"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 290,
+    "Text": "Malfunctioning Empathy Unit"
+  },
+  {
+    "HeaderOffset": 326,
+    "StartTextOffset": 332,
+    "EndTextOffset": 405,
+    "Text": "You can only assume its malfunctioning according to the observed behavior."
+  },
+  {
+    "HeaderOffset": 406,
+    "StartTextOffset": 412,
+    "EndTextOffset": 443,
+    "Text": "Oddity.MalfunctioningEmpathyUnit"
+  }
+]

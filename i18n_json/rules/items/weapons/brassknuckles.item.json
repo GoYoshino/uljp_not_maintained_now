@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 654,
+    "StartTextOffset": 660,
+    "EndTextOffset": 663,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 684,
+    "StartTextOffset": 690,
+    "EndTextOffset": 706,
+    "Text": "wep.brassKnuckles"
+  },
+  {
+    "HeaderOffset": 707,
+    "StartTextOffset": 713,
+    "EndTextOffset": 726,
+    "Text": "Brass Knuckles"
+  },
+  {
+    "HeaderOffset": 762,
+    "StartTextOffset": 768,
+    "EndTextOffset": 800,
+    "Text": "More pain for them, less for you."
+  },
+  {
+    "HeaderOffset": 801,
+    "StartTextOffset": 807,
+    "EndTextOffset": 826,
+    "Text": "Weapon.BrassKnuckles"
+  }
+]

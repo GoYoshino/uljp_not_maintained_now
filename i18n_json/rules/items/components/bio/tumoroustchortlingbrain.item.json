@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 313,
+    "Text": "tumorousTchortlingBrain"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 344,
+    "Text": "Tumorous Tchortling Brain"
+  },
+  {
+    "HeaderOffset": 380,
+    "StartTextOffset": 386,
+    "EndTextOffset": 429,
+    "Text": "A tchortling's brain with a tumorous growth."
+  },
+  {
+    "HeaderOffset": 430,
+    "StartTextOffset": 436,
+    "EndTextOffset": 461,
+    "Text": "Components.TchortlingBrain"
+  },
+  {
+    "HeaderOffset": 733,
+    "StartTextOffset": 739,
+    "EndTextOffset": 745,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 775,
+    "StartTextOffset": 781,
+    "EndTextOffset": 787,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 788,
+    "StartTextOffset": 794,
+    "EndTextOffset": 811,
+    "Text": "PrednisoneSolution"
+  }
+]

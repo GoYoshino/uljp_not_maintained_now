@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 294,
+    "Text": "cryogenicCollector"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 319,
+    "Text": "Cryogenic Collector"
+  },
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 433,
+    "Text": "Used in creating chemical weaponry to store and funnel cryogenic liquids."
+  },
+  {
+    "HeaderOffset": 434,
+    "StartTextOffset": 440,
+    "EndTextOffset": 463,
+    "Text": "Items.CryogenicCollector"
+  },
+  {
+    "HeaderOffset": 764,
+    "StartTextOffset": 770,
+    "EndTextOffset": 778,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 809,
+    "StartTextOffset": 815,
+    "EndTextOffset": 833,
+    "Text": "ChemicalPistolIndex"
+  },
+  {
+    "HeaderOffset": 863,
+    "StartTextOffset": 869,
+    "EndTextOffset": 885,
+    "Text": "ChemicalSubstance"
+  },
+  {
+    "HeaderOffset": 886,
+    "StartTextOffset": 892,
+    "EndTextOffset": 901,
+    "Text": "Cryoliquid"
+  },
+  {
+    "HeaderOffset": 927,
+    "StartTextOffset": 933,
+    "EndTextOffset": 966,
+    "Text": "ChemicalPistolCollectorBonusText_1"
+  },
+  {
+    "HeaderOffset": 967,
+    "StartTextOffset": 973,
+    "EndTextOffset": 1067,
+    "Text": "Every shot from this pistol chills the target and has a chance to completely freeze it as well."
+  }
+]

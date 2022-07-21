@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 326,
+    "StartTextOffset": 332,
+    "EndTextOffset": 336,
+    "Text": "MQSNE"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 389,
+    "Text": "commandoBelt"
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 408,
+    "Text": "Commando Belt"
+  },
+  {
+    "HeaderOffset": 444,
+    "StartTextOffset": 450,
+    "EndTextOffset": 486,
+    "Text": "A belt for a truly universal soldier."
+  },
+  {
+    "HeaderOffset": 487,
+    "StartTextOffset": 493,
+    "EndTextOffset": 510,
+    "Text": "Armor.CommandoBelt"
+  },
+  {
+    "HeaderOffset": 918,
+    "StartTextOffset": 924,
+    "EndTextOffset": 931,
+    "Text": "Throwing"
+  }
+]

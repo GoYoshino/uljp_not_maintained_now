@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 298,
+    "Text": "organicGelElectrolyte"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 327,
+    "Text": "Organic Gel Electrolyte"
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 461,
+    "Text": "This is a strong organic non-corrosive gel electrolyte. It's often used for medical purposes."
+  },
+  {
+    "HeaderOffset": 364,
+    "StartTextOffset": 370,
+    "EndTextOffset": 453,
+    "Text": "his is a strong organic non-corrosive gel electrolyte. It's often used for medical p"
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 494,
+    "Text": "Items.OrganicGelElectrolyte"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 757,
+    "Text": "Biology"
+  }
+]

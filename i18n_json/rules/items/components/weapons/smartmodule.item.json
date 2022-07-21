@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 287,
+    "Text": "smartModule"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 305,
+    "Text": "Smart Module"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 521,
+    "Text": "This piece of hardware can be integrated into energy weapons and firearms during crafting. It runs targeting assistance software that increases efficiency of precision shots."
+  },
+  {
+    "HeaderOffset": 522,
+    "StartTextOffset": 528,
+    "EndTextOffset": 549,
+    "Text": "Components.SmartModule"
+  },
+  {
+    "HeaderOffset": 793,
+    "StartTextOffset": 799,
+    "EndTextOffset": 809,
+    "Text": "Electronics"
+  }
+]

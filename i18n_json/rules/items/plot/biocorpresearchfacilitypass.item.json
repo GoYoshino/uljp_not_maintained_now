@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 192,
+    "StartTextOffset": 198,
+    "EndTextOffset": 219,
+    "Text": "ccResearchFacilityPass"
+  },
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 255,
+    "Text": "Biocorp Research Facility Pass"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 377,
+    "Text": "This is a security pass for one of the old Biocorp Core City research facilities."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 391,
+    "Text": "Plot.110"
+  }
+]

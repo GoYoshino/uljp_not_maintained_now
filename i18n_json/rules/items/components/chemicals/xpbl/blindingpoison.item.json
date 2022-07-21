@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 333,
+    "Text": "poison.BlindingPoison"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 354,
+    "Text": "Blinding Poison"
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 575,
+    "Text": "This is a vial of blinding poison extracted from a giant creeper. When injected into the victim it can cause vomiting, blurring of sight and tissue necrosis at the injection spot."
+  },
+  {
+    "HeaderOffset": 576,
+    "StartTextOffset": 582,
+    "EndTextOffset": 606,
+    "Text": "Components.BlindingPoison"
+  },
+  {
+    "HeaderOffset": 895,
+    "StartTextOffset": 901,
+    "EndTextOffset": 916,
+    "Text": "applyGearBooster"
+  },
+  {
+    "HeaderOffset": 950,
+    "StartTextOffset": 956,
+    "EndTextOffset": 962,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1003,
+    "StartTextOffset": 1009,
+    "EndTextOffset": 1019,
+    "Text": "GearBooster"
+  },
+  {
+    "HeaderOffset": 1050,
+    "StartTextOffset": 1056,
+    "EndTextOffset": 1065,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 1066,
+    "StartTextOffset": 1072,
+    "EndTextOffset": 1090,
+    "Text": "Xpbl\\BlindingPoison"
+  }
+]

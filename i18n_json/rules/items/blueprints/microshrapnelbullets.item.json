@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 259,
+    "Text": "microShrapnelBulletsBlueprint"
+  },
+  {
+    "HeaderOffset": 260,
+    "StartTextOffset": 266,
+    "EndTextOffset": 298,
+    "Text": "Blueprint: Micro-Shrapnel Bullets"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 408,
+    "Text": "Contains instructions on how to create 7.62mm micro-shrapnel bullets."
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 407,
+    "Text": "ontains instructions on how to create 7.62mm micro-shrapnel bullets"
+  },
+  {
+    "HeaderOffset": 409,
+    "StartTextOffset": 415,
+    "EndTextOffset": 423,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 556,
+    "StartTextOffset": 562,
+    "EndTextOffset": 581,
+    "Text": "microShrapnelBullets"
+  },
+  {
+    "HeaderOffset": 640,
+    "StartTextOffset": 646,
+    "EndTextOffset": 665,
+    "Text": "blueprintconsumation"
+  }
+]

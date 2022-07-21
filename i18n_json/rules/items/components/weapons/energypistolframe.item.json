@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 303,
+    "Text": "energyPistolFrame"
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 328,
+    "Text": "Energy Pistol Frame"
+  },
+  {
+    "HeaderOffset": 364,
+    "StartTextOffset": 370,
+    "EndTextOffset": 449,
+    "Text": "You can attach energy emitter and core on this frame to create an energy pistol."
+  },
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 475,
+    "Text": "energyPistol.1.frame"
+  },
+  {
+    "HeaderOffset": 742,
+    "StartTextOffset": 748,
+    "EndTextOffset": 758,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 772,
+    "StartTextOffset": 778,
+    "EndTextOffset": 786,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 817,
+    "StartTextOffset": 823,
+    "EndTextOffset": 839,
+    "Text": "EnergyPistolIndex"
+  }
+]

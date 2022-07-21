@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 705,
+    "StartTextOffset": 711,
+    "EndTextOffset": 720,
+    "Text": "teslaArmor"
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 737,
+    "Text": "Tesla Armor"
+  },
+  {
+    "HeaderOffset": 773,
+    "StartTextOffset": 779,
+    "EndTextOffset": 1157,
+    "Text": "A high-end powered armor. From what you can gather, the suit is made from electroactive materials that exhibit changes in behavior and even physical structure when stimulated by an electric field. Controlling the resulting effects is not such a simple task, as the controls are poorly-labeled and unintuitive, implying that this suit was likely a one-off experimental prototype."
+  },
+  {
+    "HeaderOffset": 1158,
+    "StartTextOffset": 1164,
+    "EndTextOffset": 1176,
+    "Text": "xpbl_Armors.4"
+  },
+  {
+    "HeaderOffset": 1570,
+    "StartTextOffset": 1576,
+    "EndTextOffset": 1583,
+    "Text": "xpbl_tsl"
+  },
+  {
+    "HeaderOffset": 1737,
+    "StartTextOffset": 1743,
+    "EndTextOffset": 1756,
+    "Text": "Electrokinesis"
+  },
+  {
+    "HeaderOffset": 1950,
+    "StartTextOffset": 1956,
+    "EndTextOffset": 1962,
+    "Text": "Stealth"
+  },
+  {
+    "HeaderOffset": 1988,
+    "StartTextOffset": 1994,
+    "EndTextOffset": 2009,
+    "Text": "ElectroshockAura"
+  },
+  {
+    "HeaderOffset": 2019,
+    "StartTextOffset": 2025,
+    "EndTextOffset": 2045,
+    "Text": "MetallineEnergization"
+  },
+  {
+    "HeaderOffset": 2055,
+    "StartTextOffset": 2061,
+    "EndTextOffset": 2083,
+    "Text": "EnergyShieldEmpowerment"
+  }
+]

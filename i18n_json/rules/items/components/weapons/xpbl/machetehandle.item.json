@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 302,
+    "Text": "macheteHandle"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 322,
+    "Text": "Machete Handle"
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 402,
+    "Text": "Attach the blade and you're good to go."
+  },
+  {
+    "HeaderOffset": 403,
+    "StartTextOffset": 409,
+    "EndTextOffset": 426,
+    "Text": "xpbl_Components.10"
+  },
+  {
+    "HeaderOffset": 672,
+    "StartTextOffset": 678,
+    "EndTextOffset": 686,
+    "Text": "Mechanics"
+  }
+]

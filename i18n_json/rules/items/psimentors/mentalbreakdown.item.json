@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 267,
+    "Text": "psiMentor.MentalBreakdown"
+  },
+  {
+    "HeaderOffset": 268,
+    "StartTextOffset": 274,
+    "EndTextOffset": 305,
+    "Text": "Psionic Mentor: Mental Breakdown"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 459,
+    "Text": "This device can be used to automatically teach yourself Mental Breakdown psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 342,
+    "StartTextOffset": 348,
+    "EndTextOffset": 431,
+    "Text": "his device can be used to automatically teach yourself Mental Breakdown psi ability "
+  },
+  {
+    "HeaderOffset": 460,
+    "StartTextOffset": 466,
+    "EndTextOffset": 484,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 619,
+    "StartTextOffset": 625,
+    "EndTextOffset": 639,
+    "Text": "MentalBreakdown"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 723,
+    "Text": "PsiMentorConsumation"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 241,
+    "Text": "Oddity.OldDiversHelmet"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 265,
+    "Text": "Old Diver's Helmet"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 373,
+    "Text": "Old and rusty diver's helmet. Doesn't look fit for purpose anymore."
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 401,
+    "Text": "Oddity.OldDiversHelmet"
+  }
+]

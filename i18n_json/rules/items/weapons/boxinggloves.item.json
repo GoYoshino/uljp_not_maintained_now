@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 742,
+    "StartTextOffset": 748,
+    "EndTextOffset": 751,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 813,
+    "Text": "wep.boxingGloves"
+  },
+  {
+    "HeaderOffset": 814,
+    "StartTextOffset": 820,
+    "EndTextOffset": 832,
+    "Text": "Boxing Gloves"
+  },
+  {
+    "HeaderOffset": 868,
+    "StartTextOffset": 874,
+    "EndTextOffset": 897,
+    "Text": "A pair of boxing gloves."
+  },
+  {
+    "HeaderOffset": 898,
+    "StartTextOffset": 904,
+    "EndTextOffset": 922,
+    "Text": "Weapon.BoxingGloves"
+  },
+  {
+    "HeaderOffset": 1800,
+    "StartTextOffset": 1806,
+    "EndTextOffset": 1809,
+    "Text": "daze"
+  }
+]

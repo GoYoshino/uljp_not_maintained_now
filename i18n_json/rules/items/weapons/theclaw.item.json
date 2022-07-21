@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 746,
+    "StartTextOffset": 752,
+    "EndTextOffset": 755,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 804,
+    "StartTextOffset": 810,
+    "EndTextOffset": 820,
+    "Text": "wep.theClaw"
+  },
+  {
+    "HeaderOffset": 821,
+    "StartTextOffset": 827,
+    "EndTextOffset": 834,
+    "Text": "The Claw"
+  },
+  {
+    "HeaderOffset": 870,
+    "StartTextOffset": 876,
+    "EndTextOffset": 943,
+    "Text": "An improvised weapon made from the paw and the claws of a rathound. "
+  },
+  {
+    "HeaderOffset": 944,
+    "StartTextOffset": 950,
+    "EndTextOffset": 963,
+    "Text": "Weapon.TheClaw"
+  },
+  {
+    "HeaderOffset": 1716,
+    "StartTextOffset": 1722,
+    "EndTextOffset": 1734,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 1757,
+    "StartTextOffset": 1763,
+    "EndTextOffset": 1773,
+    "Text": "contaminate"
+  },
+  {
+    "HeaderOffset": 1879,
+    "StartTextOffset": 1885,
+    "EndTextOffset": 1893,
+    "Text": "CanPoison"
+  }
+]

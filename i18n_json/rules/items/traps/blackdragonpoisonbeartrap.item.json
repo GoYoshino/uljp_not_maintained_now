@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 265,
+    "Text": "trap.blackDragonPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 266,
+    "StartTextOffset": 272,
+    "EndTextOffset": 300,
+    "Text": "Black Dragon Poison Bear Trap"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 557,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim. As if the excruciating pain of having your foot caught in one of these wasn't enough, the metal jaws have also been coated with black dragon poison."
+  },
+  {
+    "HeaderOffset": 558,
+    "StartTextOffset": 564,
+    "EndTextOffset": 576,
+    "Text": "Explosives.94"
+  },
+  {
+    "HeaderOffset": 817,
+    "StartTextOffset": 823,
+    "EndTextOffset": 852,
+    "Text": "PlaceBlackDragonPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 878,
+    "StartTextOffset": 884,
+    "EndTextOffset": 893,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 894,
+    "StartTextOffset": 900,
+    "EndTextOffset": 916,
+    "Text": "BlackDragonPoison"
+  },
+  {
+    "HeaderOffset": 926,
+    "StartTextOffset": 932,
+    "EndTextOffset": 941,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 942,
+    "StartTextOffset": 948,
+    "EndTextOffset": 966,
+    "Text": "Black Dragon Poison"
+  }
+]

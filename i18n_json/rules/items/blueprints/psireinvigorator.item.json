@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 226,
+    "StartTextOffset": 232,
+    "EndTextOffset": 259,
+    "Text": "Blueprint: Psi Reinvigorator"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 360,
+    "Text": "Contains instructions on how to concoct a psi reinvigorator."
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 375,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 508,
+    "StartTextOffset": 514,
+    "EndTextOffset": 529,
+    "Text": "PsiReinvigorator"
+  },
+  {
+    "HeaderOffset": 588,
+    "StartTextOffset": 594,
+    "EndTextOffset": 613,
+    "Text": "blueprintconsumation"
+  }
+]

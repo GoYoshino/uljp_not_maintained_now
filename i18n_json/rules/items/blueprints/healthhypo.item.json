@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 250,
+    "Text": "blueprint.healthHypo"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 278,
+    "Text": "Blueprint: Health Hypo"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 372,
+    "Text": "Contains instructions on how to create a health hypo."
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 387,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 520,
+    "StartTextOffset": 526,
+    "EndTextOffset": 535,
+    "Text": "healthHypo"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 619,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 310,
+    "Text": "Psychokinetic Modulator"
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 438,
+    "Text": "This psionic modulator is designed specifically to enhance the wearer's psychokinetics."
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 458,
+    "Text": "Components.203"
+  },
+  {
+    "HeaderOffset": 763,
+    "StartTextOffset": 769,
+    "EndTextOffset": 779,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 793,
+    "StartTextOffset": 799,
+    "EndTextOffset": 805,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 844,
+    "StartTextOffset": 850,
+    "EndTextOffset": 858,
+    "Text": "PsiSchool"
+  },
+  {
+    "HeaderOffset": 917,
+    "StartTextOffset": 923,
+    "EndTextOffset": 936,
+    "Text": "BaseSkillBonus"
+  },
+  {
+    "HeaderOffset": 971,
+    "StartTextOffset": 977,
+    "EndTextOffset": 996,
+    "Text": "SkillBonusPerQuality"
+  }
+]

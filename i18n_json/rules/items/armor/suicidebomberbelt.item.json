@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 381,
+    "Text": "MQSNE"
+  },
+  {
+    "HeaderOffset": 464,
+    "StartTextOffset": 470,
+    "EndTextOffset": 486,
+    "Text": "suicideBomberBelt"
+  },
+  {
+    "HeaderOffset": 487,
+    "StartTextOffset": 493,
+    "EndTextOffset": 517,
+    "Text": "Master Demolitionist Belt"
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 683,
+    "Text": "A custom-made grenade belt that has the potential of turning its wearer into walking fireworks. Only for the most dominating."
+  },
+  {
+    "HeaderOffset": 554,
+    "StartTextOffset": 560,
+    "EndTextOffset": 624,
+    "Text": " custom-made grenade belt that has the potential of turning its w"
+  },
+  {
+    "HeaderOffset": 684,
+    "StartTextOffset": 690,
+    "EndTextOffset": 707,
+    "Text": "suicideBombersBelt"
+  },
+  {
+    "HeaderOffset": 1174,
+    "StartTextOffset": 1180,
+    "EndTextOffset": 1191,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1264,
+    "StartTextOffset": 1270,
+    "EndTextOffset": 1276,
+    "Text": "Agility"
+  },
+  {
+    "HeaderOffset": 1388,
+    "StartTextOffset": 1394,
+    "EndTextOffset": 1403,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1495,
+    "StartTextOffset": 1501,
+    "EndTextOffset": 1520,
+    "Text": "UseSuicideBomberBelt"
+  }
+]

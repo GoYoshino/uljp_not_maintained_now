@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 202,
+    "StartTextOffset": 208,
+    "EndTextOffset": 218,
+    "Text": "currency.sc"
+  },
+  {
+    "HeaderOffset": 219,
+    "StartTextOffset": 225,
+    "EndTextOffset": 236,
+    "Text": "Stygian Coin"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 514,
+    "Text": "This light stainless super steel coin is engraved with an image of Charon, the mythic Stygian ferryman. It's the most common currency in the south Underrail because its value is derived directly from the value of the metal it's made of."
+  },
+  {
+    "HeaderOffset": 515,
+    "StartTextOffset": 521,
+    "EndTextOffset": 527,
+    "Text": "Plot.31"
+  }
+]

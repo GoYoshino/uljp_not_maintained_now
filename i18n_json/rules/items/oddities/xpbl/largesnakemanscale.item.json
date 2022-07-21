@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 250,
+    "Text": "Oddity.LargeSnakemanScale"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 276,
+    "Text": "Large Snakeman Scale"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 370,
+    "Text": "A large scale from a mutated native of the Black Sea."
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 401,
+    "Text": "Oddity.LargeSnakemanScale"
+  }
+]

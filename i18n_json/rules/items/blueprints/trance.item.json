@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 246,
+    "Text": "blueprint.trance"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 269,
+    "Text": "Blueprint: Trance"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 365,
+    "Text": "Contains instructions on how to create a \"trance\" shot."
+  },
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 380,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 513,
+    "StartTextOffset": 519,
+    "EndTextOffset": 524,
+    "Text": "trance"
+  },
+  {
+    "HeaderOffset": 583,
+    "StartTextOffset": 589,
+    "EndTextOffset": 608,
+    "Text": "blueprintconsumation"
+  }
+]

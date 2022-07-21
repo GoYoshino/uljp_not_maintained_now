@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 248,
+    "Text": "cocktail.allin"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 260,
+    "Text": "All-in"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 401,
+    "Text": "Tastes like determination and commitment. Adrenal gland droplets were used in the making this drink."
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 386,
+    "Text": "astes like determination and commitment. Adrenal gland droplets were used in the mak"
+  },
+  {
+    "HeaderOffset": 402,
+    "StartTextOffset": 408,
+    "EndTextOffset": 417,
+    "Text": "Food.AllIn"
+  },
+  {
+    "HeaderOffset": 648,
+    "StartTextOffset": 654,
+    "EndTextOffset": 668,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 694,
+    "StartTextOffset": 700,
+    "EndTextOffset": 707,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 708,
+    "StartTextOffset": 714,
+    "EndTextOffset": 718,
+    "Text": "allIn"
+  },
+  {
+    "HeaderOffset": 728,
+    "StartTextOffset": 734,
+    "EndTextOffset": 741,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 742,
+    "StartTextOffset": 748,
+    "EndTextOffset": 753,
+    "Text": "All-in"
+  }
+]

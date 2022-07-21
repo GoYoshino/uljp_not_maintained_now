@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 235,
+    "Text": "Oddity.FluorescentSnout"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 258,
+    "Text": "Fluorescent Snout"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 384,
+    "Text": "You wonder if this was a result of some genetic experiment or just a random mutation."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 413,
+    "Text": "Oddity.FluorescentSnout"
+  }
+]

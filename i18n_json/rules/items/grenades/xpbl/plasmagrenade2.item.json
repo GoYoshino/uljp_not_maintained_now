@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 238,
+    "Text": "plasmaGrande2"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 264,
+    "Text": "Plasma Grenade Mk II"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 407,
+    "Text": "This grenade discharges a powerful plasma explosion on impact, dealing heavy damage to nearby targets."
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 390,
+    "Text": "his grenade discharges a powerful plasma explosion on impact, dealing heavy damage t"
+  },
+  {
+    "HeaderOffset": 408,
+    "StartTextOffset": 414,
+    "EndTextOffset": 426,
+    "Text": "Explosives.44"
+  },
+  {
+    "HeaderOffset": 637,
+    "StartTextOffset": 643,
+    "EndTextOffset": 653,
+    "Text": "plasmaThrow"
+  },
+  {
+    "HeaderOffset": 680,
+    "StartTextOffset": 686,
+    "EndTextOffset": 690,
+    "Text": "power"
+  }
+]

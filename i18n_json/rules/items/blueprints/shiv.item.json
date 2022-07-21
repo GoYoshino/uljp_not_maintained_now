@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 257,
+    "Text": "blueprint.shiv"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 278,
+    "Text": "Blueprint: Shiv"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 399,
+    "Text": "Contains detailed step-by-step instructions on the ancient art of making a shiv."
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 387,
+    "Text": "ontains detailed step-by-step instructions on the ancient art of ma"
+  },
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 414,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 549,
+    "StartTextOffset": 555,
+    "EndTextOffset": 558,
+    "Text": "shiv"
+  },
+  {
+    "HeaderOffset": 617,
+    "StartTextOffset": 623,
+    "EndTextOffset": 642,
+    "Text": "blueprintconsumation"
+  }
+]

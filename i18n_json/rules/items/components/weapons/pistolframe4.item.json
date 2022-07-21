@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 308,
+    "Text": "pistolFrame4"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 336,
+    "Text": "Pistol Frame: Falchion"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 465,
+    "Text": "This frame is used to create a Falchion type pistol. It supports 7.62mm and 9mm barrels."
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 462,
+    "Text": "his frame is used to create a Falchion type pistol. It supports 7.62mm and 9mm barre"
+  },
+  {
+    "HeaderOffset": 466,
+    "StartTextOffset": 472,
+    "EndTextOffset": 485,
+    "Text": "pistol.4.frame"
+  },
+  {
+    "HeaderOffset": 789,
+    "StartTextOffset": 795,
+    "EndTextOffset": 803,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 833,
+    "StartTextOffset": 839,
+    "EndTextOffset": 842,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 843,
+    "StartTextOffset": 849,
+    "EndTextOffset": 856,
+    "Text": "Falchion"
+  },
+  {
+    "HeaderOffset": 907,
+    "StartTextOffset": 913,
+    "EndTextOffset": 932,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 964,
+    "StartTextOffset": 970,
+    "EndTextOffset": 991,
+    "Text": "CriticalChanceModifier"
+  }
+]

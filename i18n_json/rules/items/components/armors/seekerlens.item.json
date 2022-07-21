@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 310,
+    "Text": "Seeker Lens"
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 461,
+    "Text": "The seeker lens is specially designed to interface with the targeting system to highlight target's weak spots."
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 436,
+    "Text": "he seeker lens is specially designed to interface with the targeting system to highl"
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 488,
+    "Text": "Components.SeekerLens"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 846,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 860,
+    "StartTextOffset": 866,
+    "EndTextOffset": 876,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 907,
+    "StartTextOffset": 913,
+    "EndTextOffset": 925,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 955,
+    "StartTextOffset": 961,
+    "EndTextOffset": 970,
+    "Text": "DescPlural"
+  },
+  {
+    "HeaderOffset": 971,
+    "StartTextOffset": 977,
+    "EndTextOffset": 989,
+    "Text": "seeker lenses"
+  },
+  {
+    "HeaderOffset": 1015,
+    "StartTextOffset": 1021,
+    "EndTextOffset": 1030,
+    "Text": "NamePrefix"
+  },
+  {
+    "HeaderOffset": 1031,
+    "StartTextOffset": 1037,
+    "EndTextOffset": 1042,
+    "Text": "Seeker"
+  },
+  {
+    "HeaderOffset": 1069,
+    "StartTextOffset": 1075,
+    "EndTextOffset": 1093,
+    "Text": "BaseCritChanceBonus"
+  },
+  {
+    "HeaderOffset": 1128,
+    "StartTextOffset": 1134,
+    "EndTextOffset": 1158,
+    "Text": "CritChanceBonusPerQuality"
+  }
+]

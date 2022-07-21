@@ -1,0 +1,98 @@
+[
+  {
+    "HeaderOffset": 435,
+    "StartTextOffset": 441,
+    "EndTextOffset": 450,
+    "Text": "supersteel"
+  },
+  {
+    "HeaderOffset": 451,
+    "StartTextOffset": 457,
+    "EndTextOffset": 474,
+    "Text": "Super Steel Plates"
+  },
+  {
+    "HeaderOffset": 510,
+    "StartTextOffset": 516,
+    "EndTextOffset": 701,
+    "Text": "A set of \"Super Steel\" plates - a very light, ductile, malleable and conductive metal alloy. Its tensile strength is unmatched among metal alloys, approaching that of pure carbon fiber."
+  },
+  {
+    "HeaderOffset": 702,
+    "StartTextOffset": 708,
+    "EndTextOffset": 721,
+    "Text": "Components.123"
+  },
+  {
+    "HeaderOffset": 1403,
+    "StartTextOffset": 1409,
+    "EndTextOffset": 1417,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1447,
+    "StartTextOffset": 1453,
+    "EndTextOffset": 1460,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1461,
+    "StartTextOffset": 1467,
+    "EndTextOffset": 1477,
+    "Text": "Super Steel"
+  },
+  {
+    "HeaderOffset": 1504,
+    "StartTextOffset": 1510,
+    "EndTextOffset": 1521,
+    "Text": "IsMetalPlate"
+  },
+  {
+    "HeaderOffset": 1549,
+    "StartTextOffset": 1555,
+    "EndTextOffset": 1567,
+    "Text": "MaterialIndex"
+  },
+  {
+    "HeaderOffset": 1598,
+    "StartTextOffset": 1604,
+    "EndTextOffset": 1621,
+    "Text": "HelmetCritModifier"
+  },
+  {
+    "HeaderOffset": 1656,
+    "StartTextOffset": 1662,
+    "EndTextOffset": 1675,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1706,
+    "StartTextOffset": 1712,
+    "EndTextOffset": 1724,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1755,
+    "StartTextOffset": 1761,
+    "EndTextOffset": 1773,
+    "Text": "GloveEnhIndex"
+  },
+  {
+    "HeaderOffset": 1811,
+    "StartTextOffset": 1817,
+    "EndTextOffset": 1836,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1889,
+    "StartTextOffset": 1895,
+    "EndTextOffset": 1917,
+    "Text": "MetalArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1918,
+    "StartTextOffset": 1924,
+    "EndTextOffset": 1928,
+    "Text": "mt_ss"
+  }
+]

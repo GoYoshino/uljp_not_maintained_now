@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 245,
+    "Text": "blueprint.taser"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 267,
+    "Text": "Blueprint: Taser"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 355,
+    "Text": "Contains instructions on how to create a taser."
+  },
+  {
+    "HeaderOffset": 356,
+    "StartTextOffset": 362,
+    "EndTextOffset": 370,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 503,
+    "StartTextOffset": 509,
+    "EndTextOffset": 513,
+    "Text": "Taser"
+  },
+  {
+    "HeaderOffset": 572,
+    "StartTextOffset": 578,
+    "EndTextOffset": 597,
+    "Text": "blueprintconsumation"
+  }
+]

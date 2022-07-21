@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 250,
+    "Text": "food.psiBeetleBrainSoup"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 277,
+    "Text": "Psi Beetle Brain Soup"
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 402,
+    "Text": "Highly fatty soup made from diced psi beetle brain and previously roasted mushrooms."
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 391,
+    "Text": "ighly fatty soup made from diced psi beetle brain and previously roasted"
+  },
+  {
+    "HeaderOffset": 403,
+    "StartTextOffset": 409,
+    "EndTextOffset": 431,
+    "Text": "Food.PsiBeetleBrainSoup"
+  },
+  {
+    "HeaderOffset": 661,
+    "StartTextOffset": 667,
+    "EndTextOffset": 681,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 707,
+    "StartTextOffset": 713,
+    "EndTextOffset": 720,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 744,
+    "Text": "psiBeetleBrainSoup"
+  },
+  {
+    "HeaderOffset": 754,
+    "StartTextOffset": 760,
+    "EndTextOffset": 767,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 794,
+    "Text": "Psi Beetle Brain Soup"
+  }
+]

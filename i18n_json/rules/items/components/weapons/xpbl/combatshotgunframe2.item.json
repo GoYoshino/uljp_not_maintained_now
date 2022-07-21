@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 315,
+    "Text": "combatShotgunFrame2"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 342,
+    "Text": "Shotgun Frame: Despot"
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 441,
+    "Text": "This frame is used to create a Despot type combat shotgun."
+  },
+  {
+    "HeaderOffset": 442,
+    "StartTextOffset": 448,
+    "EndTextOffset": 468,
+    "Text": "combatShotgun.2.frame"
+  },
+  {
+    "HeaderOffset": 867,
+    "StartTextOffset": 873,
+    "EndTextOffset": 881,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 911,
+    "StartTextOffset": 917,
+    "EndTextOffset": 920,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 921,
+    "StartTextOffset": 927,
+    "EndTextOffset": 932,
+    "Text": "Despot"
+  },
+  {
+    "HeaderOffset": 959,
+    "StartTextOffset": 965,
+    "EndTextOffset": 983,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 1022,
+    "StartTextOffset": 1028,
+    "EndTextOffset": 1038,
+    "Text": "ShotgunType"
+  },
+  {
+    "HeaderOffset": 1104,
+    "StartTextOffset": 1110,
+    "EndTextOffset": 1129,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1199,
+    "StartTextOffset": 1205,
+    "EndTextOffset": 1221,
+    "Text": "PrecisionModifier"
+  },
+  {
+    "HeaderOffset": 1256,
+    "StartTextOffset": 1262,
+    "EndTextOffset": 1288,
+    "Text": "CriticalDamageBonusModifier"
+  },
+  {
+    "HeaderOffset": 1323,
+    "StartTextOffset": 1329,
+    "EndTextOffset": 1344,
+    "Text": "MagazineModifier"
+  },
+  {
+    "HeaderOffset": 1375,
+    "StartTextOffset": 1381,
+    "EndTextOffset": 1405,
+    "Text": "AttackSpreadAngleModifier"
+  }
+]

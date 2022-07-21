@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 340,
+    "Text": "Magnifying Neuroscopic Filter: Neural Overload"
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 463,
+    "Text": "When added to a psionic device, increases the power of the user's Neural Overload."
+  },
+  {
+    "HeaderOffset": 464,
+    "StartTextOffset": 470,
+    "EndTextOffset": 521,
+    "Text": "Components.MagnifyingNeuroscopicFilterNeuralOverload"
+  },
+  {
+    "HeaderOffset": 865,
+    "StartTextOffset": 871,
+    "EndTextOffset": 881,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 895,
+    "StartTextOffset": 901,
+    "EndTextOffset": 907,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 938,
+    "StartTextOffset": 944,
+    "EndTextOffset": 956,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 990,
+    "StartTextOffset": 996,
+    "EndTextOffset": 1010,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 1011,
+    "StartTextOffset": 1017,
+    "EndTextOffset": 1058,
+    "Text": "1MagnifyingNeuroscopicFilterNeuralOverload"
+  },
+  {
+    "HeaderOffset": 1084,
+    "StartTextOffset": 1090,
+    "EndTextOffset": 1110,
+    "Text": "PsionicHeadbandPrefix"
+  },
+  {
+    "HeaderOffset": 1111,
+    "StartTextOffset": 1117,
+    "EndTextOffset": 1124,
+    "Text": "Scanning"
+  },
+  {
+    "HeaderOffset": 1150,
+    "StartTextOffset": 1156,
+    "EndTextOffset": 1174,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1175,
+    "StartTextOffset": 1181,
+    "EndTextOffset": 1275,
+    "Text": "It's equipped with magnifying neuroscopic filter that amplifies the power of the weaerer's {0}."
+  },
+  {
+    "HeaderOffset": 1301,
+    "StartTextOffset": 1307,
+    "EndTextOffset": 1330,
+    "Text": "CapabilityDamageModified"
+  },
+  {
+    "HeaderOffset": 1331,
+    "StartTextOffset": 1337,
+    "EndTextOffset": 1350,
+    "Text": "NeuralOverload"
+  }
+]

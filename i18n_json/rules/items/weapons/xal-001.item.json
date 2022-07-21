@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 686,
+    "StartTextOffset": 692,
+    "EndTextOffset": 695,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 716,
+    "StartTextOffset": 722,
+    "EndTextOffset": 728,
+    "Text": "XAL-001"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 748,
+    "Text": "XAL-001 Pistol"
+  },
+  {
+    "HeaderOffset": 784,
+    "StartTextOffset": 790,
+    "EndTextOffset": 1303,
+    "Text": "XAL-001 (eXperimental Acid Launcher) is an advanced chemical pistol design that is a product of collaborative effort between both the Preservation and Investigation divisions of the Institute of Tchort. Increased reliability, ergonomics and rate of fire, as well as the ability for multiple attachments; the most important of all is perhaps the chemical extractor that allows for fast and efficient weapon reloading (attachment not included with the prototype); make XAL-001 a milestone in advanced weapon design."
+  },
+  {
+    "HeaderOffset": 785,
+    "StartTextOffset": 791,
+    "EndTextOffset": 794,
+    "Text": "XAL-"
+  },
+  {
+    "HeaderOffset": 1304,
+    "StartTextOffset": 1310,
+    "EndTextOffset": 1316,
+    "Text": "Plot.82"
+  },
+  {
+    "HeaderOffset": 1894,
+    "StartTextOffset": 1900,
+    "EndTextOffset": 1906,
+    "Text": "xal-001"
+  },
+  {
+    "HeaderOffset": 1968,
+    "StartTextOffset": 1974,
+    "EndTextOffset": 1977,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 2027,
+    "StartTextOffset": 2033,
+    "EndTextOffset": 2050,
+    "Text": "acidicEntanglement"
+  },
+  {
+    "HeaderOffset": 2073,
+    "StartTextOffset": 2079,
+    "EndTextOffset": 2086,
+    "Text": "SpewAcid"
+  }
+]

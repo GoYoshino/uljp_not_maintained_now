@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 292,
+    "Text": "psiSomaticAgent"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 315,
+    "Text": "Psi-somatic Agent"
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 446,
+    "Text": "This potent psi-genic chemical can sometimes be extracted from certain parts of the brain."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 441,
+    "Text": "his potent psi-genic chemical can sometimes be extracted from certain parts of the b"
+  },
+  {
+    "HeaderOffset": 447,
+    "StartTextOffset": 453,
+    "EndTextOffset": 478,
+    "Text": "Components.PsiSomaticAgent"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 741,
+    "Text": "Biology"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 246,
+    "Text": "hotwiringKit"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 265,
+    "Text": "Hotwiring Kit"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 373,
+    "Text": "Can be used to hotwire a vehicle in case you've misplaced the keys."
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 390,
+    "Text": "Devices.111"
+  },
+  {
+    "HeaderOffset": 602,
+    "StartTextOffset": 608,
+    "EndTextOffset": 621,
+    "Text": "HotwireVehicle"
+  },
+  {
+    "HeaderOffset": 648,
+    "StartTextOffset": 654,
+    "EndTextOffset": 665,
+    "Text": "RepairAmount"
+  }
+]

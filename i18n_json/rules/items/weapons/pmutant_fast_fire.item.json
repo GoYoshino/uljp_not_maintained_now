@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 782,
+    "StartTextOffset": 788,
+    "EndTextOffset": 791,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 796,
+    "StartTextOffset": 802,
+    "EndTextOffset": 814,
+    "Text": "%LI%#G1>%s%#-"
+  },
+  {
+    "HeaderOffset": 823,
+    "StartTextOffset": 829,
+    "EndTextOffset": 848,
+    "Text": "pMutantBladeClawFire"
+  },
+  {
+    "HeaderOffset": 849,
+    "StartTextOffset": 855,
+    "EndTextOffset": 865,
+    "Text": "Heated Claw"
+  },
+  {
+    "HeaderOffset": 901,
+    "StartTextOffset": 907,
+    "EndTextOffset": 1071,
+    "Text": "Your arm has been badly burnt, almost beyond recognition, and tough carapace-like crust now covers most of it, steadily getting thicker towards the tip of the claw."
+  },
+  {
+    "HeaderOffset": 1072,
+    "StartTextOffset": 1078,
+    "EndTextOffset": 1104,
+    "Text": "Weapon.MutantClaw.Fast.Fire"
+  },
+  {
+    "HeaderOffset": 1687,
+    "StartTextOffset": 1693,
+    "EndTextOffset": 1706,
+    "Text": "FireballSpread"
+  },
+  {
+    "HeaderOffset": 1711,
+    "StartTextOffset": 1717,
+    "EndTextOffset": 1723,
+    "Text": "Attack1"
+  },
+  {
+    "HeaderOffset": 1795,
+    "StartTextOffset": 1801,
+    "EndTextOffset": 1809,
+    "Text": "forceVent"
+  },
+  {
+    "HeaderOffset": 1859,
+    "StartTextOffset": 1865,
+    "EndTextOffset": 1871,
+    "Text": "carveUp"
+  },
+  {
+    "HeaderOffset": 1894,
+    "StartTextOffset": 1900,
+    "EndTextOffset": 1912,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 1935,
+    "StartTextOffset": 1941,
+    "EndTextOffset": 1960,
+    "Text": "PlayerMutantFireHand"
+  },
+  {
+    "HeaderOffset": 2049,
+    "StartTextOffset": 2055,
+    "EndTextOffset": 2068,
+    "Text": "ExplosionSmall"
+  }
+]

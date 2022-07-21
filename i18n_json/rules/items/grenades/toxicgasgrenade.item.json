@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 227,
+    "Text": "toxicGasGrenade"
+  },
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 250,
+    "Text": "Toxic Gas Grenade"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 342,
+    "Text": "When thrown this grenade slowly releases toxic gas."
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 362,
+    "Text": "Explosives.130"
+  },
+  {
+    "HeaderOffset": 552,
+    "StartTextOffset": 558,
+    "EndTextOffset": 572,
+    "Text": "toxicGasGrenade"
+  }
+]

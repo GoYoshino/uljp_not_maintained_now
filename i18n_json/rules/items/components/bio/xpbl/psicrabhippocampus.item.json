@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 295,
+    "Text": "psiCrabHippocampus"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 321,
+    "Text": "Psi Crab Hippocampus"
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 438,
+    "Text": "A part of the psi crab brain that contains some essential psionic chemicals."
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 428,
+    "Text": " part of the psi crab brain that contains some essential psionic "
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 473,
+    "Text": "Components.PsiCrabHippocampus"
+  },
+  {
+    "HeaderOffset": 743,
+    "StartTextOffset": 749,
+    "EndTextOffset": 755,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 785,
+    "StartTextOffset": 791,
+    "EndTextOffset": 797,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 798,
+    "StartTextOffset": 804,
+    "EndTextOffset": 823,
+    "Text": "Xpbl\\PsiSomaticAgent"
+  }
+]

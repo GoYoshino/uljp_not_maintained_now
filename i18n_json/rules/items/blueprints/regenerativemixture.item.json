@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 259,
+    "Text": "blueprint.regenerativeMixture"
+  },
+  {
+    "HeaderOffset": 260,
+    "StartTextOffset": 266,
+    "EndTextOffset": 296,
+    "Text": "Blueprint: Regenerative Mixture"
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 399,
+    "Text": "Contains instructions on how to create a regenerative mixture."
+  },
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 414,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 547,
+    "StartTextOffset": 553,
+    "EndTextOffset": 571,
+    "Text": "regenerativeMixture"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 655,
+    "Text": "blueprintconsumation"
+  }
+]

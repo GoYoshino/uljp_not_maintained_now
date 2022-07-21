@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 238,
+    "Text": "monolithTorch"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 258,
+    "Text": "Ethereal Torch"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 663,
+    "Text": "The torch is composed of seven glass-like tubes of bluish hue that originate at the top of the shaft and converge at the top of the torch. Inside the torch, between those tubes, rests bright glass so indescribably delicate and ethereal that you are not certain if it has any material properties at all or if it's pure light.<br><br>The torch is almost weightless."
+  },
+  {
+    "HeaderOffset": 664,
+    "StartTextOffset": 670,
+    "EndTextOffset": 687,
+    "Text": "Plot.MonolithTorch"
+  },
+  {
+    "HeaderOffset": 872,
+    "StartTextOffset": 878,
+    "EndTextOffset": 896,
+    "Text": "EtherealTorchAttack"
+  }
+]

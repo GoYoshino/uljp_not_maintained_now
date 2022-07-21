@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 250,
+    "Text": "acidBulletsBlueprint"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 279,
+    "Text": "Blueprint: Acid Bullets"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 376,
+    "Text": "Contains instructions on how to create 9mm acid bullets."
+  },
+  {
+    "HeaderOffset": 377,
+    "StartTextOffset": 383,
+    "EndTextOffset": 391,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 524,
+    "StartTextOffset": 530,
+    "EndTextOffset": 540,
+    "Text": "acidBullets"
+  },
+  {
+    "HeaderOffset": 599,
+    "StartTextOffset": 605,
+    "EndTextOffset": 624,
+    "Text": "blueprintconsumation"
+  }
+]

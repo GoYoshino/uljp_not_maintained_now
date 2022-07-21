@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 251,
+    "Text": "Oddity.BrokenHighTechWatch"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 279,
+    "Text": "Broken High-tech Watch"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 466,
+    "Text": "It's either not intended for human use or it's been hit with one EMP too many because the display just cycles through seemingly random gibberish."
+  },
+  {
+    "HeaderOffset": 467,
+    "StartTextOffset": 473,
+    "EndTextOffset": 498,
+    "Text": "Oddity.BrokenHighTechWatch"
+  }
+]

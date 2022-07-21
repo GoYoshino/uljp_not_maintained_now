@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 236,
+    "Text": "Ammo.BlindingPoisonBolt"
+  },
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 262,
+    "Text": "Blinding Poison Bolt"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 357,
+    "Text": "This bolt is packed with an ampule of blinding poison."
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 386,
+    "Text": "Ammo.BlindingPoisonBolt"
+  },
+  {
+    "HeaderOffset": 576,
+    "StartTextOffset": 582,
+    "EndTextOffset": 604,
+    "Text": "ShootBlindingPoisonBolt"
+  }
+]

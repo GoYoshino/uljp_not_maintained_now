@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 728,
+    "StartTextOffset": 734,
+    "EndTextOffset": 737,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 806,
+    "Text": "wep.dragunov_rf"
+  },
+  {
+    "HeaderOffset": 807,
+    "StartTextOffset": 813,
+    "EndTextOffset": 832,
+    "Text": "Refurbished Dragunov"
+  },
+  {
+    "HeaderOffset": 868,
+    "StartTextOffset": 874,
+    "EndTextOffset": 963,
+    "Text": "Dragunov is an old style sniper rifle. It's reliable, durable and has a high rate of fire."
+  },
+  {
+    "HeaderOffset": 964,
+    "StartTextOffset": 970,
+    "EndTextOffset": 982,
+    "Text": "Weapon.SVD_rf"
+  },
+  {
+    "HeaderOffset": 1664,
+    "StartTextOffset": 1670,
+    "EndTextOffset": 1673,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1723,
+    "StartTextOffset": 1729,
+    "EndTextOffset": 1739,
+    "Text": "rapidReload"
+  }
+]

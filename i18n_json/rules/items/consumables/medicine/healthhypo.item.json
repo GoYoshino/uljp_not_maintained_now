@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 248,
+    "Text": "med.healthHypo"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 265,
+    "Text": "Health Hypo"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 427,
+    "Text": "A hypo filled with blood and enzymes that catalyze a rapid regenerative process. Double check your blood type before use."
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 372,
+    "Text": " hypo filled with blood and enzymes that catalyze a rapid regener"
+  },
+  {
+    "HeaderOffset": 428,
+    "StartTextOffset": 434,
+    "EndTextOffset": 439,
+    "Text": "Meds.0"
+  },
+  {
+    "HeaderOffset": 651,
+    "StartTextOffset": 657,
+    "EndTextOffset": 677,
+    "Text": "healthhypoconsumation"
+  },
+  {
+    "HeaderOffset": 704,
+    "StartTextOffset": 710,
+    "EndTextOffset": 719,
+    "Text": "HealAmount"
+  }
+]

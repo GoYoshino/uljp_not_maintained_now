@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 284,
+    "Text": "FirearmBarrel5"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 308,
+    "Text": "5mm Firearm Barrel"
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 415,
+    "Text": "Barrel of 5mm caliber that can be used to construct a new firearm."
+  },
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 434,
+    "Text": "Components.80"
+  },
+  {
+    "HeaderOffset": 703,
+    "StartTextOffset": 709,
+    "EndTextOffset": 717,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 755,
+    "StartTextOffset": 761,
+    "EndTextOffset": 770,
+    "Text": "BarrelType"
+  }
+]

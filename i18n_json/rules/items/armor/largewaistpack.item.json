@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 326,
+    "StartTextOffset": 332,
+    "EndTextOffset": 336,
+    "Text": "MQSNE"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 390,
+    "Text": "largeWaistPack"
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 412,
+    "Text": "Large Waist Pack"
+  },
+  {
+    "HeaderOffset": 448,
+    "StartTextOffset": 454,
+    "EndTextOffset": 516,
+    "Text": "This larger variant of a waist pouch can hold a lot more items."
+  },
+  {
+    "HeaderOffset": 517,
+    "StartTextOffset": 523,
+    "EndTextOffset": 536,
+    "Text": "LargeWaistPack"
+  },
+  {
+    "HeaderOffset": 880,
+    "StartTextOffset": 886,
+    "EndTextOffset": 895,
+    "Text": "Mercantile"
+  }
+]

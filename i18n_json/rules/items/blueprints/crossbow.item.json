@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 240,
+    "Text": "crossbowBlueprint"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 265,
+    "Text": "Blueprint: Crossbow"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 356,
+    "Text": "Contains instructions on how to create a crossbow."
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 371,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 503,
+    "StartTextOffset": 509,
+    "EndTextOffset": 512,
+    "Text": "xbow"
+  },
+  {
+    "HeaderOffset": 571,
+    "StartTextOffset": 577,
+    "EndTextOffset": 596,
+    "Text": "blueprintconsumation"
+  }
+]

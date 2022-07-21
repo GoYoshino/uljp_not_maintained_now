@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 307,
+    "Text": "VehiclePart.BArmShifter400"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 329,
+    "Text": "BArm Shifter 400"
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 431,
+    "Text": "Medium size electrical vehicle engine made by Biocorp Armory."
+  },
+  {
+    "HeaderOffset": 432,
+    "StartTextOffset": 438,
+    "EndTextOffset": 463,
+    "Text": "VehiclePart.BArmShifter400"
+  },
+  {
+    "HeaderOffset": 614,
+    "StartTextOffset": 620,
+    "EndTextOffset": 626,
+    "Text": "biocorp"
+  }
+]

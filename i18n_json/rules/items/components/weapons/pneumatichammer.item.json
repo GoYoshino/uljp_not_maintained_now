@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 308,
+    "Text": "pneumaticHammer"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 330,
+    "Text": "Pneumatic Hammer"
+  },
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 530,
+    "Text": "It can be attached to certain melee weapons, such as combat gloves. When powered it will occasionally inflict additional damage and even knock out the target."
+  },
+  {
+    "HeaderOffset": 531,
+    "StartTextOffset": 537,
+    "EndTextOffset": 549,
+    "Text": "Components.47"
+  },
+  {
+    "HeaderOffset": 798,
+    "StartTextOffset": 804,
+    "EndTextOffset": 812,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 826,
+    "StartTextOffset": 832,
+    "EndTextOffset": 842,
+    "Text": "Electronics"
+  }
+]

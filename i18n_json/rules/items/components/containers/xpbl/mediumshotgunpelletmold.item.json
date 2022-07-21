@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 305,
+    "Text": "mediumShotgunPelletMold"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 337,
+    "Text": "Medium Shotgun Pellet Mold"
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 479,
+    "Text": "A disposable mold for twelve medium shotgun pellets. This pellet size is commonly known as houndshot."
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 444,
+    "Text": " disposable mold for twelve medium shotgun pellets. This pellet s"
+  },
+  {
+    "HeaderOffset": 480,
+    "StartTextOffset": 486,
+    "EndTextOffset": 503,
+    "Text": "xpbl_Components.21"
+  },
+  {
+    "HeaderOffset": 767,
+    "StartTextOffset": 773,
+    "EndTextOffset": 781,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 811,
+    "StartTextOffset": 817,
+    "EndTextOffset": 828,
+    "Text": "ShotgunShell"
+  },
+  {
+    "HeaderOffset": 829,
+    "StartTextOffset": 835,
+    "EndTextOffset": 849,
+    "Text": "ShotgunShell_12"
+  }
+]

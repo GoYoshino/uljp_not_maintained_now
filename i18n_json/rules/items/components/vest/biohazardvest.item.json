@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 410,
+    "Text": "biohazardVest"
+  },
+  {
+    "HeaderOffset": 411,
+    "StartTextOffset": 417,
+    "EndTextOffset": 430,
+    "Text": "Biohazard Vest"
+  },
+  {
+    "HeaderOffset": 466,
+    "StartTextOffset": 472,
+    "EndTextOffset": 536,
+    "Text": "This vest insulates the wearer's skin from biohazardous elements."
+  },
+  {
+    "HeaderOffset": 537,
+    "StartTextOffset": 543,
+    "EndTextOffset": 556,
+    "Text": "Components.103"
+  },
+  {
+    "HeaderOffset": 1029,
+    "StartTextOffset": 1035,
+    "EndTextOffset": 1043,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1057,
+    "StartTextOffset": 1063,
+    "EndTextOffset": 1071,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 1101,
+    "StartTextOffset": 1107,
+    "EndTextOffset": 1114,
+    "Text": "VestType"
+  },
+  {
+    "HeaderOffset": 1115,
+    "StartTextOffset": 1121,
+    "EndTextOffset": 1129,
+    "Text": "Biohazard"
+  },
+  {
+    "HeaderOffset": 1139,
+    "StartTextOffset": 1145,
+    "EndTextOffset": 1160,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1161,
+    "StartTextOffset": 1167,
+    "EndTextOffset": 1193,
+    "Text": "This biohazard vest carries"
+  },
+  {
+    "HeaderOffset": 1203,
+    "StartTextOffset": 1209,
+    "EndTextOffset": 1225,
+    "Text": "ArmorDescription2"
+  },
+  {
+    "HeaderOffset": 1226,
+    "StartTextOffset": 1232,
+    "EndTextOffset": 1247,
+    "Text": "a biohazard vest"
+  },
+  {
+    "HeaderOffset": 1257,
+    "StartTextOffset": 1263,
+    "EndTextOffset": 1279,
+    "Text": "ArmorDescription3"
+  },
+  {
+    "HeaderOffset": 1280,
+    "StartTextOffset": 1286,
+    "EndTextOffset": 1314,
+    "Text": "a biohazard vest that carries"
+  },
+  {
+    "HeaderOffset": 1341,
+    "StartTextOffset": 1347,
+    "EndTextOffset": 1354,
+    "Text": "MatIndex"
+  }
+]

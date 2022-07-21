@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 254,
+    "Text": "psiMentor.TemporaryRewind"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 292,
+    "Text": "Psionic Mentor: Temporary Rewind"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 446,
+    "Text": "This device can be used to automatically teach yourself Temporary Rewind psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 418,
+    "Text": "his device can be used to automatically teach yourself Temporary Rewind psi ability "
+  },
+  {
+    "HeaderOffset": 447,
+    "StartTextOffset": 453,
+    "EndTextOffset": 471,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 604,
+    "StartTextOffset": 610,
+    "EndTextOffset": 624,
+    "Text": "TemporaryRewind"
+  },
+  {
+    "HeaderOffset": 683,
+    "StartTextOffset": 689,
+    "EndTextOffset": 708,
+    "Text": "PsiMentorConsumation"
+  }
+]

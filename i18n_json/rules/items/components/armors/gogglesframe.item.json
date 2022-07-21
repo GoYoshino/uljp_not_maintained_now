@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 282,
+    "Text": "gogglesFrame"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 301,
+    "Text": "Goggles Frame"
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 466,
+    "Text": "This is a frame for advanced tactical goggles. It supports a single vision processing module and an energy core to power it."
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 427,
+    "Text": "his is a frame for advanced tactical goggles. It supports a single vision processing"
+  },
+  {
+    "HeaderOffset": 467,
+    "StartTextOffset": 473,
+    "EndTextOffset": 485,
+    "Text": "Components.24"
+  },
+  {
+    "HeaderOffset": 735,
+    "StartTextOffset": 741,
+    "EndTextOffset": 749,
+    "Text": "Mechanics"
+  }
+]

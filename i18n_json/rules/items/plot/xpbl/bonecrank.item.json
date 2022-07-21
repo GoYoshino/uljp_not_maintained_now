@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 223,
+    "StartTextOffset": 229,
+    "EndTextOffset": 238,
+    "Text": "Bone Crank"
+  },
+  {
+    "HeaderOffset": 274,
+    "StartTextOffset": 280,
+    "EndTextOffset": 345,
+    "Text": "A rather heavy bone crank. The bone has been artificially grooved."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 363,
+    "Text": "xpbl_Plot.41"
+  },
+  {
+    "HeaderOffset": 548,
+    "StartTextOffset": 554,
+    "EndTextOffset": 576,
+    "Text": "InsertSkerderGraveCrank"
+  }
+]

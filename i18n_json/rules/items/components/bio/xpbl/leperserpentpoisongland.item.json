@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 307,
+    "Text": "poisonGland.LeperSerpent"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 339,
+    "Text": "Leper Serpent Poison Gland"
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 522,
+    "Text": "This is a poison gland of an infamous leper sea serpent, but without the fang. With the right skills powerful toxin can be extracted from it."
+  },
+  {
+    "HeaderOffset": 523,
+    "StartTextOffset": 529,
+    "EndTextOffset": 562,
+    "Text": "Components.LeperSerpentPoisonGland"
+  },
+  {
+    "HeaderOffset": 833,
+    "StartTextOffset": 839,
+    "EndTextOffset": 845,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 875,
+    "StartTextOffset": 881,
+    "EndTextOffset": 887,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 888,
+    "StartTextOffset": 894,
+    "EndTextOffset": 909,
+    "Text": "Xpbl\\LeperPoison"
+  }
+]

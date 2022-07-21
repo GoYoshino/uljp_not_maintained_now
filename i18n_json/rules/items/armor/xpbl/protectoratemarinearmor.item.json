@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 487,
+    "StartTextOffset": 493,
+    "EndTextOffset": 515,
+    "Text": "protectorateMarineArmor"
+  },
+  {
+    "HeaderOffset": 516,
+    "StartTextOffset": 522,
+    "EndTextOffset": 546,
+    "Text": "Protectorate Marine Armor"
+  },
+  {
+    "HeaderOffset": 582,
+    "StartTextOffset": 588,
+    "EndTextOffset": 779,
+    "Text": "A full suit of marine body armor that sports a special naval tactical west. It also comes with an oxygen tank and a pair of flippers that are attached to the belt and can be equipped quickly."
+  },
+  {
+    "HeaderOffset": 780,
+    "StartTextOffset": 786,
+    "EndTextOffset": 799,
+    "Text": "xpbl_Armors.13"
+  },
+  {
+    "HeaderOffset": 1138,
+    "StartTextOffset": 1144,
+    "EndTextOffset": 1152,
+    "Text": "xpbl_prns"
+  }
+]

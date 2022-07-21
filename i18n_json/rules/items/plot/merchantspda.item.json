@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 215,
+    "StartTextOffset": 221,
+    "EndTextOffset": 232,
+    "Text": "merchantsPDA"
+  },
+  {
+    "HeaderOffset": 233,
+    "StartTextOffset": 239,
+    "EndTextOffset": 260,
+    "Text": "Bloody Mobile Computer"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 472,
+    "Text": "It's a mobile computer covered in dried blood. The model name reads MBF-440s, but the brand itself is not familiar to you. Perhaps it was manufactured in North Underrail?"
+  },
+  {
+    "HeaderOffset": 473,
+    "StartTextOffset": 479,
+    "EndTextOffset": 485,
+    "Text": "Plot.56"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 766,
+    "Text": "startInterfacing"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 812,
+    "Text": "InterfaceDialog"
+  },
+  {
+    "HeaderOffset": 813,
+    "StartTextOffset": 819,
+    "EndTextOffset": 842,
+    "Text": "interfacing\\merchantsPDA"
+  },
+  {
+    "HeaderOffset": 852,
+    "StartTextOffset": 858,
+    "EndTextOffset": 875,
+    "Text": "InterfaceActorName"
+  },
+  {
+    "HeaderOffset": 876,
+    "StartTextOffset": 882,
+    "EndTextOffset": 889,
+    "Text": "MBF-440s"
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 924,
+    "Text": "InterfaceCommandText"
+  },
+  {
+    "HeaderOffset": 925,
+    "StartTextOffset": 931,
+    "EndTextOffset": 950,
+    "Text": "Activate the device."
+  },
+  {
+    "HeaderOffset": 960,
+    "StartTextOffset": 966,
+    "EndTextOffset": 981,
+    "Text": "InterfaceActorId"
+  }
+]

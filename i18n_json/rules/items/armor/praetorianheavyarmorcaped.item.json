@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 550,
+    "StartTextOffset": 556,
+    "EndTextOffset": 580,
+    "Text": "praetorianHeavyArmorCaped"
+  },
+  {
+    "HeaderOffset": 581,
+    "StartTextOffset": 587,
+    "EndTextOffset": 614,
+    "Text": "Praetorian Caped Peacekeeper"
+  },
+  {
+    "HeaderOffset": 650,
+    "StartTextOffset": 656,
+    "EndTextOffset": 875,
+    "Text": "It's a high-quality full steel suit of armor specially designed to deter any potential criminal activity of resident Zoners while anticipating their rascally backstabbing attacks. This version comes with a stylish cape."
+  },
+  {
+    "HeaderOffset": 876,
+    "StartTextOffset": 882,
+    "EndTextOffset": 912,
+    "Text": "Armor.PraetorianHeavyArmorCaped"
+  },
+  {
+    "HeaderOffset": 1295,
+    "StartTextOffset": 1301,
+    "EndTextOffset": 1305,
+    "Text": "praec"
+  },
+  {
+    "HeaderOffset": 1549,
+    "StartTextOffset": 1555,
+    "EndTextOffset": 1564,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1583,
+    "StartTextOffset": 1589,
+    "EndTextOffset": 1600,
+    "Text": "Intimidation"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 200,
+    "StartTextOffset": 206,
+    "EndTextOffset": 215,
+    "Text": "heGrenade5"
+  },
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 236,
+    "Text": "HE Grenade Mk V"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 495,
+    "Text": "High-explosive grenade delivers a powerful blast which is useful against heavily armored targets. Though it can be effectively used in anti-personnel scenarios, it is less efficient because of the absence of shrapnel."
+  },
+  {
+    "HeaderOffset": 496,
+    "StartTextOffset": 502,
+    "EndTextOffset": 514,
+    "Text": "Explosives.34"
+  },
+  {
+    "HeaderOffset": 722,
+    "StartTextOffset": 728,
+    "EndTextOffset": 732,
+    "Text": "hegrt"
+  },
+  {
+    "HeaderOffset": 759,
+    "StartTextOffset": 765,
+    "EndTextOffset": 769,
+    "Text": "power"
+  }
+]

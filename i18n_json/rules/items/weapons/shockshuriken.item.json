@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 246,
+    "Text": "shockShuriken"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 266,
+    "Text": "Shock Shuriken"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 437,
+    "Text": "While not particularly sharp, these have micro electroshock dischargers attached to them which can give the victim quite a shock."
+  },
+  {
+    "HeaderOffset": 438,
+    "StartTextOffset": 444,
+    "EndTextOffset": 463,
+    "Text": "Weapon.ShockShuriken"
+  },
+  {
+    "HeaderOffset": 656,
+    "StartTextOffset": 662,
+    "EndTextOffset": 679,
+    "Text": "ShockShurikenThrow"
+  }
+]

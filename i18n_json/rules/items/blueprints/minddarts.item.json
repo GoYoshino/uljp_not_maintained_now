@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 219,
+    "StartTextOffset": 225,
+    "EndTextOffset": 245,
+    "Text": "Blueprint: Mind Darts"
+  },
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 359,
+    "Text": "Contains instructions on how to concoct psionic drug called 'Mind Darts'."
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 374,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 506,
+    "StartTextOffset": 512,
+    "EndTextOffset": 520,
+    "Text": "MindDarts"
+  },
+  {
+    "HeaderOffset": 579,
+    "StartTextOffset": 585,
+    "EndTextOffset": 604,
+    "Text": "blueprintconsumation"
+  }
+]

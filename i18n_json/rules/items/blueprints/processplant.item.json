@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "processPlantBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 284,
+    "Text": "Blueprint: Process Plant or Fungus"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 405,
+    "Text": "Contains instructions on how to extract useful chemicals from plants and fungus."
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 393,
+    "Text": "ontains instructions on how to extract useful chemicals from plants"
+  },
+  {
+    "HeaderOffset": 406,
+    "StartTextOffset": 412,
+    "EndTextOffset": 420,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 552,
+    "StartTextOffset": 558,
+    "EndTextOffset": 569,
+    "Text": "processPlant"
+  },
+  {
+    "HeaderOffset": 628,
+    "StartTextOffset": 634,
+    "EndTextOffset": 653,
+    "Text": "blueprintconsumation"
+  }
+]

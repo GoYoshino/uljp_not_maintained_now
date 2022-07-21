@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 290,
+    "Text": "kynurenicAcid"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 310,
+    "Text": "Kynurenic Acid"
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 546,
+    "Text": "Dangerous substance that may influence important neurophysiological and neuropathological processes. It is not particularly corrosive, though, so it cannot be used as a direct biological weapon."
+  },
+  {
+    "HeaderOffset": 547,
+    "StartTextOffset": 553,
+    "EndTextOffset": 576,
+    "Text": "Components.KynurenicAcid"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 839,
+    "Text": "Biology"
+  }
+]

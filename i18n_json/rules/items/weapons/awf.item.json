@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 651,
+    "StartTextOffset": 657,
+    "EndTextOffset": 660,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 681,
+    "StartTextOffset": 687,
+    "EndTextOffset": 693,
+    "Text": "wep.awf"
+  },
+  {
+    "HeaderOffset": 738,
+    "StartTextOffset": 744,
+    "EndTextOffset": 787,
+    "Text": "A quaint old world bolt-action sniper rifle."
+  },
+  {
+    "HeaderOffset": 788,
+    "StartTextOffset": 794,
+    "EndTextOffset": 803,
+    "Text": "Weapon.AWF"
+  },
+  {
+    "HeaderOffset": 1440,
+    "StartTextOffset": 1446,
+    "EndTextOffset": 1449,
+    "Text": "uwep"
+  }
+]

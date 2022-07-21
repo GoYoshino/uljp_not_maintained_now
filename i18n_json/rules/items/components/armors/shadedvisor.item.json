@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 288,
+    "Text": "shadedVisor"
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 306,
+    "Text": "Shaded Visor"
+  },
+  {
+    "HeaderOffset": 342,
+    "StartTextOffset": 348,
+    "EndTextOffset": 454,
+    "Text": "This shaded glass visor can be used in creating a helmet that will shield the wearer from blinding effects."
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 432,
+    "Text": "his shaded glass visor can be used in creating a helmet that will shield the wearer "
+  },
+  {
+    "HeaderOffset": 455,
+    "StartTextOffset": 461,
+    "EndTextOffset": 482,
+    "Text": "Components.ShadedVisor"
+  },
+  {
+    "HeaderOffset": 733,
+    "StartTextOffset": 739,
+    "EndTextOffset": 747,
+    "Text": "Mechanics"
+  }
+]

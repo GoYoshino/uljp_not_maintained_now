@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "extractToxinBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 275,
+    "Text": "Blueprint: Extract Humour"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 430,
+    "Text": "Contains instructions on how to extract blood, toxins, acid and other substances from organs of various creatures."
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 384,
+    "Text": "ontains instructions on how to extract blood, toxins, acid and othe"
+  },
+  {
+    "HeaderOffset": 431,
+    "StartTextOffset": 437,
+    "EndTextOffset": 445,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 577,
+    "StartTextOffset": 583,
+    "EndTextOffset": 594,
+    "Text": "extractToxin"
+  },
+  {
+    "HeaderOffset": 653,
+    "StartTextOffset": 659,
+    "EndTextOffset": 678,
+    "Text": "blueprintconsumation"
+  }
+]

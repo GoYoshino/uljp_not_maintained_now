@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 209,
+    "StartTextOffset": 215,
+    "EndTextOffset": 222,
+    "Text": "lockpick"
+  },
+  {
+    "HeaderOffset": 223,
+    "StartTextOffset": 229,
+    "EndTextOffset": 236,
+    "Text": "ロックピック／Lockpick"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 318,
+    "Text": "物理的な鍵を解錠するのに用いる。"
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 334,
+    "Text": "Devices.40"
+  },
+  {
+    "HeaderOffset": 524,
+    "StartTextOffset": 530,
+    "EndTextOffset": 544,
+    "Text": "lockpickutility"
+  }
+]

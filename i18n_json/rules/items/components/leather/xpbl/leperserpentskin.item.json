@@ -1,0 +1,128 @@
+[
+  {
+    "HeaderOffset": 444,
+    "StartTextOffset": 450,
+    "EndTextOffset": 475,
+    "Text": "component.leperSerpentSkin"
+  },
+  {
+    "HeaderOffset": 476,
+    "StartTextOffset": 482,
+    "EndTextOffset": 499,
+    "Text": "Leper Serpent Skin"
+  },
+  {
+    "HeaderOffset": 535,
+    "StartTextOffset": 541,
+    "EndTextOffset": 692,
+    "Text": "This piece of leper serpent scaly skin is rough and unpleasant to the touch and gives out acrid smell. It can be used to craft a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 693,
+    "StartTextOffset": 699,
+    "EndTextOffset": 716,
+    "Text": "xpbl_Components.90"
+  },
+  {
+    "HeaderOffset": 1277,
+    "StartTextOffset": 1283,
+    "EndTextOffset": 1291,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1305,
+    "StartTextOffset": 1311,
+    "EndTextOffset": 1317,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1417,
+    "StartTextOffset": 1423,
+    "EndTextOffset": 1432,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1458,
+    "StartTextOffset": 1464,
+    "EndTextOffset": 1479,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1480,
+    "StartTextOffset": 1486,
+    "EndTextOffset": 1597,
+    "Text": "This {0} is made of tough scaly leper serpent skin. It's rough and unpleasant to touch and gives out acrid odor."
+  },
+  {
+    "HeaderOffset": 1607,
+    "StartTextOffset": 1613,
+    "EndTextOffset": 1634,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1635,
+    "StartTextOffset": 1641,
+    "EndTextOffset": 1754,
+    "Text": "These {0} are made of tough scaly leper serpent skin. It's rough and unpleasant to touch and gives out acrid odor."
+  },
+  {
+    "HeaderOffset": 1764,
+    "StartTextOffset": 1770,
+    "EndTextOffset": 1794,
+    "Text": "CustomInfusionLeatherType"
+  },
+  {
+    "HeaderOffset": 1795,
+    "StartTextOffset": 1801,
+    "EndTextOffset": 1804,
+    "Text": "Skin"
+  },
+  {
+    "HeaderOffset": 1823,
+    "StartTextOffset": 1829,
+    "EndTextOffset": 1832,
+    "Text": "Xpbl"
+  },
+  {
+    "HeaderOffset": 1859,
+    "StartTextOffset": 1865,
+    "EndTextOffset": 1877,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1891,
+    "StartTextOffset": 1897,
+    "EndTextOffset": 1921,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1922,
+    "StartTextOffset": 1928,
+    "EndTextOffset": 1935,
+    "Text": "xpbl_lps"
+  },
+  {
+    "HeaderOffset": 1962,
+    "StartTextOffset": 1968,
+    "EndTextOffset": 1975,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1989,
+    "StartTextOffset": 1995,
+    "EndTextOffset": 2008,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 2009,
+    "StartTextOffset": 2015,
+    "EndTextOffset": 2027,
+    "Text": "Leper Serpent"
+  },
+  {
+    "HeaderOffset": 2054,
+    "StartTextOffset": 2060,
+    "EndTextOffset": 2078,
+    "Text": "UsesDefaultOvercoat"
+  }
+]

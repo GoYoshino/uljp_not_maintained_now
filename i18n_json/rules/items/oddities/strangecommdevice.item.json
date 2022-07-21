@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 236,
+    "Text": "Oddity.StrangeCommDevice"
+  },
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 261,
+    "Text": "Strange Comm Device"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 489,
+    "Text": "It looks like some sort of a communication device though you're unsure how it's used since it only has one button. Since it's already broken you might as well take it apart and find out."
+  },
+  {
+    "HeaderOffset": 490,
+    "StartTextOffset": 496,
+    "EndTextOffset": 519,
+    "Text": "Oddity.StrangeCommDevice"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 795,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 854,
+    "StartTextOffset": 860,
+    "EndTextOffset": 873,
+    "Text": "rustMakerSpear"
+  },
+  {
+    "HeaderOffset": 874,
+    "StartTextOffset": 880,
+    "EndTextOffset": 889,
+    "Text": "Rust Maker"
+  },
+  {
+    "HeaderOffset": 925,
+    "StartTextOffset": 931,
+    "EndTextOffset": 1129,
+    "Text": "The tip of this spear seems to have spent enough time lodged inside a Sea Wyrm to get infused with its rusting acid. The original shaft was destroyed during the attack, but it's since been replaced."
+  },
+  {
+    "HeaderOffset": 1130,
+    "StartTextOffset": 1136,
+    "EndTextOffset": 1151,
+    "Text": "xpbl_Weapons.224"
+  },
+  {
+    "HeaderOffset": 1565,
+    "StartTextOffset": 1571,
+    "EndTextOffset": 1575,
+    "Text": "xpbls"
+  },
+  {
+    "HeaderOffset": 1742,
+    "StartTextOffset": 1748,
+    "EndTextOffset": 1755,
+    "Text": "AcidFizz"
+  },
+  {
+    "HeaderOffset": 1939,
+    "StartTextOffset": 1945,
+    "EndTextOffset": 1956,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 2006,
+    "StartTextOffset": 2012,
+    "EndTextOffset": 2021,
+    "Text": "spearGuard"
+  },
+  {
+    "HeaderOffset": 2044,
+    "StartTextOffset": 2050,
+    "EndTextOffset": 2066,
+    "Text": "rustingAcidSplash"
+  },
+  {
+    "HeaderOffset": 2174,
+    "StartTextOffset": 2180,
+    "EndTextOffset": 2189,
+    "Text": "AcidSplash"
+  }
+]

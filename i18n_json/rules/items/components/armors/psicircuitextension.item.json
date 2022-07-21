@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 326,
+    "Text": "psiCircuitExtension"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 353,
+    "Text": "Psi Circuit Extension"
+  },
+  {
+    "HeaderOffset": 389,
+    "StartTextOffset": 395,
+    "EndTextOffset": 479,
+    "Text": "When added to a psionic enhancement device, it allows for more efficient innervation."
+  },
+  {
+    "HeaderOffset": 480,
+    "StartTextOffset": 486,
+    "EndTextOffset": 515,
+    "Text": "Components.PsiCircuitExtension"
+  },
+  {
+    "HeaderOffset": 849,
+    "StartTextOffset": 855,
+    "EndTextOffset": 865,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 879,
+    "StartTextOffset": 885,
+    "EndTextOffset": 891,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 921,
+    "StartTextOffset": 927,
+    "EndTextOffset": 941,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 942,
+    "StartTextOffset": 948,
+    "EndTextOffset": 967,
+    "Text": "4PsiCircuitExtension"
+  },
+  {
+    "HeaderOffset": 977,
+    "StartTextOffset": 983,
+    "EndTextOffset": 1001,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1002,
+    "StartTextOffset": 1008,
+    "EndTextOffset": 1071,
+    "Text": "The extension at the back allows for more efficient innervation."
+  },
+  {
+    "HeaderOffset": 1081,
+    "StartTextOffset": 1087,
+    "EndTextOffset": 1107,
+    "Text": "PsionicHeadbandPrefix"
+  },
+  {
+    "HeaderOffset": 1108,
+    "StartTextOffset": 1114,
+    "EndTextOffset": 1121,
+    "Text": "Extended"
+  },
+  {
+    "HeaderOffset": 1148,
+    "StartTextOffset": 1154,
+    "EndTextOffset": 1168,
+    "Text": "PsiSlotModifier"
+  }
+]

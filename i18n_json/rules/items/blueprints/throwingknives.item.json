@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 274,
+    "Text": "blueprint.throwingKnives"
+  },
+  {
+    "HeaderOffset": 275,
+    "StartTextOffset": 281,
+    "EndTextOffset": 306,
+    "Text": "Blueprint: Throwing Knives"
+  },
+  {
+    "HeaderOffset": 342,
+    "StartTextOffset": 348,
+    "EndTextOffset": 402,
+    "Text": "Contains instructions on how to create throwing knives."
+  },
+  {
+    "HeaderOffset": 403,
+    "StartTextOffset": 409,
+    "EndTextOffset": 417,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 572,
+    "Text": "throwingKnives"
+  },
+  {
+    "HeaderOffset": 631,
+    "StartTextOffset": 637,
+    "EndTextOffset": 656,
+    "Text": "blueprintconsumation"
+  }
+]

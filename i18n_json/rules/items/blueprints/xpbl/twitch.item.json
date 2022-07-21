@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 252,
+    "Text": "blueprint.twitch"
+  },
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 275,
+    "Text": "Blueprint: Twitch"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 375,
+    "Text": "Contains instructions on how to create a twitch concoction."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 394,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 528,
+    "StartTextOffset": 534,
+    "EndTextOffset": 539,
+    "Text": "twitch"
+  },
+  {
+    "HeaderOffset": 598,
+    "StartTextOffset": 604,
+    "EndTextOffset": 623,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 726,
+    "StartTextOffset": 732,
+    "EndTextOffset": 735,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 784,
+    "StartTextOffset": 790,
+    "EndTextOffset": 803,
+    "Text": "wep.glock17_rf"
+  },
+  {
+    "HeaderOffset": 804,
+    "StartTextOffset": 810,
+    "EndTextOffset": 830,
+    "Text": "Refurbished Glück 17"
+  },
+  {
+    "HeaderOffset": 866,
+    "StartTextOffset": 872,
+    "EndTextOffset": 1000,
+    "Text": "Quick, reliable and precise old world 9mm pistol made of synthetic polymer. Capable of burst fire, and has an extended magazine."
+  },
+  {
+    "HeaderOffset": 1001,
+    "StartTextOffset": 1007,
+    "EndTextOffset": 1023,
+    "Text": "Weapon.Glock17_rf"
+  },
+  {
+    "HeaderOffset": 1704,
+    "StartTextOffset": 1710,
+    "EndTextOffset": 1713,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1723,
+    "StartTextOffset": 1729,
+    "EndTextOffset": 1739,
+    "Text": "pistolBurst"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 286,
+    "Text": "laserSight"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 303,
+    "Text": "Laser Sight"
+  },
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 550,
+    "Text": "This visible-light laser can be placed on a handgun and aligned to emit a beam parallel to the barrel. Since a laser beam has low divergence, the laser light appears as a small spot even at long distances."
+  },
+  {
+    "HeaderOffset": 551,
+    "StartTextOffset": 557,
+    "EndTextOffset": 569,
+    "Text": "Components.73"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 848,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 879,
+    "StartTextOffset": 885,
+    "EndTextOffset": 898,
+    "Text": "PrecisionBonus"
+  }
+]

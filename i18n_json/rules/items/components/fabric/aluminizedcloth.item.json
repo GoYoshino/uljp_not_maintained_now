@@ -1,0 +1,164 @@
+[
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 412,
+    "Text": "aluminizedCloth"
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 434,
+    "Text": "Aluminized Cloth"
+  },
+  {
+    "HeaderOffset": 470,
+    "StartTextOffset": 476,
+    "EndTextOffset": 550,
+    "Text": "This material can somewhat reflect the high radiant loads produced by fire."
+  },
+  {
+    "HeaderOffset": 551,
+    "StartTextOffset": 557,
+    "EndTextOffset": 569,
+    "Text": "Components.11"
+  },
+  {
+    "HeaderOffset": 1177,
+    "StartTextOffset": 1183,
+    "EndTextOffset": 1191,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1237,
+    "StartTextOffset": 1243,
+    "EndTextOffset": 1249,
+    "Text": "Stealth"
+  },
+  {
+    "HeaderOffset": 1283,
+    "StartTextOffset": 1289,
+    "EndTextOffset": 1304,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1305,
+    "StartTextOffset": 1311,
+    "EndTextOffset": 1392,
+    "Text": "Its surface material can somewhat reflect the high radiant loads produced by fire."
+  },
+  {
+    "HeaderOffset": 1402,
+    "StartTextOffset": 1408,
+    "EndTextOffset": 1419,
+    "Text": "OvercoatType"
+  },
+  {
+    "HeaderOffset": 1420,
+    "StartTextOffset": 1426,
+    "EndTextOffset": 1435,
+    "Text": "Aluminized"
+  },
+  {
+    "HeaderOffset": 1445,
+    "StartTextOffset": 1451,
+    "EndTextOffset": 1461,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1462,
+    "StartTextOffset": 1468,
+    "EndTextOffset": 1478,
+    "Text": "Antithermic"
+  },
+  {
+    "HeaderOffset": 1488,
+    "StartTextOffset": 1494,
+    "EndTextOffset": 1510,
+    "Text": "ArmorDescription2"
+  },
+  {
+    "HeaderOffset": 1511,
+    "StartTextOffset": 1517,
+    "EndTextOffset": 1619,
+    "Text": "It comes with an aluminized overcoat that can somewhat reflect the high radiant loads produced by fire."
+  },
+  {
+    "HeaderOffset": 1629,
+    "StartTextOffset": 1635,
+    "EndTextOffset": 1644,
+    "Text": "HelmetDesc"
+  },
+  {
+    "HeaderOffset": 1645,
+    "StartTextOffset": 1651,
+    "EndTextOffset": 1760,
+    "Text": "It also comes with an aluminized cloth hood that can somewhat reflect the high radiant loads produced by fire."
+  },
+  {
+    "HeaderOffset": 1770,
+    "StartTextOffset": 1776,
+    "EndTextOffset": 1800,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1818,
+    "StartTextOffset": 1824,
+    "EndTextOffset": 1848,
+    "Text": "TacticalVestVisualVariant"
+  },
+  {
+    "HeaderOffset": 1884,
+    "StartTextOffset": 1890,
+    "EndTextOffset": 1897,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1911,
+    "StartTextOffset": 1917,
+    "EndTextOffset": 1931,
+    "Text": "BalaclavaPrefix"
+  },
+  {
+    "HeaderOffset": 1932,
+    "StartTextOffset": 1938,
+    "EndTextOffset": 1947,
+    "Text": "Aluminized"
+  },
+  {
+    "HeaderOffset": 1957,
+    "StartTextOffset": 1963,
+    "EndTextOffset": 1975,
+    "Text": "BalaclavaDesc"
+  },
+  {
+    "HeaderOffset": 1976,
+    "StartTextOffset": 1982,
+    "EndTextOffset": 2105,
+    "Text": "This is a three-hole balaclava made from aluminized cloth that can somewhat reflect the high radiant loads produced by fire."
+  },
+  {
+    "HeaderOffset": 2115,
+    "StartTextOffset": 2121,
+    "EndTextOffset": 2130,
+    "Text": "BootPrefix"
+  },
+  {
+    "HeaderOffset": 2131,
+    "StartTextOffset": 2137,
+    "EndTextOffset": 2147,
+    "Text": "Antithermic"
+  },
+  {
+    "HeaderOffset": 2157,
+    "StartTextOffset": 2163,
+    "EndTextOffset": 2175,
+    "Text": "TabiBootsDesc"
+  },
+  {
+    "HeaderOffset": 2176,
+    "StartTextOffset": 2182,
+    "EndTextOffset": 2304,
+    "Text": "These tabi boots are made of aluminized cloth. Their surface can somewhat reflects the high radiant loads produced by fire."
+  }
+]

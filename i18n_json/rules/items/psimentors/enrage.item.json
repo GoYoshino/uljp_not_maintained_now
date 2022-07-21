@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 245,
+    "Text": "psiMentor.Enrage"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 273,
+    "Text": "Psionic Mentor: Enrage"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 417,
+    "Text": "This device can be used to automatically teach yourself Enrage psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 399,
+    "Text": "his device can be used to automatically teach yourself Enrage psi ability through ce"
+  },
+  {
+    "HeaderOffset": 418,
+    "StartTextOffset": 424,
+    "EndTextOffset": 442,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 575,
+    "StartTextOffset": 581,
+    "EndTextOffset": 586,
+    "Text": "Enrage"
+  },
+  {
+    "HeaderOffset": 645,
+    "StartTextOffset": 651,
+    "EndTextOffset": 670,
+    "Text": "PsiMentorConsumation"
+  }
+]

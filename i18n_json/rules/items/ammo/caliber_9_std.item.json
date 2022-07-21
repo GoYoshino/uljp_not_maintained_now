@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 313,
+    "Text": "Ammo.Caliber_9_Std"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 337,
+    "Text": "9mm Standard Round"
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 407,
+    "Text": "This is a standard 9mm round."
+  },
+  {
+    "HeaderOffset": 408,
+    "StartTextOffset": 414,
+    "EndTextOffset": 431,
+    "Text": "Ammo.Caliber_9_Std"
+  },
+  {
+    "HeaderOffset": 671,
+    "StartTextOffset": 677,
+    "EndTextOffset": 680,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 690,
+    "StartTextOffset": 696,
+    "EndTextOffset": 702,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 723,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 733,
+    "StartTextOffset": 739,
+    "EndTextOffset": 747,
+    "Text": "ldsingcur"
+  }
+]

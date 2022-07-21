@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 425,
+    "StartTextOffset": 431,
+    "EndTextOffset": 450,
+    "Text": "colossalCrabCarapace"
+  },
+  {
+    "HeaderOffset": 451,
+    "StartTextOffset": 457,
+    "EndTextOffset": 478,
+    "Text": "Colossal Crab Carapace"
+  },
+  {
+    "HeaderOffset": 514,
+    "StartTextOffset": 520,
+    "EndTextOffset": 576,
+    "Text": "Colossal crab carapace is very tough but also very heavy."
+  },
+  {
+    "HeaderOffset": 577,
+    "StartTextOffset": 583,
+    "EndTextOffset": 613,
+    "Text": "Components.ColossalCrabCarapace"
+  },
+  {
+    "HeaderOffset": 1134,
+    "StartTextOffset": 1140,
+    "EndTextOffset": 1148,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1162,
+    "StartTextOffset": 1168,
+    "EndTextOffset": 1174,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1204,
+    "StartTextOffset": 1210,
+    "EndTextOffset": 1220,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1221,
+    "StartTextOffset": 1227,
+    "EndTextOffset": 1239,
+    "Text": "Colossal Crab"
+  },
+  {
+    "HeaderOffset": 1249,
+    "StartTextOffset": 1255,
+    "EndTextOffset": 1270,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1271,
+    "StartTextOffset": 1277,
+    "EndTextOffset": 1361,
+    "Text": "It's reinforced with colossal crab carapace that increases the penetration threshold."
+  },
+  {
+    "HeaderOffset": 1371,
+    "StartTextOffset": 1377,
+    "EndTextOffset": 1384,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1385,
+    "StartTextOffset": 1391,
+    "EndTextOffset": 1412,
+    "Text": "Colossal Crab Carapace"
+  },
+  {
+    "HeaderOffset": 1439,
+    "StartTextOffset": 1445,
+    "EndTextOffset": 1458,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1472,
+    "StartTextOffset": 1478,
+    "EndTextOffset": 1492,
+    "Text": "ShieldShortName"
+  },
+  {
+    "HeaderOffset": 1493,
+    "StartTextOffset": 1499,
+    "EndTextOffset": 1511,
+    "Text": "Colossal Crab"
+  }
+]

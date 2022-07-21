@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 490,
+    "StartTextOffset": 496,
+    "EndTextOffset": 522,
+    "Text": "tchortistVathosphoreGasMask"
+  },
+  {
+    "HeaderOffset": 523,
+    "StartTextOffset": 529,
+    "EndTextOffset": 549,
+    "Text": "Tchortist Bioscrubber"
+  },
+  {
+    "HeaderOffset": 585,
+    "StartTextOffset": 591,
+    "EndTextOffset": 944,
+    "Text": "This experimental mask uses filters filled with microbial electrolysis cells that perform gas \"scrubbing\" (impurity removal) and break down certain harmful substances into inert and beneficial ones. The filters can last for years, but they do need their battery recharged in order to apply electric current to these cells, which keeps the process going."
+  },
+  {
+    "HeaderOffset": 945,
+    "StartTextOffset": 951,
+    "EndTextOffset": 976,
+    "Text": "Armor.TchortistBioScrubber"
+  },
+  {
+    "HeaderOffset": 1647,
+    "StartTextOffset": 1653,
+    "EndTextOffset": 1662,
+    "Text": "Perception"
+  }
+]

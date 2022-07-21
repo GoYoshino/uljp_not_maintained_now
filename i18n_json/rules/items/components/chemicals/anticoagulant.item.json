@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 283,
+    "Text": "anticoagulant"
+  },
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 302,
+    "Text": "Anticoagulant"
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 449,
+    "Text": "Prevents clotting of blood and blood-like substances. It's an essential component in liquid regeneratives."
+  },
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 424,
+    "Text": "revents clotting of blood and blood-like substances. It's an essential component"
+  },
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 479,
+    "Text": "Components.Anticoagulant"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 741,
+    "Text": "Biology"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 719,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 788,
+    "Text": "weapon.tommyGun"
+  },
+  {
+    "HeaderOffset": 789,
+    "StartTextOffset": 795,
+    "EndTextOffset": 803,
+    "Text": "Tommy Gun"
+  },
+  {
+    "HeaderOffset": 839,
+    "StartTextOffset": 845,
+    "EndTextOffset": 993,
+    "Text": "An ancient looking heavy .44 caliber sub-machine gun. Some of the materials from which this gun is made feel like nothing you've encountered before."
+  },
+  {
+    "HeaderOffset": 994,
+    "StartTextOffset": 1000,
+    "EndTextOffset": 1014,
+    "Text": "Weapon.TommyGun"
+  },
+  {
+    "HeaderOffset": 1691,
+    "StartTextOffset": 1697,
+    "EndTextOffset": 1700,
+    "Text": "uwep"
+  }
+]

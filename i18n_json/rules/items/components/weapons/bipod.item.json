@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 286,
+    "Text": "rifleBipod"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 303,
+    "Text": "Rifle Bipod"
+  },
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 488,
+    "Text": "Bipods can be attached to rifles to increase aim stability and therefore weapon precision. However, it makes positioning the rifle take longer."
+  },
+  {
+    "HeaderOffset": 489,
+    "StartTextOffset": 495,
+    "EndTextOffset": 507,
+    "Text": "Components.77"
+  },
+  {
+    "HeaderOffset": 789,
+    "StartTextOffset": 795,
+    "EndTextOffset": 803,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 834,
+    "StartTextOffset": 840,
+    "EndTextOffset": 853,
+    "Text": "PrecisionBonus"
+  },
+  {
+    "HeaderOffset": 884,
+    "StartTextOffset": 890,
+    "EndTextOffset": 899,
+    "Text": "ApModifier"
+  }
+]

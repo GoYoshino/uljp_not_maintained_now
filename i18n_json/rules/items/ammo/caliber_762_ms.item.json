@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 337,
+    "Text": "Ammo.Caliber_762_MS"
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 370,
+    "Text": "7.62mm Micro-shrapnel Round"
+  },
+  {
+    "HeaderOffset": 406,
+    "StartTextOffset": 412,
+    "EndTextOffset": 502,
+    "Text": "This cartridge packs a 7.62mm bullet loaded with micro shrapnel that burst forth on impact."
+  },
+  {
+    "HeaderOffset": 407,
+    "StartTextOffset": 413,
+    "EndTextOffset": 496,
+    "Text": "his cartridge packs a 7.62mm bullet loaded with micro shrapnel that burst forth on i"
+  },
+  {
+    "HeaderOffset": 503,
+    "StartTextOffset": 509,
+    "EndTextOffset": 527,
+    "Text": "Ammo.Caliber_762_MS"
+  },
+  {
+    "HeaderOffset": 773,
+    "StartTextOffset": 779,
+    "EndTextOffset": 782,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 804,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 814,
+    "StartTextOffset": 820,
+    "EndTextOffset": 825,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 835,
+    "StartTextOffset": 841,
+    "EndTextOffset": 849,
+    "Text": "ldsingcur"
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 917,
+    "Text": "bleedingWound"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 238,
+    "Text": "food.kzozel"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 250,
+    "Text": "Kzozel"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 377,
+    "Text": "A carbonated, dark-colored alcoholic drink. The label depicts a strange horned animal."
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 357,
+    "Text": " carbonated, dark-colored alcoholic drink. The label depicts a st"
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 394,
+    "Text": "Food.Kzozel"
+  },
+  {
+    "HeaderOffset": 624,
+    "StartTextOffset": 630,
+    "EndTextOffset": 644,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 670,
+    "StartTextOffset": 676,
+    "EndTextOffset": 683,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 684,
+    "StartTextOffset": 690,
+    "EndTextOffset": 695,
+    "Text": "kzozel"
+  },
+  {
+    "HeaderOffset": 705,
+    "StartTextOffset": 711,
+    "EndTextOffset": 718,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 719,
+    "StartTextOffset": 725,
+    "EndTextOffset": 730,
+    "Text": "Kzozel"
+  }
+]

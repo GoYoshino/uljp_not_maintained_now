@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 336,
+    "Text": "poison.BlackDragonPoison"
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 361,
+    "Text": "Black Dragon Poison"
+  },
+  {
+    "HeaderOffset": 397,
+    "StartTextOffset": 403,
+    "EndTextOffset": 500,
+    "Text": "This is a vial of black dragon poison. When injected into the victim it causes psionic inhibition."
+  },
+  {
+    "HeaderOffset": 398,
+    "StartTextOffset": 404,
+    "EndTextOffset": 487,
+    "Text": "his is a vial of black dragon poison. When injected into the victim it causes psioni"
+  },
+  {
+    "HeaderOffset": 501,
+    "StartTextOffset": 507,
+    "EndTextOffset": 534,
+    "Text": "Components.BlackDragonPoison"
+  },
+  {
+    "HeaderOffset": 823,
+    "StartTextOffset": 829,
+    "EndTextOffset": 844,
+    "Text": "applyGearBooster"
+  },
+  {
+    "HeaderOffset": 878,
+    "StartTextOffset": 884,
+    "EndTextOffset": 890,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 931,
+    "StartTextOffset": 937,
+    "EndTextOffset": 947,
+    "Text": "GearBooster"
+  },
+  {
+    "HeaderOffset": 978,
+    "StartTextOffset": 984,
+    "EndTextOffset": 993,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 994,
+    "StartTextOffset": 1000,
+    "EndTextOffset": 1016,
+    "Text": "BlackDragonPoison"
+  }
+]

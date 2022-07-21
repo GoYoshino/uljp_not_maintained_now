@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 243,
+    "Text": "Oddity.EmptyInfusionTank"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 268,
+    "Text": "Empty Infusion Tank"
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 492,
+    "Text": "This is an empty infusion tank, the kind that the Faceless carry on their backs. It has multiple compartments, each connected with a pair of tubes that are then all bundled together."
+  },
+  {
+    "HeaderOffset": 493,
+    "StartTextOffset": 499,
+    "EndTextOffset": 522,
+    "Text": "Oddity.EmptyInfusionTank"
+  }
+]

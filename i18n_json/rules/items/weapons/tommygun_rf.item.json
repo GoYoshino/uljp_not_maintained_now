@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 719,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 791,
+    "Text": "weapon.tommyGun_rf"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 818,
+    "Text": "Refurbished Tommy Gun"
+  },
+  {
+    "HeaderOffset": 854,
+    "StartTextOffset": 860,
+    "EndTextOffset": 1080,
+    "Text": "An ancient looking heavy .44 caliber sub-machine gun. Some of the materials from which this gun is made feel like nothing you've encountered before. The newly-added barrel compensator helps keep the recoil under control."
+  },
+  {
+    "HeaderOffset": 1081,
+    "StartTextOffset": 1087,
+    "EndTextOffset": 1104,
+    "Text": "Weapon.TommyGun_rf"
+  },
+  {
+    "HeaderOffset": 1781,
+    "StartTextOffset": 1787,
+    "EndTextOffset": 1790,
+    "Text": "uwep"
+  }
+]

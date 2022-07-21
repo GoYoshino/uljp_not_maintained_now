@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 260,
+    "Text": "psiMentor.ElectrokineticImprint"
+  },
+  {
+    "HeaderOffset": 261,
+    "StartTextOffset": 267,
+    "EndTextOffset": 304,
+    "Text": "Psionic Mentor: Electrokinetic Imprint"
+  },
+  {
+    "HeaderOffset": 340,
+    "StartTextOffset": 346,
+    "EndTextOffset": 464,
+    "Text": "This device can be used to automatically teach yourself Electrokinetic Imprint psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 430,
+    "Text": "his device can be used to automatically teach yourself Electrokinetic Imprint psi ab"
+  },
+  {
+    "HeaderOffset": 465,
+    "StartTextOffset": 471,
+    "EndTextOffset": 489,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 622,
+    "StartTextOffset": 628,
+    "EndTextOffset": 648,
+    "Text": "ElectrokineticImprint"
+  },
+  {
+    "HeaderOffset": 707,
+    "StartTextOffset": 713,
+    "EndTextOffset": 732,
+    "Text": "PsiMentorConsumation"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 231,
+    "Text": "fishingRod"
+  },
+  {
+    "HeaderOffset": 232,
+    "StartTextOffset": 238,
+    "EndTextOffset": 248,
+    "Text": "Fishing Rod"
+  },
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 322,
+    "Text": "A simple yet durable fishing rod."
+  },
+  {
+    "HeaderOffset": 323,
+    "StartTextOffset": 329,
+    "EndTextOffset": 338,
+    "Text": "Devices.22"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 247,
+    "Text": "xpbl.microchipEncoder"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 300,
+    "Text": "Microchip Implant Encoder (Nexus of Technology)"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 442,
+    "Text": "This device can be used to read and write data from and to microchip implants. Manufactured by LEMCO."
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 426,
+    "Text": "his device can be used to read and write data from and to microchip implants. Manufa"
+  },
+  {
+    "HeaderOffset": 443,
+    "StartTextOffset": 449,
+    "EndTextOffset": 460,
+    "Text": "xpbl_Plot.35"
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 742,
+    "Text": "startInterfacing"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 788,
+    "Text": "InterfaceDialog"
+  },
+  {
+    "HeaderOffset": 789,
+    "StartTextOffset": 795,
+    "EndTextOffset": 827,
+    "Text": "interfacing\\xpbl\\microchipEncoder"
+  },
+  {
+    "HeaderOffset": 837,
+    "StartTextOffset": 843,
+    "EndTextOffset": 860,
+    "Text": "InterfaceActorName"
+  },
+  {
+    "HeaderOffset": 861,
+    "StartTextOffset": 867,
+    "EndTextOffset": 891,
+    "Text": "Microchip Implant Encoder"
+  },
+  {
+    "HeaderOffset": 901,
+    "StartTextOffset": 907,
+    "EndTextOffset": 926,
+    "Text": "InterfaceCommandText"
+  },
+  {
+    "HeaderOffset": 927,
+    "StartTextOffset": 933,
+    "EndTextOffset": 952,
+    "Text": "Activate the device."
+  },
+  {
+    "HeaderOffset": 962,
+    "StartTextOffset": 968,
+    "EndTextOffset": 983,
+    "Text": "InterfaceActorId"
+  },
+  {
+    "HeaderOffset": 984,
+    "StartTextOffset": 990,
+    "EndTextOffset": 996,
+    "Text": "encoder"
+  }
+]

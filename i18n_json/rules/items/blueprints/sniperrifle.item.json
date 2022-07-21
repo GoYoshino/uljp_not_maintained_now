@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 243,
+    "Text": "sniperRifleBlueprint"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 272,
+    "Text": "Blueprint: Sniper Rifle"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 367,
+    "Text": "Contains instructions on how to create a sniper rifle."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 382,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 514,
+    "StartTextOffset": 520,
+    "EndTextOffset": 525,
+    "Text": "sniper"
+  },
+  {
+    "HeaderOffset": 584,
+    "StartTextOffset": 590,
+    "EndTextOffset": 609,
+    "Text": "blueprintconsumation"
+  }
+]

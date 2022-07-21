@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 370,
+    "Text": "sturdyVest"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 387,
+    "Text": "Sturdy Vest"
+  },
+  {
+    "HeaderOffset": 423,
+    "StartTextOffset": 429,
+    "EndTextOffset": 470,
+    "Text": "A sturdy, but relatively lightweight vest."
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 490,
+    "Text": "Components.104"
+  },
+  {
+    "HeaderOffset": 857,
+    "StartTextOffset": 863,
+    "EndTextOffset": 871,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 901,
+    "StartTextOffset": 907,
+    "EndTextOffset": 914,
+    "Text": "VestType"
+  },
+  {
+    "HeaderOffset": 915,
+    "StartTextOffset": 921,
+    "EndTextOffset": 926,
+    "Text": "Sturdy"
+  },
+  {
+    "HeaderOffset": 936,
+    "StartTextOffset": 942,
+    "EndTextOffset": 957,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 958,
+    "StartTextOffset": 964,
+    "EndTextOffset": 987,
+    "Text": "This sturdy vest carries"
+  },
+  {
+    "HeaderOffset": 997,
+    "StartTextOffset": 1003,
+    "EndTextOffset": 1019,
+    "Text": "ArmorDescription2"
+  },
+  {
+    "HeaderOffset": 1020,
+    "StartTextOffset": 1026,
+    "EndTextOffset": 1038,
+    "Text": "a sturdy vest"
+  },
+  {
+    "HeaderOffset": 1048,
+    "StartTextOffset": 1054,
+    "EndTextOffset": 1070,
+    "Text": "ArmorDescription3"
+  },
+  {
+    "HeaderOffset": 1071,
+    "StartTextOffset": 1077,
+    "EndTextOffset": 1102,
+    "Text": "a sturdy vest that carries"
+  },
+  {
+    "HeaderOffset": 1129,
+    "StartTextOffset": 1135,
+    "EndTextOffset": 1142,
+    "Text": "MatIndex"
+  }
+]

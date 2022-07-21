@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 308,
+    "Text": "pistolFrame2"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 336,
+    "Text": "Pistol Frame: Hammerer"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 470,
+    "Text": "This frame is used to create a Hammerer type pistol. It supports 7.62mm, 9mm and .44 barrels."
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 462,
+    "Text": "his frame is used to create a Hammerer type pistol. It supports 7.62mm, 9mm and .44 "
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 490,
+    "Text": "pistol.2.frame"
+  },
+  {
+    "HeaderOffset": 813,
+    "StartTextOffset": 819,
+    "EndTextOffset": 827,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 865,
+    "StartTextOffset": 871,
+    "EndTextOffset": 890,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 959,
+    "StartTextOffset": 965,
+    "EndTextOffset": 968,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 969,
+    "StartTextOffset": 975,
+    "EndTextOffset": 982,
+    "Text": "Hammerer"
+  },
+  {
+    "HeaderOffset": 1033,
+    "StartTextOffset": 1039,
+    "EndTextOffset": 1058,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1090,
+    "StartTextOffset": 1096,
+    "EndTextOffset": 1114,
+    "Text": "CriticalDamageBonus"
+  }
+]

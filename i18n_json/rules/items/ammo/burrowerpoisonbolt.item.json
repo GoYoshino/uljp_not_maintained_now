@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 236,
+    "Text": "Ammo.BurrowerPoisonBolt"
+  },
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 262,
+    "Text": "Burrower Poison Bolt"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 364,
+    "Text": "This bolt is packed with an ampule of potent burrower poison."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 393,
+    "Text": "Ammo.BurrowerPoisonBolt"
+  },
+  {
+    "HeaderOffset": 678,
+    "StartTextOffset": 684,
+    "EndTextOffset": 698,
+    "Text": "ShootPoisonBolt"
+  },
+  {
+    "HeaderOffset": 725,
+    "StartTextOffset": 731,
+    "EndTextOffset": 743,
+    "Text": "DamagePerTurn"
+  },
+  {
+    "HeaderOffset": 757,
+    "StartTextOffset": 763,
+    "EndTextOffset": 776,
+    "Text": "PoisonDuration"
+  },
+  {
+    "HeaderOffset": 806,
+    "StartTextOffset": 812,
+    "EndTextOffset": 821,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 822,
+    "StartTextOffset": 828,
+    "EndTextOffset": 841,
+    "Text": "BurrowerPoison"
+  },
+  {
+    "HeaderOffset": 851,
+    "StartTextOffset": 857,
+    "EndTextOffset": 871,
+    "Text": "MaxPoisonStacks"
+  },
+  {
+    "HeaderOffset": 901,
+    "StartTextOffset": 907,
+    "EndTextOffset": 916,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 917,
+    "StartTextOffset": 923,
+    "EndTextOffset": 937,
+    "Text": "Burrower Poison"
+  }
+]

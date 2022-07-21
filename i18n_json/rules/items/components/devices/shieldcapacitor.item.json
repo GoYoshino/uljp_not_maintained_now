@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 314,
+    "Text": "component.shieldCapacitor"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 336,
+    "Text": "Shield Capacitor"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 502,
+    "Text": "Can be used when crafting energy shield emitters to reduce the dissipation rate, allowing the shield to remain active longer."
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 445,
+    "Text": "an be used when crafting energy shield emitters to reduce the dissi"
+  },
+  {
+    "HeaderOffset": 503,
+    "StartTextOffset": 509,
+    "EndTextOffset": 522,
+    "Text": "Components.234"
+  },
+  {
+    "HeaderOffset": 882,
+    "StartTextOffset": 888,
+    "EndTextOffset": 898,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 929,
+    "StartTextOffset": 935,
+    "EndTextOffset": 961,
+    "Text": "BaseDissipationRateModifier"
+  },
+  {
+    "HeaderOffset": 995,
+    "StartTextOffset": 1001,
+    "EndTextOffset": 1011,
+    "Text": "Description"
+  },
+  {
+    "HeaderOffset": 1012,
+    "StartTextOffset": 1018,
+    "EndTextOffset": 1139,
+    "Text": "A shield capacitor is attached to the emitter to reduce the dissipation rate, allowing the shield to remain active longer."
+  },
+  {
+    "HeaderOffset": 1149,
+    "StartTextOffset": 1155,
+    "EndTextOffset": 1183,
+    "Text": "DissipationModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1218,
+    "StartTextOffset": 1224,
+    "EndTextOffset": 1239,
+    "Text": "EnhancementIndex"
+  },
+  {
+    "HeaderOffset": 1269,
+    "StartTextOffset": 1275,
+    "EndTextOffset": 1280,
+    "Text": "Prefix"
+  },
+  {
+    "HeaderOffset": 1281,
+    "StartTextOffset": 1287,
+    "EndTextOffset": 1298,
+    "Text": "Conservative"
+  },
+  {
+    "HeaderOffset": 1454,
+    "StartTextOffset": 1460,
+    "EndTextOffset": 1470,
+    "Text": "ShieldColor"
+  }
+]

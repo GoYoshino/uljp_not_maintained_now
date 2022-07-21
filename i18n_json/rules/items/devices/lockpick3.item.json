@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 209,
+    "StartTextOffset": 215,
+    "EndTextOffset": 223,
+    "Text": "lockpick3"
+  },
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 244,
+    "Text": "ロックピックMk-III／Lockpick Mk III"
+  },
+  {
+    "HeaderOffset": 280,
+    "StartTextOffset": 286,
+    "EndTextOffset": 326,
+    "Text": "物理的な鍵を解錠するのに用いる。"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 342,
+    "Text": "Devices.42"
+  },
+  {
+    "HeaderOffset": 551,
+    "StartTextOffset": 557,
+    "EndTextOffset": 571,
+    "Text": "lockpickutility"
+  },
+  {
+    "HeaderOffset": 598,
+    "StartTextOffset": 604,
+    "EndTextOffset": 616,
+    "Text": "LockpickBonus"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 393,
+    "StartTextOffset": 399,
+    "EndTextOffset": 403,
+    "Text": "MDPE2"
+  },
+  {
+    "HeaderOffset": 469,
+    "StartTextOffset": 475,
+    "EndTextOffset": 485,
+    "Text": "unprojector"
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 502,
+    "Text": "Unprojector"
+  },
+  {
+    "HeaderOffset": 538,
+    "StartTextOffset": 544,
+    "EndTextOffset": 676,
+    "Text": "These weird goggles seem to flatten the image that is in focus, making its silhouette easy to distinguish but obscuring the details."
+  },
+  {
+    "HeaderOffset": 677,
+    "StartTextOffset": 683,
+    "EndTextOffset": 699,
+    "Text": "Armor.Unprojector"
+  }
+]

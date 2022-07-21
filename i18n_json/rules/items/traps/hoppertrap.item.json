@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 250,
+    "Text": "trap.HopperTrap"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 267,
+    "Text": "Hopper Trap"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 389,
+    "Text": "A simple mechanical trap designed to ensnare small animals, such as cave hoppers."
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 374,
+    "Text": " simple mechanical trap designed to ensnare small animals, such a"
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 409,
+    "Text": "Explosives.180"
+  },
+  {
+    "HeaderOffset": 612,
+    "StartTextOffset": 618,
+    "EndTextOffset": 632,
+    "Text": "PlaceHopperTrap"
+  }
+]

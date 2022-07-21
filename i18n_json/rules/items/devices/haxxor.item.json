@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 223,
+    "StartTextOffset": 229,
+    "EndTextOffset": 234,
+    "Text": "haxxor"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 246,
+    "Text": "ハッカー・コンソール／Haxxor"
+  },
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 362,
+    "Text": "コンピュータデバイスをハッキングしたり、電子錠を解錠するのに用いる。"
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 378,
+    "Text": "Devices.50"
+  },
+  {
+    "HeaderOffset": 573,
+    "StartTextOffset": 579,
+    "EndTextOffset": 589,
+    "Text": "hackutility"
+  }
+]

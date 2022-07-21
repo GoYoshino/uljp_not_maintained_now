@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 233,
+    "Text": "med.antidote"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 247,
+    "Text": "Antidote"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 390,
+    "Text": "This is a powerful cocktail of great variety of antibodies that counteract a large spectrum of toxins."
+  },
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 373,
+    "Text": "his is a powerful cocktail of great variety of antibodies that counteract a large sp"
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 410,
+    "Text": "Items.Antidote"
+  },
+  {
+    "HeaderOffset": 601,
+    "StartTextOffset": 607,
+    "EndTextOffset": 625,
+    "Text": "AntidoteConsumation"
+  }
+]

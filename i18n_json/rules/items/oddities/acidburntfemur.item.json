@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 233,
+    "Text": "Oddity.AcidBurntFemur"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 255,
+    "Text": "Acid-Burnt Femur"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 425,
+    "Text": "This human femur has been damaged by corrosive acid, meaning that the mutant it belonged to suffered greatly from its mutations."
+  },
+  {
+    "HeaderOffset": 426,
+    "StartTextOffset": 432,
+    "EndTextOffset": 452,
+    "Text": "Oddity.AcidBurntFemur"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 309,
+    "Text": "VehiclePart.ScrappyEngine250"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 336,
+    "Text": "Medium Scrappy Engine"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 443,
+    "Text": "It's a medium unmarked electrical vehicle engine in bad condition."
+  },
+  {
+    "HeaderOffset": 444,
+    "StartTextOffset": 450,
+    "EndTextOffset": 477,
+    "Text": "VehiclePart.ScrappyEngine250"
+  },
+  {
+    "HeaderOffset": 628,
+    "StartTextOffset": 634,
+    "EndTextOffset": 640,
+    "Text": "default"
+  }
+]

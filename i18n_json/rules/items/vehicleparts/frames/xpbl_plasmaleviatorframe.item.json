@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 472,
+    "StartTextOffset": 478,
+    "EndTextOffset": 501,
+    "Text": "xpbl_plasmaLeviatorFrame"
+  },
+  {
+    "HeaderOffset": 502,
+    "StartTextOffset": 508,
+    "EndTextOffset": 528,
+    "Text": "Plasma Leviator Frame"
+  },
+  {
+    "HeaderOffset": 565,
+    "StartTextOffset": 571,
+    "EndTextOffset": 576,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1104,
+    "StartTextOffset": 1110,
+    "EndTextOffset": 1128,
+    "Text": "xpbl_plasmaLeviator"
+  },
+  {
+    "HeaderOffset": 1195,
+    "StartTextOffset": 1201,
+    "EndTextOffset": 1225,
+    "Text": "ShootLeviatorPlasmaCannon"
+  }
+]

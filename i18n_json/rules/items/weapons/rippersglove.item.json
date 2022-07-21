@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 749,
+    "StartTextOffset": 755,
+    "EndTextOffset": 758,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 807,
+    "StartTextOffset": 813,
+    "EndTextOffset": 828,
+    "Text": "wep.rippersGlove"
+  },
+  {
+    "HeaderOffset": 829,
+    "StartTextOffset": 835,
+    "EndTextOffset": 848,
+    "Text": "Ripper's Glove"
+  },
+  {
+    "HeaderOffset": 884,
+    "StartTextOffset": 890,
+    "EndTextOffset": 992,
+    "Text": "Fingertips of this glove are lined with wicked talons designed specifically to tear skin and rip flesh."
+  },
+  {
+    "HeaderOffset": 993,
+    "StartTextOffset": 999,
+    "EndTextOffset": 1017,
+    "Text": "Weapon.RippersGlove"
+  },
+  {
+    "HeaderOffset": 1764,
+    "StartTextOffset": 1770,
+    "EndTextOffset": 1782,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 1805,
+    "StartTextOffset": 1811,
+    "EndTextOffset": 1823,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 1846,
+    "StartTextOffset": 1852,
+    "EndTextOffset": 1864,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 1970,
+    "StartTextOffset": 1976,
+    "EndTextOffset": 1984,
+    "Text": "CanPoison"
+  },
+  {
+    "HeaderOffset": 1995,
+    "StartTextOffset": 2001,
+    "EndTextOffset": 2017,
+    "Text": "SharpenableWeapon"
+  }
+]

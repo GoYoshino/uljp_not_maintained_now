@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 221,
+    "Text": "key.cc_g_yellow"
+  },
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 248,
+    "Text": "Gauntlet Key - Yellow"
+  },
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 374,
+    "Text": "You found this key inside the Core City Gauntlet. It has a yellow tag attached to it."
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 388,
+    "Text": "Plot.103"
+  }
+]

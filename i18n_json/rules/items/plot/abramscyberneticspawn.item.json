@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 217,
+    "StartTextOffset": 223,
+    "EndTextOffset": 238,
+    "Text": "plot.abramsSpawn"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 260,
+    "Text": "Cybernetic Spawn"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 405,
+    "Text": "It's some sort of cybernetically modified burrower spawn. It seems docile and quite content where it is."
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 375,
+    "Text": "t's some sort of cybernetically modified burrower spawn. It seems docile "
+  },
+  {
+    "HeaderOffset": 406,
+    "StartTextOffset": 412,
+    "EndTextOffset": 418,
+    "Text": "Plot.81"
+  },
+  {
+    "HeaderOffset": 609,
+    "StartTextOffset": 615,
+    "EndTextOffset": 642,
+    "Text": "releaseAbramsCyberneticSpawn"
+  }
+]

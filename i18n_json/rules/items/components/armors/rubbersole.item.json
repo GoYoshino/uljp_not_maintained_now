@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 304,
+    "Text": "rubberSole"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 321,
+    "Text": "Rubber Sole"
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 440,
+    "Text": "Rubber shoe sole. You'll need two of these when crafting any kind of footwear."
+  },
+  {
+    "HeaderOffset": 441,
+    "StartTextOffset": 447,
+    "EndTextOffset": 459,
+    "Text": "Components.87"
+  },
+  {
+    "HeaderOffset": 715,
+    "StartTextOffset": 721,
+    "EndTextOffset": 729,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 775,
+    "StartTextOffset": 781,
+    "EndTextOffset": 787,
+    "Text": "Stealth"
+  }
+]

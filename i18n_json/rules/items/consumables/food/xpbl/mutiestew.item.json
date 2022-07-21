@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 241,
+    "Text": "food.mutieStew"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 257,
+    "Text": "Mutie Stew"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 364,
+    "Text": "Not actually made from muties, but looks unappetizing nonetheless."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 384,
+    "Text": "Food.MutieStew"
+  },
+  {
+    "HeaderOffset": 614,
+    "StartTextOffset": 620,
+    "EndTextOffset": 634,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 660,
+    "StartTextOffset": 666,
+    "EndTextOffset": 673,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 674,
+    "StartTextOffset": 680,
+    "EndTextOffset": 688,
+    "Text": "mutieStew"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 711,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 727,
+    "Text": "Mutie Stew"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 267,
+    "Text": "Blueprint: Psi Inhalant"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 360,
+    "Text": "Contains instructions on how to make a psi inhalant."
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 375,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 510,
+    "StartTextOffset": 516,
+    "EndTextOffset": 526,
+    "Text": "PsiInhalant"
+  },
+  {
+    "HeaderOffset": 585,
+    "StartTextOffset": 591,
+    "EndTextOffset": 610,
+    "Text": "blueprintconsumation"
+  }
+]

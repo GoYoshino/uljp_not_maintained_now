@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 298,
+    "Text": "Component.RubberBalls"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 316,
+    "Text": "Rubber Balls"
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 386,
+    "Text": "A bunch of hard rubber balls."
+  },
+  {
+    "HeaderOffset": 387,
+    "StartTextOffset": 393,
+    "EndTextOffset": 405,
+    "Text": "Components.62"
+  },
+  {
+    "HeaderOffset": 656,
+    "StartTextOffset": 662,
+    "EndTextOffset": 670,
+    "Text": "Mechanics"
+  }
+]

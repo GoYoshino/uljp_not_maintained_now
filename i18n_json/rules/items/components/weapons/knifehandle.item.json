@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 287,
+    "Text": "knifeHandle"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 305,
+    "Text": "Knife Handle"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 416,
+    "Text": "This universal knife handle supports blades of all types and breadths."
+  },
+  {
+    "HeaderOffset": 417,
+    "StartTextOffset": 423,
+    "EndTextOffset": 436,
+    "Text": "Components.140"
+  },
+  {
+    "HeaderOffset": 680,
+    "StartTextOffset": 686,
+    "EndTextOffset": 694,
+    "Text": "Mechanics"
+  }
+]

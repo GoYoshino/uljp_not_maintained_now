@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 272,
+    "Text": "VehiclePart.BioInM600"
+  },
+  {
+    "HeaderOffset": 273,
+    "StartTextOffset": 279,
+    "EndTextOffset": 288,
+    "Text": "BioIn M600"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 384,
+    "Text": "Medium size vehicle battery made by Biocorp Industries."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 411,
+    "Text": "VehiclePart.BioInM600"
+  }
+]

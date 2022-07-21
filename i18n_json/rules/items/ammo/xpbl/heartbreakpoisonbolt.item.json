@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 244,
+    "Text": "Ammo.HeartbreakPoisonBolt"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 272,
+    "Text": "Heartbreak Poison Bolt"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 369,
+    "Text": "This bolt is packed with an ampule of heartbreak poison."
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 400,
+    "Text": "Ammo.HeartbreakPoisonBolt"
+  },
+  {
+    "HeaderOffset": 591,
+    "StartTextOffset": 597,
+    "EndTextOffset": 621,
+    "Text": "ShootHeartbreakPoisonBolt"
+  }
+]

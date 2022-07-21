@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 238,
+    "Text": "spiritPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 272,
+    "Text": "Spirit Poison Throwing Knife"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 435,
+    "Text": "This knife is specially designed and weighted so that it can be thrown effectively. It has been coated with spirit poison."
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 398,
+    "Text": "his knife is specially designed and weighted so that it can be thrown effectively. I"
+  },
+  {
+    "HeaderOffset": 436,
+    "StartTextOffset": 442,
+    "EndTextOffset": 466,
+    "Text": "SpiritPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 656,
+    "StartTextOffset": 662,
+    "EndTextOffset": 683,
+    "Text": "SpiritPoisonKnifeThrow"
+  }
+]

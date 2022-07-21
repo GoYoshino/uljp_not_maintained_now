@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 289,
+    "Text": "fragMineCase"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 309,
+    "Text": "Frag Mine Case"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 420,
+    "Text": "A case for land mines designed to shatter into shrapnel on detonation."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 416,
+    "Text": " case for land mines designed to shatter into shrapnel on detonat"
+  },
+  {
+    "HeaderOffset": 421,
+    "StartTextOffset": 427,
+    "EndTextOffset": 439,
+    "Text": "Explosives.55"
+  },
+  {
+    "HeaderOffset": 690,
+    "StartTextOffset": 696,
+    "EndTextOffset": 704,
+    "Text": "Mechanics"
+  }
+]

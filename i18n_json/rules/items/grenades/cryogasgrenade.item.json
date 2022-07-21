@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 226,
+    "Text": "cryogasGrenade"
+  },
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 247,
+    "Text": "Cryogas Grenade"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 343,
+    "Text": "When thrown this grenade slowly releases cryogenic gas."
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 363,
+    "Text": "Explosives.132"
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 572,
+    "Text": "cryogasGrenade"
+  }
+]

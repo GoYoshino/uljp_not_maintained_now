@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 295,
+    "Text": "incendiaryCollector"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 321,
+    "Text": "Incendiary Collector"
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 436,
+    "Text": "Used in creating chemical weaponry to store and funnel incendiary liquids."
+  },
+  {
+    "HeaderOffset": 437,
+    "StartTextOffset": 443,
+    "EndTextOffset": 467,
+    "Text": "Items.IncendiaryCollector"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 782,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 813,
+    "StartTextOffset": 819,
+    "EndTextOffset": 837,
+    "Text": "ChemicalPistolIndex"
+  },
+  {
+    "HeaderOffset": 867,
+    "StartTextOffset": 873,
+    "EndTextOffset": 889,
+    "Text": "ChemicalSubstance"
+  },
+  {
+    "HeaderOffset": 890,
+    "StartTextOffset": 896,
+    "EndTextOffset": 905,
+    "Text": "Incendiary"
+  },
+  {
+    "HeaderOffset": 931,
+    "StartTextOffset": 937,
+    "EndTextOffset": 970,
+    "Text": "ChemicalPistolCollectorBonusText_1"
+  },
+  {
+    "HeaderOffset": 971,
+    "StartTextOffset": 977,
+    "EndTextOffset": 1018,
+    "Text": "It has a chance to set the target on fire."
+  }
+]

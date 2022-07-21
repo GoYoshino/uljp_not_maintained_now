@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 269,
+    "StartTextOffset": 275,
+    "EndTextOffset": 308,
+    "Text": "VehiclePart.ScrappyEngine300Broken"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 341,
+    "Text": "Broken Large Scrappy Engine"
+  },
+  {
+    "HeaderOffset": 377,
+    "StartTextOffset": 383,
+    "EndTextOffset": 457,
+    "Text": "It's a large unmarked electrical vehicle engine. It's broken beyond repair."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 456,
+    "Text": "t's a large unmarked electrical vehicle engine. It's broken beyond repair"
+  },
+  {
+    "HeaderOffset": 458,
+    "StartTextOffset": 464,
+    "EndTextOffset": 497,
+    "Text": "VehiclePart.ScrappyEngine300Broken"
+  },
+  {
+    "HeaderOffset": 647,
+    "StartTextOffset": 653,
+    "EndTextOffset": 659,
+    "Text": "default"
+  }
+]

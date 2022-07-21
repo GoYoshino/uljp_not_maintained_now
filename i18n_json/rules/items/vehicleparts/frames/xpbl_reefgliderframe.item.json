@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 464,
+    "Text": "xpbl_reefGliderFrame"
+  },
+  {
+    "HeaderOffset": 465,
+    "StartTextOffset": 471,
+    "EndTextOffset": 487,
+    "Text": "Reef Glider Frame"
+  },
+  {
+    "HeaderOffset": 524,
+    "StartTextOffset": 530,
+    "EndTextOffset": 535,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1024,
+    "StartTextOffset": 1030,
+    "EndTextOffset": 1044,
+    "Text": "xpbl_reefGlider"
+  }
+]

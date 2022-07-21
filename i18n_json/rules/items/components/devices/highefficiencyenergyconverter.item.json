@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 321,
+    "Text": "component.highEfficiencyEnergyConverter"
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 359,
+    "Text": "High Efficiency Energy Converter"
+  },
+  {
+    "HeaderOffset": 395,
+    "StartTextOffset": 401,
+    "EndTextOffset": 538,
+    "Text": "Can be used to augment certain electronic devices, such as energy shield emitters and energy pistols, to increase power usage efficiency."
+  },
+  {
+    "HeaderOffset": 539,
+    "StartTextOffset": 545,
+    "EndTextOffset": 558,
+    "Text": "Components.236"
+  },
+  {
+    "HeaderOffset": 917,
+    "StartTextOffset": 923,
+    "EndTextOffset": 933,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 964,
+    "StartTextOffset": 970,
+    "EndTextOffset": 985,
+    "Text": "EnhancementIndex"
+  },
+  {
+    "HeaderOffset": 1145,
+    "StartTextOffset": 1151,
+    "EndTextOffset": 1161,
+    "Text": "ShieldColor"
+  },
+  {
+    "HeaderOffset": 1248,
+    "StartTextOffset": 1254,
+    "EndTextOffset": 1259,
+    "Text": "Prefix"
+  },
+  {
+    "HeaderOffset": 1260,
+    "StartTextOffset": 1266,
+    "EndTextOffset": 1274,
+    "Text": "Efficient"
+  },
+  {
+    "HeaderOffset": 1301,
+    "StartTextOffset": 1307,
+    "EndTextOffset": 1332,
+    "Text": "BaseConversionRateModifier"
+  },
+  {
+    "HeaderOffset": 1367,
+    "StartTextOffset": 1373,
+    "EndTextOffset": 1404,
+    "Text": "ConversionRateModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1438,
+    "StartTextOffset": 1444,
+    "EndTextOffset": 1454,
+    "Text": "Description"
+  },
+  {
+    "HeaderOffset": 1455,
+    "StartTextOffset": 1461,
+    "EndTextOffset": 1561,
+    "Text": "A high efficiency energy converter is attached to the emitter to increase the energy conversion rate."
+  }
+]

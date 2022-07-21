@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 240,
+    "Text": "regenerativeMixture"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 266,
+    "Text": "Regenerative Mixture"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 365,
+    "Text": "When ingested catalyzes limited non-necrotic regeneration."
+  },
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 396,
+    "Text": "Items.RegenerativeMixture"
+  },
+  {
+    "HeaderOffset": 587,
+    "StartTextOffset": 593,
+    "EndTextOffset": 611,
+    "Text": "RegenerativeMixture"
+  }
+]

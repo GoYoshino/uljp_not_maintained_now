@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 247,
+    "Text": "nightVisionSpyingEndoscope"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 282,
+    "Text": "Night Vision Spying Endoscope"
+  },
+  {
+    "HeaderOffset": 318,
+    "StartTextOffset": 324,
+    "EndTextOffset": 439,
+    "Text": "A rare spying device. It can be used to spy under most standard doors. It comes equipped with a night vision module."
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 389,
+    "Text": " rare spying device. It can be used to spy under most standard do"
+  },
+  {
+    "HeaderOffset": 440,
+    "StartTextOffset": 446,
+    "EndTextOffset": 455,
+    "Text": "Devices.47"
+  },
+  {
+    "HeaderOffset": 646,
+    "StartTextOffset": 652,
+    "EndTextOffset": 663,
+    "Text": "spyUnderDoor"
+  }
+]

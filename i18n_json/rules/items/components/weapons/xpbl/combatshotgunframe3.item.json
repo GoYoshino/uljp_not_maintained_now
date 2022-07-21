@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 315,
+    "Text": "combatShotgunFrame3"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 343,
+    "Text": "Shotgun Frame: Tyranny"
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 443,
+    "Text": "This frame is used to create a Tyranny type combat shotgun."
+  },
+  {
+    "HeaderOffset": 444,
+    "StartTextOffset": 450,
+    "EndTextOffset": 470,
+    "Text": "combatShotgun.3.frame"
+  },
+  {
+    "HeaderOffset": 869,
+    "StartTextOffset": 875,
+    "EndTextOffset": 883,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 913,
+    "StartTextOffset": 919,
+    "EndTextOffset": 922,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 923,
+    "StartTextOffset": 929,
+    "EndTextOffset": 935,
+    "Text": "Tyranny"
+  },
+  {
+    "HeaderOffset": 962,
+    "StartTextOffset": 968,
+    "EndTextOffset": 986,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 1025,
+    "StartTextOffset": 1031,
+    "EndTextOffset": 1041,
+    "Text": "ShotgunType"
+  },
+  {
+    "HeaderOffset": 1107,
+    "StartTextOffset": 1113,
+    "EndTextOffset": 1132,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1202,
+    "StartTextOffset": 1208,
+    "EndTextOffset": 1234,
+    "Text": "CriticalDamageBonusModifier"
+  },
+  {
+    "HeaderOffset": 1269,
+    "StartTextOffset": 1275,
+    "EndTextOffset": 1290,
+    "Text": "MagazineModifier"
+  },
+  {
+    "HeaderOffset": 1321,
+    "StartTextOffset": 1327,
+    "EndTextOffset": 1341,
+    "Text": "ExtraBurstShots"
+  },
+  {
+    "HeaderOffset": 1372,
+    "StartTextOffset": 1378,
+    "EndTextOffset": 1399,
+    "Text": "CriticalChanceModifier"
+  }
+]

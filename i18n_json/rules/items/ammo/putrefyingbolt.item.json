@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 232,
+    "Text": "Ammo.PutrefyingBolt"
+  },
+  {
+    "HeaderOffset": 233,
+    "StartTextOffset": 239,
+    "EndTextOffset": 253,
+    "Text": "Putrefying Bolt"
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 372,
+    "Text": "An experimental putrefying bolt that should slowly decompose target's muscles."
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 360,
+    "Text": "n experimental putrefying bolt that should slowly decompose targe"
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 397,
+    "Text": "Ammo.PutrefyingBolt"
+  },
+  {
+    "HeaderOffset": 587,
+    "StartTextOffset": 593,
+    "EndTextOffset": 611,
+    "Text": "ShootPutrefyingBolt"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 249,
+    "Text": "capturedLaserCat"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 273,
+    "Text": "Captured Laser Cat"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 397,
+    "Text": "This loveable laser cat has, unfortunately, been turned feral through overcharging."
+  },
+  {
+    "HeaderOffset": 398,
+    "StartTextOffset": 404,
+    "EndTextOffset": 409,
+    "Text": "Plot.4"
+  },
+  {
+    "HeaderOffset": 598,
+    "StartTextOffset": 604,
+    "EndTextOffset": 611,
+    "Text": "CatLaser"
+  }
+]

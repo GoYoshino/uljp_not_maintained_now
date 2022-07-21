@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 313,
+    "Text": "Ammo.Caliber_9_JHP"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 332,
+    "Text": "9mm JHP Round"
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 415,
+    "Text": "This is a 9mm jacketed hollow point round."
+  },
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 439,
+    "Text": "Ammo.Caliber_9_JHP"
+  },
+  {
+    "HeaderOffset": 679,
+    "StartTextOffset": 685,
+    "EndTextOffset": 688,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 710,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 720,
+    "StartTextOffset": 726,
+    "EndTextOffset": 731,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 741,
+    "StartTextOffset": 747,
+    "EndTextOffset": 755,
+    "Text": "ldsingcur"
+  }
+]

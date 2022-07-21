@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 235,
+    "Text": "Oddity.Bubblegum"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 250,
+    "Text": "Bubblegum"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 382,
+    "Text": "An expired pack of \"bubblegum\", old world delicacy that you could allegedly chew for hours."
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 357,
+    "Text": "n expired pack of \"bubblegum\", old world delicacy that you could "
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 404,
+    "Text": "Oddity.Bubblegum"
+  }
+]

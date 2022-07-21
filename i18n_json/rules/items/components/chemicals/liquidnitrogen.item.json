@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 291,
+    "Text": "liquidNitrogen"
+  },
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 312,
+    "Text": "Liquid Nitrogen"
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 389,
+    "Text": "Thermos filled with liquid nitrogen."
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 409,
+    "Text": "Components.253"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 731,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 761,
+    "StartTextOffset": 767,
+    "EndTextOffset": 778,
+    "Text": "ChemicalAmmo"
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 796,
+    "Text": "Vial_Cryogel"
+  },
+  {
+    "HeaderOffset": 806,
+    "StartTextOffset": 812,
+    "EndTextOffset": 819,
+    "Text": "BlobTrap"
+  },
+  {
+    "HeaderOffset": 820,
+    "StartTextOffset": 826,
+    "EndTextOffset": 843,
+    "Text": "CryoliquidBlobTrap"
+  },
+  {
+    "HeaderOffset": 853,
+    "StartTextOffset": 859,
+    "EndTextOffset": 868,
+    "Text": "GasGrenade"
+  },
+  {
+    "HeaderOffset": 869,
+    "StartTextOffset": 875,
+    "EndTextOffset": 888,
+    "Text": "CryogasGrenade"
+  }
+]

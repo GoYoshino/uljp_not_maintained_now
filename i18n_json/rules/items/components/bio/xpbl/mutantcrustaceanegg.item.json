@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 296,
+    "Text": "mutantCrustaceanEgg"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 323,
+    "Text": "Mutant Crustacean Egg"
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 438,
+    "Text": "Egg extracted from one of the dead mutant crustacean. It will never hatch."
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 434,
+    "Text": "gg extracted from one of the dead mutant crustacean. It will never ha"
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 474,
+    "Text": "Components.MutantCrustaceanEgg"
+  },
+  {
+    "HeaderOffset": 744,
+    "StartTextOffset": 750,
+    "EndTextOffset": 756,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 798,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 799,
+    "StartTextOffset": 805,
+    "EndTextOffset": 825,
+    "Text": "Xpbl\\RetrolyticEnzyme"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 200,
+    "StartTextOffset": 206,
+    "EndTextOffset": 218,
+    "Text": "capturedLarva"
+  },
+  {
+    "HeaderOffset": 219,
+    "StartTextOffset": 225,
+    "EndTextOffset": 238,
+    "Text": "Captured Borer"
+  },
+  {
+    "HeaderOffset": 274,
+    "StartTextOffset": 280,
+    "EndTextOffset": 300,
+    "Text": "Borer in a dog crate."
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 312,
+    "Text": "Plot.2"
+  }
+]

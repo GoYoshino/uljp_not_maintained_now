@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 259,
+    "Text": "luxury.hexagonGem"
+  },
+  {
+    "HeaderOffset": 260,
+    "StartTextOffset": 266,
+    "EndTextOffset": 276,
+    "Text": "Hexagon Gem"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 412,
+    "Text": "A brilliant gem similar to the one found on the Synesthete's headband, only hexagonal in shape."
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 383,
+    "Text": " brilliant gem similar to the one found on the Synesthete's headb"
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 433,
+    "Text": "Plot.HexagonGem"
+  },
+  {
+    "HeaderOffset": 703,
+    "StartTextOffset": 709,
+    "EndTextOffset": 724,
+    "Text": "startInterfacing"
+  },
+  {
+    "HeaderOffset": 750,
+    "StartTextOffset": 756,
+    "EndTextOffset": 771,
+    "Text": "InterfaceActorId"
+  },
+  {
+    "HeaderOffset": 790,
+    "StartTextOffset": 796,
+    "EndTextOffset": 813,
+    "Text": "InterfaceActorName"
+  },
+  {
+    "HeaderOffset": 814,
+    "StartTextOffset": 820,
+    "EndTextOffset": 830,
+    "Text": "Hexagon Gem"
+  },
+  {
+    "HeaderOffset": 840,
+    "StartTextOffset": 846,
+    "EndTextOffset": 865,
+    "Text": "InterfaceCommandText"
+  },
+  {
+    "HeaderOffset": 866,
+    "StartTextOffset": 872,
+    "EndTextOffset": 879,
+    "Text": "Inspect."
+  },
+  {
+    "HeaderOffset": 889,
+    "StartTextOffset": 895,
+    "EndTextOffset": 909,
+    "Text": "InterfaceDialog"
+  },
+  {
+    "HeaderOffset": 910,
+    "StartTextOffset": 916,
+    "EndTextOffset": 947,
+    "Text": "interfacing\\synestheteHexagonGem"
+  }
+]

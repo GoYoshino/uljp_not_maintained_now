@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 363,
+    "Text": "MQSNE"
+  },
+  {
+    "HeaderOffset": 430,
+    "StartTextOffset": 436,
+    "EndTextOffset": 446,
+    "Text": "belt.tchBio"
+  },
+  {
+    "HeaderOffset": 447,
+    "StartTextOffset": 453,
+    "EndTextOffset": 473,
+    "Text": "Bioinvestigative Belt"
+  },
+  {
+    "HeaderOffset": 509,
+    "StartTextOffset": 515,
+    "EndTextOffset": 681,
+    "Text": "This belt comes with highly advanced miniaturized equipment for biological analysis and synthesis of bioorganic compounds. Feels like wearing a lab around your waist."
+  },
+  {
+    "HeaderOffset": 682,
+    "StartTextOffset": 688,
+    "EndTextOffset": 709,
+    "Text": "Armor.TchortistBeltBio"
+  },
+  {
+    "HeaderOffset": 1068,
+    "StartTextOffset": 1074,
+    "EndTextOffset": 1080,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1316,
+    "StartTextOffset": 1322,
+    "EndTextOffset": 1328,
+    "Text": "Agility"
+  }
+]

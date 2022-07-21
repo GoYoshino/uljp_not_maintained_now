@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 271,
+    "Text": "Battery.FusionCell"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 288,
+    "Text": "Fusion Cell"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 450,
+    "Text": "This primary battery facilitates extremely small scale nuclear fusion in order to produce a single high energy discharge."
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 414,
+    "Text": "his primary battery facilitates extremely small scale nuclear fusion in order to pro"
+  },
+  {
+    "HeaderOffset": 451,
+    "StartTextOffset": 457,
+    "EndTextOffset": 466,
+    "Text": "Devices.31"
+  },
+  {
+    "HeaderOffset": 722,
+    "StartTextOffset": 728,
+    "EndTextOffset": 741,
+    "Text": "RechargeObject"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 778,
+    "Text": "Power"
+  }
+]

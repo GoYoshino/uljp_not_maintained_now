@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 308,
+    "Text": "sniperFrame1"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 341,
+    "Text": "Sniper Rifle Frame: Corsair"
+  },
+  {
+    "HeaderOffset": 377,
+    "StartTextOffset": 383,
+    "EndTextOffset": 485,
+    "Text": "This frame is used to create a Corsair type sniper rifle. It supports 7.62mm, 8.6mm and 12.7mm barrels."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 467,
+    "Text": "his frame is used to create a Corsair type sniper rifle. It supports 7.62mm, 8.6mm a"
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 505,
+    "Text": "sniper.1.frame"
+  },
+  {
+    "HeaderOffset": 828,
+    "StartTextOffset": 834,
+    "EndTextOffset": 842,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 880,
+    "StartTextOffset": 886,
+    "EndTextOffset": 905,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 974,
+    "StartTextOffset": 980,
+    "EndTextOffset": 983,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 984,
+    "StartTextOffset": 990,
+    "EndTextOffset": 996,
+    "Text": "Corsair"
+  },
+  {
+    "HeaderOffset": 1047,
+    "StartTextOffset": 1053,
+    "EndTextOffset": 1072,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1104,
+    "StartTextOffset": 1110,
+    "EndTextOffset": 1128,
+    "Text": "StrengthRequirement"
+  }
+]

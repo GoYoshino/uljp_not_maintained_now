@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 286,
+    "Text": "FirearmBarrel127"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 313,
+    "Text": "12.7mm Firearm Barrel"
+  },
+  {
+    "HeaderOffset": 349,
+    "StartTextOffset": 355,
+    "EndTextOffset": 423,
+    "Text": "Barrel of 12.7mm caliber that can be used to construct a new firearm."
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 421,
+    "Text": "arrel of 12.7mm caliber that can be used to construct a new firear"
+  },
+  {
+    "HeaderOffset": 424,
+    "StartTextOffset": 430,
+    "EndTextOffset": 442,
+    "Text": "Components.85"
+  },
+  {
+    "HeaderOffset": 711,
+    "StartTextOffset": 717,
+    "EndTextOffset": 725,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 763,
+    "StartTextOffset": 769,
+    "EndTextOffset": 778,
+    "Text": "BarrelType"
+  }
+]

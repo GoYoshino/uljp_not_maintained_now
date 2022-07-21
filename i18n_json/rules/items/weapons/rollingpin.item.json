@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 636,
+    "StartTextOffset": 642,
+    "EndTextOffset": 645,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 666,
+    "StartTextOffset": 672,
+    "EndTextOffset": 681,
+    "Text": "rollingPin"
+  },
+  {
+    "HeaderOffset": 682,
+    "StartTextOffset": 688,
+    "EndTextOffset": 698,
+    "Text": "Rolling Pin"
+  },
+  {
+    "HeaderOffset": 734,
+    "StartTextOffset": 740,
+    "EndTextOffset": 843,
+    "Text": "This is a heavy metal rolling pin. Can be used for flattening both dough and skulls. And it's non-stick."
+  },
+  {
+    "HeaderOffset": 735,
+    "StartTextOffset": 741,
+    "EndTextOffset": 824,
+    "Text": "his is a heavy metal rolling pin. Can be used for flattening both dough and skulls. "
+  },
+  {
+    "HeaderOffset": 844,
+    "StartTextOffset": 850,
+    "EndTextOffset": 866,
+    "Text": "Weapon.RollingPin"
+  }
+]

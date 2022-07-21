@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 289,
+    "Text": "rapidReloader"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 309,
+    "Text": "Rapid Reloader"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 428,
+    "Text": "This component can be used when crafting firearms to increase the firing rate."
+  },
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 447,
+    "Text": "Components.88"
+  },
+  {
+    "HeaderOffset": 691,
+    "StartTextOffset": 697,
+    "EndTextOffset": 705,
+    "Text": "Mechanics"
+  }
+]

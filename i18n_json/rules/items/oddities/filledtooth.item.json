@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 237,
+    "Text": "Oddity.FilledTooth"
+  },
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 255,
+    "Text": "Filled Tooth"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 351,
+    "Text": "This tooth has a dental filling, which can only mean..."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 375,
+    "Text": "Oddity.FilledTooth"
+  }
+]

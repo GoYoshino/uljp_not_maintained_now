@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 232,
+    "Text": "key.//insertCodeHere"
+  },
+  {
+    "HeaderOffset": 233,
+    "StartTextOffset": 239,
+    "EndTextOffset": 265,
+    "Text": "//Insert Jet Ski Name// Key"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 352,
+    "Text": "This is the key for //Insert Jet Ski Name Here"
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 369,
+    "Text": "xpbl_Plot.0"
+  }
+]

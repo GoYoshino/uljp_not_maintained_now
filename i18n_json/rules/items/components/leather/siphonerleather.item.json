@@ -1,0 +1,110 @@
+[
+  {
+    "HeaderOffset": 455,
+    "StartTextOffset": 461,
+    "EndTextOffset": 485,
+    "Text": "component.siphonerLeather"
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 507,
+    "Text": "Siphoner Leather"
+  },
+  {
+    "HeaderOffset": 543,
+    "StartTextOffset": 549,
+    "EndTextOffset": 642,
+    "Text": "It's a slippery slimy piece of siphoner skin. It can be used to craft a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 544,
+    "StartTextOffset": 550,
+    "EndTextOffset": 622,
+    "Text": "t's a slippery slimy piece of siphoner skin. It can be used to craft a su"
+  },
+  {
+    "HeaderOffset": 643,
+    "StartTextOffset": 649,
+    "EndTextOffset": 660,
+    "Text": "Components.5"
+  },
+  {
+    "HeaderOffset": 1268,
+    "StartTextOffset": 1274,
+    "EndTextOffset": 1282,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1414,
+    "StartTextOffset": 1420,
+    "EndTextOffset": 1435,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1436,
+    "StartTextOffset": 1442,
+    "EndTextOffset": 1490,
+    "Text": "This {0} is made of slippery slimy siphoner skin."
+  },
+  {
+    "HeaderOffset": 1500,
+    "StartTextOffset": 1506,
+    "EndTextOffset": 1519,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1520,
+    "StartTextOffset": 1526,
+    "EndTextOffset": 1533,
+    "Text": "Siphoner"
+  },
+  {
+    "HeaderOffset": 1543,
+    "StartTextOffset": 1549,
+    "EndTextOffset": 1570,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1571,
+    "StartTextOffset": 1577,
+    "EndTextOffset": 1627,
+    "Text": "These {0} are made of slippery slimy siphoner skin."
+  },
+  {
+    "HeaderOffset": 1654,
+    "StartTextOffset": 1660,
+    "EndTextOffset": 1672,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1686,
+    "StartTextOffset": 1692,
+    "EndTextOffset": 1713,
+    "Text": "CustomLeatherArmorType"
+  },
+  {
+    "HeaderOffset": 1714,
+    "StartTextOffset": 1720,
+    "EndTextOffset": 1735,
+    "Text": "Leather Jumpsuit"
+  },
+  {
+    "HeaderOffset": 1762,
+    "StartTextOffset": 1768,
+    "EndTextOffset": 1775,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1789,
+    "StartTextOffset": 1795,
+    "EndTextOffset": 1819,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1820,
+    "StartTextOffset": 1826,
+    "EndTextOffset": 1830,
+    "Text": "siple"
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 782,
+    "StartTextOffset": 788,
+    "EndTextOffset": 791,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 796,
+    "StartTextOffset": 802,
+    "EndTextOffset": 814,
+    "Text": "%LI%#G1>%s%#-"
+  },
+  {
+    "HeaderOffset": 823,
+    "StartTextOffset": 829,
+    "EndTextOffset": 848,
+    "Text": "pMutantHugeClawFrost"
+  },
+  {
+    "HeaderOffset": 849,
+    "StartTextOffset": 855,
+    "EndTextOffset": 863,
+    "Text": "Iced Claw"
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 1069,
+    "Text": "Your arm has been badly burnt, almost beyond recognition, and tough carapace-like crust now covers most of it, steadily getting thicker towards the tip of the claw."
+  },
+  {
+    "HeaderOffset": 1070,
+    "StartTextOffset": 1076,
+    "EndTextOffset": 1103,
+    "Text": "Weapon.MutantClaw.Huge.Frost"
+  },
+  {
+    "HeaderOffset": 1686,
+    "StartTextOffset": 1692,
+    "EndTextOffset": 1705,
+    "Text": "CyrokinesisHit"
+  },
+  {
+    "HeaderOffset": 1710,
+    "StartTextOffset": 1716,
+    "EndTextOffset": 1722,
+    "Text": "Attack2"
+  },
+  {
+    "HeaderOffset": 1794,
+    "StartTextOffset": 1800,
+    "EndTextOffset": 1808,
+    "Text": "forceVent"
+  },
+  {
+    "HeaderOffset": 1858,
+    "StartTextOffset": 1864,
+    "EndTextOffset": 1867,
+    "Text": "daze"
+  },
+  {
+    "HeaderOffset": 1890,
+    "StartTextOffset": 1896,
+    "EndTextOffset": 1900,
+    "Text": "chill"
+  },
+  {
+    "HeaderOffset": 1923,
+    "StartTextOffset": 1929,
+    "EndTextOffset": 1949,
+    "Text": "PlayerMutantFrostHand"
+  },
+  {
+    "HeaderOffset": 2038,
+    "StartTextOffset": 2044,
+    "EndTextOffset": 2050,
+    "Text": "ColdHit"
+  }
+]

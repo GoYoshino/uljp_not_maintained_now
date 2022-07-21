@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 248,
+    "Text": "FRCCIE"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 276,
+    "Text": "firecrackerCap"
+  },
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 297,
+    "Text": "Firecracker Cap"
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 497,
+    "Text": "A medium-sized explosive charge that can easily be activated on impact. Its shape allows it to be fitted on sledgehammer heads and other larger blunt weapons."
+  },
+  {
+    "HeaderOffset": 498,
+    "StartTextOffset": 504,
+    "EndTextOffset": 517,
+    "Text": "FirecrackerCap"
+  },
+  {
+    "HeaderOffset": 716,
+    "StartTextOffset": 722,
+    "EndTextOffset": 737,
+    "Text": "applygearbooster"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 246,
+    "Text": "chemicalPistolBlueprint"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 278,
+    "Text": "Blueprint: Chemical Pistol"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 388,
+    "Text": "Contains instructions on how to create all types of chemical pistols."
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 387,
+    "Text": "ontains instructions on how to create all types of chemical pistols"
+  },
+  {
+    "HeaderOffset": 389,
+    "StartTextOffset": 395,
+    "EndTextOffset": 403,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 535,
+    "StartTextOffset": 541,
+    "EndTextOffset": 554,
+    "Text": "chemicalPistol"
+  },
+  {
+    "HeaderOffset": 613,
+    "StartTextOffset": 619,
+    "EndTextOffset": 638,
+    "Text": "blueprintconsumation"
+  }
+]

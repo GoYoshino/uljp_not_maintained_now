@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 228,
+    "Text": "key.cc_tm_sideEntrance"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 274,
+    "Text": "Side Entrance Key Card (Core City Manor)"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 390,
+    "Text": "This key card should open the side entrance of one of the Core City manors."
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 403,
+    "Text": "Plot.10"
+  }
+]

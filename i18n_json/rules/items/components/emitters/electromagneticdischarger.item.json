@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 283,
+    "Text": "empDischarger"
+  },
+  {
+    "HeaderOffset": 284,
+    "StartTextOffset": 290,
+    "EndTextOffset": 315,
+    "Text": "Electromagnetic Discharger"
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 495,
+    "Text": "When coupled with an energy source, this device can discharge a powerful electromagnetic pulse. It's commonly used to create EMP grenades."
+  },
+  {
+    "HeaderOffset": 496,
+    "StartTextOffset": 502,
+    "EndTextOffset": 514,
+    "Text": "Components.34"
+  },
+  {
+    "HeaderOffset": 783,
+    "StartTextOffset": 789,
+    "EndTextOffset": 799,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 830,
+    "StartTextOffset": 836,
+    "EndTextOffset": 850,
+    "Text": "EmpGrenadePower"
+  }
+]

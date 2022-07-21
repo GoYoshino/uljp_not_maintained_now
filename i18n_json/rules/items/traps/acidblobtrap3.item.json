@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 248,
+    "Text": "acidBlobTrap3"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 275,
+    "Text": "Acid Blob Trap Mk III"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 381,
+    "Text": "Special chemical trap that entangles the victim in acidic sludge."
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 400,
+    "Text": "Explosives.82"
+  },
+  {
+    "HeaderOffset": 622,
+    "StartTextOffset": 628,
+    "EndTextOffset": 644,
+    "Text": "PlaceAcidBlobTrap"
+  },
+  {
+    "HeaderOffset": 671,
+    "StartTextOffset": 677,
+    "EndTextOffset": 681,
+    "Text": "power"
+  }
+]

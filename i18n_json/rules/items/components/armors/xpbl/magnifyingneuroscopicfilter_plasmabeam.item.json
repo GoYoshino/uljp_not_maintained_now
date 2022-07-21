@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 356,
+    "Text": "Magnifying Neuroscopic Filter: Plasma Beam"
+  },
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 475,
+    "Text": "When added to a psionic device, increases the power of the user's Plasma Beam."
+  },
+  {
+    "HeaderOffset": 476,
+    "StartTextOffset": 482,
+    "EndTextOffset": 529,
+    "Text": "Components.MagnifyingNeuroscopicFilterPlasmaBeam"
+  },
+  {
+    "HeaderOffset": 876,
+    "StartTextOffset": 882,
+    "EndTextOffset": 892,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 906,
+    "StartTextOffset": 912,
+    "EndTextOffset": 918,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 948,
+    "StartTextOffset": 954,
+    "EndTextOffset": 977,
+    "Text": "CapabilityDamageModified"
+  },
+  {
+    "HeaderOffset": 978,
+    "StartTextOffset": 984,
+    "EndTextOffset": 993,
+    "Text": "PlasmaBeam"
+  },
+  {
+    "HeaderOffset": 1020,
+    "StartTextOffset": 1026,
+    "EndTextOffset": 1038,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 1056,
+    "StartTextOffset": 1062,
+    "EndTextOffset": 1076,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 1077,
+    "StartTextOffset": 1083,
+    "EndTextOffset": 1120,
+    "Text": "1MagnifyingNeuroscopicFilterPlasmaBeam"
+  },
+  {
+    "HeaderOffset": 1130,
+    "StartTextOffset": 1136,
+    "EndTextOffset": 1154,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1155,
+    "StartTextOffset": 1161,
+    "EndTextOffset": 1255,
+    "Text": "It's equipped with magnifying neuroscopic filter that amplifies the power of the weaerer's {0}."
+  },
+  {
+    "HeaderOffset": 1265,
+    "StartTextOffset": 1271,
+    "EndTextOffset": 1291,
+    "Text": "PsionicHeadbandPrefix"
+  },
+  {
+    "HeaderOffset": 1292,
+    "StartTextOffset": 1298,
+    "EndTextOffset": 1304,
+    "Text": "Plasmic"
+  }
+]

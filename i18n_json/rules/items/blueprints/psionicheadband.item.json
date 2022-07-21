@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 247,
+    "Text": "psionicHeadbandBlueprint"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 280,
+    "Text": "Blueprint: Psionic Headband"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 379,
+    "Text": "Contains instructions on how to create a psionic headband."
+  },
+  {
+    "HeaderOffset": 380,
+    "StartTextOffset": 386,
+    "EndTextOffset": 394,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 526,
+    "StartTextOffset": 532,
+    "EndTextOffset": 546,
+    "Text": "psionicHeadband"
+  },
+  {
+    "HeaderOffset": 605,
+    "StartTextOffset": 611,
+    "EndTextOffset": 630,
+    "Text": "blueprintconsumation"
+  }
+]

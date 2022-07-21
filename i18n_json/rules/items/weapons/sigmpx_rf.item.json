@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 719,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 786,
+    "Text": "wep.sigMPX_rf"
+  },
+  {
+    "HeaderOffset": 787,
+    "StartTextOffset": 793,
+    "EndTextOffset": 811,
+    "Text": "Refurbished Syg MPX"
+  },
+  {
+    "HeaderOffset": 847,
+    "StartTextOffset": 853,
+    "EndTextOffset": 952,
+    "Text": "An old world 8.6mm sub-machine gun with an extended magazine. Also has a laser sight attached to it."
+  },
+  {
+    "HeaderOffset": 953,
+    "StartTextOffset": 959,
+    "EndTextOffset": 974,
+    "Text": "Weapon.SigMPX_rf"
+  },
+  {
+    "HeaderOffset": 1651,
+    "StartTextOffset": 1657,
+    "EndTextOffset": 1660,
+    "Text": "uwep"
+  }
+]

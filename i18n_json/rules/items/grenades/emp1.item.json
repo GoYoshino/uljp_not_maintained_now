@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 235,
+    "Text": "empGrande1"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 252,
+    "Text": "EMP Grenade"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 405,
+    "Text": "This grenade discharges a powerful electromagnetic pulse on impact, damaging and disabling electronic equipment."
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 378,
+    "Text": "his grenade discharges a powerful electromagnetic pulse on impact, damaging and disa"
+  },
+  {
+    "HeaderOffset": 406,
+    "StartTextOffset": 412,
+    "EndTextOffset": 424,
+    "Text": "Explosives.40"
+  },
+  {
+    "HeaderOffset": 635,
+    "StartTextOffset": 641,
+    "EndTextOffset": 650,
+    "Text": "empGrenade"
+  },
+  {
+    "HeaderOffset": 677,
+    "StartTextOffset": 683,
+    "EndTextOffset": 687,
+    "Text": "power"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 234,
+    "Text": "plot.dc_gateDriveShaftWrong2"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 272,
+    "Text": "HS-78 Hydraulic Pump Drive Shaft"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 428,
+    "Text": "This drive shaft is designed to drive a specific type of axial piston pump by connecting it with an electric motor."
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 398,
+    "Text": "his drive shaft is designed to drive a specific type of axial piston pump by connect"
+  },
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 441,
+    "Text": "Plot.87"
+  }
+]

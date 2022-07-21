@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 248,
+    "Text": "flashbangBlueprint"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 274,
+    "Text": "Blueprint: Flashbang"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 374,
+    "Text": "Contains instructions on how to create a flashbang grenade."
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 389,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 522,
+    "StartTextOffset": 528,
+    "EndTextOffset": 536,
+    "Text": "flashbang"
+  },
+  {
+    "HeaderOffset": 595,
+    "StartTextOffset": 601,
+    "EndTextOffset": 620,
+    "Text": "blueprintconsumation"
+  }
+]

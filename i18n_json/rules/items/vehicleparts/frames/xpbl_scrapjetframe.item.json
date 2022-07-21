@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 462,
+    "Text": "xpbl_scrapJetFrame"
+  },
+  {
+    "HeaderOffset": 463,
+    "StartTextOffset": 469,
+    "EndTextOffset": 483,
+    "Text": "Scrap Jet Frame"
+  },
+  {
+    "HeaderOffset": 520,
+    "StartTextOffset": 526,
+    "EndTextOffset": 531,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1020,
+    "StartTextOffset": 1026,
+    "EndTextOffset": 1038,
+    "Text": "xpbl_scrapJet"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 230,
+    "Text": "mutagenReagent.helicon.1"
+  },
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 261,
+    "Text": "Mutagen Reagent Helicon-1"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 337,
+    "Text": "A container holding potent mutagen."
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 351,
+    "Text": "Plot.191"
+  },
+  {
+    "HeaderOffset": 569,
+    "StartTextOffset": 575,
+    "EndTextOffset": 593,
+    "Text": "MutagenReagentIndex"
+  },
+  {
+    "HeaderOffset": 623,
+    "StartTextOffset": 629,
+    "EndTextOffset": 639,
+    "Text": "MutagenName"
+  },
+  {
+    "HeaderOffset": 640,
+    "StartTextOffset": 646,
+    "EndTextOffset": 654,
+    "Text": "Helicon-1"
+  }
+]

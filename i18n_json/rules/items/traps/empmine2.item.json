@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 243,
+    "Text": "empMine2"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 263,
+    "Text": "EMP Mine Mk II"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 416,
+    "Text": "This mine discharges powerful electromagnetic pulse when triggered, damaging and disabling electronic equipment."
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 389,
+    "Text": "his mine discharges powerful electromagnetic pulse when triggered, damaging and disa"
+  },
+  {
+    "HeaderOffset": 417,
+    "StartTextOffset": 423,
+    "EndTextOffset": 435,
+    "Text": "Explosives.71"
+  },
+  {
+    "HeaderOffset": 657,
+    "StartTextOffset": 663,
+    "EndTextOffset": 674,
+    "Text": "PlaceEmpMine"
+  },
+  {
+    "HeaderOffset": 701,
+    "StartTextOffset": 707,
+    "EndTextOffset": 711,
+    "Text": "power"
+  }
+]

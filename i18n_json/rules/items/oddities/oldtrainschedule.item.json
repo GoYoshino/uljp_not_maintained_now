@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 242,
+    "Text": "Oddity.OldTrainSchedule"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 266,
+    "Text": "Old Train Schedule"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 371,
+    "Text": "Partially burned train schedule of Lower Underrail metro system."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 400,
+    "Text": "Oddity.OldTrainSchedule"
+  }
+]

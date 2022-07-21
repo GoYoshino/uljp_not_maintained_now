@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 314,
+    "Text": "Proximal Neuroscopic Filter"
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 541,
+    "Text": "When added to a psionic device, this neuroscopic filter helps the wearer instinctively discern behavioral patterns of their enemies, allowing their psionics to peak in critical moments."
+  },
+  {
+    "HeaderOffset": 542,
+    "StartTextOffset": 548,
+    "EndTextOffset": 583,
+    "Text": "Components.ProximalNeuroscopicFilter"
+  },
+  {
+    "HeaderOffset": 945,
+    "StartTextOffset": 951,
+    "EndTextOffset": 961,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 975,
+    "StartTextOffset": 981,
+    "EndTextOffset": 987,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1018,
+    "StartTextOffset": 1024,
+    "EndTextOffset": 1042,
+    "Text": "BaseCritChanceBonus"
+  },
+  {
+    "HeaderOffset": 1060,
+    "StartTextOffset": 1066,
+    "EndTextOffset": 1078,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 1112,
+    "StartTextOffset": 1118,
+    "EndTextOffset": 1132,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 1133,
+    "StartTextOffset": 1139,
+    "EndTextOffset": 1164,
+    "Text": "1ProximalNeuroscopicFilter"
+  },
+  {
+    "HeaderOffset": 1190,
+    "StartTextOffset": 1196,
+    "EndTextOffset": 1216,
+    "Text": "PsionicHeadbandPrefix"
+  },
+  {
+    "HeaderOffset": 1217,
+    "StartTextOffset": 1223,
+    "EndTextOffset": 1233,
+    "Text": "Neuroscopic"
+  },
+  {
+    "HeaderOffset": 1243,
+    "StartTextOffset": 1249,
+    "EndTextOffset": 1273,
+    "Text": "CritChanceBonusPerQuality"
+  },
+  {
+    "HeaderOffset": 1307,
+    "StartTextOffset": 1313,
+    "EndTextOffset": 1331,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1332,
+    "StartTextOffset": 1338,
+    "EndTextOffset": 1521,
+    "Text": "It's equipped with a proximal neuroscopic filter that helps the wearer instinctively discern behavioral patterns of their enemies, allowing their psionics to peak in critical moments."
+  }
+]

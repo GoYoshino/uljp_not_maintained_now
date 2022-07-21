@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 250,
+    "Text": "charm.siphonerFoot"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 275,
+    "Text": "Siphoner Foot Charm"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 392,
+    "Text": "Lucky charm made from a siphoner's foot. You sense blood when you touch it. "
+  },
+  {
+    "HeaderOffset": 393,
+    "StartTextOffset": 399,
+    "EndTextOffset": 416,
+    "Text": "Plot.SiphonerCharm"
+  },
+  {
+    "HeaderOffset": 602,
+    "StartTextOffset": 608,
+    "EndTextOffset": 615,
+    "Text": "UseCharm"
+  }
+]

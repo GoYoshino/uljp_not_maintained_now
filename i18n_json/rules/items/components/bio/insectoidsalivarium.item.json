@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 289,
+    "Text": "insectoidSalivarium"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 315,
+    "Text": "Insectoid Salivarium"
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 438,
+    "Text": "Insectoid saliva can be extracted from this organ to be used for medical purposes."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 430,
+    "Text": "nsectoid saliva can be extracted from this organ to be used for medical p"
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 458,
+    "Text": "Components.181"
+  },
+  {
+    "HeaderOffset": 727,
+    "StartTextOffset": 733,
+    "EndTextOffset": 739,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 769,
+    "StartTextOffset": 775,
+    "EndTextOffset": 781,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 782,
+    "StartTextOffset": 788,
+    "EndTextOffset": 802,
+    "Text": "InsectoidSaliva"
+  }
+]

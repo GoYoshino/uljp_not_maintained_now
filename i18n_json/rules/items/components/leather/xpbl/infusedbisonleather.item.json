@@ -1,0 +1,122 @@
+[
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 463,
+    "Text": "component.infusedBisonLeather"
+  },
+  {
+    "HeaderOffset": 464,
+    "StartTextOffset": 470,
+    "EndTextOffset": 490,
+    "Text": "Infused Bison Leather"
+  },
+  {
+    "HeaderOffset": 526,
+    "StartTextOffset": 532,
+    "EndTextOffset": 655,
+    "Text": "Bison skin can be turned into a suit of leather armor. It has been infused with super steel fiber to enhance its properties."
+  },
+  {
+    "HeaderOffset": 527,
+    "StartTextOffset": 533,
+    "EndTextOffset": 598,
+    "Text": "ison skin can be turned into a suit of leather armor. It has been "
+  },
+  {
+    "HeaderOffset": 656,
+    "StartTextOffset": 662,
+    "EndTextOffset": 680,
+    "Text": "xpbl_Components.103"
+  },
+  {
+    "HeaderOffset": 1277,
+    "StartTextOffset": 1283,
+    "EndTextOffset": 1291,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1359,
+    "StartTextOffset": 1365,
+    "EndTextOffset": 1376,
+    "Text": "Constitution"
+  },
+  {
+    "HeaderOffset": 1402,
+    "StartTextOffset": 1408,
+    "EndTextOffset": 1423,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1424,
+    "StartTextOffset": 1430,
+    "EndTextOffset": 1502,
+    "Text": "This {0} is made of durable bison leather infused with super steel fiber."
+  },
+  {
+    "HeaderOffset": 1512,
+    "StartTextOffset": 1518,
+    "EndTextOffset": 1539,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1540,
+    "StartTextOffset": 1546,
+    "EndTextOffset": 1620,
+    "Text": "These {0} are made of durable bison leather infused with super steel fiber."
+  },
+  {
+    "HeaderOffset": 1639,
+    "StartTextOffset": 1645,
+    "EndTextOffset": 1648,
+    "Text": "Xpbl"
+  },
+  {
+    "HeaderOffset": 1675,
+    "StartTextOffset": 1681,
+    "EndTextOffset": 1693,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1724,
+    "StartTextOffset": 1730,
+    "EndTextOffset": 1737,
+    "Text": "Infusion"
+  },
+  {
+    "HeaderOffset": 1751,
+    "StartTextOffset": 1757,
+    "EndTextOffset": 1781,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1782,
+    "StartTextOffset": 1788,
+    "EndTextOffset": 1796,
+    "Text": "xpbl_buff"
+  },
+  {
+    "HeaderOffset": 1823,
+    "StartTextOffset": 1829,
+    "EndTextOffset": 1836,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1850,
+    "StartTextOffset": 1856,
+    "EndTextOffset": 1869,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1870,
+    "StartTextOffset": 1876,
+    "EndTextOffset": 1888,
+    "Text": "Infused Bison"
+  },
+  {
+    "HeaderOffset": 1915,
+    "StartTextOffset": 1921,
+    "EndTextOffset": 1939,
+    "Text": "UsesDefaultOvercoat"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 242,
+    "Text": "empGrenadeBlueprint"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 270,
+    "Text": "Blueprint: EMP Grenade"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 365,
+    "Text": "Contains instructions on how to create an EMP grenade."
+  },
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 380,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 512,
+    "StartTextOffset": 518,
+    "EndTextOffset": 527,
+    "Text": "empGrenade"
+  },
+  {
+    "HeaderOffset": 586,
+    "StartTextOffset": 592,
+    "EndTextOffset": 611,
+    "Text": "blueprintconsumation"
+  }
+]

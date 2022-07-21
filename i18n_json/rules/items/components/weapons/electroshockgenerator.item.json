@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 297,
+    "Text": "electroshockGenerator"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 325,
+    "Text": "Electroshock Generator"
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 514,
+    "Text": "Can be used to create an energy pistol. Alternatively, it can be attached to a melee weapon during crafting to produce electrical damage on impact."
+  },
+  {
+    "HeaderOffset": 515,
+    "StartTextOffset": 521,
+    "EndTextOffset": 533,
+    "Text": "Components.42"
+  },
+  {
+    "HeaderOffset": 853,
+    "StartTextOffset": 859,
+    "EndTextOffset": 869,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 920,
+    "Text": "EnergyWeaponType"
+  },
+  {
+    "HeaderOffset": 921,
+    "StartTextOffset": 927,
+    "EndTextOffset": 938,
+    "Text": "Electroshock"
+  },
+  {
+    "HeaderOffset": 965,
+    "StartTextOffset": 971,
+    "EndTextOffset": 987,
+    "Text": "EnergyPistolIndex"
+  },
+  {
+    "HeaderOffset": 1018,
+    "StartTextOffset": 1024,
+    "EndTextOffset": 1038,
+    "Text": "BaseEnergyUsage"
+  },
+  {
+    "HeaderOffset": 1073,
+    "StartTextOffset": 1079,
+    "EndTextOffset": 1099,
+    "Text": "EnergyUsagePerQuality"
+  }
+]

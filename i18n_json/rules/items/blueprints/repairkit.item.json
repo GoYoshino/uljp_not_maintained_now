@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 242,
+    "Text": "blueprint.repairKit"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 269,
+    "Text": "Blueprint: Repair Kit"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 362,
+    "Text": "Contains instructions on how to create a repair kit."
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 377,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 509,
+    "StartTextOffset": 515,
+    "EndTextOffset": 523,
+    "Text": "repairKit"
+  },
+  {
+    "HeaderOffset": 582,
+    "StartTextOffset": 588,
+    "EndTextOffset": 607,
+    "Text": "blueprintconsumation"
+  }
+]

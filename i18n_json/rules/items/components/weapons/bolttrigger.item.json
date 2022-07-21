@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 291,
+    "Text": "Component.BoltTrigger"
+  },
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 309,
+    "Text": "Bolt Trigger"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 468,
+    "Text": "Required for creation of special crossbow bolts that need to be triggered on launch, such as various incendiary bolts."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 433,
+    "Text": "equired for creation of special crossbow bolts that need to be triggered on launch"
+  },
+  {
+    "HeaderOffset": 469,
+    "StartTextOffset": 475,
+    "EndTextOffset": 487,
+    "Text": "Components.45"
+  },
+  {
+    "HeaderOffset": 737,
+    "StartTextOffset": 743,
+    "EndTextOffset": 751,
+    "Text": "Mechanics"
+  }
+]

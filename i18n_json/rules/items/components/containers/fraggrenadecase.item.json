@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 292,
+    "Text": "fragGrenadeCase"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 315,
+    "Text": "Frag Grenade Case"
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 429,
+    "Text": "A case for hand grenades designed to shatter into shrapnel on detonation."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 422,
+    "Text": " case for hand grenades designed to shatter into shrapnel on deto"
+  },
+  {
+    "HeaderOffset": 430,
+    "StartTextOffset": 436,
+    "EndTextOffset": 448,
+    "Text": "Explosives.25"
+  },
+  {
+    "HeaderOffset": 699,
+    "StartTextOffset": 705,
+    "EndTextOffset": 713,
+    "Text": "Mechanics"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 299,
+    "Text": "Frequency Decrement Modulator"
+  },
+  {
+    "HeaderOffset": 601,
+    "StartTextOffset": 607,
+    "EndTextOffset": 619,
+    "Text": "Components.41"
+  },
+  {
+    "HeaderOffset": 900,
+    "StartTextOffset": 906,
+    "EndTextOffset": 916,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 947,
+    "StartTextOffset": 953,
+    "EndTextOffset": 982,
+    "Text": "ShieldRechargeDurationModifier"
+  },
+  {
+    "HeaderOffset": 996,
+    "StartTextOffset": 1002,
+    "EndTextOffset": 1034,
+    "Text": "ShieldRechargeTotalShieldModifier"
+  }
+]

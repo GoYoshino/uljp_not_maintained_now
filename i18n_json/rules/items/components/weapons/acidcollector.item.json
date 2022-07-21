@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 282,
+    "Text": "acidCollector"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 302,
+    "Text": "Acid Collector"
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 416,
+    "Text": "Used in creating chemical weaponry to store and funnel acidic substances."
+  },
+  {
+    "HeaderOffset": 417,
+    "StartTextOffset": 423,
+    "EndTextOffset": 441,
+    "Text": "Items.AcidCollector"
+  },
+  {
+    "HeaderOffset": 741,
+    "StartTextOffset": 747,
+    "EndTextOffset": 755,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 810,
+    "Text": "ChemicalPistolIndex"
+  },
+  {
+    "HeaderOffset": 840,
+    "StartTextOffset": 846,
+    "EndTextOffset": 862,
+    "Text": "ChemicalSubstance"
+  },
+  {
+    "HeaderOffset": 863,
+    "StartTextOffset": 869,
+    "EndTextOffset": 872,
+    "Text": "Acid"
+  },
+  {
+    "HeaderOffset": 898,
+    "StartTextOffset": 904,
+    "EndTextOffset": 937,
+    "Text": "ChemicalPistolCollectorBonusText_1"
+  },
+  {
+    "HeaderOffset": 938,
+    "StartTextOffset": 944,
+    "EndTextOffset": 1052,
+    "Text": "It has a chance to entangle the target in acidic sludge. Handle with care, as acid sprays out on blob impact."
+  }
+]

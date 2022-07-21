@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 298,
+    "Text": "Fish.RedLippedBatfish"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 322,
+    "Text": "Red-Lipped Batfish"
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 418,
+    "Text": "The lipstick does not help that much in terms of looks."
+  },
+  {
+    "HeaderOffset": 419,
+    "StartTextOffset": 425,
+    "EndTextOffset": 431,
+    "Text": "Food.52"
+  },
+  {
+    "HeaderOffset": 701,
+    "StartTextOffset": 707,
+    "EndTextOffset": 713,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 743,
+    "StartTextOffset": 749,
+    "EndTextOffset": 755,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 756,
+    "StartTextOffset": 762,
+    "EndTextOffset": 778,
+    "Text": "Xpbl\\Lophimidrine"
+  }
+]

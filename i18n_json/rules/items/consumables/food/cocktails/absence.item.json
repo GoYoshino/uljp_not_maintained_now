@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 250,
+    "Text": "cocktail.absence"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 263,
+    "Text": "Absence"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 431,
+    "Text": "Made from non-toxic parts of red dream mushrooms and is said to cause hallucinations. Should be lit on fire before consumption."
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 382,
+    "Text": "ade from non-toxic parts of red dream mushrooms and is said to cause hallucin"
+  },
+  {
+    "HeaderOffset": 432,
+    "StartTextOffset": 438,
+    "EndTextOffset": 449,
+    "Text": "Food.Absence"
+  },
+  {
+    "HeaderOffset": 680,
+    "StartTextOffset": 686,
+    "EndTextOffset": 700,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 726,
+    "StartTextOffset": 732,
+    "EndTextOffset": 739,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 740,
+    "StartTextOffset": 746,
+    "EndTextOffset": 752,
+    "Text": "absence"
+  },
+  {
+    "HeaderOffset": 762,
+    "StartTextOffset": 768,
+    "EndTextOffset": 775,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 776,
+    "StartTextOffset": 782,
+    "EndTextOffset": 788,
+    "Text": "Absence"
+  }
+]

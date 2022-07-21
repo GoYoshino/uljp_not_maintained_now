@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 340,
+    "Text": "gasMask"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 354,
+    "Text": "Gas Mask"
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 477,
+    "Text": "Provides limited biohazard protection by preventing the inhalation of toxic gases."
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 476,
+    "Text": "rovides limited biohazard protection by preventing the inhalation of toxic gases"
+  },
+  {
+    "HeaderOffset": 478,
+    "StartTextOffset": 484,
+    "EndTextOffset": 492,
+    "Text": "Armors.85"
+  },
+  {
+    "HeaderOffset": 835,
+    "StartTextOffset": 841,
+    "EndTextOffset": 850,
+    "Text": "Perception"
+  }
+]

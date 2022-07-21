@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 305,
+    "Text": "smgFrame1"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 328,
+    "Text": "SMG Frame: Jaguar"
+  },
+  {
+    "HeaderOffset": 364,
+    "StartTextOffset": 370,
+    "EndTextOffset": 463,
+    "Text": "This frame is used to create a Jaguar type submachine gun. It supports 5mm and 7.62mm barrels."
+  },
+  {
+    "HeaderOffset": 365,
+    "StartTextOffset": 371,
+    "EndTextOffset": 454,
+    "Text": "his frame is used to create a Jaguar type submachine gun. It supports 5mm and 7.62mm"
+  },
+  {
+    "HeaderOffset": 464,
+    "StartTextOffset": 470,
+    "EndTextOffset": 480,
+    "Text": "smg.1.frame"
+  },
+  {
+    "HeaderOffset": 822,
+    "StartTextOffset": 828,
+    "EndTextOffset": 836,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 874,
+    "StartTextOffset": 880,
+    "EndTextOffset": 899,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 968,
+    "StartTextOffset": 974,
+    "EndTextOffset": 977,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 978,
+    "StartTextOffset": 984,
+    "EndTextOffset": 989,
+    "Text": "Jaguar"
+  },
+  {
+    "HeaderOffset": 1040,
+    "StartTextOffset": 1046,
+    "EndTextOffset": 1065,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1097,
+    "StartTextOffset": 1103,
+    "EndTextOffset": 1124,
+    "Text": "CriticalChanceModifier"
+  },
+  {
+    "HeaderOffset": 1159,
+    "StartTextOffset": 1165,
+    "EndTextOffset": 1178,
+    "Text": "ApCostModifier"
+  }
+]

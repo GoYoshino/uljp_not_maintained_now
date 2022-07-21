@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 289,
+    "Text": "VehiclePart.BArmMediumJetShocks"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 317,
+    "Text": "BArm Medium Jet Shocks"
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 419,
+    "Text": "Medium size jet ski suspension system made by Biocorp Armory."
+  },
+  {
+    "HeaderOffset": 420,
+    "StartTextOffset": 426,
+    "EndTextOffset": 456,
+    "Text": "VehiclePart.BArmMediumJetShocks"
+  }
+]

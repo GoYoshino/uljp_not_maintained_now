@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 300,
+    "Text": "case.ShotgunShell"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 325,
+    "Text": "Empty Shotgun Shell"
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 389,
+    "Text": "An empty shotgun shell."
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 406,
+    "Text": "xpbl_Ammo.5"
+  },
+  {
+    "HeaderOffset": 658,
+    "StartTextOffset": 664,
+    "EndTextOffset": 672,
+    "Text": "Mechanics"
+  }
+]

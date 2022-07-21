@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 234,
+    "Text": "Oddity.TrilobiteFossil"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 256,
+    "Text": "Trilobite Fossil"
+  },
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 336,
+    "Text": "A perfectly preserved trilobite fossil."
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 364,
+    "Text": "Oddity.TrilobiteFossil"
+  }
+]

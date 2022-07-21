@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 240,
+    "Text": "chemhazeGrenade"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 262,
+    "Text": "Chemhaze Grenade"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 448,
+    "Text": "A special chemical grenade that can be used to dampen fighting capabilities of all combatants that reside in its area of effect for a long time."
+  },
+  {
+    "HeaderOffset": 449,
+    "StartTextOffset": 455,
+    "EndTextOffset": 468,
+    "Text": "Explosives.134"
+  },
+  {
+    "HeaderOffset": 679,
+    "StartTextOffset": 685,
+    "EndTextOffset": 704,
+    "Text": "chemhazeGrenadeThrow"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 741,
+    "Text": "power"
+  }
+]

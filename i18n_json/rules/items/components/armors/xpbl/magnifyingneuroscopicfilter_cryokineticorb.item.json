@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 340,
+    "Text": "Magnifying Neuroscopic Filter: Cryokinetic Orb"
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 463,
+    "Text": "When added to a psionic device, increases the power of the user's Cryokinetic Orb."
+  },
+  {
+    "HeaderOffset": 464,
+    "StartTextOffset": 470,
+    "EndTextOffset": 521,
+    "Text": "Components.MagnifyingNeuroscopicFilterCryokineticOrb"
+  },
+  {
+    "HeaderOffset": 865,
+    "StartTextOffset": 871,
+    "EndTextOffset": 881,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 895,
+    "StartTextOffset": 901,
+    "EndTextOffset": 907,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 938,
+    "StartTextOffset": 944,
+    "EndTextOffset": 956,
+    "Text": "DodgeModifier"
+  },
+  {
+    "HeaderOffset": 990,
+    "StartTextOffset": 996,
+    "EndTextOffset": 1010,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 1011,
+    "StartTextOffset": 1017,
+    "EndTextOffset": 1058,
+    "Text": "1MagnifyingNeuroscopicFilterCryokineticOrb"
+  },
+  {
+    "HeaderOffset": 1084,
+    "StartTextOffset": 1090,
+    "EndTextOffset": 1110,
+    "Text": "PsionicHeadbandPrefix"
+  },
+  {
+    "HeaderOffset": 1111,
+    "StartTextOffset": 1117,
+    "EndTextOffset": 1127,
+    "Text": "Cryokinetic"
+  },
+  {
+    "HeaderOffset": 1153,
+    "StartTextOffset": 1159,
+    "EndTextOffset": 1177,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1178,
+    "StartTextOffset": 1184,
+    "EndTextOffset": 1278,
+    "Text": "It's equipped with magnifying neuroscopic filter that amplifies the power of the weaerer's {0}."
+  },
+  {
+    "HeaderOffset": 1304,
+    "StartTextOffset": 1310,
+    "EndTextOffset": 1333,
+    "Text": "CapabilityDamageModified"
+  },
+  {
+    "HeaderOffset": 1334,
+    "StartTextOffset": 1340,
+    "EndTextOffset": 1353,
+    "Text": "CryokineticOrb"
+  }
+]

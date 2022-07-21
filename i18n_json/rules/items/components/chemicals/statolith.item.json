@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 286,
+    "Text": "statolith"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 301,
+    "Text": "Statolith"
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 406,
+    "Text": "Mineralised mass extracted from balancing organ of a cephalopod."
+  },
+  {
+    "HeaderOffset": 407,
+    "StartTextOffset": 413,
+    "EndTextOffset": 432,
+    "Text": "Components.Statolith"
+  },
+  {
+    "HeaderOffset": 683,
+    "StartTextOffset": 689,
+    "EndTextOffset": 695,
+    "Text": "Biology"
+  }
+]

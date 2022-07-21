@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 215,
+    "StartTextOffset": 221,
+    "EndTextOffset": 233,
+    "Text": "jkkCommDevice"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 254,
+    "Text": "JKK Comm Device"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 353,
+    "Text": "It's a simple wireless transmission communication device. "
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 369,
+    "Text": "Devices.56"
+  },
+  {
+    "HeaderOffset": 629,
+    "StartTextOffset": 635,
+    "EndTextOffset": 650,
+    "Text": "startInterfacing"
+  },
+  {
+    "HeaderOffset": 676,
+    "StartTextOffset": 682,
+    "EndTextOffset": 696,
+    "Text": "InterfaceDialog"
+  },
+  {
+    "HeaderOffset": 697,
+    "StartTextOffset": 703,
+    "EndTextOffset": 728,
+    "Text": "interfacing\\cc_vivian_comm"
+  },
+  {
+    "HeaderOffset": 738,
+    "StartTextOffset": 744,
+    "EndTextOffset": 761,
+    "Text": "InterfaceActorName"
+  },
+  {
+    "HeaderOffset": 762,
+    "StartTextOffset": 768,
+    "EndTextOffset": 773,
+    "Text": "Vivian"
+  },
+  {
+    "HeaderOffset": 783,
+    "StartTextOffset": 789,
+    "EndTextOffset": 808,
+    "Text": "InterfaceCommandText"
+  },
+  {
+    "HeaderOffset": 809,
+    "StartTextOffset": 815,
+    "EndTextOffset": 848,
+    "Text": "Activate the communication device."
+  },
+  {
+    "HeaderOffset": 858,
+    "StartTextOffset": 864,
+    "EndTextOffset": 879,
+    "Text": "InterfaceActorId"
+  },
+  {
+    "HeaderOffset": 880,
+    "StartTextOffset": 886,
+    "EndTextOffset": 891,
+    "Text": "vivian"
+  }
+]

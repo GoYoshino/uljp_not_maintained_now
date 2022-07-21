@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 468,
+    "Text": "xpbl_aegisPatrollerFrame"
+  },
+  {
+    "HeaderOffset": 469,
+    "StartTextOffset": 475,
+    "EndTextOffset": 495,
+    "Text": "Aegis Patroller Frame"
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 543,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1032,
+    "StartTextOffset": 1038,
+    "EndTextOffset": 1056,
+    "Text": "xpbl_aegisPatroller"
+  }
+]

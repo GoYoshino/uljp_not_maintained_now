@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 265,
+    "Text": "blueprint.fragMineCase"
+  },
+  {
+    "HeaderOffset": 266,
+    "StartTextOffset": 272,
+    "EndTextOffset": 296,
+    "Text": "Blueprint: Frag Mine Case"
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 392,
+    "Text": "Contains instructions on how to create frag mine cases."
+  },
+  {
+    "HeaderOffset": 393,
+    "StartTextOffset": 399,
+    "EndTextOffset": 407,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 542,
+    "StartTextOffset": 548,
+    "EndTextOffset": 559,
+    "Text": "fragMineCase"
+  },
+  {
+    "HeaderOffset": 618,
+    "StartTextOffset": 624,
+    "EndTextOffset": 643,
+    "Text": "blueprintconsumation"
+  }
+]

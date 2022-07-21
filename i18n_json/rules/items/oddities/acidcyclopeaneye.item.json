@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 242,
+    "Text": "Oddity.AcidCyclopeanEye"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 266,
+    "Text": "Acid Cyclopean Eye"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 377,
+    "Text": "The blind eye still twitches from time to time, oozing corrosive acid."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 406,
+    "Text": "Oddity.AcidCyclopeanEye"
+  }
+]

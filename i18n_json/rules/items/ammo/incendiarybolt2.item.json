@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 233,
+    "Text": "Ammo.IncendiaryBolt2"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 260,
+    "Text": "Incendiary Bolt Mk II"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 418,
+    "Text": "When fired from a crossbow this bolt will burn everything along its flight path and set its target on fire on impact."
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 389,
+    "Text": "hen fired from a crossbow this bolt will burn everything along its flight path and set "
+  },
+  {
+    "HeaderOffset": 419,
+    "StartTextOffset": 425,
+    "EndTextOffset": 444,
+    "Text": "Ammo.IncendiaryBolt2"
+  },
+  {
+    "HeaderOffset": 653,
+    "StartTextOffset": 659,
+    "EndTextOffset": 677,
+    "Text": "ShootIncendiaryBolt"
+  },
+  {
+    "HeaderOffset": 704,
+    "StartTextOffset": 710,
+    "EndTextOffset": 714,
+    "Text": "power"
+  }
+]

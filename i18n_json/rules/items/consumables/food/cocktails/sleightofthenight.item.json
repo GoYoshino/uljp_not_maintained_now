@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 267,
+    "Text": "cocktail.sleightOfTheNight"
+  },
+  {
+    "HeaderOffset": 268,
+    "StartTextOffset": 274,
+    "EndTextOffset": 293,
+    "Text": "Sleight of the Night"
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 452,
+    "Text": "Some say this drink is made using purified crawler poison. Either way, one would feel more sneaky under its influence."
+  },
+  {
+    "HeaderOffset": 330,
+    "StartTextOffset": 336,
+    "EndTextOffset": 418,
+    "Text": "ome say this drink is made using purified crawler poison. Either way, one would fee"
+  },
+  {
+    "HeaderOffset": 453,
+    "StartTextOffset": 459,
+    "EndTextOffset": 480,
+    "Text": "Food.SleightOfTheNight"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 732,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 758,
+    "StartTextOffset": 764,
+    "EndTextOffset": 771,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 772,
+    "StartTextOffset": 778,
+    "EndTextOffset": 794,
+    "Text": "sleightOfTheNight"
+  },
+  {
+    "HeaderOffset": 804,
+    "StartTextOffset": 810,
+    "EndTextOffset": 817,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 818,
+    "StartTextOffset": 824,
+    "EndTextOffset": 843,
+    "Text": "Sleight of the Night"
+  }
+]

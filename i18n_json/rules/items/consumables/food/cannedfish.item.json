@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 242,
+    "Text": "food.cannedFish"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 259,
+    "Text": "Canned Fish"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 552,
+    "Text": "Mixed fish canned in preservation oil. Additionally, the food inside has been exposed to ionizing radiation in order to eliminate microorganisms and insects. The process does not make the food radioactive but instead ensures extremely long shelf life."
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 564,
+    "Text": "Food.7"
+  },
+  {
+    "HeaderOffset": 794,
+    "StartTextOffset": 800,
+    "EndTextOffset": 814,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 840,
+    "StartTextOffset": 846,
+    "EndTextOffset": 853,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 854,
+    "StartTextOffset": 860,
+    "EndTextOffset": 869,
+    "Text": "cannedFish"
+  },
+  {
+    "HeaderOffset": 879,
+    "StartTextOffset": 885,
+    "EndTextOffset": 892,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 893,
+    "StartTextOffset": 899,
+    "EndTextOffset": 909,
+    "Text": "Canned Fish"
+  }
+]

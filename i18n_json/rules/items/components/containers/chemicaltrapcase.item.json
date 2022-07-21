@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 303,
+    "Text": "chemicalTrapCase"
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 327,
+    "Text": "Chemical Trap Case"
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 428,
+    "Text": "This case can be used to create a variety of chemical traps."
+  },
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 447,
+    "Text": "Explosives.85"
+  },
+  {
+    "HeaderOffset": 702,
+    "StartTextOffset": 708,
+    "EndTextOffset": 716,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 730,
+    "StartTextOffset": 736,
+    "EndTextOffset": 744,
+    "Text": "Chemistry"
+  }
+]

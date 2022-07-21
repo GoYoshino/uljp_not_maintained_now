@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 414,
+    "Text": "xpbl_agsh"
+  },
+  {
+    "HeaderOffset": 415,
+    "StartTextOffset": 421,
+    "EndTextOffset": 444,
+    "Text": "Aegis Sec-trooper Helmet"
+  },
+  {
+    "HeaderOffset": 480,
+    "StartTextOffset": 486,
+    "EndTextOffset": 675,
+    "Text": "A lightweight combat helmet made from Tyrys ultra-high-molecular-weight polyethylene, used by Aegis Incorporated sec-troopers. The built-in respirator provides limited biohazard protection."
+  },
+  {
+    "HeaderOffset": 676,
+    "StartTextOffset": 682,
+    "EndTextOffset": 695,
+    "Text": "xpbl_Armors.10"
+  },
+  {
+    "HeaderOffset": 1140,
+    "StartTextOffset": 1146,
+    "EndTextOffset": 1155,
+    "Text": "Perception"
+  }
+]

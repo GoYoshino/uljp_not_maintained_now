@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 242,
+    "Text": "epioneRemoteDetonator"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 264,
+    "Text": "Remote Detonator"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 429,
+    "Text": "Can be used to detonate explosive charges once they have been set up on each of the five load-bearing pillars in Epione Lab."
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 373,
+    "Text": "an be used to detonate explosive charges once they have been set up"
+  },
+  {
+    "HeaderOffset": 430,
+    "StartTextOffset": 436,
+    "EndTextOffset": 443,
+    "Text": "Plot.121"
+  },
+  {
+    "HeaderOffset": 627,
+    "StartTextOffset": 633,
+    "EndTextOffset": 656,
+    "Text": "DetonateEpioneLabCharges"
+  }
+]

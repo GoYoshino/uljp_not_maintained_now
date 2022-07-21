@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 251,
+    "Text": "cocktail.slackJaw"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 265,
+    "Text": "Slackjaw"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 435,
+    "Text": "A sickeningly pungent cocktail that causes notable but temporary disruption of higher mental functions, for better or for worse."
+  },
+  {
+    "HeaderOffset": 436,
+    "StartTextOffset": 442,
+    "EndTextOffset": 454,
+    "Text": "Food.Slackjaw"
+  },
+  {
+    "HeaderOffset": 685,
+    "StartTextOffset": 691,
+    "EndTextOffset": 705,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 744,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 758,
+    "Text": "slackjaw"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 781,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 782,
+    "StartTextOffset": 788,
+    "EndTextOffset": 795,
+    "Text": "Slackjaw"
+  }
+]

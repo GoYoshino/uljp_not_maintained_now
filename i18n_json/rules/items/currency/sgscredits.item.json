@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 202,
+    "StartTextOffset": 208,
+    "EndTextOffset": 219,
+    "Text": "currency.sgs"
+  },
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 236,
+    "Text": "SGSクレジット"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 333,
+    "Text": "South Gate Stationの中で使われている通貨。"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 346,
+    "Text": "Plot.30"
+  }
+]

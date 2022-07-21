@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 256,
+    "Text": "plot.xpbl_hopperRacing_ticket1"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 291,
+    "Text": "Wagering Ticket (Hopperdrome)"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 388,
+    "Text": "A wagering ticket containing the following information: "
+  },
+  {
+    "HeaderOffset": 389,
+    "StartTextOffset": 395,
+    "EndTextOffset": 401,
+    "Text": "Plot.45"
+  }
+]

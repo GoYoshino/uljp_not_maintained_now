@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 257,
+    "Text": "Oddity.LemCoCargoManifest"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 283,
+    "Text": "LEMCO Cargo Manifest"
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 383,
+    "Text": "This transport was carrying a whole bunch of Servant parts."
+  },
+  {
+    "HeaderOffset": 384,
+    "StartTextOffset": 390,
+    "EndTextOffset": 414,
+    "Text": "Oddity.LemCoCargoManifest"
+  }
+]

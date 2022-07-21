@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 261,
+    "Text": "trap.crawlerPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 262,
+    "StartTextOffset": 268,
+    "EndTextOffset": 291,
+    "Text": "Crawler Poison Bear Trap"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 543,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim. As if the excruciating pain of having your foot caught in one of these wasn't enough, the metal jaws have also been coated with crawler poison."
+  },
+  {
+    "HeaderOffset": 544,
+    "StartTextOffset": 550,
+    "EndTextOffset": 562,
+    "Text": "Explosives.93"
+  },
+  {
+    "HeaderOffset": 803,
+    "StartTextOffset": 809,
+    "EndTextOffset": 834,
+    "Text": "PlaceCrawlerPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 860,
+    "StartTextOffset": 866,
+    "EndTextOffset": 875,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 876,
+    "StartTextOffset": 882,
+    "EndTextOffset": 894,
+    "Text": "CrawlerPoison"
+  },
+  {
+    "HeaderOffset": 904,
+    "StartTextOffset": 910,
+    "EndTextOffset": 919,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 920,
+    "StartTextOffset": 926,
+    "EndTextOffset": 939,
+    "Text": "Crawler Poison"
+  }
+]

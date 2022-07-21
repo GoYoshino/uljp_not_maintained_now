@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 256,
+    "Text": "Oddity.ClawedUpCanOpener"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 282,
+    "Text": "Clawed-up Can Opener"
+  },
+  {
+    "HeaderOffset": 318,
+    "StartTextOffset": 324,
+    "EndTextOffset": 358,
+    "Text": "There are claw marks on the handle."
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 388,
+    "Text": "Oddity.ClawedUpCanOpener"
+  }
+]

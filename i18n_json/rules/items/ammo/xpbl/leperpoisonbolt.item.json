@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 239,
+    "Text": "Ammo.LeperPoisonBolt"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 262,
+    "Text": "Leper Poison Bolt"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 354,
+    "Text": "This bolt is packed with an ampule of leper poison."
+  },
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 380,
+    "Text": "Ammo.LeperPoisonBolt"
+  },
+  {
+    "HeaderOffset": 571,
+    "StartTextOffset": 577,
+    "EndTextOffset": 596,
+    "Text": "ShootLeperPoisonBolt"
+  }
+]

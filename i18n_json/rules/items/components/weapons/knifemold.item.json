@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 278,
+    "Text": "knifeMold"
+  },
+  {
+    "HeaderOffset": 279,
+    "StartTextOffset": 285,
+    "EndTextOffset": 294,
+    "Text": "Knife Mold"
+  },
+  {
+    "HeaderOffset": 330,
+    "StartTextOffset": 336,
+    "EndTextOffset": 384,
+    "Text": "A mold for standard straight single-bladed knife."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 404,
+    "Text": "Components.141"
+  },
+  {
+    "HeaderOffset": 685,
+    "StartTextOffset": 691,
+    "EndTextOffset": 699,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 738,
+    "StartTextOffset": 744,
+    "EndTextOffset": 752,
+    "Text": "KnifeType"
+  },
+  {
+    "HeaderOffset": 810,
+    "StartTextOffset": 816,
+    "EndTextOffset": 824,
+    "Text": "KnifeName"
+  },
+  {
+    "HeaderOffset": 825,
+    "StartTextOffset": 831,
+    "EndTextOffset": 846,
+    "Text": "{0} Combat Knife"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 227,
+    "Text": "mutagenReagent.ovid.3"
+  },
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 255,
+    "Text": "Mutagen Reagent Ovid-3"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 331,
+    "Text": "A container holding potent mutagen."
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 345,
+    "Text": "Plot.153"
+  },
+  {
+    "HeaderOffset": 563,
+    "StartTextOffset": 569,
+    "EndTextOffset": 587,
+    "Text": "MutagenReagentIndex"
+  },
+  {
+    "HeaderOffset": 617,
+    "StartTextOffset": 623,
+    "EndTextOffset": 633,
+    "Text": "MutagenName"
+  },
+  {
+    "HeaderOffset": 634,
+    "StartTextOffset": 640,
+    "EndTextOffset": 645,
+    "Text": "Ovid-3"
+  }
+]

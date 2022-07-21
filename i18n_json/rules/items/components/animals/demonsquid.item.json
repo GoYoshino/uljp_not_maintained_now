@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 292,
+    "Text": "Fish.DemonSquid"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 309,
+    "Text": "Demon Squid"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 385,
+    "Text": "It's not as dangerous as it sounds."
+  },
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 406,
+    "Text": "Fish.DemonSquid"
+  },
+  {
+    "HeaderOffset": 695,
+    "StartTextOffset": 701,
+    "EndTextOffset": 707,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 737,
+    "StartTextOffset": 743,
+    "EndTextOffset": 749,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 750,
+    "StartTextOffset": 756,
+    "EndTextOffset": 768,
+    "Text": "NidamentalGel"
+  },
+  {
+    "HeaderOffset": 778,
+    "StartTextOffset": 784,
+    "EndTextOffset": 792,
+    "Text": "Container"
+  },
+  {
+    "HeaderOffset": 793,
+    "StartTextOffset": 799,
+    "EndTextOffset": 808,
+    "Text": "FlatBeaker"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 249,
+    "Text": "charm.rathoundPaw"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 273,
+    "Text": "Rathound Paw Charm"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 380,
+    "Text": "Lucky charm made from a rathound's paw. The nails are still sharp."
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 404,
+    "Text": "Plot.RathoundCharm"
+  },
+  {
+    "HeaderOffset": 590,
+    "StartTextOffset": 596,
+    "EndTextOffset": 603,
+    "Text": "UseCharm"
+  }
+]

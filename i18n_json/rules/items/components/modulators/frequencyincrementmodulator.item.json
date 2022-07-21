@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 299,
+    "Text": "Frequency Increment Modulator"
+  },
+  {
+    "HeaderOffset": 642,
+    "StartTextOffset": 648,
+    "EndTextOffset": 660,
+    "Text": "Components.40"
+  },
+  {
+    "HeaderOffset": 922,
+    "StartTextOffset": 928,
+    "EndTextOffset": 938,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 969,
+    "StartTextOffset": 975,
+    "EndTextOffset": 1004,
+    "Text": "ShieldRechargeDurationModifier"
+  }
+]

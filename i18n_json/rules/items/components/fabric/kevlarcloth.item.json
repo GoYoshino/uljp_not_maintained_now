@@ -1,0 +1,164 @@
+[
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 371,
+    "Text": "kevlarCloth"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 389,
+    "Text": "Kevlar Cloth"
+  },
+  {
+    "HeaderOffset": 425,
+    "StartTextOffset": 431,
+    "EndTextOffset": 548,
+    "Text": "It's a bolt of kevlar cloth that can enhance bullet stopping capabilities of any piece of combat gear it's applied to."
+  },
+  {
+    "HeaderOffset": 426,
+    "StartTextOffset": 432,
+    "EndTextOffset": 504,
+    "Text": "t's a bolt of kevlar cloth that can enhance bullet stopping capabilities "
+  },
+  {
+    "HeaderOffset": 549,
+    "StartTextOffset": 555,
+    "EndTextOffset": 567,
+    "Text": "Components.12"
+  },
+  {
+    "HeaderOffset": 1069,
+    "StartTextOffset": 1075,
+    "EndTextOffset": 1083,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1113,
+    "StartTextOffset": 1119,
+    "EndTextOffset": 1134,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1135,
+    "StartTextOffset": 1141,
+    "EndTextOffset": 1225,
+    "Text": "Its outer layer is made from kevlar cloth that enhances bullet stopping capabilities."
+  },
+  {
+    "HeaderOffset": 1235,
+    "StartTextOffset": 1241,
+    "EndTextOffset": 1252,
+    "Text": "OvercoatType"
+  },
+  {
+    "HeaderOffset": 1253,
+    "StartTextOffset": 1259,
+    "EndTextOffset": 1264,
+    "Text": "Kevlar"
+  },
+  {
+    "HeaderOffset": 1274,
+    "StartTextOffset": 1280,
+    "EndTextOffset": 1290,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1291,
+    "StartTextOffset": 1297,
+    "EndTextOffset": 1302,
+    "Text": "Kevlar"
+  },
+  {
+    "HeaderOffset": 1312,
+    "StartTextOffset": 1318,
+    "EndTextOffset": 1334,
+    "Text": "ArmorDescription2"
+  },
+  {
+    "HeaderOffset": 1335,
+    "StartTextOffset": 1341,
+    "EndTextOffset": 1415,
+    "Text": "It comes with a kevlar overcoat that enhances bullet stopping capabilities."
+  },
+  {
+    "HeaderOffset": 1425,
+    "StartTextOffset": 1431,
+    "EndTextOffset": 1440,
+    "Text": "HelmetDesc"
+  },
+  {
+    "HeaderOffset": 1441,
+    "StartTextOffset": 1447,
+    "EndTextOffset": 1526,
+    "Text": "It also comes with a kevlar overcoat that enhances bullet stopping capabilities."
+  },
+  {
+    "HeaderOffset": 1536,
+    "StartTextOffset": 1542,
+    "EndTextOffset": 1566,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1584,
+    "StartTextOffset": 1590,
+    "EndTextOffset": 1614,
+    "Text": "TacticalVestVisualVariant"
+  },
+  {
+    "HeaderOffset": 1650,
+    "StartTextOffset": 1656,
+    "EndTextOffset": 1663,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1677,
+    "StartTextOffset": 1683,
+    "EndTextOffset": 1697,
+    "Text": "BalaclavaPrefix"
+  },
+  {
+    "HeaderOffset": 1698,
+    "StartTextOffset": 1704,
+    "EndTextOffset": 1709,
+    "Text": "Kevlar"
+  },
+  {
+    "HeaderOffset": 1719,
+    "StartTextOffset": 1725,
+    "EndTextOffset": 1737,
+    "Text": "BalaclavaDesc"
+  },
+  {
+    "HeaderOffset": 1738,
+    "StartTextOffset": 1744,
+    "EndTextOffset": 1840,
+    "Text": "This is a three-hole balaclava made from kevlar cloth that enhances bullet stopping capabilities."
+  },
+  {
+    "HeaderOffset": 1850,
+    "StartTextOffset": 1856,
+    "EndTextOffset": 1865,
+    "Text": "BootPrefix"
+  },
+  {
+    "HeaderOffset": 1866,
+    "StartTextOffset": 1872,
+    "EndTextOffset": 1877,
+    "Text": "Kevlar"
+  },
+  {
+    "HeaderOffset": 1887,
+    "StartTextOffset": 1893,
+    "EndTextOffset": 1905,
+    "Text": "TabiBootsDesc"
+  },
+  {
+    "HeaderOffset": 1906,
+    "StartTextOffset": 1912,
+    "EndTextOffset": 1996,
+    "Text": "These tabi boots are made of kevlar cloth that has high bullet stopping capabilities."
+  }
+]

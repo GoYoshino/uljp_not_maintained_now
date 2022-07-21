@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 257,
+    "Text": "belt.utility"
+  },
+  {
+    "HeaderOffset": 258,
+    "StartTextOffset": 264,
+    "EndTextOffset": 275,
+    "Text": "Utility Belt"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 358,
+    "Text": "The most important tool in fighting crime."
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 373,
+    "Text": "Armors.60"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 239,
+    "Text": "Oddity.OldDataMedium"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 260,
+    "Text": "Old Data Medium"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 404,
+    "Text": "It's a very old type of data medium. You can only wonder what's on it since you have no way to read it."
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 375,
+    "Text": "t's a very old type of data medium. You can only wonder what's on it sinc"
+  },
+  {
+    "HeaderOffset": 405,
+    "StartTextOffset": 411,
+    "EndTextOffset": 430,
+    "Text": "Oddity.OldDataMedium"
+  }
+]

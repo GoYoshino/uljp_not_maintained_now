@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 267,
+    "Text": "spyingEndoscopeBlueprint"
+  },
+  {
+    "HeaderOffset": 268,
+    "StartTextOffset": 274,
+    "EndTextOffset": 300,
+    "Text": "Blueprint: Spying Endoscope"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 399,
+    "Text": "Contains instructions on how to create a spying endoscope."
+  },
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 418,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 573,
+    "Text": "spyingEndoscope"
+  },
+  {
+    "HeaderOffset": 632,
+    "StartTextOffset": 638,
+    "EndTextOffset": 657,
+    "Text": "blueprintconsumation"
+  }
+]

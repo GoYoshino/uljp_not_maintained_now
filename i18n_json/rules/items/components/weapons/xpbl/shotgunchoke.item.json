@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 288,
+    "Text": "shotgunChoke"
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 307,
+    "Text": "Shotgun Choke"
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 434,
+    "Text": "A tapered constriction for a shotgun barrel that reduces spread and improves accuracy."
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 414,
+    "Text": " tapered constriction for a shotgun barrel that reduces spread an"
+  },
+  {
+    "HeaderOffset": 435,
+    "StartTextOffset": 441,
+    "EndTextOffset": 458,
+    "Text": "xpbl_Components.30"
+  },
+  {
+    "HeaderOffset": 702,
+    "StartTextOffset": 708,
+    "EndTextOffset": 716,
+    "Text": "Mechanics"
+  }
+]

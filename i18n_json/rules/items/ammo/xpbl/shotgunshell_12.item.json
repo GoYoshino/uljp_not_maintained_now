@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 328,
+    "Text": "Ammo.ShotgunShell_12"
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 351,
+    "Text": "12p Shotgun Shell"
+  },
+  {
+    "HeaderOffset": 387,
+    "StartTextOffset": 393,
+    "EndTextOffset": 449,
+    "Text": "It's a 12-gauge, 12-pellet steel houndshot shotgun shell."
+  },
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 475,
+    "Text": "Ammo.ShotgunShell_12"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 726,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 736,
+    "StartTextOffset": 742,
+    "EndTextOffset": 748,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 758,
+    "StartTextOffset": 764,
+    "EndTextOffset": 769,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 793,
+    "Text": "ldsingcur"
+  }
+]

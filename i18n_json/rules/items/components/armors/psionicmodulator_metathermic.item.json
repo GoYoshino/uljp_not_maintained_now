@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 308,
+    "Text": "Metathermic Modulator"
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 442,
+    "Text": "This psionic modulator is designed specifically to enhance the wearer's metathermic psionics."
+  },
+  {
+    "HeaderOffset": 443,
+    "StartTextOffset": 449,
+    "EndTextOffset": 462,
+    "Text": "Components.202"
+  },
+  {
+    "HeaderOffset": 767,
+    "StartTextOffset": 773,
+    "EndTextOffset": 783,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 797,
+    "StartTextOffset": 803,
+    "EndTextOffset": 809,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 848,
+    "StartTextOffset": 854,
+    "EndTextOffset": 862,
+    "Text": "PsiSchool"
+  },
+  {
+    "HeaderOffset": 921,
+    "StartTextOffset": 927,
+    "EndTextOffset": 940,
+    "Text": "BaseSkillBonus"
+  },
+  {
+    "HeaderOffset": 975,
+    "StartTextOffset": 981,
+    "EndTextOffset": 1000,
+    "Text": "SkillBonusPerQuality"
+  }
+]

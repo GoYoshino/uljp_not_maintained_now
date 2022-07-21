@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 243,
+    "Text": "Plot.HVPenetrator"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 277,
+    "Text": "High Voltage Penetrator Core"
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 455,
+    "Text": "A device capable of producing low to high voltage output. It consists of many densely stacked voltage coils and a seperate power source."
+  },
+  {
+    "HeaderOffset": 456,
+    "StartTextOffset": 462,
+    "EndTextOffset": 478,
+    "Text": "Plot.HVPenetrator"
+  }
+]

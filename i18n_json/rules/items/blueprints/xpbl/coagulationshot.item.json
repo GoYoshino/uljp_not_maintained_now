@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 261,
+    "Text": "blueprint.coagulationShot"
+  },
+  {
+    "HeaderOffset": 262,
+    "StartTextOffset": 268,
+    "EndTextOffset": 294,
+    "Text": "Blueprint: Coagulation Shot"
+  },
+  {
+    "HeaderOffset": 330,
+    "StartTextOffset": 336,
+    "EndTextOffset": 393,
+    "Text": "Contains instructions on how to create a coagulation shot."
+  },
+  {
+    "HeaderOffset": 394,
+    "StartTextOffset": 400,
+    "EndTextOffset": 412,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 546,
+    "StartTextOffset": 552,
+    "EndTextOffset": 566,
+    "Text": "coagulationShot"
+  },
+  {
+    "HeaderOffset": 625,
+    "StartTextOffset": 631,
+    "EndTextOffset": 650,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 257,
+    "Text": "eCOTY"
+  },
+  {
+    "HeaderOffset": 268,
+    "StartTextOffset": 274,
+    "EndTextOffset": 285,
+    "Text": "spongeFilter"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 305,
+    "Text": "Sponge Filters"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 403,
+    "Text": "A couple of small, clean, general-purpose sponge filters."
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 432,
+    "Text": "Components.SpongeFilter"
+  }
+]

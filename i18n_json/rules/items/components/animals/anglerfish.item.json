@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 312,
+    "Text": "Fish.Anglerfish"
+  },
+  {
+    "HeaderOffset": 313,
+    "StartTextOffset": 319,
+    "EndTextOffset": 328,
+    "Text": "Anglerfish"
+  },
+  {
+    "HeaderOffset": 364,
+    "StartTextOffset": 370,
+    "EndTextOffset": 399,
+    "Text": "The fisher becomes the fished."
+  },
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 420,
+    "Text": "Fish.Anglerfish"
+  },
+  {
+    "HeaderOffset": 693,
+    "StartTextOffset": 699,
+    "EndTextOffset": 705,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 735,
+    "StartTextOffset": 741,
+    "EndTextOffset": 747,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 748,
+    "StartTextOffset": 754,
+    "EndTextOffset": 765,
+    "Text": "FusingEnzyme"
+  }
+]

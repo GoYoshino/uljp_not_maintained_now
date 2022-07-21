@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 312,
+    "Text": "Thought Control Modulator"
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 450,
+    "Text": "This psionic modulator is designed specifically to enhance the wearer's thought control psionics."
+  },
+  {
+    "HeaderOffset": 451,
+    "StartTextOffset": 457,
+    "EndTextOffset": 470,
+    "Text": "Components.204"
+  },
+  {
+    "HeaderOffset": 775,
+    "StartTextOffset": 781,
+    "EndTextOffset": 791,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 805,
+    "StartTextOffset": 811,
+    "EndTextOffset": 817,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 856,
+    "StartTextOffset": 862,
+    "EndTextOffset": 870,
+    "Text": "PsiSchool"
+  },
+  {
+    "HeaderOffset": 929,
+    "StartTextOffset": 935,
+    "EndTextOffset": 948,
+    "Text": "BaseSkillBonus"
+  },
+  {
+    "HeaderOffset": 983,
+    "StartTextOffset": 989,
+    "EndTextOffset": 1008,
+    "Text": "SkillBonusPerQuality"
+  }
+]

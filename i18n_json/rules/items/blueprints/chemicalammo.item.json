@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "chemicalAmmoBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 274,
+    "Text": "Blueprint: Chemical Ammo"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 386,
+    "Text": "Contains instructions on how to create ammunition for chemical weapons."
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 383,
+    "Text": "ontains instructions on how to create ammunition for chemical weapo"
+  },
+  {
+    "HeaderOffset": 387,
+    "StartTextOffset": 393,
+    "EndTextOffset": 401,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 533,
+    "StartTextOffset": 539,
+    "EndTextOffset": 550,
+    "Text": "chemicalAmmo"
+  },
+  {
+    "HeaderOffset": 609,
+    "StartTextOffset": 615,
+    "EndTextOffset": 634,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 255,
+    "Text": "blueprint.superHealthHypo"
+  },
+  {
+    "HeaderOffset": 256,
+    "StartTextOffset": 262,
+    "EndTextOffset": 289,
+    "Text": "Blueprint: Super Health Hypo"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 389,
+    "Text": "Contains instructions on how to create a super health hypo."
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 404,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 537,
+    "StartTextOffset": 543,
+    "EndTextOffset": 557,
+    "Text": "superHealthHypo"
+  },
+  {
+    "HeaderOffset": 616,
+    "StartTextOffset": 622,
+    "EndTextOffset": 641,
+    "Text": "blueprintconsumation"
+  }
+]

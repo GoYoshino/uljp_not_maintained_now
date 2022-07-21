@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 282,
+    "Text": "bondingAgent"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 301,
+    "Text": "Bonding Agent"
+  },
+  {
+    "HeaderOffset": 337,
+    "StartTextOffset": 343,
+    "EndTextOffset": 387,
+    "Text": "Can be used to make substances more cohesive."
+  },
+  {
+    "HeaderOffset": 388,
+    "StartTextOffset": 394,
+    "EndTextOffset": 416,
+    "Text": "Components.BondingAgent"
+  },
+  {
+    "HeaderOffset": 666,
+    "StartTextOffset": 672,
+    "EndTextOffset": 680,
+    "Text": "Chemistry"
+  }
+]

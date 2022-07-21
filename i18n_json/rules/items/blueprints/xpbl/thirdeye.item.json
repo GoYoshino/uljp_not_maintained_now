@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 254,
+    "Text": "blueprint.thirdEye"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 280,
+    "Text": "Blueprint: Third Eye"
+  },
+  {
+    "HeaderOffset": 316,
+    "StartTextOffset": 322,
+    "EndTextOffset": 377,
+    "Text": "Contains instructions on how to create a Third Eye pill."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 396,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 530,
+    "StartTextOffset": 536,
+    "EndTextOffset": 543,
+    "Text": "thirdEye"
+  },
+  {
+    "HeaderOffset": 602,
+    "StartTextOffset": 608,
+    "EndTextOffset": 627,
+    "Text": "blueprintconsumation"
+  }
+]

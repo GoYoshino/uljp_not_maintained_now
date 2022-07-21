@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 254,
+    "Text": "psiMentor.Implosion"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 285,
+    "Text": "Psionic Mentor: Implosion"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 432,
+    "Text": "This device can be used to automatically teach yourself Implosion psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 411,
+    "Text": "his device can be used to automatically teach yourself Implosion psi ability through"
+  },
+  {
+    "HeaderOffset": 433,
+    "StartTextOffset": 439,
+    "EndTextOffset": 457,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 591,
+    "StartTextOffset": 597,
+    "EndTextOffset": 605,
+    "Text": "Implosion"
+  },
+  {
+    "HeaderOffset": 664,
+    "StartTextOffset": 670,
+    "EndTextOffset": 689,
+    "Text": "PsiMentorConsumation"
+  }
+]

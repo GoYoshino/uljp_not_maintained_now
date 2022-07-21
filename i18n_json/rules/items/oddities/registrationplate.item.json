@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 243,
+    "Text": "Oddity.RegistrationPlate"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 267,
+    "Text": "Registration Plate"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 408,
+    "Text": "This must be a vehicle registration plate from United Stations. You can only wonder how it got here."
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 393,
+    "Text": "his must be a vehicle registration plate from United Stations. You can only wonder h"
+  },
+  {
+    "HeaderOffset": 409,
+    "StartTextOffset": 415,
+    "EndTextOffset": 438,
+    "Text": "Oddity.RegistrationPlate"
+  }
+]

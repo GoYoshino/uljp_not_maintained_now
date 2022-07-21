@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 244,
+    "Text": "bootsBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 266,
+    "Text": "Blueprint: Boots"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 377,
+    "Text": "Contains instructions on how to create a pair of military style boots."
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 375,
+    "Text": "ontains instructions on how to create a pair of military style boot"
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 392,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 535,
+    "Text": "boots"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 619,
+    "Text": "blueprintconsumation"
+  }
+]

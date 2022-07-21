@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 228,
+    "Text": "burrowerPoisonCaltrops"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 258,
+    "Text": "Burrower Poison Caltrops"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 582,
+    "Text": "A caltrop is an antipersonnel weapon made up of two or more sharp nails or spines arranged in such a manner that one of them always points upward from a stable base. Caltrops can be deployed to injure and slow down enemies. These caltrops have also been coated with burrower poison."
+  },
+  {
+    "HeaderOffset": 583,
+    "StartTextOffset": 589,
+    "EndTextOffset": 598,
+    "Text": "Devices.61"
+  },
+  {
+    "HeaderOffset": 787,
+    "StartTextOffset": 793,
+    "EndTextOffset": 819,
+    "Text": "BurrowerPoisonCaltropsThrow"
+  }
+]

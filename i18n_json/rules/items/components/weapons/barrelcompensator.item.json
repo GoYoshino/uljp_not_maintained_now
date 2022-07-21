@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 293,
+    "Text": "barrelCompensator"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 317,
+    "Text": "Barrel Compensator"
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 485,
+    "Text": "A compensator is a muzzle device designed to counter the vertical movement of the barrel resulting in more accurate burst fire."
+  },
+  {
+    "HeaderOffset": 354,
+    "StartTextOffset": 360,
+    "EndTextOffset": 424,
+    "Text": " compensator is a muzzle device designed to counter the vertical "
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 504,
+    "Text": "Components.89"
+  },
+  {
+    "HeaderOffset": 767,
+    "StartTextOffset": 773,
+    "EndTextOffset": 781,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 812,
+    "StartTextOffset": 818,
+    "EndTextOffset": 836,
+    "Text": "BurstPrecisionBonus"
+  }
+]

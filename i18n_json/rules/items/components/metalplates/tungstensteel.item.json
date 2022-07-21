@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 435,
+    "StartTextOffset": 441,
+    "EndTextOffset": 453,
+    "Text": "tungstenSteel"
+  },
+  {
+    "HeaderOffset": 454,
+    "StartTextOffset": 460,
+    "EndTextOffset": 480,
+    "Text": "Tungsten Steel Plates"
+  },
+  {
+    "HeaderOffset": 516,
+    "StartTextOffset": 522,
+    "EndTextOffset": 569,
+    "Text": "It's a set of thick heavy tungsten steel plates."
+  },
+  {
+    "HeaderOffset": 570,
+    "StartTextOffset": 576,
+    "EndTextOffset": 589,
+    "Text": "Components.121"
+  },
+  {
+    "HeaderOffset": 1252,
+    "StartTextOffset": 1258,
+    "EndTextOffset": 1266,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1296,
+    "StartTextOffset": 1302,
+    "EndTextOffset": 1309,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1310,
+    "StartTextOffset": 1316,
+    "EndTextOffset": 1329,
+    "Text": "Tungsten Steel"
+  },
+  {
+    "HeaderOffset": 1356,
+    "StartTextOffset": 1362,
+    "EndTextOffset": 1373,
+    "Text": "IsMetalPlate"
+  },
+  {
+    "HeaderOffset": 1401,
+    "StartTextOffset": 1407,
+    "EndTextOffset": 1419,
+    "Text": "MaterialIndex"
+  },
+  {
+    "HeaderOffset": 1450,
+    "StartTextOffset": 1456,
+    "EndTextOffset": 1473,
+    "Text": "HelmetCritModifier"
+  },
+  {
+    "HeaderOffset": 1515,
+    "StartTextOffset": 1521,
+    "EndTextOffset": 1540,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1610,
+    "StartTextOffset": 1616,
+    "EndTextOffset": 1629,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1660,
+    "StartTextOffset": 1666,
+    "EndTextOffset": 1678,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1709,
+    "StartTextOffset": 1715,
+    "EndTextOffset": 1727,
+    "Text": "GloveEnhIndex"
+  }
+]

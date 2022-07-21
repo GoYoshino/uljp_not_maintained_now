@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 275,
+    "Text": "psiMentor.CryogenicBarrier"
+  },
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 314,
+    "Text": "Psionic Mentor: Cryogenic Barrier"
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 469,
+    "Text": "This device can be used to automatically teach yourself Cryogenic Barrier psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 440,
+    "Text": "his device can be used to automatically teach yourself Cryogenic Barrier psi ability"
+  },
+  {
+    "HeaderOffset": 470,
+    "StartTextOffset": 476,
+    "EndTextOffset": 494,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 651,
+    "Text": "CryogenicBarrier"
+  },
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 735,
+    "Text": "PsiMentorConsumation"
+  }
+]

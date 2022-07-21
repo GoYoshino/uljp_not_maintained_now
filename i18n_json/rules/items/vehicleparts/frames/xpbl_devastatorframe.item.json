@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 472,
+    "StartTextOffset": 478,
+    "EndTextOffset": 497,
+    "Text": "xpbl_devastatorFrame"
+  },
+  {
+    "HeaderOffset": 498,
+    "StartTextOffset": 504,
+    "EndTextOffset": 519,
+    "Text": "Devastator Frame"
+  },
+  {
+    "HeaderOffset": 556,
+    "StartTextOffset": 562,
+    "EndTextOffset": 567,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1095,
+    "StartTextOffset": 1101,
+    "EndTextOffset": 1115,
+    "Text": "xpbl_devastator"
+  },
+  {
+    "HeaderOffset": 1182,
+    "StartTextOffset": 1188,
+    "EndTextOffset": 1214,
+    "Text": "ShootDevastatorFusionCannon"
+  }
+]

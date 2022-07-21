@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 245,
+    "Text": "med.vitalityPowder"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 266,
+    "Text": "Vitality Powder"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 339,
+    "Text": "Fine green powder inside a horn."
+  },
+  {
+    "HeaderOffset": 340,
+    "StartTextOffset": 346,
+    "EndTextOffset": 356,
+    "Text": "xpbl_Meds.1"
+  },
+  {
+    "HeaderOffset": 548,
+    "StartTextOffset": 554,
+    "EndTextOffset": 578,
+    "Text": "VitalityPowderConsumption"
+  }
+]

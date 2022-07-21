@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 292,
+    "Text": "plasmaDischarger"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 315,
+    "Text": "Plasma Discharger"
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 455,
+    "Text": "This plasma discharger can be mounted on energy weapon frames to create devastating plasma weapons."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 441,
+    "Text": "his plasma discharger can be mounted on energy weapon frames to create devastating p"
+  },
+  {
+    "HeaderOffset": 456,
+    "StartTextOffset": 462,
+    "EndTextOffset": 474,
+    "Text": "Components.46"
+  },
+  {
+    "HeaderOffset": 794,
+    "StartTextOffset": 800,
+    "EndTextOffset": 810,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 841,
+    "StartTextOffset": 847,
+    "EndTextOffset": 863,
+    "Text": "EnergyPistolIndex"
+  },
+  {
+    "HeaderOffset": 894,
+    "StartTextOffset": 900,
+    "EndTextOffset": 920,
+    "Text": "EnergyUsagePerQuality"
+  },
+  {
+    "HeaderOffset": 955,
+    "StartTextOffset": 961,
+    "EndTextOffset": 975,
+    "Text": "BaseEnergyUsage"
+  },
+  {
+    "HeaderOffset": 1009,
+    "StartTextOffset": 1015,
+    "EndTextOffset": 1030,
+    "Text": "EnergyWeaponType"
+  },
+  {
+    "HeaderOffset": 1031,
+    "StartTextOffset": 1037,
+    "EndTextOffset": 1042,
+    "Text": "Plasma"
+  }
+]

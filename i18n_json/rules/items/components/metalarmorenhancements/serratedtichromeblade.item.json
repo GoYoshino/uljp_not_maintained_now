@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 409,
+    "Text": "Component.SerratedTiChromeBlade"
+  },
+  {
+    "HeaderOffset": 410,
+    "StartTextOffset": 416,
+    "EndTextOffset": 438,
+    "Text": "Serrated TiChrome Blade"
+  },
+  {
+    "HeaderOffset": 474,
+    "StartTextOffset": 480,
+    "EndTextOffset": 593,
+    "Text": "It's a nasty looking serrated tichrome blade that can be mounted on a metal armor suit to inflict bleeding wounds."
+  },
+  {
+    "HeaderOffset": 475,
+    "StartTextOffset": 481,
+    "EndTextOffset": 553,
+    "Text": "t's a nasty looking serrated tichrome blade that can be mounted on a meta"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 613,
+    "Text": "Components.135"
+  },
+  {
+    "HeaderOffset": 947,
+    "StartTextOffset": 953,
+    "EndTextOffset": 961,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1110,
+    "StartTextOffset": 1116,
+    "EndTextOffset": 1122,
+    "Text": "IsBlade"
+  },
+  {
+    "HeaderOffset": 1150,
+    "StartTextOffset": 1156,
+    "EndTextOffset": 1168,
+    "Text": "GloveEnhIndex"
+  },
+  {
+    "HeaderOffset": 1198,
+    "StartTextOffset": 1204,
+    "EndTextOffset": 1211,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1212,
+    "StartTextOffset": 1218,
+    "EndTextOffset": 1225,
+    "Text": "TiChrome"
+  }
+]

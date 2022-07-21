@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 556,
+    "StartTextOffset": 562,
+    "EndTextOffset": 582,
+    "Text": "industrialExoskeleton"
+  },
+  {
+    "HeaderOffset": 583,
+    "StartTextOffset": 589,
+    "EndTextOffset": 618,
+    "Text": "Industrial Powered Exoskeleton"
+  },
+  {
+    "HeaderOffset": 654,
+    "StartTextOffset": 660,
+    "EndTextOffset": 993,
+    "Text": "A Biocorp Industries full-body powered exoskeleton intended for heavy lifting, construction, mining, and other industrial applications. All units have integrated modular forearm attachment systems, and this one has a single heavy-duty drill module under the right arm.<br><br>Take care not to tip over when navigating uneven terrain."
+  },
+  {
+    "HeaderOffset": 994,
+    "StartTextOffset": 1000,
+    "EndTextOffset": 1026,
+    "Text": "Armor.IndustrialExoskeleton"
+  },
+  {
+    "HeaderOffset": 1326,
+    "StartTextOffset": 1332,
+    "EndTextOffset": 1336,
+    "Text": "exodr"
+  },
+  {
+    "HeaderOffset": 1505,
+    "StartTextOffset": 1511,
+    "EndTextOffset": 1518,
+    "Text": "Strength"
+  },
+  {
+    "HeaderOffset": 1570,
+    "StartTextOffset": 1576,
+    "EndTextOffset": 1584,
+    "Text": "Dexterity"
+  },
+  {
+    "HeaderOffset": 1617,
+    "StartTextOffset": 1623,
+    "EndTextOffset": 1629,
+    "Text": "Agility"
+  },
+  {
+    "HeaderOffset": 1858,
+    "StartTextOffset": 1864,
+    "EndTextOffset": 1888,
+    "Text": "IndustrialExoskeletonAura"
+  },
+  {
+    "HeaderOffset": 1898,
+    "StartTextOffset": 1904,
+    "EndTextOffset": 1925,
+    "Text": "ExoskeletonDrillAttack"
+  }
+]

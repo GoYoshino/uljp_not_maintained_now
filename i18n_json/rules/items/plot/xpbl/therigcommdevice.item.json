@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 266,
+    "Text": "plot.xpbl_theRigCommDevice"
+  },
+  {
+    "HeaderOffset": 267,
+    "StartTextOffset": 273,
+    "EndTextOffset": 291,
+    "Text": "The Rig Comm Device"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 611,
+    "Text": "It's a Coretech CT R2WP-4 two-way, four-channel, waterproof radio. As the preferred communication device of Underrail ferrymen and jetters it has earned itself the nickname floatie-talkie due to its useful inability to sink. This one has the Black Eel insignia on the back side."
+  },
+  {
+    "HeaderOffset": 612,
+    "StartTextOffset": 618,
+    "EndTextOffset": 629,
+    "Text": "xpbl_Plot.44"
+  },
+  {
+    "HeaderOffset": 892,
+    "StartTextOffset": 898,
+    "EndTextOffset": 913,
+    "Text": "startInterfacing"
+  },
+  {
+    "HeaderOffset": 939,
+    "StartTextOffset": 945,
+    "EndTextOffset": 960,
+    "Text": "InterfaceActorId"
+  },
+  {
+    "HeaderOffset": 961,
+    "StartTextOffset": 967,
+    "EndTextOffset": 975,
+    "Text": "interface"
+  },
+  {
+    "HeaderOffset": 985,
+    "StartTextOffset": 991,
+    "EndTextOffset": 1008,
+    "Text": "InterfaceActorName"
+  },
+  {
+    "HeaderOffset": 1009,
+    "StartTextOffset": 1015,
+    "EndTextOffset": 1022,
+    "Text": "Rig Comm"
+  },
+  {
+    "HeaderOffset": 1032,
+    "StartTextOffset": 1038,
+    "EndTextOffset": 1057,
+    "Text": "InterfaceCommandText"
+  },
+  {
+    "HeaderOffset": 1058,
+    "StartTextOffset": 1064,
+    "EndTextOffset": 1083,
+    "Text": "Activate the device."
+  },
+  {
+    "HeaderOffset": 1093,
+    "StartTextOffset": 1099,
+    "EndTextOffset": 1113,
+    "Text": "InterfaceDialog"
+  },
+  {
+    "HeaderOffset": 1114,
+    "StartTextOffset": 1120,
+    "EndTextOffset": 1144,
+    "Text": "interfacing\\xpbl\\rig_comm"
+  }
+]

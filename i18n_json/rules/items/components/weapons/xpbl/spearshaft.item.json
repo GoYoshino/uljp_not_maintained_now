@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 292,
+    "Text": "spearShaft"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 309,
+    "Text": "Spear Shaft"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 398,
+    "Text": "Mount it with a spearhead and you're good to go."
+  },
+  {
+    "HeaderOffset": 399,
+    "StartTextOffset": 405,
+    "EndTextOffset": 421,
+    "Text": "xpbl_Components.0"
+  },
+  {
+    "HeaderOffset": 666,
+    "StartTextOffset": 672,
+    "EndTextOffset": 680,
+    "Text": "Mechanics"
+  }
+]

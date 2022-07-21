@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 240,
+    "Text": "Oddity.ForkedMandible"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 261,
+    "Text": "Forked Mandible"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 371,
+    "Text": "A misshapen burrower mandible. Could be used as a fork... in a pinch."
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 368,
+    "Text": " misshapen burrower mandible. Could be used as a fork... in a pin"
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 398,
+    "Text": "Oddity.ForkedMandible"
+  }
+]

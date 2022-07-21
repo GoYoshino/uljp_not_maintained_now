@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 333,
+    "Text": "poison.BurrowerPoison"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 354,
+    "Text": "Burrower Poison"
+  },
+  {
+    "HeaderOffset": 390,
+    "StartTextOffset": 396,
+    "EndTextOffset": 533,
+    "Text": "This poison was extracted from a poison gland of a burrower creature. When injected into victim's bloodstream it can cause severe damage."
+  },
+  {
+    "HeaderOffset": 534,
+    "StartTextOffset": 540,
+    "EndTextOffset": 564,
+    "Text": "Components.BurrowerPoison"
+  },
+  {
+    "HeaderOffset": 853,
+    "StartTextOffset": 859,
+    "EndTextOffset": 874,
+    "Text": "applyGearBooster"
+  },
+  {
+    "HeaderOffset": 908,
+    "StartTextOffset": 914,
+    "EndTextOffset": 920,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 960,
+    "StartTextOffset": 966,
+    "EndTextOffset": 976,
+    "Text": "GearBooster"
+  },
+  {
+    "HeaderOffset": 1007,
+    "StartTextOffset": 1013,
+    "EndTextOffset": 1022,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 1023,
+    "StartTextOffset": 1029,
+    "EndTextOffset": 1042,
+    "Text": "BurrowerPoison"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 627,
+    "StartTextOffset": 633,
+    "EndTextOffset": 637,
+    "Text": "CRRME"
+  },
+  {
+    "HeaderOffset": 715,
+    "StartTextOffset": 721,
+    "EndTextOffset": 724,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 773,
+    "StartTextOffset": 779,
+    "EndTextOffset": 792,
+    "Text": "wep.wickedHook"
+  },
+  {
+    "HeaderOffset": 793,
+    "StartTextOffset": 799,
+    "EndTextOffset": 809,
+    "Text": "Wicked Hook"
+  },
+  {
+    "HeaderOffset": 845,
+    "StartTextOffset": 851,
+    "EndTextOffset": 1059,
+    "Text": "This peculiar device might not have been intended as a weapon, but it's obvious that you could, in a pinch, swing the large wicked hook at an enemy. It would have certain advantages over a conventional knife."
+  },
+  {
+    "HeaderOffset": 1060,
+    "StartTextOffset": 1066,
+    "EndTextOffset": 1082,
+    "Text": "Weapon.WickedHook"
+  }
+]

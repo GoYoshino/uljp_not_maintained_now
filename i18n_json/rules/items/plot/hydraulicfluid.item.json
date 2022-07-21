@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 256,
+    "Text": "plot.dc_hydraulicFluidCanister"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 286,
+    "Text": "Hydraulic Fluid Canister"
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 474,
+    "Text": "This is a five-liter hydraulic fluid canister. It is filled with BI MO-G60 mineral oil-based hydraulic fluid produced by Biocorp Hydraulics North."
+  },
+  {
+    "HeaderOffset": 475,
+    "StartTextOffset": 481,
+    "EndTextOffset": 487,
+    "Text": "Plot.99"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 311,
+    "Text": "endoscopeEyepiece"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 335,
+    "Text": "Endoscope Eyepiece"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 505,
+    "Text": "The eyepiece of an endoscope that can be used to attach to the end of an optical fiber to create some type of endoscopic device."
+  },
+  {
+    "HeaderOffset": 506,
+    "StartTextOffset": 512,
+    "EndTextOffset": 539,
+    "Text": "Components.EndoscopeEyepiece"
+  },
+  {
+    "HeaderOffset": 795,
+    "StartTextOffset": 801,
+    "EndTextOffset": 811,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 825,
+    "StartTextOffset": 831,
+    "EndTextOffset": 839,
+    "Text": "Mechanics"
+  }
+]

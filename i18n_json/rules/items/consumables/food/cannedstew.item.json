@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 242,
+    "Text": "food.cannedStew"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 259,
+    "Text": "Canned Stew"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 514,
+    "Text": "Stew in a can. The food inside has been exposed to ionizing radiation in order to eliminate microorganisms and insects. The process does not make the food radioactive but instead ensures extremely long shelf life."
+  },
+  {
+    "HeaderOffset": 515,
+    "StartTextOffset": 521,
+    "EndTextOffset": 535,
+    "Text": "Food.CannedStew"
+  },
+  {
+    "HeaderOffset": 765,
+    "StartTextOffset": 771,
+    "EndTextOffset": 785,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 811,
+    "StartTextOffset": 817,
+    "EndTextOffset": 824,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 825,
+    "StartTextOffset": 831,
+    "EndTextOffset": 840,
+    "Text": "cannedStew"
+  },
+  {
+    "HeaderOffset": 850,
+    "StartTextOffset": 856,
+    "EndTextOffset": 863,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 864,
+    "StartTextOffset": 870,
+    "EndTextOffset": 880,
+    "Text": "Canned Stew"
+  }
+]

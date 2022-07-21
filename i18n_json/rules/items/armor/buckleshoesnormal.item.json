@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 394,
+    "StartTextOffset": 400,
+    "EndTextOffset": 404,
+    "Text": "MBAFE"
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 493,
+    "Text": "buckleShoesNormal"
+  },
+  {
+    "HeaderOffset": 494,
+    "StartTextOffset": 500,
+    "EndTextOffset": 519,
+    "Text": "Bespoke Buckle Shoes"
+  },
+  {
+    "HeaderOffset": 555,
+    "StartTextOffset": 561,
+    "EndTextOffset": 652,
+    "Text": "A pair of elegantly simple leather shoes featuring a metal buckle. Custom made just for you."
+  },
+  {
+    "HeaderOffset": 556,
+    "StartTextOffset": 562,
+    "EndTextOffset": 626,
+    "Text": " pair of elegantly simple leather shoes featuring a metal buckle."
+  },
+  {
+    "HeaderOffset": 653,
+    "StartTextOffset": 659,
+    "EndTextOffset": 675,
+    "Text": "Armor.BuckleShoes"
+  },
+  {
+    "HeaderOffset": 1067,
+    "StartTextOffset": 1073,
+    "EndTextOffset": 1079,
+    "Text": "Agility"
+  },
+  {
+    "HeaderOffset": 1335,
+    "StartTextOffset": 1341,
+    "EndTextOffset": 1350,
+    "Text": "Mercantile"
+  },
+  {
+    "HeaderOffset": 1370,
+    "StartTextOffset": 1376,
+    "EndTextOffset": 1385,
+    "Text": "Persuasion"
+  }
+]

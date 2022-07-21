@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 307,
+    "Text": "Electromagnetic Deflector"
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 466,
+    "Text": "A device used to deflect and redirect electromagnetic waves. It's most often used in creating cloaking field emitters."
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 414,
+    "Text": " device used to deflect and redirect electromagnetic waves. It's "
+  },
+  {
+    "HeaderOffset": 467,
+    "StartTextOffset": 473,
+    "EndTextOffset": 489,
+    "Text": "Items.EmDeflector"
+  },
+  {
+    "HeaderOffset": 733,
+    "StartTextOffset": 739,
+    "EndTextOffset": 749,
+    "Text": "Electronics"
+  }
+]

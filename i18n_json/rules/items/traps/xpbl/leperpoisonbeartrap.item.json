@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 265,
+    "Text": "trap.leperPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 266,
+    "StartTextOffset": 272,
+    "EndTextOffset": 293,
+    "Text": "Leper Poison Bear Trap"
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 543,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim. As if the excruciating pain of having your foot caught in one of these wasn't enough, the metal jaws have also been coated with leper poison."
+  },
+  {
+    "HeaderOffset": 544,
+    "StartTextOffset": 550,
+    "EndTextOffset": 562,
+    "Text": "Explosives.97"
+  },
+  {
+    "HeaderOffset": 766,
+    "StartTextOffset": 772,
+    "EndTextOffset": 795,
+    "Text": "PlaceLeperPoisonBearTrap"
+  }
+]

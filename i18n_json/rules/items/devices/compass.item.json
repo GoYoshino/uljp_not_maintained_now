@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 209,
+    "StartTextOffset": 215,
+    "EndTextOffset": 226,
+    "Text": "tool.compass"
+  },
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 239,
+    "Text": "コンパス／Compass"
+  },
+  {
+    "HeaderOffset": 275,
+    "StartTextOffset": 281,
+    "EndTextOffset": 366,
+    "Text": "Underrailの地下世界は迷いやすい。これが役に立つだろう。"
+  },
+  {
+    "HeaderOffset": 276,
+    "StartTextOffset": 282,
+    "EndTextOffset": 354,
+    "Text": "t's easy to get turned around in the tunnels of Underrail, you'll probabl"
+  },
+  {
+    "HeaderOffset": 367,
+    "StartTextOffset": 373,
+    "EndTextOffset": 382,
+    "Text": "Devices.16"
+  },
+  {
+    "HeaderOffset": 572,
+    "StartTextOffset": 578,
+    "EndTextOffset": 584,
+    "Text": "Compass"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 332,
+    "Text": "poison.CrawlerPoison"
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 352,
+    "Text": "Crawler Poison"
+  },
+  {
+    "HeaderOffset": 388,
+    "StartTextOffset": 394,
+    "EndTextOffset": 493,
+    "Text": "This is a vial of crawler poison. When injected into the victim it can cause vomiting and paralysis."
+  },
+  {
+    "HeaderOffset": 389,
+    "StartTextOffset": 395,
+    "EndTextOffset": 478,
+    "Text": "his is a vial of crawler poison. When injected into the victim it can cause vomiting"
+  },
+  {
+    "HeaderOffset": 494,
+    "StartTextOffset": 500,
+    "EndTextOffset": 523,
+    "Text": "Components.CrawlerPoison"
+  },
+  {
+    "HeaderOffset": 812,
+    "StartTextOffset": 818,
+    "EndTextOffset": 833,
+    "Text": "applyGearBooster"
+  },
+  {
+    "HeaderOffset": 867,
+    "StartTextOffset": 873,
+    "EndTextOffset": 879,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 920,
+    "StartTextOffset": 926,
+    "EndTextOffset": 936,
+    "Text": "GearBooster"
+  },
+  {
+    "HeaderOffset": 967,
+    "StartTextOffset": 973,
+    "EndTextOffset": 982,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 983,
+    "StartTextOffset": 989,
+    "EndTextOffset": 1001,
+    "Text": "CrawlerPoison"
+  }
+]

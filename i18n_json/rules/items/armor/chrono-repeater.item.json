@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 474,
+    "StartTextOffset": 480,
+    "EndTextOffset": 487,
+    "Text": "pacifier"
+  },
+  {
+    "HeaderOffset": 488,
+    "StartTextOffset": 494,
+    "EndTextOffset": 518,
+    "Text": "Makeshift Chrono-Repeater"
+  },
+  {
+    "HeaderOffset": 554,
+    "StartTextOffset": 560,
+    "EndTextOffset": 939,
+    "Text": "This jumble of cables and antennas might be an attempt to create a psionic headband version of chrono-repeater, a device that should, theoretically, be able to perfectly echo same event throughout time with minimal energy supply, creating a sort of near perpetuum mobile.<br><br>This implementation, however, is only able to repeat its temporal scrambling, and only occassionaly."
+  },
+  {
+    "HeaderOffset": 940,
+    "StartTextOffset": 946,
+    "EndTextOffset": 959,
+    "Text": "ChronoRepeater"
+  },
+  {
+    "HeaderOffset": 1341,
+    "StartTextOffset": 1347,
+    "EndTextOffset": 1367,
+    "Text": "Temporal Manipulation"
+  },
+  {
+    "HeaderOffset": 1443,
+    "StartTextOffset": 1449,
+    "EndTextOffset": 1466,
+    "Text": "TemporalDistorsion"
+  },
+  {
+    "HeaderOffset": 1609,
+    "StartTextOffset": 1615,
+    "EndTextOffset": 1624,
+    "Text": "Perception"
+  },
+  {
+    "HeaderOffset": 1734,
+    "StartTextOffset": 1740,
+    "EndTextOffset": 1759,
+    "Text": "Other psionic skills"
+  },
+  {
+    "HeaderOffset": 1836,
+    "StartTextOffset": 1842,
+    "EndTextOffset": 1853,
+    "Text": "Metathermics"
+  },
+  {
+    "HeaderOffset": 1854,
+    "StartTextOffset": 1860,
+    "EndTextOffset": 1872,
+    "Text": "Psychokinesis"
+  },
+  {
+    "HeaderOffset": 1873,
+    "StartTextOffset": 1879,
+    "EndTextOffset": 1893,
+    "Text": "Thought Control"
+  }
+]

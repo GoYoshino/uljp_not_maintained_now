@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 281,
+    "Text": "VehiclePart.FrontiermanVB450LightBroken"
+  },
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 312,
+    "Text": "Broken LEMCO VB 450 Light"
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 418,
+    "Text": "Exotic looking small vehicle battery. Unfortunately, it's broken."
+  },
+  {
+    "HeaderOffset": 419,
+    "StartTextOffset": 425,
+    "EndTextOffset": 463,
+    "Text": "VehiclePart.FrontiermanVB450LightBroken"
+  }
+]

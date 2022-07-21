@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 257,
+    "Text": "eCOTY"
+  },
+  {
+    "HeaderOffset": 268,
+    "StartTextOffset": 274,
+    "EndTextOffset": 281,
+    "Text": "clamMeat"
+  },
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 296,
+    "Text": "Clam Meat"
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 354,
+    "Text": "Looks very tasty."
+  },
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 378,
+    "Text": "xpbl_Components.66"
+  }
+]

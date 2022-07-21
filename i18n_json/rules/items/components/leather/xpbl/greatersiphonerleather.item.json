@@ -1,0 +1,116 @@
+[
+  {
+    "HeaderOffset": 481,
+    "StartTextOffset": 487,
+    "EndTextOffset": 518,
+    "Text": "component.greaterSiphonerLeather"
+  },
+  {
+    "HeaderOffset": 519,
+    "StartTextOffset": 525,
+    "EndTextOffset": 548,
+    "Text": "Greater Siphoner Leather"
+  },
+  {
+    "HeaderOffset": 584,
+    "StartTextOffset": 590,
+    "EndTextOffset": 691,
+    "Text": "It's a slippery slimy piece of greater siphoner skin. It can be used to craft a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 585,
+    "StartTextOffset": 591,
+    "EndTextOffset": 663,
+    "Text": "t's a slippery slimy piece of greater siphoner skin. It can be used to cr"
+  },
+  {
+    "HeaderOffset": 692,
+    "StartTextOffset": 698,
+    "EndTextOffset": 709,
+    "Text": "Components.6"
+  },
+  {
+    "HeaderOffset": 1383,
+    "StartTextOffset": 1389,
+    "EndTextOffset": 1397,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1529,
+    "StartTextOffset": 1535,
+    "EndTextOffset": 1550,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1551,
+    "StartTextOffset": 1557,
+    "EndTextOffset": 1613,
+    "Text": "This {0} is made of slippery slimy greater siphoner skin."
+  },
+  {
+    "HeaderOffset": 1623,
+    "StartTextOffset": 1629,
+    "EndTextOffset": 1642,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1643,
+    "StartTextOffset": 1649,
+    "EndTextOffset": 1664,
+    "Text": "Greater Siphoner"
+  },
+  {
+    "HeaderOffset": 1674,
+    "StartTextOffset": 1680,
+    "EndTextOffset": 1701,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1702,
+    "StartTextOffset": 1708,
+    "EndTextOffset": 1766,
+    "Text": "These {0} are made of slippery slimy greater siphoner skin."
+  },
+  {
+    "HeaderOffset": 1793,
+    "StartTextOffset": 1799,
+    "EndTextOffset": 1811,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1825,
+    "StartTextOffset": 1831,
+    "EndTextOffset": 1852,
+    "Text": "CustomLeatherArmorType"
+  },
+  {
+    "HeaderOffset": 1853,
+    "StartTextOffset": 1859,
+    "EndTextOffset": 1874,
+    "Text": "Leather Jumpsuit"
+  },
+  {
+    "HeaderOffset": 1901,
+    "StartTextOffset": 1907,
+    "EndTextOffset": 1914,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1928,
+    "StartTextOffset": 1934,
+    "EndTextOffset": 1958,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1959,
+    "StartTextOffset": 1965,
+    "EndTextOffset": 1975,
+    "Text": "xpbl_gsiple"
+  },
+  {
+    "HeaderOffset": 1994,
+    "StartTextOffset": 2000,
+    "EndTextOffset": 2003,
+    "Text": "Xpbl"
+  }
+]

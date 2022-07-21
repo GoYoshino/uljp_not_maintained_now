@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 227,
+    "Text": "trance"
+  },
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 239,
+    "Text": "Trance"
+  },
+  {
+    "HeaderOffset": 275,
+    "StartTextOffset": 281,
+    "EndTextOffset": 335,
+    "Text": "Puts the consumer in a state of psionic super-emission."
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 347,
+    "Text": "Meds.2"
+  },
+  {
+    "HeaderOffset": 538,
+    "StartTextOffset": 544,
+    "EndTextOffset": 560,
+    "Text": "TranceConsumation"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 739,
+    "StartTextOffset": 745,
+    "EndTextOffset": 748,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 753,
+    "StartTextOffset": 759,
+    "EndTextOffset": 771,
+    "Text": "%LI%#G1>%s%#-"
+  },
+  {
+    "HeaderOffset": 780,
+    "StartTextOffset": 786,
+    "EndTextOffset": 801,
+    "Text": "pMutantBladeClaw"
+  },
+  {
+    "HeaderOffset": 802,
+    "StartTextOffset": 808,
+    "EndTextOffset": 818,
+    "Text": "Bladed Claw"
+  },
+  {
+    "HeaderOffset": 854,
+    "StartTextOffset": 860,
+    "EndTextOffset": 1024,
+    "Text": "Your arm has been badly burnt, almost beyond recognition, and tough carapace-like crust now covers most of it, steadily getting thicker towards the tip of the claw."
+  },
+  {
+    "HeaderOffset": 1025,
+    "StartTextOffset": 1031,
+    "EndTextOffset": 1052,
+    "Text": "Weapon.MutantClaw.Fast"
+  },
+  {
+    "HeaderOffset": 1604,
+    "StartTextOffset": 1610,
+    "EndTextOffset": 1616,
+    "Text": "Attack1"
+  },
+  {
+    "HeaderOffset": 1688,
+    "StartTextOffset": 1694,
+    "EndTextOffset": 1702,
+    "Text": "forceVent"
+  },
+  {
+    "HeaderOffset": 1752,
+    "StartTextOffset": 1758,
+    "EndTextOffset": 1764,
+    "Text": "carveUp"
+  },
+  {
+    "HeaderOffset": 1787,
+    "StartTextOffset": 1793,
+    "EndTextOffset": 1805,
+    "Text": "bleedingWound"
+  }
+]

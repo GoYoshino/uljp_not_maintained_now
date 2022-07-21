@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 255,
+    "Text": "plasmaMineBlueprint"
+  },
+  {
+    "HeaderOffset": 256,
+    "StartTextOffset": 262,
+    "EndTextOffset": 283,
+    "Text": "Blueprint: Plasma Mine"
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 378,
+    "Text": "Contains instructions on how to create an plasma mine."
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 397,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 531,
+    "StartTextOffset": 537,
+    "EndTextOffset": 546,
+    "Text": "plasmaMine"
+  },
+  {
+    "HeaderOffset": 605,
+    "StartTextOffset": 611,
+    "EndTextOffset": 630,
+    "Text": "blueprintconsumation"
+  }
+]

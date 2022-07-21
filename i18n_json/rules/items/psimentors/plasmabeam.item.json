@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 269,
+    "Text": "psiMentor.PlasmaBeam"
+  },
+  {
+    "HeaderOffset": 270,
+    "StartTextOffset": 276,
+    "EndTextOffset": 302,
+    "Text": "Psionic Mentor: Plasma Beam"
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 451,
+    "Text": "This device can be used to automatically teach yourself Plasma Beam psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 428,
+    "Text": "his device can be used to automatically teach yourself Plasma Beam psi ability throu"
+  },
+  {
+    "HeaderOffset": 452,
+    "StartTextOffset": 458,
+    "EndTextOffset": 476,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 612,
+    "StartTextOffset": 618,
+    "EndTextOffset": 627,
+    "Text": "PlasmaBeam"
+  },
+  {
+    "HeaderOffset": 686,
+    "StartTextOffset": 692,
+    "EndTextOffset": 711,
+    "Text": "PsiMentorConsumation"
+  }
+]

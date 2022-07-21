@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 244,
+    "Text": "Oddity.Medal"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 255,
+    "Text": "Medal"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 433,
+    "Text": "The medal depicts a soldier stabbing through a vaguely humanoid shape with an oversized bayonet. \"Za Ochinu!\" is engraved at the bottom."
+  },
+  {
+    "HeaderOffset": 434,
+    "StartTextOffset": 440,
+    "EndTextOffset": 451,
+    "Text": "Oddity.Medal"
+  }
+]

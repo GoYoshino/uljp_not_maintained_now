@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 254,
+    "Text": "electronicRepairKit1"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 281,
+    "Text": "電子修理キット／Electronic Repair Kit"
+  },
+  {
+    "HeaderOffset": 317,
+    "StartTextOffset": 323,
+    "EndTextOffset": 436,
+    "Text": "電子部品を使った装備品(エネルギー武器、特殊ゴーグル、電気ショック武器など)を修理する。"
+  },
+  {
+    "HeaderOffset": 318,
+    "StartTextOffset": 324,
+    "EndTextOffset": 390,
+    "Text": "an be used to repair electronic pieces of gear, such as energy weap"
+  },
+  {
+    "HeaderOffset": 437,
+    "StartTextOffset": 443,
+    "EndTextOffset": 452,
+    "Text": "Devices.81"
+  },
+  {
+    "HeaderOffset": 683,
+    "StartTextOffset": 689,
+    "EndTextOffset": 697,
+    "Text": "RepairKit"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 750,
+    "Text": "RepairCategory"
+  },
+  {
+    "HeaderOffset": 790,
+    "StartTextOffset": 796,
+    "EndTextOffset": 807,
+    "Text": "RepairAmount"
+  }
+]

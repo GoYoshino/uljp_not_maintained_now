@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 287,
+    "Text": "muzzleBrake"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 305,
+    "Text": "Muzzle Brake"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 437,
+    "Text": "This brake is designed to take some of the kick out of the gun, allowing for longer bursts."
+  },
+  {
+    "HeaderOffset": 342,
+    "StartTextOffset": 348,
+    "EndTextOffset": 431,
+    "Text": "his brake is designed to take some of the kick out of the gun, allowing for longer b"
+  },
+  {
+    "HeaderOffset": 438,
+    "StartTextOffset": 444,
+    "EndTextOffset": 456,
+    "Text": "Components.99"
+  },
+  {
+    "HeaderOffset": 700,
+    "StartTextOffset": 706,
+    "EndTextOffset": 714,
+    "Text": "Mechanics"
+  }
+]

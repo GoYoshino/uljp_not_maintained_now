@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 292,
+    "Text": "herbicide"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 307,
+    "Text": "Pesticide"
+  },
+  {
+    "HeaderOffset": 343,
+    "StartTextOffset": 349,
+    "EndTextOffset": 482,
+    "Text": "Composed of a strong weed-killing herbicide and a highly-potent insecticide. Does not leave any toxic residual matter. Do not ingest."
+  },
+  {
+    "HeaderOffset": 483,
+    "StartTextOffset": 489,
+    "EndTextOffset": 508,
+    "Text": "Components.Herbicide"
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 793,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 823,
+    "StartTextOffset": 829,
+    "EndTextOffset": 838,
+    "Text": "GasGrenade"
+  },
+  {
+    "HeaderOffset": 839,
+    "StartTextOffset": 845,
+    "EndTextOffset": 868,
+    "Text": "Xpbl\\HerbicideGasGrenade"
+  }
+]

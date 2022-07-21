@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 245,
+    "Text": "Oddity.OldWorldBoozeBottle"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 273,
+    "Text": "Old World Booze Bottle"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 349,
+    "Text": "An old empty bottle of \"Deer Beer\"."
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 381,
+    "Text": "Oddity.OldWorldBoozeBottle"
+  }
+]

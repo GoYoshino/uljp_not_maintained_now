@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 295,
+    "Text": "fabricScraps"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 314,
+    "Text": "Fabric Scraps"
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 380,
+    "Text": "Various pieces of fabric."
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 396,
+    "Text": "Devices.90"
+  },
+  {
+    "HeaderOffset": 667,
+    "StartTextOffset": 673,
+    "EndTextOffset": 681,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 711,
+    "StartTextOffset": 717,
+    "EndTextOffset": 729,
+    "Text": "RepairKitName"
+  },
+  {
+    "HeaderOffset": 730,
+    "StartTextOffset": 736,
+    "EndTextOffset": 746,
+    "Text": "PatchingKit"
+  }
+]

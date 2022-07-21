@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 657,
+    "StartTextOffset": 663,
+    "EndTextOffset": 667,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 777,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 826,
+    "StartTextOffset": 832,
+    "EndTextOffset": 861,
+    "Text": "sormirbarenSkerderSledgehammer"
+  },
+  {
+    "HeaderOffset": 862,
+    "StartTextOffset": 868,
+    "EndTextOffset": 902,
+    "Text": "Sørmirbæren Skærder Sledgehammer"
+  },
+  {
+    "HeaderOffset": 938,
+    "StartTextOffset": 944,
+    "EndTextOffset": 1133,
+    "Text": "A sledgehammer made of a large sturdy bone with a big rock tied on one end. Tied around this rock is a leather strap lined with large teeth. Requires a lot of strength to wield effectively."
+  },
+  {
+    "HeaderOffset": 1134,
+    "StartTextOffset": 1140,
+    "EndTextOffset": 1155,
+    "Text": "xpbl_Weapons.213"
+  },
+  {
+    "HeaderOffset": 1892,
+    "StartTextOffset": 1898,
+    "EndTextOffset": 1909,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1989,
+    "StartTextOffset": 1995,
+    "EndTextOffset": 2001,
+    "Text": "cripple"
+  },
+  {
+    "HeaderOffset": 2024,
+    "StartTextOffset": 2030,
+    "EndTextOffset": 2042,
+    "Text": "bleedingWound"
+  }
+]

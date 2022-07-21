@@ -1,0 +1,104 @@
+[
+  {
+    "HeaderOffset": 436,
+    "StartTextOffset": 442,
+    "EndTextOffset": 480,
+    "Text": "component.infusedAncientRathoundLeather"
+  },
+  {
+    "HeaderOffset": 481,
+    "StartTextOffset": 487,
+    "EndTextOffset": 518,
+    "Text": "Infused Ancient Rathound Leather"
+  },
+  {
+    "HeaderOffset": 554,
+    "StartTextOffset": 560,
+    "EndTextOffset": 805,
+    "Text": "Particularly strong and cunning rathounds can live to be a hundred years old or more, or so they say. Over the years their hide grows thick and strong, but also becomes heavy. It has been infused with super steel fiber to enhance its properties."
+  },
+  {
+    "HeaderOffset": 806,
+    "StartTextOffset": 812,
+    "EndTextOffset": 825,
+    "Text": "Components.284"
+  },
+  {
+    "HeaderOffset": 1387,
+    "StartTextOffset": 1393,
+    "EndTextOffset": 1401,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1468,
+    "StartTextOffset": 1474,
+    "EndTextOffset": 1483,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1595,
+    "StartTextOffset": 1601,
+    "EndTextOffset": 1616,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1617,
+    "StartTextOffset": 1623,
+    "EndTextOffset": 1763,
+    "Text": "This {0} is made of exceptional ancient rathound leather infused with super steel fiber. It's thick and strong and, of course, quite smelly."
+  },
+  {
+    "HeaderOffset": 1773,
+    "StartTextOffset": 1779,
+    "EndTextOffset": 1792,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1793,
+    "StartTextOffset": 1799,
+    "EndTextOffset": 1822,
+    "Text": "Infused Ancient Rathound"
+  },
+  {
+    "HeaderOffset": 1832,
+    "StartTextOffset": 1838,
+    "EndTextOffset": 1859,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1860,
+    "StartTextOffset": 1866,
+    "EndTextOffset": 2012,
+    "Text": "These {0} are made of exceptional ancient rathound leather infused with super steel fiber. They are thick and strong and, of course, quite smelly."
+  },
+  {
+    "HeaderOffset": 2039,
+    "StartTextOffset": 2045,
+    "EndTextOffset": 2057,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 2088,
+    "StartTextOffset": 2094,
+    "EndTextOffset": 2101,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 2132,
+    "StartTextOffset": 2138,
+    "EndTextOffset": 2145,
+    "Text": "Infusion"
+  },
+  {
+    "HeaderOffset": 2159,
+    "StartTextOffset": 2165,
+    "EndTextOffset": 2189,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 2190,
+    "StartTextOffset": 2196,
+    "EndTextOffset": 2199,
+    "Text": "arhl"
+  }
+]

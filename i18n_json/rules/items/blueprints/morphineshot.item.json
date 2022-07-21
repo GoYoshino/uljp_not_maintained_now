@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 245,
+    "Text": "blueprint.morphineShot"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 275,
+    "Text": "Blueprint: Morphine Shot"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 371,
+    "Text": "Contains instructions on how to create a morphine shot."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 386,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 518,
+    "StartTextOffset": 524,
+    "EndTextOffset": 535,
+    "Text": "morphineShot"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 619,
+    "Text": "blueprintconsumation"
+  }
+]

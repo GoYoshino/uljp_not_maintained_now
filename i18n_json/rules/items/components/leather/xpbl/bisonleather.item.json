@@ -1,0 +1,110 @@
+[
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 456,
+    "Text": "component.bisonLeather"
+  },
+  {
+    "HeaderOffset": 457,
+    "StartTextOffset": 463,
+    "EndTextOffset": 475,
+    "Text": "Bison Leather"
+  },
+  {
+    "HeaderOffset": 511,
+    "StartTextOffset": 517,
+    "EndTextOffset": 570,
+    "Text": "Bison skin can be turned into a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 571,
+    "StartTextOffset": 577,
+    "EndTextOffset": 594,
+    "Text": "xpbl_Components.93"
+  },
+  {
+    "HeaderOffset": 1172,
+    "StartTextOffset": 1178,
+    "EndTextOffset": 1186,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1254,
+    "StartTextOffset": 1260,
+    "EndTextOffset": 1271,
+    "Text": "Constitution"
+  },
+  {
+    "HeaderOffset": 1297,
+    "StartTextOffset": 1303,
+    "EndTextOffset": 1318,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1319,
+    "StartTextOffset": 1325,
+    "EndTextOffset": 1366,
+    "Text": "This {0} is made of durable bison leather."
+  },
+  {
+    "HeaderOffset": 1376,
+    "StartTextOffset": 1382,
+    "EndTextOffset": 1403,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1404,
+    "StartTextOffset": 1410,
+    "EndTextOffset": 1453,
+    "Text": "These {0} are made of durable bison leather."
+  },
+  {
+    "HeaderOffset": 1472,
+    "StartTextOffset": 1478,
+    "EndTextOffset": 1481,
+    "Text": "Xpbl"
+  },
+  {
+    "HeaderOffset": 1508,
+    "StartTextOffset": 1514,
+    "EndTextOffset": 1526,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1540,
+    "StartTextOffset": 1546,
+    "EndTextOffset": 1570,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1571,
+    "StartTextOffset": 1577,
+    "EndTextOffset": 1585,
+    "Text": "xpbl_buff"
+  },
+  {
+    "HeaderOffset": 1612,
+    "StartTextOffset": 1618,
+    "EndTextOffset": 1625,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1639,
+    "StartTextOffset": 1645,
+    "EndTextOffset": 1658,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1659,
+    "StartTextOffset": 1665,
+    "EndTextOffset": 1669,
+    "Text": "Bison"
+  },
+  {
+    "HeaderOffset": 1696,
+    "StartTextOffset": 1702,
+    "EndTextOffset": 1720,
+    "Text": "UsesDefaultOvercoat"
+  }
+]

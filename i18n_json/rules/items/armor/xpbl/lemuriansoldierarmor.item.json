@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 438,
+    "StartTextOffset": 444,
+    "EndTextOffset": 448,
+    "Text": "JSSME"
+  },
+  {
+    "HeaderOffset": 513,
+    "StartTextOffset": 519,
+    "EndTextOffset": 538,
+    "Text": "lemurianSoldierArmor"
+  },
+  {
+    "HeaderOffset": 539,
+    "StartTextOffset": 545,
+    "EndTextOffset": 574,
+    "Text": "Lemurian Security Marine Armor"
+  },
+  {
+    "HeaderOffset": 610,
+    "StartTextOffset": 616,
+    "EndTextOffset": 1006,
+    "Text": "A full suit of body armor that used to be worn by the Lemurian marine troops. While both the suit and the helmet are in good condition, some of the latter's integrated systems are no longer functional, namely the HUD targeting aid and combat feed, as well as the underwater breathing unit. The air filtration system is, however, still operational and provides moderate biohazard protection."
+  },
+  {
+    "HeaderOffset": 1007,
+    "StartTextOffset": 1013,
+    "EndTextOffset": 1025,
+    "Text": "xpbl_Armors.6"
+  },
+  {
+    "HeaderOffset": 1399,
+    "StartTextOffset": 1405,
+    "EndTextOffset": 1412,
+    "Text": "xpbl_las"
+  }
+]

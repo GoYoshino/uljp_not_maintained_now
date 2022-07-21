@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 278,
+    "Text": "morphine"
+  },
+  {
+    "HeaderOffset": 279,
+    "StartTextOffset": 285,
+    "EndTextOffset": 292,
+    "Text": "Morphine"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 412,
+    "Text": "Morphine is a potent opiate analgesic drug that is used to relieve severe pain."
+  },
+  {
+    "HeaderOffset": 329,
+    "StartTextOffset": 335,
+    "EndTextOffset": 411,
+    "Text": "orphine is a potent opiate analgesic drug that is used to relieve severe pain"
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 437,
+    "Text": "Components.Morphine"
+  },
+  {
+    "HeaderOffset": 687,
+    "StartTextOffset": 693,
+    "EndTextOffset": 699,
+    "Text": "Biology"
+  }
+]

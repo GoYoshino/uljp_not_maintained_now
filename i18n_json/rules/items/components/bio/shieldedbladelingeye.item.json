@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 297,
+    "Text": "shieldedBladelingEye"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 325,
+    "Text": "Shielded Bladeling Eye"
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 600,
+    "Text": "A bladeling's eye is shielded by tough glossy black plate. It is uncertain what the purpose of this plate is, but the eye vitreous humor that separates the plate and the eye seems to possess certain characteristics of a psi catalyst."
+  },
+  {
+    "HeaderOffset": 601,
+    "StartTextOffset": 607,
+    "EndTextOffset": 620,
+    "Text": "Components.188"
+  },
+  {
+    "HeaderOffset": 909,
+    "StartTextOffset": 915,
+    "EndTextOffset": 921,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 951,
+    "StartTextOffset": 957,
+    "EndTextOffset": 963,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 964,
+    "StartTextOffset": 970,
+    "EndTextOffset": 982,
+    "Text": "BlackVitreous"
+  },
+  {
+    "HeaderOffset": 992,
+    "StartTextOffset": 998,
+    "EndTextOffset": 1006,
+    "Text": "Container"
+  },
+  {
+    "HeaderOffset": 1007,
+    "StartTextOffset": 1013,
+    "EndTextOffset": 1022,
+    "Text": "FlatBeaker"
+  }
+]

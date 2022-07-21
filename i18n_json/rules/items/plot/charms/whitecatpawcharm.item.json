@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 249,
+    "Text": "charm.whiteCatPaw"
+  },
+  {
+    "HeaderOffset": 250,
+    "StartTextOffset": 256,
+    "EndTextOffset": 274,
+    "Text": "White Cat Paw Charm"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 367,
+    "Text": "Lucky charm made from a paw of a pristine white cat."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 391,
+    "Text": "Plot.WhiteCatCharm"
+  },
+  {
+    "HeaderOffset": 577,
+    "StartTextOffset": 583,
+    "EndTextOffset": 590,
+    "Text": "UseCharm"
+  }
+]

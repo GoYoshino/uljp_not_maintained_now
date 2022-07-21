@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 314,
+    "Text": "assaultRifleFrame4"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 348,
+    "Text": "Assault Rifle Frame: Chimera"
+  },
+  {
+    "HeaderOffset": 384,
+    "StartTextOffset": 390,
+    "EndTextOffset": 482,
+    "Text": "This frame is used to create a Chimera type assault rifle. It supports 8.6mm and 9mm barrels."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 474,
+    "Text": "his frame is used to create a Chimera type assault rifle. It supports 8.6mm and 9mm "
+  },
+  {
+    "HeaderOffset": 483,
+    "StartTextOffset": 489,
+    "EndTextOffset": 501,
+    "Text": "rifle.4.frame"
+  },
+  {
+    "HeaderOffset": 843,
+    "StartTextOffset": 849,
+    "EndTextOffset": 857,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 895,
+    "StartTextOffset": 901,
+    "EndTextOffset": 920,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 989,
+    "StartTextOffset": 995,
+    "EndTextOffset": 998,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 999,
+    "StartTextOffset": 1005,
+    "EndTextOffset": 1011,
+    "Text": "Chimera"
+  },
+  {
+    "HeaderOffset": 1062,
+    "StartTextOffset": 1068,
+    "EndTextOffset": 1087,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 1119,
+    "StartTextOffset": 1125,
+    "EndTextOffset": 1143,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 1174,
+    "StartTextOffset": 1180,
+    "EndTextOffset": 1198,
+    "Text": "CriticalDamageBonus"
+  }
+]

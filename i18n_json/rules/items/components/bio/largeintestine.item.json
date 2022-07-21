@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 311,
+    "Text": "largeIntestine"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 332,
+    "Text": "Large Intestine"
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 524,
+    "Text": "This is a large intestine of an animal. While it's not the prettiest thing to carry around, a skilled biologist can extract useful substances from it."
+  },
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 544,
+    "Text": "Components.185"
+  },
+  {
+    "HeaderOffset": 817,
+    "StartTextOffset": 823,
+    "EndTextOffset": 829,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 859,
+    "StartTextOffset": 865,
+    "EndTextOffset": 871,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 872,
+    "StartTextOffset": 878,
+    "EndTextOffset": 884,
+    "Text": "Taurine"
+  }
+]

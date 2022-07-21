@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 221,
+    "Text": "plot.dc_uniTool"
+  },
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 255,
+    "Text": "Universal Mechanics Tool Set"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 536,
+    "Text": "This tool box contains all the standard mechanic tools one might need when working on Biocorp-produced mechanics. You can see some very strange tools inside, but the Icosidodecahedronal wrench has to take the prize for being the strangest."
+  },
+  {
+    "HeaderOffset": 537,
+    "StartTextOffset": 543,
+    "EndTextOffset": 561,
+    "Text": "Plot.UniversalTools"
+  }
+]

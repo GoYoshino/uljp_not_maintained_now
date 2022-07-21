@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 294,
+    "Text": "Component.NapalmC"
+  },
+  {
+    "HeaderOffset": 295,
+    "StartTextOffset": 301,
+    "EndTextOffset": 308,
+    "Text": "Napalm C"
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 428,
+    "Text": "This is powerful military grade incendiary substance. Handle with extreme care."
+  },
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 448,
+    "Text": "Components.166"
+  },
+  {
+    "HeaderOffset": 813,
+    "StartTextOffset": 819,
+    "EndTextOffset": 827,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 858,
+    "StartTextOffset": 864,
+    "EndTextOffset": 868,
+    "Text": "power"
+  },
+  {
+    "HeaderOffset": 898,
+    "StartTextOffset": 904,
+    "EndTextOffset": 924,
+    "Text": "IncendiaryGrenadeName"
+  },
+  {
+    "HeaderOffset": 925,
+    "StartTextOffset": 931,
+    "EndTextOffset": 943,
+    "Text": "NapalmGrenade"
+  },
+  {
+    "HeaderOffset": 969,
+    "StartTextOffset": 975,
+    "EndTextOffset": 986,
+    "Text": "ChemicalAmmo"
+  },
+  {
+    "HeaderOffset": 987,
+    "StartTextOffset": 993,
+    "EndTextOffset": 1007,
+    "Text": "Vial_Incendiary"
+  },
+  {
+    "HeaderOffset": 1017,
+    "StartTextOffset": 1023,
+    "EndTextOffset": 1044,
+    "Text": "ChemicalAmmoMultiplier"
+  },
+  {
+    "HeaderOffset": 1074,
+    "StartTextOffset": 1080,
+    "EndTextOffset": 1087,
+    "Text": "BlobTrap"
+  },
+  {
+    "HeaderOffset": 1088,
+    "StartTextOffset": 1094,
+    "EndTextOffset": 1111,
+    "Text": "IncendiaryBlobTrap"
+  },
+  {
+    "HeaderOffset": 1138,
+    "StartTextOffset": 1144,
+    "EndTextOffset": 1164,
+    "Text": "ChemicalPowerBlobTrap"
+  }
+]

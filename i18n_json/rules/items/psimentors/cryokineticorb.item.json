@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 266,
+    "Text": "psiMentor.CryokineticOrb"
+  },
+  {
+    "HeaderOffset": 267,
+    "StartTextOffset": 273,
+    "EndTextOffset": 303,
+    "Text": "Psionic Mentor: Cryokinetic Orb"
+  },
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 456,
+    "Text": "This device can be used to automatically teach yourself Cryokinetic Orb psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 340,
+    "StartTextOffset": 346,
+    "EndTextOffset": 429,
+    "Text": "his device can be used to automatically teach yourself Cryokinetic Orb psi ability t"
+  },
+  {
+    "HeaderOffset": 457,
+    "StartTextOffset": 463,
+    "EndTextOffset": 481,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 616,
+    "StartTextOffset": 622,
+    "EndTextOffset": 635,
+    "Text": "CryokineticOrb"
+  },
+  {
+    "HeaderOffset": 694,
+    "StartTextOffset": 700,
+    "EndTextOffset": 719,
+    "Text": "PsiMentorConsumation"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 230,
+    "Text": "focusStim"
+  },
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 246,
+    "Text": "Focus Stim"
+  },
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 343,
+    "Text": "Relatively benign combat drug that boosts concentration."
+  },
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 355,
+    "Text": "Meds.7"
+  },
+  {
+    "HeaderOffset": 546,
+    "StartTextOffset": 552,
+    "EndTextOffset": 571,
+    "Text": "FocusStimConsumation"
+  }
+]

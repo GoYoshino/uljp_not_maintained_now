@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 277,
+    "Text": "VehiclePart.XGSuperpower75"
+  },
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 300,
+    "Text": "XG Superpower 7.5"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 385,
+    "Text": "Medium size vehicle battery of Hexagon make."
+  },
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 417,
+    "Text": "VehiclePart.XGSuperpower75"
+  }
+]

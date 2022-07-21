@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 236,
+    "Text": "mineBlueprint"
+  },
+  {
+    "HeaderOffset": 237,
+    "StartTextOffset": 243,
+    "EndTextOffset": 257,
+    "Text": "Blueprint: Mine"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 360,
+    "Text": "Contains instructions on how to create an explosive land mine."
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 375,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 507,
+    "StartTextOffset": 513,
+    "EndTextOffset": 516,
+    "Text": "mine"
+  },
+  {
+    "HeaderOffset": 575,
+    "StartTextOffset": 581,
+    "EndTextOffset": 600,
+    "Text": "blueprintconsumation"
+  }
+]

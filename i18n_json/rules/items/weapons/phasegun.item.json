@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 706,
+    "StartTextOffset": 712,
+    "EndTextOffset": 715,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 756,
+    "StartTextOffset": 762,
+    "EndTextOffset": 773,
+    "Text": "wep.phaseGun"
+  },
+  {
+    "HeaderOffset": 774,
+    "StartTextOffset": 780,
+    "EndTextOffset": 788,
+    "Text": "Phase Gun"
+  },
+  {
+    "HeaderOffset": 824,
+    "StartTextOffset": 830,
+    "EndTextOffset": 1126,
+    "Text": "A rare phase technology energy pistol useful for quickly burning through defensive energy shields. Legend has it that there are also large canons equipped with this technology that were used back in the day to bust through powerful energy barriers protecting technologically advanced communities."
+  },
+  {
+    "HeaderOffset": 1127,
+    "StartTextOffset": 1133,
+    "EndTextOffset": 1147,
+    "Text": "Weapon.PhaseGun"
+  }
+]

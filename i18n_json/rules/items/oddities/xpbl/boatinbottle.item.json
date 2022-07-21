@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 244,
+    "Text": "Oddity.BoatInBottle"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 264,
+    "Text": "Boat in Bottle"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 373,
+    "Text": "Was the boat built inside it, or was the bottle fashioned around it?"
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 398,
+    "Text": "Oddity.BoatInBottle"
+  }
+]

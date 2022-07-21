@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 414,
+    "Text": "Low Frequency Shield Modulator"
+  },
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 569,
+    "Text": "This modulator can be used when crafting energy shield emitters that focus on deflecting low impact speed attacks."
+  },
+  {
+    "HeaderOffset": 570,
+    "StartTextOffset": 576,
+    "EndTextOffset": 589,
+    "Text": "Components.231"
+  },
+  {
+    "HeaderOffset": 1123,
+    "StartTextOffset": 1129,
+    "EndTextOffset": 1139,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 1170,
+    "StartTextOffset": 1176,
+    "EndTextOffset": 1189,
+    "Text": "ModulatorIndex"
+  },
+  {
+    "HeaderOffset": 1219,
+    "StartTextOffset": 1225,
+    "EndTextOffset": 1241,
+    "Text": "ShieldVisualModel"
+  },
+  {
+    "HeaderOffset": 1242,
+    "StartTextOffset": 1248,
+    "EndTextOffset": 1256,
+    "Text": "LowShield"
+  },
+  {
+    "HeaderOffset": 1282,
+    "StartTextOffset": 1288,
+    "EndTextOffset": 1293,
+    "Text": "Prefix"
+  },
+  {
+    "HeaderOffset": 1294,
+    "StartTextOffset": 1300,
+    "EndTextOffset": 1312,
+    "Text": "Low Frequency"
+  }
+]

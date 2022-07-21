@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 292,
+    "Text": "thinGrenadeCase"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 315,
+    "Text": "Thin Grenade Case"
+  },
+  {
+    "HeaderOffset": 351,
+    "StartTextOffset": 357,
+    "EndTextOffset": 419,
+    "Text": "A thin grenade case designed to fragment as little as possible."
+  },
+  {
+    "HeaderOffset": 420,
+    "StartTextOffset": 426,
+    "EndTextOffset": 438,
+    "Text": "Explosives.35"
+  },
+  {
+    "HeaderOffset": 689,
+    "StartTextOffset": 695,
+    "EndTextOffset": 703,
+    "Text": "Mechanics"
+  }
+]

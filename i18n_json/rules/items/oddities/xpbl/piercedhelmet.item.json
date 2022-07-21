@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 245,
+    "Text": "Oddity.PiercedHelmet"
+  },
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 265,
+    "Text": "Pierced Helmet"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 439,
+    "Text": "A bullet seems to have gone straight through this helmet. Unfortunately, the blood suggests that someone was wearing it at the time."
+  },
+  {
+    "HeaderOffset": 440,
+    "StartTextOffset": 446,
+    "EndTextOffset": 465,
+    "Text": "Oddity.PiercedHelmet"
+  }
+]

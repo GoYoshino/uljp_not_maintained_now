@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 235,
+    "Text": "Ammo.CrawlerPoisonBolt"
+  },
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 260,
+    "Text": "Crawler Poison Bolt"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 354,
+    "Text": "This bolt is packed with an ampule of crawler poison."
+  },
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 382,
+    "Text": "Ammo.CrawlerPoisonBolt"
+  },
+  {
+    "HeaderOffset": 610,
+    "StartTextOffset": 616,
+    "EndTextOffset": 637,
+    "Text": "ShootCrawlerPoisonBolt"
+  },
+  {
+    "HeaderOffset": 663,
+    "StartTextOffset": 669,
+    "EndTextOffset": 678,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 679,
+    "StartTextOffset": 685,
+    "EndTextOffset": 697,
+    "Text": "CrawlerPoison"
+  },
+  {
+    "HeaderOffset": 707,
+    "StartTextOffset": 713,
+    "EndTextOffset": 722,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 723,
+    "StartTextOffset": 729,
+    "EndTextOffset": 742,
+    "Text": "Crawler Poison"
+  }
+]

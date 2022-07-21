@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 254,
+    "Text": "cryoliquidBlobTrap2"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 286,
+    "Text": "Cryoliquid Blob Trap Mk II"
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 373,
+    "Text": "Special chemical trap that freezes the victim."
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 393,
+    "Text": "Explosives.141"
+  },
+  {
+    "HeaderOffset": 615,
+    "StartTextOffset": 621,
+    "EndTextOffset": 643,
+    "Text": "PlaceCryoliquidBlobTrap"
+  },
+  {
+    "HeaderOffset": 670,
+    "StartTextOffset": 676,
+    "EndTextOffset": 680,
+    "Text": "power"
+  }
+]

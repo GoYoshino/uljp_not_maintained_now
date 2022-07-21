@@ -1,0 +1,98 @@
+[
+  {
+    "HeaderOffset": 412,
+    "StartTextOffset": 418,
+    "EndTextOffset": 433,
+    "Text": "burrowerCarapace"
+  },
+  {
+    "HeaderOffset": 434,
+    "StartTextOffset": 440,
+    "EndTextOffset": 456,
+    "Text": "Burrower Carapace"
+  },
+  {
+    "HeaderOffset": 492,
+    "StartTextOffset": 498,
+    "EndTextOffset": 598,
+    "Text": "Burrower carapace is tough and relatively light. It could probably be used to augment certain armors."
+  },
+  {
+    "HeaderOffset": 493,
+    "StartTextOffset": 499,
+    "EndTextOffset": 564,
+    "Text": "urrower carapace is tough and relatively light. It could probably "
+  },
+  {
+    "HeaderOffset": 599,
+    "StartTextOffset": 605,
+    "EndTextOffset": 618,
+    "Text": "Components.187"
+  },
+  {
+    "HeaderOffset": 1137,
+    "StartTextOffset": 1143,
+    "EndTextOffset": 1151,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1165,
+    "StartTextOffset": 1171,
+    "EndTextOffset": 1177,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1207,
+    "StartTextOffset": 1213,
+    "EndTextOffset": 1223,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1224,
+    "StartTextOffset": 1230,
+    "EndTextOffset": 1237,
+    "Text": "Burrower"
+  },
+  {
+    "HeaderOffset": 1247,
+    "StartTextOffset": 1253,
+    "EndTextOffset": 1268,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1269,
+    "StartTextOffset": 1275,
+    "EndTextOffset": 1354,
+    "Text": "It's reinforced with burrower carapace that increases the penetration threshold."
+  },
+  {
+    "HeaderOffset": 1364,
+    "StartTextOffset": 1370,
+    "EndTextOffset": 1377,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1378,
+    "StartTextOffset": 1384,
+    "EndTextOffset": 1400,
+    "Text": "Burrower Carapace"
+  },
+  {
+    "HeaderOffset": 1427,
+    "StartTextOffset": 1433,
+    "EndTextOffset": 1446,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1460,
+    "StartTextOffset": 1466,
+    "EndTextOffset": 1480,
+    "Text": "ShieldShortName"
+  },
+  {
+    "HeaderOffset": 1481,
+    "StartTextOffset": 1487,
+    "EndTextOffset": 1494,
+    "Text": "Burrower"
+  }
+]

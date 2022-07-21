@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 247,
+    "Text": "Oddity.EmptyMutagenContainer"
+  },
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 276,
+    "Text": "Empty Mutagen Container"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 470,
+    "Text": "This appears to be an empty mutagen container. Fortunately, most of the content has evaporated and what little remains lost its potency a long time ago."
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 504,
+    "Text": "Oddity.EmptyMutagenContainer"
+  }
+]

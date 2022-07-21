@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 251,
+    "Text": "psiMentor.Precognition"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 285,
+    "Text": "Psionic Mentor: Precognition"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 435,
+    "Text": "This device can be used to automatically teach yourself Precognition psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 411,
+    "Text": "his device can be used to automatically teach yourself Precognition psi ability thro"
+  },
+  {
+    "HeaderOffset": 436,
+    "StartTextOffset": 442,
+    "EndTextOffset": 460,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 593,
+    "StartTextOffset": 599,
+    "EndTextOffset": 610,
+    "Text": "Precognition"
+  },
+  {
+    "HeaderOffset": 669,
+    "StartTextOffset": 675,
+    "EndTextOffset": 694,
+    "Text": "PsiMentorConsumation"
+  }
+]

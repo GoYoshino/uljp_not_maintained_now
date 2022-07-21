@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 314,
+    "Text": "Ammo.Caliber_86_W2C"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 335,
+    "Text": "8.6mm W2C Round"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 444,
+    "Text": "This armor-piercing cartridge packs a 8.6mm tungsten carbide bullet."
+  },
+  {
+    "HeaderOffset": 445,
+    "StartTextOffset": 451,
+    "EndTextOffset": 469,
+    "Text": "Ammo.Caliber_86_W2C"
+  },
+  {
+    "HeaderOffset": 709,
+    "StartTextOffset": 715,
+    "EndTextOffset": 718,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 728,
+    "StartTextOffset": 734,
+    "EndTextOffset": 740,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 750,
+    "StartTextOffset": 756,
+    "EndTextOffset": 761,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 771,
+    "StartTextOffset": 777,
+    "EndTextOffset": 785,
+    "Text": "ldsingcur"
+  }
+]

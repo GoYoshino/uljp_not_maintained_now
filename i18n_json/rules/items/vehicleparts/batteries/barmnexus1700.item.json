@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 276,
+    "Text": "VehiclePart.BArmNexus1700"
+  },
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 297,
+    "Text": "BArm Nexus 1700"
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 500,
+    "Text": "One of the most powerful batteries made by Biocorp Armory for small vehicles. Somewhat notorious for its difficult installation due to its dimensions and weight."
+  },
+  {
+    "HeaderOffset": 501,
+    "StartTextOffset": 507,
+    "EndTextOffset": 531,
+    "Text": "VehiclePart.BArmNexus1700"
+  }
+]

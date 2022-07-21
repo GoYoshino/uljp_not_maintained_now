@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 237,
+    "Text": "aiScrambler"
+  },
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 255,
+    "Text": "AI Scrambler"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 439,
+    "Text": "A specialized remote-control device that can be used to introduce faulty state into a cortex of a combat robot, causing it to act erratically."
+  },
+  {
+    "HeaderOffset": 440,
+    "StartTextOffset": 446,
+    "EndTextOffset": 455,
+    "Text": "Devices.28"
+  },
+  {
+    "HeaderOffset": 647,
+    "StartTextOffset": 653,
+    "EndTextOffset": 666,
+    "Text": "ScrambleCortex"
+  }
+]

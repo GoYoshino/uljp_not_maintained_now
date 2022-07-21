@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 234,
+    "Text": "Oddity.OldMoney"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 249,
+    "Text": "Old Money"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 373,
+    "Text": "It's some form of old paper currency. It's worth less than blank paper now, though."
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 364,
+    "Text": "t's some form of old paper currency. It's worth less than blank paper now"
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 394,
+    "Text": "Oddity.OldMoney"
+  }
+]

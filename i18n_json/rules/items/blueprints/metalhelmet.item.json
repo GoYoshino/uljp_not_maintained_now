@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 243,
+    "Text": "metalHelmetBlueprint"
+  },
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 272,
+    "Text": "Blueprint: Metal Helmet"
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 367,
+    "Text": "Contains instructions on how to create a metal helmet."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 382,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 514,
+    "StartTextOffset": 520,
+    "EndTextOffset": 530,
+    "Text": "MetalHelmet"
+  },
+  {
+    "HeaderOffset": 589,
+    "StartTextOffset": 595,
+    "EndTextOffset": 614,
+    "Text": "blueprintconsumation"
+  }
+]

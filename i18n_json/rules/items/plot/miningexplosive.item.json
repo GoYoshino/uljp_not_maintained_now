@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 241,
+    "Text": "plot.miningExplosive"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 263,
+    "Text": "Mining Explosive"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 433,
+    "Text": "This remotely activated explosive charge should be able to cause a cave-in of the Old Junkyard gate if placed at the right spot."
+  },
+  {
+    "HeaderOffset": 434,
+    "StartTextOffset": 440,
+    "EndTextOffset": 446,
+    "Text": "Plot.90"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 655,
+    "Text": "rigOldJunkyardCavern"
+  }
+]

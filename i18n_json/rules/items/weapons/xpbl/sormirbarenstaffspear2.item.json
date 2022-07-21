@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 654,
+    "StartTextOffset": 660,
+    "EndTextOffset": 664,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 793,
+    "StartTextOffset": 799,
+    "EndTextOffset": 802,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 825,
+    "StartTextOffset": 831,
+    "EndTextOffset": 852,
+    "Text": "sormirbarenStaffSpear2"
+  },
+  {
+    "HeaderOffset": 853,
+    "StartTextOffset": 859,
+    "EndTextOffset": 884,
+    "Text": "Sørmirbæren Spirit Staff"
+  },
+  {
+    "HeaderOffset": 920,
+    "StartTextOffset": 926,
+    "EndTextOffset": 1109,
+    "Text": "A cross between a spear and a staff made out of long bone with the spear tip-like symbol inside a circle lined with sharp teeth at the top. Holding it gives you an unsettling feeling."
+  },
+  {
+    "HeaderOffset": 1110,
+    "StartTextOffset": 1116,
+    "EndTextOffset": 1131,
+    "Text": "xpbl_Weapons.206"
+  },
+  {
+    "HeaderOffset": 1534,
+    "StartTextOffset": 1540,
+    "EndTextOffset": 1544,
+    "Text": "xpbls"
+  },
+  {
+    "HeaderOffset": 1850,
+    "StartTextOffset": 1856,
+    "EndTextOffset": 1867,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1992,
+    "StartTextOffset": 1998,
+    "EndTextOffset": 2011,
+    "Text": "neuralOverload"
+  },
+  {
+    "HeaderOffset": 2178,
+    "StartTextOffset": 2184,
+    "EndTextOffset": 2193,
+    "Text": "spearGuard"
+  },
+  {
+    "HeaderOffset": 2216,
+    "StartTextOffset": 2222,
+    "EndTextOffset": 2234,
+    "Text": "bleedingWound"
+  }
+]

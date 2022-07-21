@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 359,
+    "Text": "belt.boltQuiver"
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 376,
+    "Text": "Bolt Quiver"
+  },
+  {
+    "HeaderOffset": 412,
+    "StartTextOffset": 418,
+    "EndTextOffset": 470,
+    "Text": "A belt to store crossbow bolts for quicker retrieval."
+  },
+  {
+    "HeaderOffset": 471,
+    "StartTextOffset": 477,
+    "EndTextOffset": 485,
+    "Text": "Armors.67"
+  }
+]

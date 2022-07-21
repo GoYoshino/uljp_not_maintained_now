@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 248,
+    "Text": "charm.hopperFoot"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 271,
+    "Text": "Hopper Foot Charm"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 405,
+    "Text": "Lucky charm made from a cave hopper's severed hind foot. Not lucky for the hopper, obviously."
+  },
+  {
+    "HeaderOffset": 308,
+    "StartTextOffset": 314,
+    "EndTextOffset": 389,
+    "Text": "ucky charm made from a cave hopper's severed hind foot. Not lucky for the ho"
+  },
+  {
+    "HeaderOffset": 406,
+    "StartTextOffset": 412,
+    "EndTextOffset": 427,
+    "Text": "Plot.HopperCharm"
+  },
+  {
+    "HeaderOffset": 613,
+    "StartTextOffset": 619,
+    "EndTextOffset": 626,
+    "Text": "UseCharm"
+  }
+]

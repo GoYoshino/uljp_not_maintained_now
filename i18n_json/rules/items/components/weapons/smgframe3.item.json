@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 305,
+    "Text": "smgFrame3"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 332,
+    "Text": "SMG Frame: Jackrabbit"
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 465,
+    "Text": "This frame is used to create a Jackrabbit type submachine gun. It supports only 5mm barrels."
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 458,
+    "Text": "his frame is used to create a Jackrabbit type submachine gun. It supports only 5mm b"
+  },
+  {
+    "HeaderOffset": 466,
+    "StartTextOffset": 472,
+    "EndTextOffset": 482,
+    "Text": "smg.3.frame"
+  },
+  {
+    "HeaderOffset": 805,
+    "StartTextOffset": 811,
+    "EndTextOffset": 819,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 849,
+    "StartTextOffset": 855,
+    "EndTextOffset": 858,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 859,
+    "StartTextOffset": 865,
+    "EndTextOffset": 874,
+    "Text": "Jackrabbit"
+  },
+  {
+    "HeaderOffset": 925,
+    "StartTextOffset": 931,
+    "EndTextOffset": 950,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 982,
+    "StartTextOffset": 988,
+    "EndTextOffset": 1000,
+    "Text": "RangeModifier"
+  },
+  {
+    "HeaderOffset": 1031,
+    "StartTextOffset": 1037,
+    "EndTextOffset": 1058,
+    "Text": "BurstPrecisionModifier"
+  }
+]

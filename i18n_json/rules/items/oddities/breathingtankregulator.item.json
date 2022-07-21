@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 268,
+    "Text": "Oddity.BreathingTankRegulator"
+  },
+  {
+    "HeaderOffset": 269,
+    "StartTextOffset": 275,
+    "EndTextOffset": 298,
+    "Text": "Breathing Tank Regulator"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 571,
+    "Text": "Oxygen breathing regulator is used to adjust and control the rate of oxygen flow coming out of suitable gas container. This piece of device bears visible marks of physical damage, as if it was forcefully ripped apart from its tank."
+  },
+  {
+    "HeaderOffset": 572,
+    "StartTextOffset": 578,
+    "EndTextOffset": 606,
+    "Text": "Oddity.BreathingTankRegulator"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 261,
+    "Text": "stingballGrenadeBlueprint"
+  },
+  {
+    "HeaderOffset": 262,
+    "StartTextOffset": 268,
+    "EndTextOffset": 295,
+    "Text": "Blueprint: Stingball Grenade"
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 395,
+    "Text": "Contains instructions on how to create a stingball grenade."
+  },
+  {
+    "HeaderOffset": 396,
+    "StartTextOffset": 402,
+    "EndTextOffset": 414,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 548,
+    "StartTextOffset": 554,
+    "EndTextOffset": 569,
+    "Text": "stingballGrenade"
+  },
+  {
+    "HeaderOffset": 628,
+    "StartTextOffset": 634,
+    "EndTextOffset": 653,
+    "Text": "blueprintconsumation"
+  }
+]

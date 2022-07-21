@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 405,
+    "StartTextOffset": 411,
+    "EndTextOffset": 422,
+    "Text": "miningHelmet"
+  },
+  {
+    "HeaderOffset": 423,
+    "StartTextOffset": 429,
+    "EndTextOffset": 441,
+    "Text": "Mining Helmet"
+  },
+  {
+    "HeaderOffset": 477,
+    "StartTextOffset": 483,
+    "EndTextOffset": 537,
+    "Text": "It's a simple mining helmet with a functional headlamp."
+  },
+  {
+    "HeaderOffset": 538,
+    "StartTextOffset": 544,
+    "EndTextOffset": 555,
+    "Text": "MiningHelemt"
+  },
+  {
+    "HeaderOffset": 968,
+    "StartTextOffset": 974,
+    "EndTextOffset": 990,
+    "Text": "HelmetLanternAura"
+  },
+  {
+    "HeaderOffset": 1017,
+    "StartTextOffset": 1023,
+    "EndTextOffset": 1042,
+    "Text": "helmetLanternQuality"
+  }
+]

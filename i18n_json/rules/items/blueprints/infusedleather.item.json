@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 253,
+    "Text": "infusedLeatherBlueprint"
+  },
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 285,
+    "Text": "Blueprint: Infused Leather"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 385,
+    "Text": "Contains instructions on how to infused leather with fiber."
+  },
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 400,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 533,
+    "StartTextOffset": 539,
+    "EndTextOffset": 552,
+    "Text": "infusedLeather"
+  },
+  {
+    "HeaderOffset": 611,
+    "StartTextOffset": 617,
+    "EndTextOffset": 636,
+    "Text": "blueprintconsumation"
+  }
+]

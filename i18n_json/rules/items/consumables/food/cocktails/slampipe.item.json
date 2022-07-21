@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 251,
+    "Text": "cocktail.slampipe"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 265,
+    "Text": "Slampipe"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 437,
+    "Text": "Anglerfish eye juice mixed with minihead's blood. Add those to boiling water for a while and you have yourself some serious punch."
+  },
+  {
+    "HeaderOffset": 438,
+    "StartTextOffset": 444,
+    "EndTextOffset": 456,
+    "Text": "Food.Slampipe"
+  },
+  {
+    "HeaderOffset": 687,
+    "StartTextOffset": 693,
+    "EndTextOffset": 707,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 733,
+    "StartTextOffset": 739,
+    "EndTextOffset": 746,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 747,
+    "StartTextOffset": 753,
+    "EndTextOffset": 760,
+    "Text": "slampipe"
+  },
+  {
+    "HeaderOffset": 770,
+    "StartTextOffset": 776,
+    "EndTextOffset": 783,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 784,
+    "StartTextOffset": 790,
+    "EndTextOffset": 797,
+    "Text": "Slampipe"
+  }
+]

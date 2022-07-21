@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 309,
+    "Text": "shotgunFrame3"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 338,
+    "Text": "Shotgun Frame: Vagabond"
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 432,
+    "Text": "This frame is used to create a Vagabond type shotgun."
+  },
+  {
+    "HeaderOffset": 433,
+    "StartTextOffset": 439,
+    "EndTextOffset": 453,
+    "Text": "shotgun.3.frame"
+  },
+  {
+    "HeaderOffset": 814,
+    "StartTextOffset": 820,
+    "EndTextOffset": 828,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 858,
+    "StartTextOffset": 864,
+    "EndTextOffset": 867,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 868,
+    "StartTextOffset": 874,
+    "EndTextOffset": 881,
+    "Text": "Vagabond"
+  },
+  {
+    "HeaderOffset": 908,
+    "StartTextOffset": 914,
+    "EndTextOffset": 932,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 971,
+    "StartTextOffset": 977,
+    "EndTextOffset": 987,
+    "Text": "ShotgunType"
+  },
+  {
+    "HeaderOffset": 1053,
+    "StartTextOffset": 1059,
+    "EndTextOffset": 1078,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 1148,
+    "StartTextOffset": 1154,
+    "EndTextOffset": 1178,
+    "Text": "AttackSpreadAngleModifier"
+  },
+  {
+    "HeaderOffset": 1209,
+    "StartTextOffset": 1215,
+    "EndTextOffset": 1231,
+    "Text": "PrecisionModifier"
+  }
+]

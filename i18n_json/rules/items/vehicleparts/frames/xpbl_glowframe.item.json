@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 455,
+    "StartTextOffset": 461,
+    "EndTextOffset": 474,
+    "Text": "xpbl_glowFrame"
+  },
+  {
+    "HeaderOffset": 475,
+    "StartTextOffset": 481,
+    "EndTextOffset": 490,
+    "Text": "Glow Frame"
+  },
+  {
+    "HeaderOffset": 527,
+    "StartTextOffset": 533,
+    "EndTextOffset": 538,
+    "Text": "Misc.0"
+  },
+  {
+    "HeaderOffset": 1032,
+    "StartTextOffset": 1038,
+    "EndTextOffset": 1046,
+    "Text": "xpbl_glow"
+  },
+  {
+    "HeaderOffset": 1113,
+    "StartTextOffset": 1119,
+    "EndTextOffset": 1141,
+    "Text": "ShootGlowJetskiLaserGun"
+  }
+]

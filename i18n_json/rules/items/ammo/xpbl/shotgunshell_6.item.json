@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 327,
+    "Text": "Ammo.ShotgunShell_6"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 349,
+    "Text": "6p Shotgun Shell"
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 445,
+    "Text": "It's a 12-gauge, 6-pellet steel boarshot shotgun shell."
+  },
+  {
+    "HeaderOffset": 446,
+    "StartTextOffset": 452,
+    "EndTextOffset": 470,
+    "Text": "Ammo.ShotgunShell_6"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 721,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 731,
+    "StartTextOffset": 737,
+    "EndTextOffset": 743,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 753,
+    "StartTextOffset": 759,
+    "EndTextOffset": 764,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 774,
+    "StartTextOffset": 780,
+    "EndTextOffset": 788,
+    "Text": "ldsingcur"
+  }
+]

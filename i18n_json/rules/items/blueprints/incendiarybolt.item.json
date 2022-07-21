@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 246,
+    "Text": "incendiaryBoltBlueprint"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 278,
+    "Text": "Blueprint: Incendiary Bolt"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 375,
+    "Text": "Contains instructions on how to create incendiary bolts."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 390,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 522,
+    "StartTextOffset": 528,
+    "EndTextOffset": 541,
+    "Text": "incendiaryBolt"
+  },
+  {
+    "HeaderOffset": 600,
+    "StartTextOffset": 606,
+    "EndTextOffset": 625,
+    "Text": "blueprintconsumation"
+  }
+]

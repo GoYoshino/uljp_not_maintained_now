@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 239,
+    "Text": "crawlerPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 274,
+    "Text": "Crawler Poison Throwing Knife"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 438,
+    "Text": "This knife is specially designed and weighted so that it can be thrown effectively. It has been coated with crawler poison."
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 400,
+    "Text": "his knife is specially designed and weighted so that it can be thrown effectively. I"
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 470,
+    "Text": "CrawlerPoisonThrowingKnife"
+  },
+  {
+    "HeaderOffset": 660,
+    "StartTextOffset": 666,
+    "EndTextOffset": 688,
+    "Text": "CrawlerPoisonKnifeThrow"
+  }
+]

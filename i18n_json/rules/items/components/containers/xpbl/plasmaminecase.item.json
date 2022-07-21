@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 308,
+    "Text": "plasmaMineCase"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 330,
+    "Text": "Plasma Mine Case"
+  },
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 424,
+    "Text": "A special case used in creation of plasma land mines."
+  },
+  {
+    "HeaderOffset": 425,
+    "StartTextOffset": 431,
+    "EndTextOffset": 444,
+    "Text": "Explosives.173"
+  },
+  {
+    "HeaderOffset": 700,
+    "StartTextOffset": 706,
+    "EndTextOffset": 714,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 728,
+    "StartTextOffset": 734,
+    "EndTextOffset": 744,
+    "Text": "Electronics"
+  }
+]

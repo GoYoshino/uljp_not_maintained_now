@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 299,
+    "Text": "rustingAcidGland"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 323,
+    "Text": "Rusting Acid Gland"
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 471,
+    "Text": "This is the acid gland of a Sea Wyrm. With the right skills powerful rusting acid can be extracted from it."
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 449,
+    "Text": "his is the acid gland of a Sea Wyrm. With the right skills powerful rusting acid can"
+  },
+  {
+    "HeaderOffset": 472,
+    "StartTextOffset": 478,
+    "EndTextOffset": 499,
+    "Text": "Items.RustingAcidGland"
+  },
+  {
+    "HeaderOffset": 770,
+    "StartTextOffset": 776,
+    "EndTextOffset": 782,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 812,
+    "StartTextOffset": 818,
+    "EndTextOffset": 824,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 825,
+    "StartTextOffset": 831,
+    "EndTextOffset": 846,
+    "Text": "Xpbl\\RustingAcid"
+  }
+]

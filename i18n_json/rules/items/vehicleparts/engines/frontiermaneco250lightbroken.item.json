@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 269,
+    "StartTextOffset": 275,
+    "EndTextOffset": 314,
+    "Text": "VehiclePart.FrontiermanEco250LightBroken"
+  },
+  {
+    "HeaderOffset": 315,
+    "StartTextOffset": 321,
+    "EndTextOffset": 346,
+    "Text": "Broken LEMCO Eco 250 Light"
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 462,
+    "Text": "Exotic looking small electrical vehicle engine. Unfortunately, it's broken."
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 457,
+    "Text": "xotic looking small electrical vehicle engine. Unfortunately, it's br"
+  },
+  {
+    "HeaderOffset": 463,
+    "StartTextOffset": 469,
+    "EndTextOffset": 508,
+    "Text": "VehiclePart.FrontiermanEco250LightBroken"
+  }
+]

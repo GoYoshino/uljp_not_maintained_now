@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 258,
+    "Text": "contaminatedBulletsBlueprint"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 295,
+    "Text": "Blueprint: Contaminated Bullets"
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 403,
+    "Text": "Contains instructions on how to create 12.7mm contaminated bullets."
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 418,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 551,
+    "StartTextOffset": 557,
+    "EndTextOffset": 575,
+    "Text": "contaminatedBullets"
+  },
+  {
+    "HeaderOffset": 634,
+    "StartTextOffset": 640,
+    "EndTextOffset": 659,
+    "Text": "blueprintconsumation"
+  }
+]

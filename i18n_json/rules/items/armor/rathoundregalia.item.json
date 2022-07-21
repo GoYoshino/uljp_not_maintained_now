@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 475,
+    "StartTextOffset": 481,
+    "EndTextOffset": 495,
+    "Text": "rathoundRegalia"
+  },
+  {
+    "HeaderOffset": 496,
+    "StartTextOffset": 502,
+    "EndTextOffset": 517,
+    "Text": "Rathound Regalia"
+  },
+  {
+    "HeaderOffset": 553,
+    "StartTextOffset": 559,
+    "EndTextOffset": 692,
+    "Text": "While it doesn't offer much protection, just wearing this primitive armor awakens your primal instincts of a pack animal on the hunt."
+  },
+  {
+    "HeaderOffset": 693,
+    "StartTextOffset": 699,
+    "EndTextOffset": 707,
+    "Text": "Armors.42"
+  },
+  {
+    "HeaderOffset": 1131,
+    "StartTextOffset": 1137,
+    "EndTextOffset": 1144,
+    "Text": "Strength"
+  },
+  {
+    "HeaderOffset": 1207,
+    "StartTextOffset": 1213,
+    "EndTextOffset": 1219,
+    "Text": "Stealth"
+  }
+]

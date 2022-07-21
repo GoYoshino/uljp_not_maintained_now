@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 751,
+    "StartTextOffset": 757,
+    "EndTextOffset": 760,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 809,
+    "StartTextOffset": 815,
+    "EndTextOffset": 837,
+    "Text": "sormirbarenSkerderSpear"
+  },
+  {
+    "HeaderOffset": 838,
+    "StartTextOffset": 844,
+    "EndTextOffset": 871,
+    "Text": "Sørmirbæren Skærder Spear"
+  },
+  {
+    "HeaderOffset": 907,
+    "StartTextOffset": 913,
+    "EndTextOffset": 980,
+    "Text": "A primitive spear made of bone with a large serration near the head."
+  },
+  {
+    "HeaderOffset": 981,
+    "StartTextOffset": 987,
+    "EndTextOffset": 1002,
+    "Text": "xpbl_Weapons.212"
+  },
+  {
+    "HeaderOffset": 1386,
+    "StartTextOffset": 1392,
+    "EndTextOffset": 1396,
+    "Text": "xpbls"
+  },
+  {
+    "HeaderOffset": 1741,
+    "StartTextOffset": 1747,
+    "EndTextOffset": 1758,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1808,
+    "StartTextOffset": 1814,
+    "EndTextOffset": 1823,
+    "Text": "spearGuard"
+  },
+  {
+    "HeaderOffset": 1846,
+    "StartTextOffset": 1852,
+    "EndTextOffset": 1864,
+    "Text": "bleedingWound"
+  }
+]

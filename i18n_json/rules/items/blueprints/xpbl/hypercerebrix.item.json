@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 259,
+    "Text": "blueprint.hypercerebrix"
+  },
+  {
+    "HeaderOffset": 260,
+    "StartTextOffset": 266,
+    "EndTextOffset": 289,
+    "Text": "Blueprint: Hypercerebrix"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 390,
+    "Text": "Contains instructions on how to create a Hypercerebrix pill."
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 409,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 543,
+    "StartTextOffset": 549,
+    "EndTextOffset": 561,
+    "Text": "hypercerebrix"
+  },
+  {
+    "HeaderOffset": 620,
+    "StartTextOffset": 626,
+    "EndTextOffset": 645,
+    "Text": "blueprintconsumation"
+  }
+]

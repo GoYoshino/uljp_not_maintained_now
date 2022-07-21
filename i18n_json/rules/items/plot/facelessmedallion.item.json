@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 223,
+    "Text": "facelessMedallion"
+  },
+  {
+    "HeaderOffset": 224,
+    "StartTextOffset": 230,
+    "EndTextOffset": 247,
+    "Text": "Faceless Medallion"
+  },
+  {
+    "HeaderOffset": 283,
+    "StartTextOffset": 289,
+    "EndTextOffset": 509,
+    "Text": "Imprinted upon this medallion is a circle split in four by the X symbol with perpendicular serifs. The medallion seems to be made of some material resembling rough stone in texture, but lacking its weight and frigidness."
+  },
+  {
+    "HeaderOffset": 510,
+    "StartTextOffset": 516,
+    "EndTextOffset": 537,
+    "Text": "Plot.FacelessMedallion"
+  }
+]

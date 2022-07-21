@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 680,
+    "StartTextOffset": 686,
+    "EndTextOffset": 689,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 731,
+    "Text": "sormirbarenKnife"
+  },
+  {
+    "HeaderOffset": 732,
+    "StartTextOffset": 738,
+    "EndTextOffset": 756,
+    "Text": "Sørmirbæren Knife"
+  },
+  {
+    "HeaderOffset": 792,
+    "StartTextOffset": 798,
+    "EndTextOffset": 838,
+    "Text": "A primitive knife made of sharpened bone."
+  },
+  {
+    "HeaderOffset": 839,
+    "StartTextOffset": 845,
+    "EndTextOffset": 860,
+    "Text": "xpbl_Weapons.200"
+  },
+  {
+    "HeaderOffset": 1539,
+    "StartTextOffset": 1545,
+    "EndTextOffset": 1556,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1606,
+    "StartTextOffset": 1612,
+    "EndTextOffset": 1624,
+    "Text": "bleedingWound"
+  }
+]

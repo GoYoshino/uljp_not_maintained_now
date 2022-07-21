@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 254,
+    "Text": "Oddity.RustedSpearhead"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 276,
+    "Text": "Rusted Spearhead"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 381,
+    "Text": "You found this spearhead stuck between the scales of a sea wyrm."
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 409,
+    "Text": "Oddity.RustedSpearhead"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 287,
+    "Text": "VehiclePart.ScrappyVehicleBattery600"
+  },
+  {
+    "HeaderOffset": 288,
+    "StartTextOffset": 294,
+    "EndTextOffset": 320,
+    "Text": "Scrappy Vehicle Battery 600"
+  },
+  {
+    "HeaderOffset": 356,
+    "StartTextOffset": 362,
+    "EndTextOffset": 416,
+    "Text": "It's a large unmarked vehicle battery in bad condition."
+  },
+  {
+    "HeaderOffset": 417,
+    "StartTextOffset": 423,
+    "EndTextOffset": 458,
+    "Text": "VehiclePart.ScrappyVehicleBattery600"
+  }
+]

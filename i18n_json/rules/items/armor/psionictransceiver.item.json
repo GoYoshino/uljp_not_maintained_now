@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 366,
+    "StartTextOffset": 372,
+    "EndTextOffset": 376,
+    "Text": "MSFE2"
+  },
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 439,
+    "Text": "psionicTransceiver"
+  },
+  {
+    "HeaderOffset": 440,
+    "StartTextOffset": 446,
+    "EndTextOffset": 464,
+    "Text": "Psionic Transceiver"
+  },
+  {
+    "HeaderOffset": 500,
+    "StartTextOffset": 506,
+    "EndTextOffset": 723,
+    "Text": "A weird-looking scrappy psionic headband that amplifies your psionic abilities by tuning into emanations of nearby psionics. This is not without its consequences, however, as this feels quite unnatural and disturbing."
+  },
+  {
+    "HeaderOffset": 724,
+    "StartTextOffset": 730,
+    "EndTextOffset": 753,
+    "Text": "Armor.PsionicTransceiver"
+  },
+  {
+    "HeaderOffset": 1110,
+    "StartTextOffset": 1116,
+    "EndTextOffset": 1129,
+    "Text": "Psionic skills"
+  },
+  {
+    "HeaderOffset": 1249,
+    "StartTextOffset": 1255,
+    "EndTextOffset": 1271,
+    "Text": "MonsterInfrequent"
+  },
+  {
+    "HeaderOffset": 1349,
+    "StartTextOffset": 1355,
+    "EndTextOffset": 1366,
+    "Text": "Metathermics"
+  },
+  {
+    "HeaderOffset": 1367,
+    "StartTextOffset": 1373,
+    "EndTextOffset": 1385,
+    "Text": "Psychokinesis"
+  },
+  {
+    "HeaderOffset": 1386,
+    "StartTextOffset": 1392,
+    "EndTextOffset": 1406,
+    "Text": "Thought Control"
+  },
+  {
+    "HeaderOffset": 1407,
+    "StartTextOffset": 1413,
+    "EndTextOffset": 1433,
+    "Text": "Temporal Manipulation"
+  }
+]

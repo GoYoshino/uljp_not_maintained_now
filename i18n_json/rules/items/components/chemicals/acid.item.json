@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 324,
+    "Text": "acid.regular"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 334,
+    "Text": "Acid"
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 450,
+    "Text": "This is powerful acid that will dissolve most materials rapidly on contact."
+  },
+  {
+    "HeaderOffset": 451,
+    "StartTextOffset": 457,
+    "EndTextOffset": 471,
+    "Text": "Components.Acid"
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 804,
+    "Text": "RegularAcidVialThrow"
+  },
+  {
+    "HeaderOffset": 838,
+    "StartTextOffset": 844,
+    "EndTextOffset": 852,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 882,
+    "StartTextOffset": 888,
+    "EndTextOffset": 899,
+    "Text": "ChemicalAmmo"
+  },
+  {
+    "HeaderOffset": 900,
+    "StartTextOffset": 906,
+    "EndTextOffset": 922,
+    "Text": "Vial_Acid_Regular"
+  },
+  {
+    "HeaderOffset": 932,
+    "StartTextOffset": 938,
+    "EndTextOffset": 941,
+    "Text": "Bolt"
+  },
+  {
+    "HeaderOffset": 942,
+    "StartTextOffset": 948,
+    "EndTextOffset": 956,
+    "Text": "AcidBolt1"
+  },
+  {
+    "HeaderOffset": 966,
+    "StartTextOffset": 972,
+    "EndTextOffset": 979,
+    "Text": "BlobTrap"
+  },
+  {
+    "HeaderOffset": 980,
+    "StartTextOffset": 986,
+    "EndTextOffset": 997,
+    "Text": "AcidBlobTrap"
+  }
+]

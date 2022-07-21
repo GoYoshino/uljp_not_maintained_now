@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 206,
+    "StartTextOffset": 212,
+    "EndTextOffset": 228,
+    "Text": "capturedSmallCrab"
+  },
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 253,
+    "Text": "Captured Small Crab"
+  },
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 337,
+    "Text": "Small crab in a dog crate. It seems crabby."
+  },
+  {
+    "HeaderOffset": 338,
+    "StartTextOffset": 344,
+    "EndTextOffset": 349,
+    "Text": "Plot.5"
+  }
+]

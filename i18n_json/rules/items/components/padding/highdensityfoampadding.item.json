@@ -1,0 +1,104 @@
+[
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 402,
+    "Text": "highDensityFoamPadding"
+  },
+  {
+    "HeaderOffset": 403,
+    "StartTextOffset": 409,
+    "EndTextOffset": 433,
+    "Text": "High Density Foam Padding"
+  },
+  {
+    "HeaderOffset": 469,
+    "StartTextOffset": 475,
+    "EndTextOffset": 610,
+    "Text": "This high density padding material can be used when creating a suit of leather armor to provide extra protection against melee weapons."
+  },
+  {
+    "HeaderOffset": 611,
+    "StartTextOffset": 617,
+    "EndTextOffset": 629,
+    "Text": "Components.21"
+  },
+  {
+    "HeaderOffset": 1135,
+    "StartTextOffset": 1141,
+    "EndTextOffset": 1149,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1179,
+    "StartTextOffset": 1185,
+    "EndTextOffset": 1200,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1201,
+    "StartTextOffset": 1207,
+    "EndTextOffset": 1314,
+    "Text": "It's padded with high density foam that provides additional protection, but makes the armor more cumbersome."
+  },
+  {
+    "HeaderOffset": 1341,
+    "StartTextOffset": 1347,
+    "EndTextOffset": 1379,
+    "Text": "MetalHelmetCritModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1414,
+    "StartTextOffset": 1420,
+    "EndTextOffset": 1446,
+    "Text": "MetalHelmetCritModifierBase"
+  },
+  {
+    "HeaderOffset": 1464,
+    "StartTextOffset": 1470,
+    "EndTextOffset": 1486,
+    "Text": "MetalHelmetPrefix"
+  },
+  {
+    "HeaderOffset": 1487,
+    "StartTextOffset": 1493,
+    "EndTextOffset": 1505,
+    "Text": "Solid-padding"
+  },
+  {
+    "HeaderOffset": 1515,
+    "StartTextOffset": 1521,
+    "EndTextOffset": 1535,
+    "Text": "MetalHelmetDesc"
+  },
+  {
+    "HeaderOffset": 1536,
+    "StartTextOffset": 1542,
+    "EndTextOffset": 1652,
+    "Text": "It's padded with high-density foam which provides good impact cushioning, but also adds to the helmet's weight."
+  },
+  {
+    "HeaderOffset": 1662,
+    "StartTextOffset": 1668,
+    "EndTextOffset": 1676,
+    "Text": "BootsDesc"
+  },
+  {
+    "HeaderOffset": 1677,
+    "StartTextOffset": 1683,
+    "EndTextOffset": 1721,
+    "Text": "They are padded with high-density foam."
+  },
+  {
+    "HeaderOffset": 1731,
+    "StartTextOffset": 1737,
+    "EndTextOffset": 1747,
+    "Text": "BootsPrefix"
+  },
+  {
+    "HeaderOffset": 1748,
+    "StartTextOffset": 1754,
+    "EndTextOffset": 1766,
+    "Text": "Solid-padding"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 403,
+    "Text": "Ammo.Caliber_127_Cnt"
+  },
+  {
+    "HeaderOffset": 404,
+    "StartTextOffset": 410,
+    "EndTextOffset": 434,
+    "Text": "12.7mm Contaminated Round"
+  },
+  {
+    "HeaderOffset": 470,
+    "StartTextOffset": 476,
+    "EndTextOffset": 543,
+    "Text": "This cartridge packs a 12.7mm bullet contaminated with toxic sludge."
+  },
+  {
+    "HeaderOffset": 544,
+    "StartTextOffset": 550,
+    "EndTextOffset": 569,
+    "Text": "Ammo.Caliber_127_Cnt"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 841,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 851,
+    "StartTextOffset": 857,
+    "EndTextOffset": 863,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 873,
+    "StartTextOffset": 879,
+    "EndTextOffset": 884,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 894,
+    "StartTextOffset": 900,
+    "EndTextOffset": 908,
+    "Text": "ldsingcur"
+  },
+  {
+    "HeaderOffset": 958,
+    "StartTextOffset": 964,
+    "EndTextOffset": 969,
+    "Text": "bioHit"
+  },
+  {
+    "HeaderOffset": 992,
+    "StartTextOffset": 998,
+    "EndTextOffset": 1008,
+    "Text": "contaminate"
+  },
+  {
+    "HeaderOffset": 1031,
+    "StartTextOffset": 1037,
+    "EndTextOffset": 1050,
+    "Text": "contaminateDot"
+  },
+  {
+    "HeaderOffset": 1073,
+    "StartTextOffset": 1079,
+    "EndTextOffset": 1091,
+    "Text": "leaveToxicGas"
+  }
+]

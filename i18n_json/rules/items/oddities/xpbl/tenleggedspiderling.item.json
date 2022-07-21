@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 251,
+    "Text": "Oddity.TenLeggedSpiderling"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 278,
+    "Text": "Ten-legged Spiderling"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 355,
+    "Text": "Horribly mutated little baby spider."
+  },
+  {
+    "HeaderOffset": 356,
+    "StartTextOffset": 362,
+    "EndTextOffset": 387,
+    "Text": "Oddity.TenLeggedSpiderling"
+  }
+]

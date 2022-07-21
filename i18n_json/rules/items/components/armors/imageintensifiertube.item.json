@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 289,
+    "Text": "imageIntesifierTube"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 317,
+    "Text": "Image Intensifier Tube"
+  },
+  {
+    "HeaderOffset": 353,
+    "StartTextOffset": 359,
+    "EndTextOffset": 402,
+    "Text": "The main component in a night vision device."
+  },
+  {
+    "HeaderOffset": 403,
+    "StartTextOffset": 409,
+    "EndTextOffset": 421,
+    "Text": "Components.27"
+  },
+  {
+    "HeaderOffset": 766,
+    "StartTextOffset": 772,
+    "EndTextOffset": 782,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 813,
+    "StartTextOffset": 819,
+    "EndTextOffset": 834,
+    "Text": "PowerPerTurnCost"
+  },
+  {
+    "HeaderOffset": 868,
+    "StartTextOffset": 874,
+    "EndTextOffset": 883,
+    "Text": "Capability"
+  },
+  {
+    "HeaderOffset": 884,
+    "StartTextOffset": 890,
+    "EndTextOffset": 900,
+    "Text": "Nightvision"
+  },
+  {
+    "HeaderOffset": 926,
+    "StartTextOffset": 932,
+    "EndTextOffset": 937,
+    "Text": "Prefix"
+  },
+  {
+    "HeaderOffset": 938,
+    "StartTextOffset": 944,
+    "EndTextOffset": 955,
+    "Text": "Night Vision"
+  },
+  {
+    "HeaderOffset": 981,
+    "StartTextOffset": 987,
+    "EndTextOffset": 990,
+    "Text": "Desc"
+  },
+  {
+    "HeaderOffset": 991,
+    "StartTextOffset": 997,
+    "EndTextOffset": 1059,
+    "Text": "an image intensifier tube that provides night vision capability"
+  },
+  {
+    "HeaderOffset": 1085,
+    "StartTextOffset": 1091,
+    "EndTextOffset": 1099,
+    "Text": "IconParam"
+  },
+  {
+    "HeaderOffset": 1100,
+    "StartTextOffset": 1106,
+    "EndTextOffset": 1116,
+    "Text": "Nightvision"
+  }
+]

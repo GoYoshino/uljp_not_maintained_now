@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 200,
+    "StartTextOffset": 206,
+    "EndTextOffset": 217,
+    "Text": "fragGrenade3"
+  },
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 242,
+    "Text": "Frag Grenade Mk III"
+  },
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 418,
+    "Text": "The fragmentation grenade (commonly known as a frag) is an anti-personnel weapon that is designed to disperse shrapnel upon exploding."
+  },
+  {
+    "HeaderOffset": 419,
+    "StartTextOffset": 425,
+    "EndTextOffset": 437,
+    "Text": "Explosives.22"
+  },
+  {
+    "HeaderOffset": 645,
+    "StartTextOffset": 651,
+    "EndTextOffset": 655,
+    "Text": "fragt"
+  },
+  {
+    "HeaderOffset": 682,
+    "StartTextOffset": 688,
+    "EndTextOffset": 692,
+    "Text": "power"
+  }
+]

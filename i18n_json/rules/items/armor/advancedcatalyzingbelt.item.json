@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 318,
+    "Text": "belt.advancedCatalyzingBelt"
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 348,
+    "Text": "Advanced Catalyzing Belt"
+  },
+  {
+    "HeaderOffset": 384,
+    "StartTextOffset": 390,
+    "EndTextOffset": 686,
+    "Text": "A chemical apparatus designed to connect to chemical pistols and keep the loaded ammunition on the edge of being chemically destabilized; the state which actuates to fullest once it's released into the air. This belt also bridges a part of the weapon's firing mechanism, making it more effective."
+  },
+  {
+    "HeaderOffset": 687,
+    "StartTextOffset": 693,
+    "EndTextOffset": 720,
+    "Text": "Items.AdvancedCatalyzingBelt"
+  }
+]

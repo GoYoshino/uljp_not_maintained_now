@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 242,
+    "Text": "Oddity.MutatedCockroach"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 265,
+    "Text": "Mutated Cockroach"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 392,
+    "Text": "You're not sure if mutations make it more or less disgusting than regular cockroaches."
+  },
+  {
+    "HeaderOffset": 393,
+    "StartTextOffset": 399,
+    "EndTextOffset": 421,
+    "Text": "Oddity.MutatedCockroach"
+  }
+]

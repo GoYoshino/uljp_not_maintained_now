@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 647,
+    "StartTextOffset": 653,
+    "EndTextOffset": 657,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 749,
+    "StartTextOffset": 755,
+    "EndTextOffset": 758,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 799,
+    "StartTextOffset": 805,
+    "EndTextOffset": 817,
+    "Text": "obsidianSword"
+  },
+  {
+    "HeaderOffset": 818,
+    "StartTextOffset": 824,
+    "EndTextOffset": 834,
+    "Text": "Black Blade"
+  },
+  {
+    "HeaderOffset": 870,
+    "StartTextOffset": 876,
+    "EndTextOffset": 972,
+    "Text": "The blade of this sword is made of a razor-sharp piece of obsidian which radiates perpetual heat."
+  },
+  {
+    "HeaderOffset": 973,
+    "StartTextOffset": 979,
+    "EndTextOffset": 994,
+    "Text": "xpbl_Weapons.214"
+  },
+  {
+    "HeaderOffset": 1400,
+    "StartTextOffset": 1406,
+    "EndTextOffset": 1410,
+    "Text": "xpblm"
+  },
+  {
+    "HeaderOffset": 1577,
+    "StartTextOffset": 1583,
+    "EndTextOffset": 1587,
+    "Text": "Flare"
+  },
+  {
+    "HeaderOffset": 1741,
+    "StartTextOffset": 1747,
+    "EndTextOffset": 1758,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1808,
+    "StartTextOffset": 1814,
+    "EndTextOffset": 1820,
+    "Text": "carveUp"
+  },
+  {
+    "HeaderOffset": 1909,
+    "StartTextOffset": 1915,
+    "EndTextOffset": 1928,
+    "Text": "ExplosionSmall"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 300,
+    "Text": "Crossbow Parts: Tornado"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 430,
+    "Text": "With an appropriate blueprint, these parts can be used to create a Tornado type crossbow."
+  },
+  {
+    "HeaderOffset": 431,
+    "StartTextOffset": 437,
+    "EndTextOffset": 452,
+    "Text": "crossbow.3.parts"
+  },
+  {
+    "HeaderOffset": 791,
+    "StartTextOffset": 797,
+    "EndTextOffset": 805,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 843,
+    "StartTextOffset": 849,
+    "EndTextOffset": 860,
+    "Text": "DamageSpread"
+  },
+  {
+    "HeaderOffset": 929,
+    "StartTextOffset": 935,
+    "EndTextOffset": 938,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 939,
+    "StartTextOffset": 945,
+    "EndTextOffset": 951,
+    "Text": "Tornado"
+  },
+  {
+    "HeaderOffset": 978,
+    "StartTextOffset": 984,
+    "EndTextOffset": 1000,
+    "Text": "PrecisionModifier"
+  },
+  {
+    "HeaderOffset": 1035,
+    "StartTextOffset": 1041,
+    "EndTextOffset": 1060,
+    "Text": "FocusPenaltyModifier"
+  },
+  {
+    "HeaderOffset": 1095,
+    "StartTextOffset": 1101,
+    "EndTextOffset": 1122,
+    "Text": "CriticalChanceModifier"
+  }
+]

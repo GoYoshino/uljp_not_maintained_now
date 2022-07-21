@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 657,
+    "StartTextOffset": 663,
+    "EndTextOffset": 667,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 777,
+    "StartTextOffset": 783,
+    "EndTextOffset": 786,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 843,
+    "Text": "wep.rhkxbow"
+  },
+  {
+    "HeaderOffset": 844,
+    "StartTextOffset": 850,
+    "EndTextOffset": 856,
+    "Text": "Jawbone"
+  },
+  {
+    "HeaderOffset": 892,
+    "StartTextOffset": 898,
+    "EndTextOffset": 1070,
+    "Text": "A massive crossbow fashioned from a rathound's lower jaw. It has a high draw weight yet no cocking mechanism, so drawing the string requires quite a bit of physical effort."
+  },
+  {
+    "HeaderOffset": 1071,
+    "StartTextOffset": 1077,
+    "EndTextOffset": 1090,
+    "Text": "Weapon.Jawbone"
+  },
+  {
+    "HeaderOffset": 1807,
+    "StartTextOffset": 1813,
+    "EndTextOffset": 1824,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 2075,
+    "StartTextOffset": 2081,
+    "EndTextOffset": 2090,
+    "Text": "intimidate"
+  },
+  {
+    "HeaderOffset": 2113,
+    "StartTextOffset": 2119,
+    "EndTextOffset": 2122,
+    "Text": "fear"
+  }
+]

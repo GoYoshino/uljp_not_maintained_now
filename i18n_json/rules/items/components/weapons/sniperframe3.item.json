@@ -1,0 +1,68 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 308,
+    "Text": "sniperFrame3"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 340,
+    "Text": "Sniper Rifle Frame: Reaper"
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 475,
+    "Text": "This frame is used to create a Reaper type sniper rifle. It supports 7.62mm and 8.6mm barrels."
+  },
+  {
+    "HeaderOffset": 377,
+    "StartTextOffset": 383,
+    "EndTextOffset": 466,
+    "Text": "his frame is used to create a Reaper type sniper rifle. It supports 7.62mm and 8.6mm"
+  },
+  {
+    "HeaderOffset": 476,
+    "StartTextOffset": 482,
+    "EndTextOffset": 495,
+    "Text": "sniper.3.frame"
+  },
+  {
+    "HeaderOffset": 818,
+    "StartTextOffset": 824,
+    "EndTextOffset": 832,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 862,
+    "StartTextOffset": 868,
+    "EndTextOffset": 871,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 872,
+    "StartTextOffset": 878,
+    "EndTextOffset": 883,
+    "Text": "Reaper"
+  },
+  {
+    "HeaderOffset": 934,
+    "StartTextOffset": 940,
+    "EndTextOffset": 959,
+    "Text": "SupportedBarrelTypes"
+  },
+  {
+    "HeaderOffset": 991,
+    "StartTextOffset": 997,
+    "EndTextOffset": 1015,
+    "Text": "StrengthRequirement"
+  },
+  {
+    "HeaderOffset": 1046,
+    "StartTextOffset": 1052,
+    "EndTextOffset": 1070,
+    "Text": "CriticalDamageBonus"
+  }
+]

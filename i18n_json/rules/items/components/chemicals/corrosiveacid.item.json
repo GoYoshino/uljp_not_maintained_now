@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 326,
+    "Text": "acid.corrosive"
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 346,
+    "Text": "Corrosive Acid"
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 476,
+    "Text": "This is an especially potent corrosive acid that is known to eat away all types of armor."
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 472,
+    "Text": "his is an especially potent corrosive acid that is known to eat away all types of ar"
+  },
+  {
+    "HeaderOffset": 477,
+    "StartTextOffset": 483,
+    "EndTextOffset": 506,
+    "Text": "Components.CorrosiveAcid"
+  },
+  {
+    "HeaderOffset": 814,
+    "StartTextOffset": 820,
+    "EndTextOffset": 841,
+    "Text": "CorrosiveAcidVialThrow"
+  },
+  {
+    "HeaderOffset": 875,
+    "StartTextOffset": 881,
+    "EndTextOffset": 889,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 919,
+    "StartTextOffset": 925,
+    "EndTextOffset": 936,
+    "Text": "ChemicalAmmo"
+  },
+  {
+    "HeaderOffset": 937,
+    "StartTextOffset": 943,
+    "EndTextOffset": 961,
+    "Text": "Vial_Acid_Corrosive"
+  },
+  {
+    "HeaderOffset": 971,
+    "StartTextOffset": 977,
+    "EndTextOffset": 980,
+    "Text": "Bolt"
+  },
+  {
+    "HeaderOffset": 981,
+    "StartTextOffset": 987,
+    "EndTextOffset": 1004,
+    "Text": "CorrosiveAcidBolt1"
+  },
+  {
+    "HeaderOffset": 1014,
+    "StartTextOffset": 1020,
+    "EndTextOffset": 1027,
+    "Text": "BlobTrap"
+  },
+  {
+    "HeaderOffset": 1028,
+    "StartTextOffset": 1034,
+    "EndTextOffset": 1054,
+    "Text": "CorrosiveAcidBlobTrap"
+  }
+]

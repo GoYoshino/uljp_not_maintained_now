@@ -1,0 +1,110 @@
+[
+  {
+    "HeaderOffset": 488,
+    "StartTextOffset": 494,
+    "EndTextOffset": 532,
+    "Text": "component.infusedGreaterSiphonerLeather"
+  },
+  {
+    "HeaderOffset": 533,
+    "StartTextOffset": 539,
+    "EndTextOffset": 570,
+    "Text": "Infused Greater Siphoner Leather"
+  },
+  {
+    "HeaderOffset": 606,
+    "StartTextOffset": 612,
+    "EndTextOffset": 745,
+    "Text": "It's a slippery slimy piece of greater siphoner skin infused with super steel fiber. It can be used to craft a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 746,
+    "StartTextOffset": 752,
+    "EndTextOffset": 765,
+    "Text": "Components.286"
+  },
+  {
+    "HeaderOffset": 1440,
+    "StartTextOffset": 1446,
+    "EndTextOffset": 1454,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1586,
+    "StartTextOffset": 1592,
+    "EndTextOffset": 1607,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1608,
+    "StartTextOffset": 1614,
+    "EndTextOffset": 1701,
+    "Text": "This {0} is made of slippery slimy greater siphoner skin infused with super steel fiber."
+  },
+  {
+    "HeaderOffset": 1711,
+    "StartTextOffset": 1717,
+    "EndTextOffset": 1738,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1739,
+    "StartTextOffset": 1745,
+    "EndTextOffset": 1834,
+    "Text": "These {0} are made of slippery slimy greater siphoner skin infused with super steel fiber."
+  },
+  {
+    "HeaderOffset": 1844,
+    "StartTextOffset": 1850,
+    "EndTextOffset": 1871,
+    "Text": "CustomLeatherArmorType"
+  },
+  {
+    "HeaderOffset": 1872,
+    "StartTextOffset": 1878,
+    "EndTextOffset": 1893,
+    "Text": "Leather Jumpsuit"
+  },
+  {
+    "HeaderOffset": 1920,
+    "StartTextOffset": 1926,
+    "EndTextOffset": 1938,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1969,
+    "StartTextOffset": 1975,
+    "EndTextOffset": 1982,
+    "Text": "Infusion"
+  },
+  {
+    "HeaderOffset": 1996,
+    "StartTextOffset": 2002,
+    "EndTextOffset": 2026,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 2027,
+    "StartTextOffset": 2033,
+    "EndTextOffset": 2043,
+    "Text": "xpbl_gsiple"
+  },
+  {
+    "HeaderOffset": 2070,
+    "StartTextOffset": 2076,
+    "EndTextOffset": 2083,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 2097,
+    "StartTextOffset": 2103,
+    "EndTextOffset": 2116,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 2117,
+    "StartTextOffset": 2123,
+    "EndTextOffset": 2146,
+    "Text": "Infused Greater Siphoner"
+  }
+]

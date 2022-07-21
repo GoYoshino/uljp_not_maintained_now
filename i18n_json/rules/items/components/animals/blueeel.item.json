@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 284,
+    "Text": "blueEel"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 298,
+    "Text": "Blue Eel"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 443,
+    "Text": "A delicious looking eel. Would make a great sandwich or it could be processed for medical uses, I guess."
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 405,
+    "Text": " delicious looking eel. Would make a great sandwich or it could b"
+  },
+  {
+    "HeaderOffset": 444,
+    "StartTextOffset": 450,
+    "EndTextOffset": 462,
+    "Text": "Items.BlueEel"
+  },
+  {
+    "HeaderOffset": 751,
+    "StartTextOffset": 757,
+    "EndTextOffset": 763,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 793,
+    "StartTextOffset": 799,
+    "EndTextOffset": 805,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 806,
+    "StartTextOffset": 812,
+    "EndTextOffset": 832,
+    "Text": "OrganicGelElectrolyte"
+  },
+  {
+    "HeaderOffset": 842,
+    "StartTextOffset": 848,
+    "EndTextOffset": 856,
+    "Text": "Container"
+  },
+  {
+    "HeaderOffset": 857,
+    "StartTextOffset": 863,
+    "EndTextOffset": 872,
+    "Text": "FlatBeaker"
+  }
+]

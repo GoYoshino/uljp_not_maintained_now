@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 263,
+    "Text": "Oddity.EmployeeAwardsCollection"
+  },
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 295,
+    "Text": "Employee Awards Collection"
+  },
+  {
+    "HeaderOffset": 331,
+    "StartTextOffset": 337,
+    "EndTextOffset": 733,
+    "Text": "A collection of well-preserved medals issued by Biocorp to a single employee by the name of Declan Pip. These awards are:<br><br>- Numerous employee of the year awards<br><br>- Several employee of the decade awards<br><br>- Several length of service awards<br><br>- Resourceful employee award<br><br>- Superb attendance award<br><br>- Beyond the call of duty award<br><br>- Supersteel heart award"
+  },
+  {
+    "HeaderOffset": 734,
+    "StartTextOffset": 740,
+    "EndTextOffset": 770,
+    "Text": "Oddity.EmployeeAwardsCollection"
+  }
+]

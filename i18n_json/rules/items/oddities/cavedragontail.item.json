@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 233,
+    "Text": "Oddity.CaveDragonTail"
+  },
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 255,
+    "Text": "Cave Dragon Tail"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 346,
+    "Text": "This cave hopper had a bit of dragon DNA it seems."
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 373,
+    "Text": "Oddity.CaveDragonTail"
+  }
+]

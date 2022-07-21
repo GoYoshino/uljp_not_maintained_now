@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 290,
+    "Text": "nidamentalGel"
+  },
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 310,
+    "Text": "Nidamental Gel"
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 477,
+    "Text": "Gel extracted from nidamental gland of a squid. This particular squid's gel can act as neurostimulant when consumed by humans."
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 423,
+    "Text": "el extracted from nidamental gland of a squid. This particular squid's "
+  },
+  {
+    "HeaderOffset": 478,
+    "StartTextOffset": 484,
+    "EndTextOffset": 502,
+    "Text": "Items.NidamentalGel"
+  },
+  {
+    "HeaderOffset": 753,
+    "StartTextOffset": 759,
+    "EndTextOffset": 765,
+    "Text": "Biology"
+  }
+]

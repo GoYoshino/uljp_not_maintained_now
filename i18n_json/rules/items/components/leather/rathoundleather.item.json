@@ -1,0 +1,86 @@
+[
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 446,
+    "Text": "component.rathoundLeather"
+  },
+  {
+    "HeaderOffset": 447,
+    "StartTextOffset": 453,
+    "EndTextOffset": 468,
+    "Text": "Rathound Leather"
+  },
+  {
+    "HeaderOffset": 504,
+    "StartTextOffset": 510,
+    "EndTextOffset": 566,
+    "Text": "Rathound skin can be turned into a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 567,
+    "StartTextOffset": 573,
+    "EndTextOffset": 584,
+    "Text": "Components.0"
+  },
+  {
+    "HeaderOffset": 1103,
+    "StartTextOffset": 1109,
+    "EndTextOffset": 1117,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1184,
+    "StartTextOffset": 1190,
+    "EndTextOffset": 1199,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1225,
+    "StartTextOffset": 1231,
+    "EndTextOffset": 1246,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1247,
+    "StartTextOffset": 1253,
+    "EndTextOffset": 1383,
+    "Text": "This {0} is made of rathound leather. No matter how hard you try to wash it out, the faint stench of this filthy creature remains."
+  },
+  {
+    "HeaderOffset": 1393,
+    "StartTextOffset": 1399,
+    "EndTextOffset": 1412,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1413,
+    "StartTextOffset": 1419,
+    "EndTextOffset": 1426,
+    "Text": "Rathound"
+  },
+  {
+    "HeaderOffset": 1436,
+    "StartTextOffset": 1442,
+    "EndTextOffset": 1463,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1464,
+    "StartTextOffset": 1470,
+    "EndTextOffset": 1602,
+    "Text": "These {0} are made of rathound leather. No matter how hard you try to wash it out, the faint stench of this filthy creature remains."
+  },
+  {
+    "HeaderOffset": 1629,
+    "StartTextOffset": 1635,
+    "EndTextOffset": 1647,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1678,
+    "StartTextOffset": 1684,
+    "EndTextOffset": 1691,
+    "Text": "MatIndex"
+  }
+]

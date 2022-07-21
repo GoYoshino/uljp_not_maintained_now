@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 327,
+    "Text": "Ammo.ShotgunShell_3"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 358,
+    "Text": "3p Tungsten Shotgun Shell"
+  },
+  {
+    "HeaderOffset": 394,
+    "StartTextOffset": 400,
+    "EndTextOffset": 505,
+    "Text": "It's a 12-gauge, 3-pellet tungsten trainshot shotgun shell. Sometimes referred to as the tungsten trinity."
+  },
+  {
+    "HeaderOffset": 395,
+    "StartTextOffset": 401,
+    "EndTextOffset": 473,
+    "Text": "t's a 12-gauge, 3-pellet tungsten trainshot shotgun shell. Sometimes refe"
+  },
+  {
+    "HeaderOffset": 506,
+    "StartTextOffset": 512,
+    "EndTextOffset": 530,
+    "Text": "Ammo.ShotgunShell_3"
+  },
+  {
+    "HeaderOffset": 772,
+    "StartTextOffset": 778,
+    "EndTextOffset": 781,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 791,
+    "StartTextOffset": 797,
+    "EndTextOffset": 803,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 813,
+    "StartTextOffset": 819,
+    "EndTextOffset": 824,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 834,
+    "StartTextOffset": 840,
+    "EndTextOffset": 848,
+    "Text": "ldsingcur"
+  }
+]

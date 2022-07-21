@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 262,
+    "Text": "food.pentapusBarbecue"
+  },
+  {
+    "HeaderOffset": 263,
+    "StartTextOffset": 269,
+    "EndTextOffset": 285,
+    "Text": "Pentapus Barbecue"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 379,
+    "Text": "Cut pentapus tentacles and mushroom caps on a skewer."
+  },
+  {
+    "HeaderOffset": 380,
+    "StartTextOffset": 386,
+    "EndTextOffset": 406,
+    "Text": "Food.PentapusBarbecue"
+  },
+  {
+    "HeaderOffset": 638,
+    "StartTextOffset": 644,
+    "EndTextOffset": 658,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 684,
+    "StartTextOffset": 690,
+    "EndTextOffset": 697,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 719,
+    "Text": "pentapusBarbecue"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 742,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 743,
+    "StartTextOffset": 749,
+    "EndTextOffset": 765,
+    "Text": "Pentapus Barbecue"
+  }
+]

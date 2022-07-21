@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 188,
+    "StartTextOffset": 194,
+    "EndTextOffset": 203,
+    "Text": "JonasWatch"
+  },
+  {
+    "HeaderOffset": 204,
+    "StartTextOffset": 210,
+    "EndTextOffset": 218,
+    "Text": "Old Watch"
+  },
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 326,
+    "Text": "You found this old wristwatch inside a dead rathound of all places."
+  },
+  {
+    "HeaderOffset": 327,
+    "StartTextOffset": 333,
+    "EndTextOffset": 348,
+    "Text": "Items.JonasWatch"
+  }
+]

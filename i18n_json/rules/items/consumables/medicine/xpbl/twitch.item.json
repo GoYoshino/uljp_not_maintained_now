@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 227,
+    "Text": "twitch"
+  },
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 239,
+    "Text": "Twitch"
+  },
+  {
+    "HeaderOffset": 275,
+    "StartTextOffset": 281,
+    "EndTextOffset": 305,
+    "Text": "Improves twitch reflexes."
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 323,
+    "Text": "Items.Twitch"
+  },
+  {
+    "HeaderOffset": 514,
+    "StartTextOffset": 520,
+    "EndTextOffset": 536,
+    "Text": "TwitchConsumation"
+  }
+]

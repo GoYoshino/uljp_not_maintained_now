@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 284,
+    "Text": "crawlerStinger"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 305,
+    "Text": "Crawler Stinger"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 398,
+    "Text": "The venom sacks of this huge stinger are still full."
+  },
+  {
+    "HeaderOffset": 399,
+    "StartTextOffset": 405,
+    "EndTextOffset": 418,
+    "Text": "Components.184"
+  },
+  {
+    "HeaderOffset": 687,
+    "StartTextOffset": 693,
+    "EndTextOffset": 699,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 741,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 742,
+    "StartTextOffset": 748,
+    "EndTextOffset": 760,
+    "Text": "CrawlerPoison"
+  }
+]

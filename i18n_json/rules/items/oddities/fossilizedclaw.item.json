@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 240,
+    "Text": "Oddity.FossilizedClaw"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 261,
+    "Text": "Fossilized Claw"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 397,
+    "Text": "A curved fossilized claw of some long extinct animal. It's still pointy enough to rupture skin."
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 368,
+    "Text": " curved fossilized claw of some long extinct animal. It's still p"
+  },
+  {
+    "HeaderOffset": 398,
+    "StartTextOffset": 404,
+    "EndTextOffset": 424,
+    "Text": "Oddity.FossilizedClaw"
+  }
+]

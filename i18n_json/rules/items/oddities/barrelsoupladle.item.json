@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 241,
+    "Text": "Oddity.BarrelSoupLadle"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 264,
+    "Text": "Barrel Soup Ladle"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 420,
+    "Text": "A plain ladle connected to a long pipe. It has to be long enough so that zoners can scrap the bottom of the barrel."
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 371,
+    "Text": " plain ladle connected to a long pipe. It has to be long enough s"
+  },
+  {
+    "HeaderOffset": 421,
+    "StartTextOffset": 427,
+    "EndTextOffset": 448,
+    "Text": "Oddity.BarrelSoupLadle"
+  }
+]

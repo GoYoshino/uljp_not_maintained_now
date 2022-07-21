@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 251,
+    "Text": "jonSpecial"
+  },
+  {
+    "HeaderOffset": 252,
+    "StartTextOffset": 258,
+    "EndTextOffset": 270,
+    "Text": "Jon's Special"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 445,
+    "Text": "A dish made from various meats, mushrooms - and exotic spices. Absolutely mouth-watering, but is it really worth two hundred charons?"
+  },
+  {
+    "HeaderOffset": 446,
+    "StartTextOffset": 452,
+    "EndTextOffset": 458,
+    "Text": "Food.13"
+  },
+  {
+    "HeaderOffset": 709,
+    "StartTextOffset": 715,
+    "EndTextOffset": 729,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 756,
+    "StartTextOffset": 762,
+    "EndTextOffset": 771,
+    "Text": "FixedValue"
+  },
+  {
+    "HeaderOffset": 798,
+    "StartTextOffset": 804,
+    "EndTextOffset": 811,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 812,
+    "StartTextOffset": 818,
+    "EndTextOffset": 827,
+    "Text": "jonSpecial"
+  },
+  {
+    "HeaderOffset": 853,
+    "StartTextOffset": 859,
+    "EndTextOffset": 866,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 867,
+    "StartTextOffset": 873,
+    "EndTextOffset": 885,
+    "Text": "Jon's Special"
+  }
+]

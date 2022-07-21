@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 402,
+    "StartTextOffset": 408,
+    "EndTextOffset": 434,
+    "Text": "component.infusedPigLeather"
+  },
+  {
+    "HeaderOffset": 435,
+    "StartTextOffset": 441,
+    "EndTextOffset": 459,
+    "Text": "Infused Pig Leather"
+  },
+  {
+    "HeaderOffset": 495,
+    "StartTextOffset": 501,
+    "EndTextOffset": 636,
+    "Text": "Pig skin can be turned into a suit of leather armor. Its defensive properties have been further enhanced by infusing super steel fiber."
+  },
+  {
+    "HeaderOffset": 637,
+    "StartTextOffset": 643,
+    "EndTextOffset": 656,
+    "Text": "Components.283"
+  },
+  {
+    "HeaderOffset": 1149,
+    "StartTextOffset": 1155,
+    "EndTextOffset": 1163,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1231,
+    "StartTextOffset": 1237,
+    "EndTextOffset": 1248,
+    "Text": "Constitution"
+  },
+  {
+    "HeaderOffset": 1274,
+    "StartTextOffset": 1280,
+    "EndTextOffset": 1295,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1296,
+    "StartTextOffset": 1302,
+    "EndTextOffset": 1372,
+    "Text": "This {0} is made of durable pig leather infused with super steel fiber."
+  },
+  {
+    "HeaderOffset": 1382,
+    "StartTextOffset": 1388,
+    "EndTextOffset": 1401,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1402,
+    "StartTextOffset": 1408,
+    "EndTextOffset": 1418,
+    "Text": "Infused Pig"
+  },
+  {
+    "HeaderOffset": 1428,
+    "StartTextOffset": 1434,
+    "EndTextOffset": 1455,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1456,
+    "StartTextOffset": 1462,
+    "EndTextOffset": 1534,
+    "Text": "These {0} are made of durable pig leather infused with super steel fiber."
+  },
+  {
+    "HeaderOffset": 1561,
+    "StartTextOffset": 1567,
+    "EndTextOffset": 1579,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1610,
+    "StartTextOffset": 1616,
+    "EndTextOffset": 1623,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1654,
+    "StartTextOffset": 1660,
+    "EndTextOffset": 1667,
+    "Text": "Infusion"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 297,
+    "Text": "case.Caliber_9"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 311,
+    "Text": "9mm Case"
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 377,
+    "Text": "An empty 9mm bullet case."
+  },
+  {
+    "HeaderOffset": 378,
+    "StartTextOffset": 384,
+    "EndTextOffset": 390,
+    "Text": "Ammo.25"
+  },
+  {
+    "HeaderOffset": 661,
+    "StartTextOffset": 667,
+    "EndTextOffset": 675,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 725,
+    "Text": "CaseType"
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 459,
+    "StartTextOffset": 465,
+    "EndTextOffset": 479,
+    "Text": "psiCrabCarapace"
+  },
+  {
+    "HeaderOffset": 480,
+    "StartTextOffset": 486,
+    "EndTextOffset": 502,
+    "Text": "Psi Crab Carapace"
+  },
+  {
+    "HeaderOffset": 538,
+    "StartTextOffset": 544,
+    "EndTextOffset": 713,
+    "Text": "In addition to being tough, psi crab carapace also naturally increases psionic regeneration. It's very heavy though. It could probably be used to augment certain armors."
+  },
+  {
+    "HeaderOffset": 714,
+    "StartTextOffset": 720,
+    "EndTextOffset": 745,
+    "Text": "Components.PsiCrabCarapace"
+  },
+  {
+    "HeaderOffset": 1316,
+    "StartTextOffset": 1322,
+    "EndTextOffset": 1330,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1344,
+    "StartTextOffset": 1350,
+    "EndTextOffset": 1356,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1438,
+    "StartTextOffset": 1444,
+    "EndTextOffset": 1454,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1455,
+    "StartTextOffset": 1461,
+    "EndTextOffset": 1468,
+    "Text": "Psi Crab"
+  },
+  {
+    "HeaderOffset": 1478,
+    "StartTextOffset": 1484,
+    "EndTextOffset": 1499,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1500,
+    "StartTextOffset": 1506,
+    "EndTextOffset": 1623,
+    "Text": "It's reinforced with psi crab carapace that increases the penetration threshold and the wearer's psionic regeneration."
+  },
+  {
+    "HeaderOffset": 1633,
+    "StartTextOffset": 1639,
+    "EndTextOffset": 1646,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1647,
+    "StartTextOffset": 1653,
+    "EndTextOffset": 1669,
+    "Text": "Psi Crab Carapace"
+  },
+  {
+    "HeaderOffset": 1696,
+    "StartTextOffset": 1702,
+    "EndTextOffset": 1715,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1729,
+    "StartTextOffset": 1735,
+    "EndTextOffset": 1749,
+    "Text": "ShieldShortName"
+  },
+  {
+    "HeaderOffset": 1750,
+    "StartTextOffset": 1756,
+    "EndTextOffset": 1763,
+    "Text": "Psi Crab"
+  }
+]

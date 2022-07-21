@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 281,
+    "StartTextOffset": 287,
+    "EndTextOffset": 305,
+    "Text": "chemicalPistolFrame"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 332,
+    "Text": "Chemical Pistol Frame"
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 467,
+    "Text": "You can attach a chemical collector and a dispenser on this frame to create a chemical pistol."
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 463,
+    "Text": "ou can attach a chemical collector and a dispenser on this frame to create a chemical pis"
+  },
+  {
+    "HeaderOffset": 468,
+    "StartTextOffset": 474,
+    "EndTextOffset": 495,
+    "Text": "chemicalPistol.1.frame"
+  },
+  {
+    "HeaderOffset": 762,
+    "StartTextOffset": 768,
+    "EndTextOffset": 776,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 790,
+    "StartTextOffset": 796,
+    "EndTextOffset": 804,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 835,
+    "StartTextOffset": 841,
+    "EndTextOffset": 859,
+    "Text": "ChemicalPistolIndex"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 285,
+    "Text": "VehiclePart.ScrappyVehicleBattery150Broken"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 325,
+    "Text": "Broken Scrappy Vehicle Battery 150"
+  },
+  {
+    "HeaderOffset": 361,
+    "StartTextOffset": 367,
+    "EndTextOffset": 431,
+    "Text": "It's a small unmarked vehicle battery. It's broken beyond repair."
+  },
+  {
+    "HeaderOffset": 432,
+    "StartTextOffset": 438,
+    "EndTextOffset": 479,
+    "Text": "VehiclePart.ScrappyVehicleBattery150Broken"
+  }
+]

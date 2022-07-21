@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 310,
+    "Text": "Stable Neural Amplifier"
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 506,
+    "Text": "When added to a psionic device it increases the wearer's psionic peak in a stable manner, amplifying the critical psionic discharge without any drawbacks."
+  },
+  {
+    "HeaderOffset": 507,
+    "StartTextOffset": 513,
+    "EndTextOffset": 526,
+    "Text": "Components.207"
+  },
+  {
+    "HeaderOffset": 869,
+    "StartTextOffset": 875,
+    "EndTextOffset": 885,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 899,
+    "StartTextOffset": 905,
+    "EndTextOffset": 911,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 942,
+    "StartTextOffset": 948,
+    "EndTextOffset": 968,
+    "Text": "BaseCritModifierBonus"
+  },
+  {
+    "HeaderOffset": 986,
+    "StartTextOffset": 992,
+    "EndTextOffset": 1018,
+    "Text": "CritModifierBonusPerQuality"
+  },
+  {
+    "HeaderOffset": 1052,
+    "StartTextOffset": 1058,
+    "EndTextOffset": 1072,
+    "Text": "EnhancementCode"
+  },
+  {
+    "HeaderOffset": 1073,
+    "StartTextOffset": 1079,
+    "EndTextOffset": 1100,
+    "Text": "2StableNeuralAmplifier"
+  },
+  {
+    "HeaderOffset": 1126,
+    "StartTextOffset": 1132,
+    "EndTextOffset": 1153,
+    "Text": "PsionicHeadbandNameSub"
+  },
+  {
+    "HeaderOffset": 1154,
+    "StartTextOffset": 1160,
+    "EndTextOffset": 1168,
+    "Text": "Amplifier"
+  },
+  {
+    "HeaderOffset": 1194,
+    "StartTextOffset": 1200,
+    "EndTextOffset": 1218,
+    "Text": "PsionicHeadbandDesc"
+  },
+  {
+    "HeaderOffset": 1219,
+    "StartTextOffset": 1225,
+    "EndTextOffset": 1313,
+    "Text": "Due to neural amplifier at the top, the wearer's critical psionic discharge is increased."
+  }
+]

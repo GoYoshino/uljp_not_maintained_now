@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "blueprint.recycleItem"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 273,
+    "Text": "Blueprint: Recycle Item"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 362,
+    "Text": "Contains instructions on how to recycle an item."
+  },
+  {
+    "HeaderOffset": 363,
+    "StartTextOffset": 369,
+    "EndTextOffset": 377,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 509,
+    "StartTextOffset": 515,
+    "EndTextOffset": 525,
+    "Text": "recycleItem"
+  },
+  {
+    "HeaderOffset": 584,
+    "StartTextOffset": 590,
+    "EndTextOffset": 609,
+    "Text": "blueprintconsumation"
+  }
+]

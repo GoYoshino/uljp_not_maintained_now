@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 728,
+    "StartTextOffset": 734,
+    "EndTextOffset": 737,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 786,
+    "StartTextOffset": 792,
+    "EndTextOffset": 804,
+    "Text": "wep.fn2500_rf"
+  },
+  {
+    "HeaderOffset": 805,
+    "StartTextOffset": 811,
+    "EndTextOffset": 830,
+    "Text": "Refurbished NF F2500"
+  },
+  {
+    "HeaderOffset": 866,
+    "StartTextOffset": 872,
+    "EndTextOffset": 955,
+    "Text": "A compact old world 7.62mm assault rifle with high burst precision and rate of fire."
+  },
+  {
+    "HeaderOffset": 956,
+    "StartTextOffset": 962,
+    "EndTextOffset": 976,
+    "Text": "Weapon.F2500_rf"
+  },
+  {
+    "HeaderOffset": 1658,
+    "StartTextOffset": 1664,
+    "EndTextOffset": 1667,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1717,
+    "StartTextOffset": 1723,
+    "EndTextOffset": 1733,
+    "Text": "rapidReload"
+  }
+]

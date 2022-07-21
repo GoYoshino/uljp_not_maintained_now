@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 284,
+    "Text": "lingula"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 297,
+    "Text": "Lingula"
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 391,
+    "Text": "Tall rare fungus that grows out of certain seashells."
+  },
+  {
+    "HeaderOffset": 392,
+    "StartTextOffset": 398,
+    "EndTextOffset": 405,
+    "Text": "Plants.9"
+  },
+  {
+    "HeaderOffset": 675,
+    "StartTextOffset": 681,
+    "EndTextOffset": 687,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 729,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 730,
+    "StartTextOffset": 736,
+    "EndTextOffset": 750,
+    "Text": "Xpbl\\Salivinine"
+  }
+]

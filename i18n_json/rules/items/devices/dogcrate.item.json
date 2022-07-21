@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 209,
+    "StartTextOffset": 215,
+    "EndTextOffset": 222,
+    "Text": "dogCrate"
+  },
+  {
+    "HeaderOffset": 223,
+    "StartTextOffset": 229,
+    "EndTextOffset": 237,
+    "Text": "ケージ／Dog Crate"
+  },
+  {
+    "HeaderOffset": 273,
+    "StartTextOffset": 279,
+    "EndTextOffset": 322,
+    "Text": "小型の動物を収容し、持ち運ぶことができる。"
+  },
+  {
+    "HeaderOffset": 323,
+    "StartTextOffset": 329,
+    "EndTextOffset": 338,
+    "Text": "Devices.20"
+  }
+]

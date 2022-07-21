@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 778,
+    "StartTextOffset": 784,
+    "EndTextOffset": 787,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 828,
+    "StartTextOffset": 834,
+    "EndTextOffset": 842,
+    "Text": "redDragon"
+  },
+  {
+    "HeaderOffset": 843,
+    "StartTextOffset": 849,
+    "EndTextOffset": 858,
+    "Text": "Red Dragon"
+  },
+  {
+    "HeaderOffset": 894,
+    "StartTextOffset": 900,
+    "EndTextOffset": 978,
+    "Text": "An exquisitely made black and red katana, equipped with an energy edge emitter."
+  },
+  {
+    "HeaderOffset": 979,
+    "StartTextOffset": 985,
+    "EndTextOffset": 1000,
+    "Text": "xpbl_Weapons.181"
+  },
+  {
+    "HeaderOffset": 1394,
+    "StartTextOffset": 1400,
+    "EndTextOffset": 1404,
+    "Text": "xpblm"
+  },
+  {
+    "HeaderOffset": 1916,
+    "StartTextOffset": 1922,
+    "EndTextOffset": 1928,
+    "Text": "carveUp"
+  },
+  {
+    "HeaderOffset": 1951,
+    "StartTextOffset": 1957,
+    "EndTextOffset": 1965,
+    "Text": "energyCut"
+  }
+]

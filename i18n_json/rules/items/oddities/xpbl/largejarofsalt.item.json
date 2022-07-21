@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 227,
+    "StartTextOffset": 233,
+    "EndTextOffset": 253,
+    "Text": "Oddity.LargeJarOfSalt"
+  },
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 276,
+    "Text": "Large Jar of Salt"
+  },
+  {
+    "HeaderOffset": 312,
+    "StartTextOffset": 318,
+    "EndTextOffset": 473,
+    "Text": "Looks like salt but smells funny. The jar is marked with a circle with a single horizontal line in the middle. You probably shouldn't use this for cooking."
+  },
+  {
+    "HeaderOffset": 474,
+    "StartTextOffset": 480,
+    "EndTextOffset": 500,
+    "Text": "Oddity.LargeJarOfSalt"
+  }
+]

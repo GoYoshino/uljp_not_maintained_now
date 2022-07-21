@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 710,
+    "StartTextOffset": 716,
+    "EndTextOffset": 719,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 789,
+    "Text": "wep.beretta99_rf"
+  },
+  {
+    "HeaderOffset": 790,
+    "StartTextOffset": 796,
+    "EndTextOffset": 818,
+    "Text": "Refurbished Bieretta 99"
+  },
+  {
+    "HeaderOffset": 854,
+    "StartTextOffset": 860,
+    "EndTextOffset": 1008,
+    "Text": "This old world 5mm handgun traded some of its firepower for more rapid firing rate. Has a silencer attached to it and features an extended magazine."
+  },
+  {
+    "HeaderOffset": 1009,
+    "StartTextOffset": 1015,
+    "EndTextOffset": 1033,
+    "Text": "Weapon.Beretta99_rf"
+  },
+  {
+    "HeaderOffset": 1709,
+    "StartTextOffset": 1715,
+    "EndTextOffset": 1718,
+    "Text": "uwep"
+  }
+]

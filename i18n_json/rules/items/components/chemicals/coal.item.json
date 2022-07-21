@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 270,
+    "StartTextOffset": 276,
+    "EndTextOffset": 289,
+    "Text": "Component.Coal"
+  },
+  {
+    "HeaderOffset": 290,
+    "StartTextOffset": 296,
+    "EndTextOffset": 299,
+    "Text": "Coal"
+  },
+  {
+    "HeaderOffset": 335,
+    "StartTextOffset": 341,
+    "EndTextOffset": 373,
+    "Text": "Commonly used to fuel camp fires."
+  },
+  {
+    "HeaderOffset": 374,
+    "StartTextOffset": 380,
+    "EndTextOffset": 392,
+    "Text": "Components.64"
+  },
+  {
+    "HeaderOffset": 635,
+    "StartTextOffset": 641,
+    "EndTextOffset": 655,
+    "Text": "RefuelFireplace"
+  }
+]

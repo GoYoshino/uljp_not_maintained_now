@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 396,
+    "StartTextOffset": 402,
+    "EndTextOffset": 428,
+    "Text": "component.caveHopperLeather"
+  },
+  {
+    "HeaderOffset": 429,
+    "StartTextOffset": 435,
+    "EndTextOffset": 453,
+    "Text": "Cave Hopper Leather"
+  },
+  {
+    "HeaderOffset": 489,
+    "StartTextOffset": 495,
+    "EndTextOffset": 594,
+    "Text": "Cave hopper skin can be turned into a suit of leather armor, but it provides only meager protection."
+  },
+  {
+    "HeaderOffset": 490,
+    "StartTextOffset": 496,
+    "EndTextOffset": 562,
+    "Text": "ave hopper skin can be turned into a suit of leather armor, but it "
+  },
+  {
+    "HeaderOffset": 595,
+    "StartTextOffset": 601,
+    "EndTextOffset": 612,
+    "Text": "Components.1"
+  },
+  {
+    "HeaderOffset": 1085,
+    "StartTextOffset": 1091,
+    "EndTextOffset": 1099,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1167,
+    "StartTextOffset": 1173,
+    "EndTextOffset": 1179,
+    "Text": "Agility"
+  },
+  {
+    "HeaderOffset": 1205,
+    "StartTextOffset": 1211,
+    "EndTextOffset": 1226,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1227,
+    "StartTextOffset": 1233,
+    "EndTextOffset": 1273,
+    "Text": "This {0} is made of cave hopper leather. "
+  },
+  {
+    "HeaderOffset": 1283,
+    "StartTextOffset": 1289,
+    "EndTextOffset": 1302,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1303,
+    "StartTextOffset": 1309,
+    "EndTextOffset": 1319,
+    "Text": "Cave Hopper"
+  },
+  {
+    "HeaderOffset": 1329,
+    "StartTextOffset": 1335,
+    "EndTextOffset": 1356,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1357,
+    "StartTextOffset": 1363,
+    "EndTextOffset": 1405,
+    "Text": "These {0} are made of cave hopper leather. "
+  },
+  {
+    "HeaderOffset": 1432,
+    "StartTextOffset": 1438,
+    "EndTextOffset": 1450,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1481,
+    "StartTextOffset": 1487,
+    "EndTextOffset": 1494,
+    "Text": "MatIndex"
+  }
+]

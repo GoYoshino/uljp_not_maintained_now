@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 234,
+    "Text": "Oddity.TrainLog"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 249,
+    "Text": "Train Log"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 382,
+    "Text": "Old freight train log with all the cargoes of several weeks listed. Interesting but useless."
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 370,
+    "Text": "ld freight train log with all the cargoes of several weeks listed. Interesting "
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 403,
+    "Text": "Oddity.TrainLog"
+  }
+]

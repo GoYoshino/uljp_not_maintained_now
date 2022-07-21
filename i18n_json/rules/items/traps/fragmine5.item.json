@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 244,
+    "Text": "fragMine5"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 264,
+    "Text": "Frag Mine Mk V"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 379,
+    "Text": "This anti-personnel mine is designed to disperse shrapnel upon detonating."
+  },
+  {
+    "HeaderOffset": 380,
+    "StartTextOffset": 386,
+    "EndTextOffset": 398,
+    "Text": "Explosives.54"
+  },
+  {
+    "HeaderOffset": 620,
+    "StartTextOffset": 626,
+    "EndTextOffset": 638,
+    "Text": "PlaceFragMine"
+  },
+  {
+    "HeaderOffset": 665,
+    "StartTextOffset": 671,
+    "EndTextOffset": 675,
+    "Text": "power"
+  }
+]

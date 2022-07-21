@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 234,
+    "Text": "Oddity.ToyRobot"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 249,
+    "Text": "Toy Robot"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 347,
+    "Text": "A colorful toy robot that can be reconfigured into a car."
+  },
+  {
+    "HeaderOffset": 348,
+    "StartTextOffset": 354,
+    "EndTextOffset": 368,
+    "Text": "Oddity.ToyRobot"
+  }
+]

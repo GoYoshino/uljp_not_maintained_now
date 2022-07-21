@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 240,
+    "Text": "electricTorch"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 262,
+    "Text": "Electric Lantern"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 367,
+    "Text": "A lightweight electric lantern that can be attached to the belt."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 383,
+    "Text": "Devices.29"
+  },
+  {
+    "HeaderOffset": 578,
+    "StartTextOffset": 584,
+    "EndTextOffset": 600,
+    "Text": "ElectricTorchAura"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 254,
+    "Text": "Oddity.AegisIncorporatedBadge"
+  },
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 284,
+    "Text": "Aegis Incorporated Badge"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 410,
+    "Text": "A badge, typically worn on the chest or the cap by the members of Aegis Incorporated."
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 391,
+    "Text": " badge, typically worn on the chest or the cap by the members of "
+  },
+  {
+    "HeaderOffset": 411,
+    "StartTextOffset": 417,
+    "EndTextOffset": 445,
+    "Text": "Oddity.AegisIncorporatedBadge"
+  }
+]

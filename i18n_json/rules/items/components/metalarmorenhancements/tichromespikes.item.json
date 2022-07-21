@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 405,
+    "Text": "tiChromeSpikes"
+  },
+  {
+    "HeaderOffset": 406,
+    "StartTextOffset": 412,
+    "EndTextOffset": 426,
+    "Text": "TiChrome Spikes"
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 540,
+    "Text": "It's a set of tichrome spikes. They can be mounted on a metal armor suit."
+  },
+  {
+    "HeaderOffset": 541,
+    "StartTextOffset": 547,
+    "EndTextOffset": 560,
+    "Text": "Components.134"
+  },
+  {
+    "HeaderOffset": 896,
+    "StartTextOffset": 902,
+    "EndTextOffset": 910,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1079,
+    "StartTextOffset": 1085,
+    "EndTextOffset": 1091,
+    "Text": "IsSpike"
+  },
+  {
+    "HeaderOffset": 1119,
+    "StartTextOffset": 1125,
+    "EndTextOffset": 1137,
+    "Text": "GloveEnhIndex"
+  },
+  {
+    "HeaderOffset": 1167,
+    "StartTextOffset": 1173,
+    "EndTextOffset": 1180,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1181,
+    "StartTextOffset": 1187,
+    "EndTextOffset": 1194,
+    "Text": "TiChrome"
+  }
+]

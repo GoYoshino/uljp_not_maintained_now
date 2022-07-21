@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 452,
+    "StartTextOffset": 458,
+    "EndTextOffset": 476,
+    "Text": "Mutated Dog Leather"
+  },
+  {
+    "HeaderOffset": 512,
+    "StartTextOffset": 518,
+    "EndTextOffset": 585,
+    "Text": "This skin can be turned into a suit of acid resistant leather armor."
+  },
+  {
+    "HeaderOffset": 586,
+    "StartTextOffset": 592,
+    "EndTextOffset": 603,
+    "Text": "Components.2"
+  },
+  {
+    "HeaderOffset": 1132,
+    "StartTextOffset": 1138,
+    "EndTextOffset": 1146,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1160,
+    "StartTextOffset": 1166,
+    "EndTextOffset": 1174,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 1220,
+    "StartTextOffset": 1226,
+    "EndTextOffset": 1235,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1253,
+    "StartTextOffset": 1259,
+    "EndTextOffset": 1270,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1304,
+    "StartTextOffset": 1310,
+    "EndTextOffset": 1325,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1326,
+    "StartTextOffset": 1332,
+    "EndTextOffset": 1393,
+    "Text": "This {0} is made from leather of mutated dog. It sure is ugly."
+  },
+  {
+    "HeaderOffset": 1403,
+    "StartTextOffset": 1409,
+    "EndTextOffset": 1422,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1423,
+    "StartTextOffset": 1429,
+    "EndTextOffset": 1439,
+    "Text": "Mutated Dog"
+  },
+  {
+    "HeaderOffset": 1449,
+    "StartTextOffset": 1455,
+    "EndTextOffset": 1476,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1477,
+    "StartTextOffset": 1483,
+    "EndTextOffset": 1549,
+    "Text": "These {0} are made from leather of mutated dog. They sure are ugly."
+  },
+  {
+    "HeaderOffset": 1576,
+    "StartTextOffset": 1582,
+    "EndTextOffset": 1594,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1625,
+    "StartTextOffset": 1631,
+    "EndTextOffset": 1638,
+    "Text": "MatIndex"
+  }
+]

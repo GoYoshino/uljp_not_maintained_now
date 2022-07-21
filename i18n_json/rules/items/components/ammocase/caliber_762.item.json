@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 278,
+    "StartTextOffset": 284,
+    "EndTextOffset": 299,
+    "Text": "case.Caliber_762"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 316,
+    "Text": "7.62mm Case"
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 385,
+    "Text": "An empty 7.62mm bullet case."
+  },
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 398,
+    "Text": "Ammo.15"
+  },
+  {
+    "HeaderOffset": 669,
+    "StartTextOffset": 675,
+    "EndTextOffset": 683,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 720,
+    "StartTextOffset": 726,
+    "EndTextOffset": 733,
+    "Text": "CaseType"
+  }
+]

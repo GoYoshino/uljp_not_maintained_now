@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 653,
+    "StartTextOffset": 659,
+    "EndTextOffset": 662,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 683,
+    "StartTextOffset": 689,
+    "EndTextOffset": 705,
+    "Text": "Weapon.LuckyKnife"
+  },
+  {
+    "HeaderOffset": 706,
+    "StartTextOffset": 712,
+    "EndTextOffset": 734,
+    "Text": "Kohlmeier's Lucky Knife"
+  },
+  {
+    "HeaderOffset": 770,
+    "StartTextOffset": 776,
+    "EndTextOffset": 907,
+    "Text": "This is an old but well-made knife. The many scratches on the blade's surface suggest that it has seen a lot of action in its life."
+  },
+  {
+    "HeaderOffset": 908,
+    "StartTextOffset": 914,
+    "EndTextOffset": 930,
+    "Text": "Weapon.LuckyKnife"
+  }
+]

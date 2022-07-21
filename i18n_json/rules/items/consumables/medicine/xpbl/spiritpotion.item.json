@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 239,
+    "Text": "spiritPotion"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 258,
+    "Text": "Spirit Potion"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 361,
+    "Text": "Vile purple-red acridly smelling mixture inside a human skull."
+  },
+  {
+    "HeaderOffset": 362,
+    "StartTextOffset": 368,
+    "EndTextOffset": 378,
+    "Text": "xpbl_Meds.0"
+  },
+  {
+    "HeaderOffset": 570,
+    "StartTextOffset": 576,
+    "EndTextOffset": 598,
+    "Text": "SpiritPotionConsumption"
+  }
+]

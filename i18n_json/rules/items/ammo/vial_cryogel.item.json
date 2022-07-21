@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 325,
+    "Text": "Ammo.Vial_Cryogel"
+  },
+  {
+    "HeaderOffset": 326,
+    "StartTextOffset": 332,
+    "EndTextOffset": 343,
+    "Text": "Cryogel Vial"
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 432,
+    "Text": "Can be loaded into a cryo based chemical weapon."
+  },
+  {
+    "HeaderOffset": 433,
+    "StartTextOffset": 439,
+    "EndTextOffset": 452,
+    "Text": "Components.176"
+  },
+  {
+    "HeaderOffset": 694,
+    "StartTextOffset": 700,
+    "EndTextOffset": 703,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 713,
+    "StartTextOffset": 719,
+    "EndTextOffset": 725,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 735,
+    "StartTextOffset": 741,
+    "EndTextOffset": 746,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 756,
+    "StartTextOffset": 762,
+    "EndTextOffset": 770,
+    "Text": "ldsingcur"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 238,
+    "Text": "foundryPsiEmitter"
+  },
+  {
+    "HeaderOffset": 239,
+    "StartTextOffset": 245,
+    "EndTextOffset": 257,
+    "Text": "Psi-amplifier"
+  },
+  {
+    "HeaderOffset": 293,
+    "StartTextOffset": 299,
+    "EndTextOffset": 372,
+    "Text": "This device is made specifically to attract the Beast. At least in theory."
+  },
+  {
+    "HeaderOffset": 373,
+    "StartTextOffset": 379,
+    "EndTextOffset": 385,
+    "Text": "Plot.53"
+  },
+  {
+    "HeaderOffset": 569,
+    "StartTextOffset": 575,
+    "EndTextOffset": 591,
+    "Text": "placePsiAmplifier"
+  }
+]

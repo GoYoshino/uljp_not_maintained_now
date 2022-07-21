@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "tacticalVestBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 274,
+    "Text": "Blueprint: Tactical Vest"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 370,
+    "Text": "Contains instructions on how to create a tactical vest."
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 385,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 517,
+    "StartTextOffset": 523,
+    "EndTextOffset": 534,
+    "Text": "tacticalVest"
+  },
+  {
+    "HeaderOffset": 593,
+    "StartTextOffset": 599,
+    "EndTextOffset": 618,
+    "Text": "blueprintconsumation"
+  }
+]

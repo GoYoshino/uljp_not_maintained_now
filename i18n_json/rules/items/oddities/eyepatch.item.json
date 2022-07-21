@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 234,
+    "Text": "Oddity.EyePatch"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 249,
+    "Text": "Eye Patch"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 390,
+    "Text": "An icky old eye patch. Putting this on without any antibiotics handy might actually cost you an eye."
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 356,
+    "Text": "n icky old eye patch. Putting this on without any antibiotics han"
+  },
+  {
+    "HeaderOffset": 391,
+    "StartTextOffset": 397,
+    "EndTextOffset": 411,
+    "Text": "Oddity.EyePatch"
+  }
+]

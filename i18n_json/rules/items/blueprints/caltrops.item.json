@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 241,
+    "Text": "blueprint.caltrops"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 266,
+    "Text": "Blueprint: Caltrops"
+  },
+  {
+    "HeaderOffset": 302,
+    "StartTextOffset": 308,
+    "EndTextOffset": 355,
+    "Text": "Contains instructions on how to create caltrops."
+  },
+  {
+    "HeaderOffset": 356,
+    "StartTextOffset": 362,
+    "EndTextOffset": 370,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 502,
+    "StartTextOffset": 508,
+    "EndTextOffset": 515,
+    "Text": "caltrops"
+  },
+  {
+    "HeaderOffset": 574,
+    "StartTextOffset": 580,
+    "EndTextOffset": 599,
+    "Text": "blueprintconsumation"
+  }
+]

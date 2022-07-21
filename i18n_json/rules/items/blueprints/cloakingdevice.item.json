@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 246,
+    "Text": "cloakingDeviceBlueprint"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 278,
+    "Text": "Blueprint: Cloaking Device"
+  },
+  {
+    "HeaderOffset": 314,
+    "StartTextOffset": 320,
+    "EndTextOffset": 385,
+    "Text": "Contains instructions on how to create a personal cloaking device."
+  },
+  {
+    "HeaderOffset": 386,
+    "StartTextOffset": 392,
+    "EndTextOffset": 400,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 532,
+    "StartTextOffset": 538,
+    "EndTextOffset": 551,
+    "Text": "cloakingDevice"
+  },
+  {
+    "HeaderOffset": 610,
+    "StartTextOffset": 616,
+    "EndTextOffset": 635,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 295,
+    "Text": "prednisoneSolution"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 320,
+    "Text": "Prednisone Solution"
+  },
+  {
+    "HeaderOffset": 356,
+    "StartTextOffset": 362,
+    "EndTextOffset": 517,
+    "Text": "Prednisone belongs to a class of drugs known as corticosteroids. It decreases your immune system's response to various diseases to reduce certain symptoms."
+  },
+  {
+    "HeaderOffset": 518,
+    "StartTextOffset": 524,
+    "EndTextOffset": 552,
+    "Text": "Components.PrednisoneSolution"
+  },
+  {
+    "HeaderOffset": 803,
+    "StartTextOffset": 809,
+    "EndTextOffset": 815,
+    "Text": "Biology"
+  }
+]

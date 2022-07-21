@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 246,
+    "Text": "food.burrowerBurger"
+  },
+  {
+    "HeaderOffset": 247,
+    "StartTextOffset": 253,
+    "EndTextOffset": 267,
+    "Text": "Burrower Burger"
+  },
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 375,
+    "Text": "Detoxicated grilled burrower meat in rootbread with mushroom sauce."
+  },
+  {
+    "HeaderOffset": 376,
+    "StartTextOffset": 382,
+    "EndTextOffset": 387,
+    "Text": "Food.2"
+  },
+  {
+    "HeaderOffset": 617,
+    "StartTextOffset": 623,
+    "EndTextOffset": 637,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 663,
+    "StartTextOffset": 669,
+    "EndTextOffset": 676,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 677,
+    "StartTextOffset": 683,
+    "EndTextOffset": 696,
+    "Text": "burrowerBurger"
+  },
+  {
+    "HeaderOffset": 706,
+    "StartTextOffset": 712,
+    "EndTextOffset": 719,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 720,
+    "StartTextOffset": 726,
+    "EndTextOffset": 740,
+    "Text": "Burrower Burger"
+  }
+]

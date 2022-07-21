@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 264,
+    "Text": "rustingBlobTrap1"
+  },
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 292,
+    "Text": "Rusting Acid Blob Trap"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 406,
+    "Text": "Special chemical trap that entangles the victim in rusting acidic sludge."
+  },
+  {
+    "HeaderOffset": 407,
+    "StartTextOffset": 413,
+    "EndTextOffset": 426,
+    "Text": "Explosives.190"
+  },
+  {
+    "HeaderOffset": 650,
+    "StartTextOffset": 656,
+    "EndTextOffset": 679,
+    "Text": "PlaceRustingAcidBlobTrap"
+  },
+  {
+    "HeaderOffset": 706,
+    "StartTextOffset": 712,
+    "EndTextOffset": 716,
+    "Text": "power"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 399,
+    "Text": "galvanicFoamPadding"
+  },
+  {
+    "HeaderOffset": 400,
+    "StartTextOffset": 406,
+    "EndTextOffset": 426,
+    "Text": "Galvanic Foam Padding"
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 593,
+    "Text": "A set of galvanic foam blocks that can be used to pad leather armors and other gear to protect the wearer against electricity."
+  },
+  {
+    "HeaderOffset": 463,
+    "StartTextOffset": 469,
+    "EndTextOffset": 533,
+    "Text": " set of galvanic foam blocks that can be used to pad leather armo"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 612,
+    "Text": "Components.52"
+  },
+  {
+    "HeaderOffset": 1118,
+    "StartTextOffset": 1124,
+    "EndTextOffset": 1132,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1162,
+    "StartTextOffset": 1168,
+    "EndTextOffset": 1183,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1184,
+    "StartTextOffset": 1190,
+    "EndTextOffset": 1265,
+    "Text": "It's padded with galvanic foam that protects the wearer against electricity."
+  },
+  {
+    "HeaderOffset": 1292,
+    "StartTextOffset": 1298,
+    "EndTextOffset": 1330,
+    "Text": "MetalHelmetCritModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1365,
+    "StartTextOffset": 1371,
+    "EndTextOffset": 1397,
+    "Text": "MetalHelmetCritModifierBase"
+  },
+  {
+    "HeaderOffset": 1415,
+    "StartTextOffset": 1421,
+    "EndTextOffset": 1437,
+    "Text": "MetalHelmetPrefix"
+  },
+  {
+    "HeaderOffset": 1438,
+    "StartTextOffset": 1444,
+    "EndTextOffset": 1451,
+    "Text": "Galvanic"
+  },
+  {
+    "HeaderOffset": 1461,
+    "StartTextOffset": 1467,
+    "EndTextOffset": 1481,
+    "Text": "MetalHelmetDesc"
+  },
+  {
+    "HeaderOffset": 1482,
+    "StartTextOffset": 1488,
+    "EndTextOffset": 1594,
+    "Text": "It's padded with galvanic foam that protects the wearer against electricity and provides impact cushioning."
+  },
+  {
+    "HeaderOffset": 1604,
+    "StartTextOffset": 1610,
+    "EndTextOffset": 1618,
+    "Text": "BootsDesc"
+  },
+  {
+    "HeaderOffset": 1619,
+    "StartTextOffset": 1625,
+    "EndTextOffset": 1706,
+    "Text": "They are padded with insulating foam that protects the wearer against electricity."
+  },
+  {
+    "HeaderOffset": 1716,
+    "StartTextOffset": 1722,
+    "EndTextOffset": 1732,
+    "Text": "BootsPrefix"
+  },
+  {
+    "HeaderOffset": 1733,
+    "StartTextOffset": 1739,
+    "EndTextOffset": 1746,
+    "Text": "Galvanic"
+  }
+]

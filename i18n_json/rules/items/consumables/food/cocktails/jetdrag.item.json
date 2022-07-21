@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 250,
+    "Text": "cocktail.jetdrag"
+  },
+  {
+    "HeaderOffset": 251,
+    "StartTextOffset": 257,
+    "EndTextOffset": 263,
+    "Text": "Jetdrag"
+  },
+  {
+    "HeaderOffset": 299,
+    "StartTextOffset": 305,
+    "EndTextOffset": 367,
+    "Text": "Blue Eel blood mixed with cooked seaweed. Fishermen's favorite."
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 385,
+    "Text": "Food.Jetdrag"
+  },
+  {
+    "HeaderOffset": 616,
+    "StartTextOffset": 622,
+    "EndTextOffset": 636,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 662,
+    "StartTextOffset": 668,
+    "EndTextOffset": 675,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 676,
+    "StartTextOffset": 682,
+    "EndTextOffset": 688,
+    "Text": "jetdrag"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 711,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 712,
+    "StartTextOffset": 718,
+    "EndTextOffset": 724,
+    "Text": "Jetdrag"
+  }
+]

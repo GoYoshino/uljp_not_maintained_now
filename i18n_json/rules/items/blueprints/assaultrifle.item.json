@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 244,
+    "Text": "assaultRifleBlueprint"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 274,
+    "Text": "Blueprint: Assault Rifle"
+  },
+  {
+    "HeaderOffset": 310,
+    "StartTextOffset": 316,
+    "EndTextOffset": 371,
+    "Text": "Contains instructions on how to create an assault rifle."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 386,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 518,
+    "StartTextOffset": 524,
+    "EndTextOffset": 535,
+    "Text": "assaultRifle"
+  },
+  {
+    "HeaderOffset": 594,
+    "StartTextOffset": 600,
+    "EndTextOffset": 619,
+    "Text": "blueprintconsumation"
+  }
+]

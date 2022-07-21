@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 295,
+    "Text": "corrosiveAcidGland"
+  },
+  {
+    "HeaderOffset": 296,
+    "StartTextOffset": 302,
+    "EndTextOffset": 321,
+    "Text": "Corrosive Acid Gland"
+  },
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 472,
+    "Text": "This is the acid gland of a Deep Worm. With the right skills powerful corrosive acid can be extracted from it."
+  },
+  {
+    "HeaderOffset": 358,
+    "StartTextOffset": 364,
+    "EndTextOffset": 447,
+    "Text": "his is the acid gland of a Deep Worm. With the right skills powerful corrosive acid "
+  },
+  {
+    "HeaderOffset": 473,
+    "StartTextOffset": 479,
+    "EndTextOffset": 502,
+    "Text": "Items.CorrosiveAcidGland"
+  },
+  {
+    "HeaderOffset": 772,
+    "StartTextOffset": 778,
+    "EndTextOffset": 784,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 814,
+    "StartTextOffset": 820,
+    "EndTextOffset": 826,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 845,
+    "Text": "CorrosiveAcid"
+  }
+]

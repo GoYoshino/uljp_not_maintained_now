@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 281,
+    "Text": "scope"
+  },
+  {
+    "HeaderOffset": 282,
+    "StartTextOffset": 288,
+    "EndTextOffset": 292,
+    "Text": "Scope"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 527,
+    "Text": "A telescopic sight, commonly called a scope, is a sighting device that is based on an optical refracting telescope. It can be mounted on crossbows and rifles to increase the weapon's precision."
+  },
+  {
+    "HeaderOffset": 528,
+    "StartTextOffset": 534,
+    "EndTextOffset": 546,
+    "Text": "Components.70"
+  },
+  {
+    "HeaderOffset": 828,
+    "StartTextOffset": 834,
+    "EndTextOffset": 842,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 873,
+    "StartTextOffset": 879,
+    "EndTextOffset": 892,
+    "Text": "PrecisionBonus"
+  },
+  {
+    "HeaderOffset": 910,
+    "StartTextOffset": 916,
+    "EndTextOffset": 934,
+    "Text": "CriticalChanceBonus"
+  }
+]

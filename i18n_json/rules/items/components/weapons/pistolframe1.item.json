@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 291,
+    "StartTextOffset": 297,
+    "EndTextOffset": 308,
+    "Text": "pistolFrame1"
+  },
+  {
+    "HeaderOffset": 309,
+    "StartTextOffset": 315,
+    "EndTextOffset": 334,
+    "Text": "Pistol Frame: Hawker"
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 461,
+    "Text": "This frame is used to create a Hawker type pistol. It supports 5mm and 7.62mm barrels."
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 460,
+    "Text": "his frame is used to create a Hawker type pistol. It supports 5mm and 7.62mm barrels"
+  },
+  {
+    "HeaderOffset": 462,
+    "StartTextOffset": 468,
+    "EndTextOffset": 481,
+    "Text": "pistol.1.frame"
+  },
+  {
+    "HeaderOffset": 785,
+    "StartTextOffset": 791,
+    "EndTextOffset": 799,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 837,
+    "StartTextOffset": 843,
+    "EndTextOffset": 862,
+    "Text": "DamageSpreadModifier"
+  },
+  {
+    "HeaderOffset": 931,
+    "StartTextOffset": 937,
+    "EndTextOffset": 940,
+    "Text": "Name"
+  },
+  {
+    "HeaderOffset": 941,
+    "StartTextOffset": 947,
+    "EndTextOffset": 952,
+    "Text": "Hawker"
+  },
+  {
+    "HeaderOffset": 1003,
+    "StartTextOffset": 1009,
+    "EndTextOffset": 1028,
+    "Text": "SupportedBarrelTypes"
+  }
+]

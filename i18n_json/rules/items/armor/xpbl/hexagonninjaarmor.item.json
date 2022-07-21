@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 580,
+    "StartTextOffset": 586,
+    "EndTextOffset": 602,
+    "Text": "hexagonNinjaArmor"
+  },
+  {
+    "HeaderOffset": 603,
+    "StartTextOffset": 609,
+    "EndTextOffset": 622,
+    "Text": "Phantom Dancer"
+  },
+  {
+    "HeaderOffset": 658,
+    "StartTextOffset": 664,
+    "EndTextOffset": 770,
+    "Text": "This foreign looking suit of armor features a lightweight tactical vest and an elegant sleeveless overcoat."
+  },
+  {
+    "HeaderOffset": 659,
+    "StartTextOffset": 665,
+    "EndTextOffset": 748,
+    "Text": "his foreign looking suit of armor features a lightweight tactical vest and an elegan"
+  },
+  {
+    "HeaderOffset": 771,
+    "StartTextOffset": 777,
+    "EndTextOffset": 790,
+    "Text": "xpbl_Armors.15"
+  },
+  {
+    "HeaderOffset": 1125,
+    "StartTextOffset": 1131,
+    "EndTextOffset": 1137,
+    "Text": "xpbl_nj"
+  },
+  {
+    "HeaderOffset": 1247,
+    "StartTextOffset": 1253,
+    "EndTextOffset": 1259,
+    "Text": "Stealth"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 293,
+    "Text": "Fish.WalkingFish"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 311,
+    "Text": "Walking Fish"
+  },
+  {
+    "HeaderOffset": 347,
+    "StartTextOffset": 353,
+    "EndTextOffset": 411,
+    "Text": "It's some sort of a walking fish. This thing should not be."
+  },
+  {
+    "HeaderOffset": 412,
+    "StartTextOffset": 418,
+    "EndTextOffset": 433,
+    "Text": "Fish.WalkingFish"
+  },
+  {
+    "HeaderOffset": 703,
+    "StartTextOffset": 709,
+    "EndTextOffset": 715,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 757,
+    "Text": "Product"
+  },
+  {
+    "HeaderOffset": 758,
+    "StartTextOffset": 764,
+    "EndTextOffset": 778,
+    "Text": "MacrophageFluid"
+  }
+]

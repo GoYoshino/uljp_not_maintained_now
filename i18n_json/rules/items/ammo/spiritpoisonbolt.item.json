@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 208,
+    "StartTextOffset": 214,
+    "EndTextOffset": 234,
+    "Text": "Ammo.SpiritPoisonBolt"
+  },
+  {
+    "HeaderOffset": 235,
+    "StartTextOffset": 241,
+    "EndTextOffset": 258,
+    "Text": "Spirit Poison Bolt"
+  },
+  {
+    "HeaderOffset": 294,
+    "StartTextOffset": 300,
+    "EndTextOffset": 351,
+    "Text": "This bolt is packed with an ampule of spirit poison."
+  },
+  {
+    "HeaderOffset": 352,
+    "StartTextOffset": 358,
+    "EndTextOffset": 378,
+    "Text": "Ammo.SpiritPoisonBolt"
+  },
+  {
+    "HeaderOffset": 606,
+    "StartTextOffset": 612,
+    "EndTextOffset": 632,
+    "Text": "ShootSpiritPoisonBolt"
+  },
+  {
+    "HeaderOffset": 658,
+    "StartTextOffset": 664,
+    "EndTextOffset": 673,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 674,
+    "StartTextOffset": 680,
+    "EndTextOffset": 691,
+    "Text": "SpiritPoison"
+  },
+  {
+    "HeaderOffset": 701,
+    "StartTextOffset": 707,
+    "EndTextOffset": 716,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 735,
+    "Text": "Spirit Poison"
+  }
+]

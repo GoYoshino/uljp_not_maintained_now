@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 222,
+    "StartTextOffset": 228,
+    "EndTextOffset": 248,
+    "Text": "food.junkyardSurprise"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 271,
+    "Text": "Junkyard Surprise"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 349,
+    "Text": "It appears to be some sort of a stew."
+  },
+  {
+    "HeaderOffset": 350,
+    "StartTextOffset": 356,
+    "EndTextOffset": 361,
+    "Text": "Food.5"
+  },
+  {
+    "HeaderOffset": 591,
+    "StartTextOffset": 597,
+    "EndTextOffset": 611,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 637,
+    "StartTextOffset": 643,
+    "EndTextOffset": 650,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 651,
+    "StartTextOffset": 657,
+    "EndTextOffset": 672,
+    "Text": "junkyardSurprise"
+  },
+  {
+    "HeaderOffset": 682,
+    "StartTextOffset": 688,
+    "EndTextOffset": 695,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 696,
+    "StartTextOffset": 702,
+    "EndTextOffset": 718,
+    "Text": "Junkyard Surprise"
+  }
+]

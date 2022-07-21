@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 238,
+    "StartTextOffset": 244,
+    "EndTextOffset": 263,
+    "Text": "throwingNetBlueprint"
+  },
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 292,
+    "Text": "Blueprint: Throwing Net"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 387,
+    "Text": "Contains instructions on how to create a throwing net."
+  },
+  {
+    "HeaderOffset": 388,
+    "StartTextOffset": 394,
+    "EndTextOffset": 402,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 537,
+    "StartTextOffset": 543,
+    "EndTextOffset": 553,
+    "Text": "throwingNet"
+  },
+  {
+    "HeaderOffset": 612,
+    "StartTextOffset": 618,
+    "EndTextOffset": 637,
+    "Text": "blueprintconsumation"
+  }
+]

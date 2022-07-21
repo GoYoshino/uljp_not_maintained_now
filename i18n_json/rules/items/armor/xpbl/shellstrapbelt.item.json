@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 357,
+    "StartTextOffset": 363,
+    "EndTextOffset": 381,
+    "Text": "belt.shellstrapBelt"
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 403,
+    "Text": "Shell Strap Belt"
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 525,
+    "Text": "This belt allows you to store and quickly access a good number of shotgun shells."
+  },
+  {
+    "HeaderOffset": 526,
+    "StartTextOffset": 532,
+    "EndTextOffset": 545,
+    "Text": "xpbl_Armors.20"
+  },
+  {
+    "HeaderOffset": 869,
+    "StartTextOffset": 875,
+    "EndTextOffset": 886,
+    "Text": "Intimidation"
+  }
+]

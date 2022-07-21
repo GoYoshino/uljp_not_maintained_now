@@ -1,0 +1,110 @@
+[
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 401,
+    "Text": "insulatingFoamPadding"
+  },
+  {
+    "HeaderOffset": 402,
+    "StartTextOffset": 408,
+    "EndTextOffset": 430,
+    "Text": "Insulating Foam Padding"
+  },
+  {
+    "HeaderOffset": 466,
+    "StartTextOffset": 472,
+    "EndTextOffset": 592,
+    "Text": "A set of insulating foam sheets that can be used to pad leather armors and other gear to protect the wearer against cold."
+  },
+  {
+    "HeaderOffset": 467,
+    "StartTextOffset": 473,
+    "EndTextOffset": 537,
+    "Text": " set of insulating foam sheets that can be used to pad leather ar"
+  },
+  {
+    "HeaderOffset": 593,
+    "StartTextOffset": 599,
+    "EndTextOffset": 611,
+    "Text": "Components.51"
+  },
+  {
+    "HeaderOffset": 1117,
+    "StartTextOffset": 1123,
+    "EndTextOffset": 1131,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1161,
+    "StartTextOffset": 1167,
+    "EndTextOffset": 1182,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1183,
+    "StartTextOffset": 1189,
+    "EndTextOffset": 1259,
+    "Text": "It's padded with insulating foam that protects the wearer against cold."
+  },
+  {
+    "HeaderOffset": 1286,
+    "StartTextOffset": 1292,
+    "EndTextOffset": 1324,
+    "Text": "MetalHelmetCritModifierPerQuality"
+  },
+  {
+    "HeaderOffset": 1359,
+    "StartTextOffset": 1365,
+    "EndTextOffset": 1391,
+    "Text": "MetalHelmetCritModifierBase"
+  },
+  {
+    "HeaderOffset": 1409,
+    "StartTextOffset": 1415,
+    "EndTextOffset": 1431,
+    "Text": "MetalHelmetPrefix"
+  },
+  {
+    "HeaderOffset": 1432,
+    "StartTextOffset": 1438,
+    "EndTextOffset": 1446,
+    "Text": "Insulated"
+  },
+  {
+    "HeaderOffset": 1456,
+    "StartTextOffset": 1462,
+    "EndTextOffset": 1476,
+    "Text": "MetalHelmetDesc"
+  },
+  {
+    "HeaderOffset": 1477,
+    "StartTextOffset": 1483,
+    "EndTextOffset": 1584,
+    "Text": "It's padded with insulating foam that protects the wearer against cold and provides impact cushioning."
+  },
+  {
+    "HeaderOffset": 1594,
+    "StartTextOffset": 1600,
+    "EndTextOffset": 1608,
+    "Text": "BootsDesc"
+  },
+  {
+    "HeaderOffset": 1609,
+    "StartTextOffset": 1615,
+    "EndTextOffset": 1689,
+    "Text": "They are padded with insulating foam that protects the wearer against cold."
+  },
+  {
+    "HeaderOffset": 1699,
+    "StartTextOffset": 1705,
+    "EndTextOffset": 1715,
+    "Text": "BootsPrefix"
+  },
+  {
+    "HeaderOffset": 1716,
+    "StartTextOffset": 1722,
+    "EndTextOffset": 1730,
+    "Text": "Insulated"
+  }
+]

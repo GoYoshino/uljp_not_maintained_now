@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 713,
+    "StartTextOffset": 719,
+    "EndTextOffset": 722,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 745,
+    "StartTextOffset": 751,
+    "EndTextOffset": 771,
+    "Text": "doubleBarreledShotgun"
+  },
+  {
+    "HeaderOffset": 772,
+    "StartTextOffset": 778,
+    "EndTextOffset": 800,
+    "Text": "Double-barreled Shotgun"
+  },
+  {
+    "HeaderOffset": 836,
+    "StartTextOffset": 842,
+    "EndTextOffset": 1026,
+    "Text": "An old world double barrel shotgun that can fire from each barrel separately or together. Some of the materials from which this gun is made feel like nothing you've encountered before."
+  },
+  {
+    "HeaderOffset": 1027,
+    "StartTextOffset": 1033,
+    "EndTextOffset": 1048,
+    "Text": "xpbl_Weapons.182"
+  },
+  {
+    "HeaderOffset": 1428,
+    "StartTextOffset": 1434,
+    "EndTextOffset": 1439,
+    "Text": "xpblsg"
+  },
+  {
+    "HeaderOffset": 1641,
+    "StartTextOffset": 1647,
+    "EndTextOffset": 1653,
+    "Text": "shotgun"
+  },
+  {
+    "HeaderOffset": 1723,
+    "StartTextOffset": 1729,
+    "EndTextOffset": 1732,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1742,
+    "StartTextOffset": 1748,
+    "EndTextOffset": 1757,
+    "Text": "DoubleShot"
+  },
+  {
+    "HeaderOffset": 1767,
+    "StartTextOffset": 1773,
+    "EndTextOffset": 1785,
+    "Text": "ChangeTrigger"
+  }
+]

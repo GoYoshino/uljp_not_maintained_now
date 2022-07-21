@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 271,
+    "Text": "cardboardContainer"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 296,
+    "Text": "Cardboard Container"
+  },
+  {
+    "HeaderOffset": 332,
+    "StartTextOffset": 338,
+    "EndTextOffset": 409,
+    "Text": "Container made out of hardened cardboard with metal edge reinforcements."
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 405,
+    "Text": "ontainer made out of hardened cardboard with metal edge reinforceme"
+  },
+  {
+    "HeaderOffset": 410,
+    "StartTextOffset": 416,
+    "EndTextOffset": 428,
+    "Text": "Components.50"
+  }
+]

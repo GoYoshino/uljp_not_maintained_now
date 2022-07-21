@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 227,
+    "Text": "crawlerPoisonCaltrops"
+  },
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 256,
+    "Text": "Crawler Poison Caltrops"
+  },
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 579,
+    "Text": "A caltrop is an antipersonnel weapon made up of two or more sharp nails or spines arranged in such a manner that one of them always points upward from a stable base. Caltrops can be deployed to injure and slow down enemies. These caltrops have also been coated with crawler poison."
+  },
+  {
+    "HeaderOffset": 580,
+    "StartTextOffset": 586,
+    "EndTextOffset": 595,
+    "Text": "Devices.63"
+  },
+  {
+    "HeaderOffset": 822,
+    "StartTextOffset": 828,
+    "EndTextOffset": 853,
+    "Text": "CrawlerPoisonCaltropsThrow"
+  },
+  {
+    "HeaderOffset": 879,
+    "StartTextOffset": 885,
+    "EndTextOffset": 894,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 895,
+    "StartTextOffset": 901,
+    "EndTextOffset": 914,
+    "Text": "Crawler Poison"
+  },
+  {
+    "HeaderOffset": 924,
+    "StartTextOffset": 930,
+    "EndTextOffset": 939,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 940,
+    "StartTextOffset": 946,
+    "EndTextOffset": 958,
+    "Text": "CrawlerPoison"
+  }
+]

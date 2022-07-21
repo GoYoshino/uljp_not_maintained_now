@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 265,
+    "StartTextOffset": 271,
+    "EndTextOffset": 297,
+    "Text": "microElectroshockDischarger"
+  },
+  {
+    "HeaderOffset": 298,
+    "StartTextOffset": 304,
+    "EndTextOffset": 332,
+    "Text": "Micro Electroshock Discharger"
+  },
+  {
+    "HeaderOffset": 368,
+    "StartTextOffset": 374,
+    "EndTextOffset": 445,
+    "Text": "Can be used to create special shock bolts to be fired from the crossbow."
+  },
+  {
+    "HeaderOffset": 369,
+    "StartTextOffset": 375,
+    "EndTextOffset": 441,
+    "Text": "an be used to create special shock bolts to be fired from the cross"
+  },
+  {
+    "HeaderOffset": 446,
+    "StartTextOffset": 452,
+    "EndTextOffset": 464,
+    "Text": "Components.44"
+  },
+  {
+    "HeaderOffset": 714,
+    "StartTextOffset": 720,
+    "EndTextOffset": 730,
+    "Text": "Electronics"
+  }
+]

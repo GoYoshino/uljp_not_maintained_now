@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 231,
+    "StartTextOffset": 237,
+    "EndTextOffset": 258,
+    "Text": "shotgunShellsBlueprint"
+  },
+  {
+    "HeaderOffset": 259,
+    "StartTextOffset": 265,
+    "EndTextOffset": 289,
+    "Text": "Blueprint: Shotgun Shells"
+  },
+  {
+    "HeaderOffset": 325,
+    "StartTextOffset": 331,
+    "EndTextOffset": 384,
+    "Text": "Contains instructions on how to reload shotgun shells."
+  },
+  {
+    "HeaderOffset": 385,
+    "StartTextOffset": 391,
+    "EndTextOffset": 403,
+    "Text": "XpblBlueprint"
+  },
+  {
+    "HeaderOffset": 537,
+    "StartTextOffset": 543,
+    "EndTextOffset": 555,
+    "Text": "shotgunShells"
+  },
+  {
+    "HeaderOffset": 614,
+    "StartTextOffset": 620,
+    "EndTextOffset": 639,
+    "Text": "blueprintconsumation"
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 271,
+    "Text": "med.advancedHealthHypoEnriched"
+  },
+  {
+    "HeaderOffset": 272,
+    "StartTextOffset": 278,
+    "EndTextOffset": 306,
+    "Text": "Enriched Advanced Health Hypo"
+  },
+  {
+    "HeaderOffset": 342,
+    "StartTextOffset": 348,
+    "EndTextOffset": 591,
+    "Text": "A hypo filled with blood and enzymes that catalyze rapid regenerative process. It's much more effective than a regular health hypo. Enriched with an unstable regenerative agent that can sometimes trigger to accelerate the regenerative process."
+  },
+  {
+    "HeaderOffset": 592,
+    "StartTextOffset": 598,
+    "EndTextOffset": 604,
+    "Text": "Meds.41"
+  },
+  {
+    "HeaderOffset": 836,
+    "StartTextOffset": 842,
+    "EndTextOffset": 862,
+    "Text": "healthhypoconsumation"
+  },
+  {
+    "HeaderOffset": 889,
+    "StartTextOffset": 895,
+    "EndTextOffset": 902,
+    "Text": "Enriched"
+  },
+  {
+    "HeaderOffset": 930,
+    "StartTextOffset": 936,
+    "EndTextOffset": 945,
+    "Text": "HealAmount"
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "HeaderOffset": 702,
+    "StartTextOffset": 708,
+    "EndTextOffset": 712,
+    "Text": "MPRFE"
+  },
+  {
+    "HeaderOffset": 861,
+    "StartTextOffset": 867,
+    "EndTextOffset": 870,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 919,
+    "StartTextOffset": 925,
+    "EndTextOffset": 939,
+    "Text": "wep.mindCracker"
+  },
+  {
+    "HeaderOffset": 940,
+    "StartTextOffset": 946,
+    "EndTextOffset": 957,
+    "Text": "Mind Cracker"
+  },
+  {
+    "HeaderOffset": 993,
+    "StartTextOffset": 999,
+    "EndTextOffset": 1191,
+    "Text": "The head of this strange sledgehammer doesn't seem to be made from any type of metal, and it's filled with some kind of viscous glowing liquid. Staring at it for too long makes your head hurt."
+  },
+  {
+    "HeaderOffset": 1192,
+    "StartTextOffset": 1198,
+    "EndTextOffset": 1215,
+    "Text": "Weapon.MindCracker"
+  },
+  {
+    "HeaderOffset": 2097,
+    "StartTextOffset": 2103,
+    "EndTextOffset": 2114,
+    "Text": "Metathermics"
+  },
+  {
+    "HeaderOffset": 2134,
+    "StartTextOffset": 2140,
+    "EndTextOffset": 2153,
+    "Text": "ThoughtControl"
+  },
+  {
+    "HeaderOffset": 2173,
+    "StartTextOffset": 2179,
+    "EndTextOffset": 2191,
+    "Text": "Psychokinesis"
+  },
+  {
+    "HeaderOffset": 2211,
+    "StartTextOffset": 2217,
+    "EndTextOffset": 2236,
+    "Text": "TemporalManipulation"
+  },
+  {
+    "HeaderOffset": 2316,
+    "StartTextOffset": 2322,
+    "EndTextOffset": 2328,
+    "Text": "burnPsi"
+  },
+  {
+    "HeaderOffset": 2351,
+    "StartTextOffset": 2357,
+    "EndTextOffset": 2364,
+    "Text": "psiInhib"
+  }
+]

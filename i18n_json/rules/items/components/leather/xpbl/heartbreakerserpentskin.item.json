@@ -1,0 +1,134 @@
+[
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 563,
+    "Text": "component.heartbreakerSerpentSkin"
+  },
+  {
+    "HeaderOffset": 564,
+    "StartTextOffset": 570,
+    "EndTextOffset": 594,
+    "Text": "Heartbreaker Serpent Skin"
+  },
+  {
+    "HeaderOffset": 630,
+    "StartTextOffset": 636,
+    "EndTextOffset": 778,
+    "Text": "Slick and scaly skin of a heartbreaker sea serpent. Its colorful pattern gleams hypnotically. It can be used to craft a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 802,
+    "Text": "xpbl_Components.91"
+  },
+  {
+    "HeaderOffset": 1424,
+    "StartTextOffset": 1430,
+    "EndTextOffset": 1438,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1452,
+    "StartTextOffset": 1458,
+    "EndTextOffset": 1464,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1564,
+    "StartTextOffset": 1570,
+    "EndTextOffset": 1579,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1649,
+    "StartTextOffset": 1655,
+    "EndTextOffset": 1661,
+    "Text": "Stealth"
+  },
+  {
+    "HeaderOffset": 1738,
+    "StartTextOffset": 1744,
+    "EndTextOffset": 1759,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1760,
+    "StartTextOffset": 1766,
+    "EndTextOffset": 1869,
+    "Text": "This {0} is made of slick and scaly heartbreaker serpent skin. Its colorful pattern gleams hypnotically."
+  },
+  {
+    "HeaderOffset": 1879,
+    "StartTextOffset": 1885,
+    "EndTextOffset": 1906,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1907,
+    "StartTextOffset": 1913,
+    "EndTextOffset": 2018,
+    "Text": "These {0} are made of slick and scaly heartbreaker serpent skin. Its colorful pattern gleams hypnotically."
+  },
+  {
+    "HeaderOffset": 2028,
+    "StartTextOffset": 2034,
+    "EndTextOffset": 2058,
+    "Text": "CustomInfusionLeatherType"
+  },
+  {
+    "HeaderOffset": 2059,
+    "StartTextOffset": 2065,
+    "EndTextOffset": 2068,
+    "Text": "Skin"
+  },
+  {
+    "HeaderOffset": 2087,
+    "StartTextOffset": 2093,
+    "EndTextOffset": 2096,
+    "Text": "Xpbl"
+  },
+  {
+    "HeaderOffset": 2123,
+    "StartTextOffset": 2129,
+    "EndTextOffset": 2141,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 2155,
+    "StartTextOffset": 2161,
+    "EndTextOffset": 2185,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 2186,
+    "StartTextOffset": 2192,
+    "EndTextOffset": 2199,
+    "Text": "xpbl_hbs"
+  },
+  {
+    "HeaderOffset": 2226,
+    "StartTextOffset": 2232,
+    "EndTextOffset": 2239,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 2253,
+    "StartTextOffset": 2259,
+    "EndTextOffset": 2272,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 2273,
+    "StartTextOffset": 2279,
+    "EndTextOffset": 2298,
+    "Text": "Heartbreaker Serpent"
+  },
+  {
+    "HeaderOffset": 2325,
+    "StartTextOffset": 2331,
+    "EndTextOffset": 2349,
+    "Text": "UsesDefaultOvercoat"
+  }
+]

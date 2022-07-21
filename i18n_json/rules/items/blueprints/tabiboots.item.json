@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 225,
+    "StartTextOffset": 231,
+    "EndTextOffset": 248,
+    "Text": "tabiBootsBlueprint"
+  },
+  {
+    "HeaderOffset": 249,
+    "StartTextOffset": 255,
+    "EndTextOffset": 275,
+    "Text": "Blueprint: Tabi Boots"
+  },
+  {
+    "HeaderOffset": 311,
+    "StartTextOffset": 317,
+    "EndTextOffset": 376,
+    "Text": "Contains instructions on how to create a pair of tabi boots."
+  },
+  {
+    "HeaderOffset": 377,
+    "StartTextOffset": 383,
+    "EndTextOffset": 391,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 524,
+    "StartTextOffset": 530,
+    "EndTextOffset": 538,
+    "Text": "TabiBoots"
+  },
+  {
+    "HeaderOffset": 597,
+    "StartTextOffset": 603,
+    "EndTextOffset": 622,
+    "Text": "blueprintconsumation"
+  }
+]

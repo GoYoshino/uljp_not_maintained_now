@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 424,
+    "StartTextOffset": 430,
+    "EndTextOffset": 444,
+    "Text": "supersteelSheet"
+  },
+  {
+    "HeaderOffset": 445,
+    "StartTextOffset": 451,
+    "EndTextOffset": 467,
+    "Text": "Super Steel Sheet"
+  },
+  {
+    "HeaderOffset": 503,
+    "StartTextOffset": 509,
+    "EndTextOffset": 645,
+    "Text": "It's a thin sheet of super steel that can be used in place of conventional ballistic panels when creating tactical vests and riot armor."
+  },
+  {
+    "HeaderOffset": 646,
+    "StartTextOffset": 652,
+    "EndTextOffset": 665,
+    "Text": "Components.136"
+  },
+  {
+    "HeaderOffset": 1069,
+    "StartTextOffset": 1075,
+    "EndTextOffset": 1083,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1179,
+    "StartTextOffset": 1185,
+    "EndTextOffset": 1200,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1201,
+    "StartTextOffset": 1207,
+    "EndTextOffset": 1273,
+    "Text": "a thin sheet of super steel with high bullet stopping capabilities."
+  }
+]

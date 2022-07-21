@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 628,
+    "StartTextOffset": 634,
+    "EndTextOffset": 640,
+    "Text": "TKAPCFM"
+  },
+  {
+    "HeaderOffset": 727,
+    "StartTextOffset": 733,
+    "EndTextOffset": 736,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 777,
+    "StartTextOffset": 783,
+    "EndTextOffset": 804,
+    "Text": "wep.knifeThrowerGloves"
+  },
+  {
+    "HeaderOffset": 805,
+    "StartTextOffset": 811,
+    "EndTextOffset": 832,
+    "Text": "Knife Thrower's Gloves"
+  },
+  {
+    "HeaderOffset": 868,
+    "StartTextOffset": 874,
+    "EndTextOffset": 943,
+    "Text": "A pair of special leather gloves used for professional knife throwing."
+  },
+  {
+    "HeaderOffset": 944,
+    "StartTextOffset": 950,
+    "EndTextOffset": 974,
+    "Text": "Weapon.KnifeThrowingGlove"
+  }
+]

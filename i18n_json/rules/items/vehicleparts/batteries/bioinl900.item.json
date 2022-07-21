@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 272,
+    "Text": "VehiclePart.BioInL900"
+  },
+  {
+    "HeaderOffset": 273,
+    "StartTextOffset": 279,
+    "EndTextOffset": 288,
+    "Text": "BioIn L900"
+  },
+  {
+    "HeaderOffset": 324,
+    "StartTextOffset": 330,
+    "EndTextOffset": 378,
+    "Text": "Large vehicle battery made by Biocorp Industries."
+  },
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 405,
+    "Text": "VehiclePart.BioInL900"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 240,
+    "Text": "plot.orangeBox"
+  },
+  {
+    "HeaderOffset": 241,
+    "StartTextOffset": 247,
+    "EndTextOffset": 256,
+    "Text": "Orange Box"
+  },
+  {
+    "HeaderOffset": 292,
+    "StartTextOffset": 298,
+    "EndTextOffset": 479,
+    "Text": "A re-purposed musical toy. The device features seven buttons, each dedicated to a different musical note. It comes with an unusually bulky short range connector and a small speaker."
+  },
+  {
+    "HeaderOffset": 480,
+    "StartTextOffset": 486,
+    "EndTextOffset": 499,
+    "Text": "Plot.OrangeBox"
+  }
+]

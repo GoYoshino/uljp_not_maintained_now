@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 255,
+    "StartTextOffset": 261,
+    "EndTextOffset": 270,
+    "Text": "flatBeaker"
+  },
+  {
+    "HeaderOffset": 271,
+    "StartTextOffset": 277,
+    "EndTextOffset": 287,
+    "Text": "Flat Beaker"
+  },
+  {
+    "HeaderOffset": 323,
+    "StartTextOffset": 329,
+    "EndTextOffset": 381,
+    "Text": "A flat beaker, or crystallizer, with an airtight lid."
+  },
+  {
+    "HeaderOffset": 382,
+    "StartTextOffset": 388,
+    "EndTextOffset": 403,
+    "Text": "Items.FlatBeaker"
+  }
+]

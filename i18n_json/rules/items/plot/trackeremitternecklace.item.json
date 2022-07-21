@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 216,
+    "StartTextOffset": 222,
+    "EndTextOffset": 241,
+    "Text": "plot.trackerNecklace"
+  },
+  {
+    "HeaderOffset": 242,
+    "StartTextOffset": 248,
+    "EndTextOffset": 271,
+    "Text": "Tracker-Emitter Necklace"
+  },
+  {
+    "HeaderOffset": 307,
+    "StartTextOffset": 313,
+    "EndTextOffset": 524,
+    "Text": "This necklace is created to track a specific signal over long range, but due to the damage it suffered, it's only able to do so over short distances now. Also, the emitter part of the necklace is non-functional."
+  },
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 537,
+    "Text": "Plot.72"
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 758,
+    "Text": "emitterTrackerNecklaceActivation"
+  }
+]

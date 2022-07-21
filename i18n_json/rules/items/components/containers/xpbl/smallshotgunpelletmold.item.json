@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 277,
+    "StartTextOffset": 283,
+    "EndTextOffset": 304,
+    "Text": "smallShotgunPelletMold"
+  },
+  {
+    "HeaderOffset": 305,
+    "StartTextOffset": 311,
+    "EndTextOffset": 335,
+    "Text": "Small Shotgun Pellet Mold"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 477,
+    "Text": "A disposable mold for twenty small shotgun pellets. This pellet size is commonly known as hoppershot."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 442,
+    "Text": " disposable mold for twenty small shotgun pellets. This pellet si"
+  },
+  {
+    "HeaderOffset": 478,
+    "StartTextOffset": 484,
+    "EndTextOffset": 501,
+    "Text": "xpbl_Components.22"
+  },
+  {
+    "HeaderOffset": 765,
+    "StartTextOffset": 771,
+    "EndTextOffset": 779,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 809,
+    "StartTextOffset": 815,
+    "EndTextOffset": 826,
+    "Text": "ShotgunShell"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 847,
+    "Text": "ShotgunShell_20"
+  }
+]

@@ -1,0 +1,140 @@
+[
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 570,
+    "Text": "component.infusedHeartbreakerSerpentSkin"
+  },
+  {
+    "HeaderOffset": 571,
+    "StartTextOffset": 577,
+    "EndTextOffset": 609,
+    "Text": "Infused Heartbreaker Serpent Skin"
+  },
+  {
+    "HeaderOffset": 645,
+    "StartTextOffset": 651,
+    "EndTextOffset": 830,
+    "Text": "Slick and scaly skin of a heartbreaker sea serpent. Its colorful pattern gleams hypnotically. It's infused with super steel fiber. It can be used to craft a suit of leather armor."
+  },
+  {
+    "HeaderOffset": 831,
+    "StartTextOffset": 837,
+    "EndTextOffset": 855,
+    "Text": "xpbl_Components.101"
+  },
+  {
+    "HeaderOffset": 1496,
+    "StartTextOffset": 1502,
+    "EndTextOffset": 1510,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1524,
+    "StartTextOffset": 1530,
+    "EndTextOffset": 1536,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 1636,
+    "StartTextOffset": 1642,
+    "EndTextOffset": 1651,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1721,
+    "StartTextOffset": 1727,
+    "EndTextOffset": 1733,
+    "Text": "Stealth"
+  },
+  {
+    "HeaderOffset": 1810,
+    "StartTextOffset": 1816,
+    "EndTextOffset": 1831,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1832,
+    "StartTextOffset": 1838,
+    "EndTextOffset": 1973,
+    "Text": "This {0} is made of slick and scaly heartbreaker serpent skin infused with super steel fiber. Its colorful pattern gleams hypnotically."
+  },
+  {
+    "HeaderOffset": 1983,
+    "StartTextOffset": 1989,
+    "EndTextOffset": 2010,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 2011,
+    "StartTextOffset": 2017,
+    "EndTextOffset": 2154,
+    "Text": "These {0} are made of slick and scaly heartbreaker serpent skin infused with super steel fiber. Its colorful pattern gleams hypnotically."
+  },
+  {
+    "HeaderOffset": 2164,
+    "StartTextOffset": 2170,
+    "EndTextOffset": 2194,
+    "Text": "CustomInfusionLeatherType"
+  },
+  {
+    "HeaderOffset": 2195,
+    "StartTextOffset": 2201,
+    "EndTextOffset": 2204,
+    "Text": "Skin"
+  },
+  {
+    "HeaderOffset": 2223,
+    "StartTextOffset": 2229,
+    "EndTextOffset": 2232,
+    "Text": "Xpbl"
+  },
+  {
+    "HeaderOffset": 2259,
+    "StartTextOffset": 2265,
+    "EndTextOffset": 2277,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 2308,
+    "StartTextOffset": 2314,
+    "EndTextOffset": 2321,
+    "Text": "Infusion"
+  },
+  {
+    "HeaderOffset": 2335,
+    "StartTextOffset": 2341,
+    "EndTextOffset": 2365,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 2366,
+    "StartTextOffset": 2372,
+    "EndTextOffset": 2379,
+    "Text": "xpbl_hbs"
+  },
+  {
+    "HeaderOffset": 2406,
+    "StartTextOffset": 2412,
+    "EndTextOffset": 2419,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 2433,
+    "StartTextOffset": 2439,
+    "EndTextOffset": 2452,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 2453,
+    "StartTextOffset": 2459,
+    "EndTextOffset": 2486,
+    "Text": "Infused Heartbreaker Serpent"
+  },
+  {
+    "HeaderOffset": 2513,
+    "StartTextOffset": 2519,
+    "EndTextOffset": 2537,
+    "Text": "UsesDefaultOvercoat"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 244,
+    "Text": "Oddity.ConeSnailPen"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 264,
+    "Text": "Cone Snail Pen"
+  },
+  {
+    "HeaderOffset": 300,
+    "StartTextOffset": 306,
+    "EndTextOffset": 345,
+    "Text": "A pen made in the shape of a cone snail."
+  },
+  {
+    "HeaderOffset": 346,
+    "StartTextOffset": 352,
+    "EndTextOffset": 370,
+    "Text": "Oddity.ConeSnailPen"
+  }
+]

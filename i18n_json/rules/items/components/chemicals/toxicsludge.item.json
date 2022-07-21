@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 305,
+    "Text": "toxicSludge"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 323,
+    "Text": "Toxic Sludge"
+  },
+  {
+    "HeaderOffset": 359,
+    "StartTextOffset": 365,
+    "EndTextOffset": 438,
+    "Text": "A canister of toxic sludge. You should definitely be carrying this around."
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 430,
+    "Text": " canister of toxic sludge. You should definitely be carrying this"
+  },
+  {
+    "HeaderOffset": 439,
+    "StartTextOffset": 445,
+    "EndTextOffset": 466,
+    "Text": "Components.ToxicSludge"
+  },
+  {
+    "HeaderOffset": 741,
+    "StartTextOffset": 747,
+    "EndTextOffset": 753,
+    "Text": "Biology"
+  },
+  {
+    "HeaderOffset": 767,
+    "StartTextOffset": 773,
+    "EndTextOffset": 781,
+    "Text": "Chemistry"
+  },
+  {
+    "HeaderOffset": 811,
+    "StartTextOffset": 817,
+    "EndTextOffset": 826,
+    "Text": "GasGrenade"
+  },
+  {
+    "HeaderOffset": 827,
+    "StartTextOffset": 833,
+    "EndTextOffset": 847,
+    "Text": "ToxicGasGrenade"
+  }
+]

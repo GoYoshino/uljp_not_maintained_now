@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 236,
+    "StartTextOffset": 242,
+    "EndTextOffset": 262,
+    "Text": "food.rathoundBarbeque"
+  },
+  {
+    "HeaderOffset": 263,
+    "StartTextOffset": 269,
+    "EndTextOffset": 285,
+    "Text": "Rathound Barbecue"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 485,
+    "Text": "Grilled rathound meat (popularly called 'ratsies') with mushrooms. The red meat tastes decently, but the foul creature still smells terrible even when cooked."
+  },
+  {
+    "HeaderOffset": 486,
+    "StartTextOffset": 492,
+    "EndTextOffset": 497,
+    "Text": "Food.1"
+  },
+  {
+    "HeaderOffset": 729,
+    "StartTextOffset": 735,
+    "EndTextOffset": 749,
+    "Text": "FoodConsumation"
+  },
+  {
+    "HeaderOffset": 775,
+    "StartTextOffset": 781,
+    "EndTextOffset": 788,
+    "Text": "foodCode"
+  },
+  {
+    "HeaderOffset": 789,
+    "StartTextOffset": 795,
+    "EndTextOffset": 810,
+    "Text": "rathoundBarbeque"
+  },
+  {
+    "HeaderOffset": 820,
+    "StartTextOffset": 826,
+    "EndTextOffset": 833,
+    "Text": "foodName"
+  },
+  {
+    "HeaderOffset": 834,
+    "StartTextOffset": 840,
+    "EndTextOffset": 856,
+    "Text": "Rathound Barbecue"
+  }
+]

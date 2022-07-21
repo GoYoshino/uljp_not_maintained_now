@@ -1,0 +1,98 @@
+[
+  {
+    "HeaderOffset": 436,
+    "StartTextOffset": 442,
+    "EndTextOffset": 473,
+    "Text": "component.ancientRathoundLeather"
+  },
+  {
+    "HeaderOffset": 474,
+    "StartTextOffset": 480,
+    "EndTextOffset": 503,
+    "Text": "Ancient Rathound Leather"
+  },
+  {
+    "HeaderOffset": 539,
+    "StartTextOffset": 545,
+    "EndTextOffset": 720,
+    "Text": "Particularly strong and cunning rathounds can live to be a hundred years old or more, or so they say. Over the years their hide grows thick and strong, but also becomes heavy."
+  },
+  {
+    "HeaderOffset": 721,
+    "StartTextOffset": 727,
+    "EndTextOffset": 738,
+    "Text": "Components.4"
+  },
+  {
+    "HeaderOffset": 1281,
+    "StartTextOffset": 1287,
+    "EndTextOffset": 1295,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1362,
+    "StartTextOffset": 1368,
+    "EndTextOffset": 1377,
+    "Text": "Persuasion"
+  },
+  {
+    "HeaderOffset": 1489,
+    "StartTextOffset": 1495,
+    "EndTextOffset": 1510,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1511,
+    "StartTextOffset": 1517,
+    "EndTextOffset": 1625,
+    "Text": "This {0} is made of exceptional ancient rathound leather. It's thick and strong and, of course, quite smelly."
+  },
+  {
+    "HeaderOffset": 1635,
+    "StartTextOffset": 1641,
+    "EndTextOffset": 1654,
+    "Text": "SourceCreature"
+  },
+  {
+    "HeaderOffset": 1655,
+    "StartTextOffset": 1661,
+    "EndTextOffset": 1676,
+    "Text": "Ancient Rathound"
+  },
+  {
+    "HeaderOffset": 1686,
+    "StartTextOffset": 1692,
+    "EndTextOffset": 1713,
+    "Text": "ArmorDescriptionPlural"
+  },
+  {
+    "HeaderOffset": 1714,
+    "StartTextOffset": 1720,
+    "EndTextOffset": 1834,
+    "Text": "These {0} are made of exceptional ancient rathound leather. They are thick and strong and, of course, quite smelly."
+  },
+  {
+    "HeaderOffset": 1861,
+    "StartTextOffset": 1867,
+    "EndTextOffset": 1879,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1910,
+    "StartTextOffset": 1916,
+    "EndTextOffset": 1923,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1937,
+    "StartTextOffset": 1943,
+    "EndTextOffset": 1967,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1968,
+    "StartTextOffset": 1974,
+    "EndTextOffset": 1977,
+    "Text": "arhl"
+  }
+]

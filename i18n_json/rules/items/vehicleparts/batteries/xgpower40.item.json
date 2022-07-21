@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 246,
+    "StartTextOffset": 252,
+    "EndTextOffset": 272,
+    "Text": "VehiclePart.XGPower40"
+  },
+  {
+    "HeaderOffset": 273,
+    "StartTextOffset": 279,
+    "EndTextOffset": 290,
+    "Text": "XG Power 4.0"
+  },
+  {
+    "HeaderOffset": 326,
+    "StartTextOffset": 332,
+    "EndTextOffset": 369,
+    "Text": "Small vehicle battery of Hexagon make."
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 396,
+    "Text": "VehiclePart.XGPower40"
+  }
+]

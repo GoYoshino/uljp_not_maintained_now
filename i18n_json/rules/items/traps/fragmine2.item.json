@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 244,
+    "Text": "fragMine2"
+  },
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 265,
+    "Text": "Frag Mine Mk II"
+  },
+  {
+    "HeaderOffset": 301,
+    "StartTextOffset": 307,
+    "EndTextOffset": 380,
+    "Text": "This anti-personnel mine is designed to disperse shrapnel upon detonating."
+  },
+  {
+    "HeaderOffset": 381,
+    "StartTextOffset": 387,
+    "EndTextOffset": 399,
+    "Text": "Explosives.51"
+  },
+  {
+    "HeaderOffset": 621,
+    "StartTextOffset": 627,
+    "EndTextOffset": 639,
+    "Text": "PlaceFragMine"
+  },
+  {
+    "HeaderOffset": 666,
+    "StartTextOffset": 672,
+    "EndTextOffset": 676,
+    "Text": "power"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 242,
+    "Text": "heMine2"
+  },
+  {
+    "HeaderOffset": 243,
+    "StartTextOffset": 249,
+    "EndTextOffset": 261,
+    "Text": "HE Mine Mk II"
+  },
+  {
+    "HeaderOffset": 297,
+    "StartTextOffset": 303,
+    "EndTextOffset": 517,
+    "Text": "High-explosive mine delivers a powerful blast which is useful against heavily armored targets. Though it can be effectively used in anti-personnel scenarios, it is less efficient because of the absence of shrapnel."
+  },
+  {
+    "HeaderOffset": 518,
+    "StartTextOffset": 524,
+    "EndTextOffset": 536,
+    "Text": "Explosives.61"
+  },
+  {
+    "HeaderOffset": 758,
+    "StartTextOffset": 764,
+    "EndTextOffset": 774,
+    "Text": "PlaceHeMine"
+  },
+  {
+    "HeaderOffset": 801,
+    "StartTextOffset": 807,
+    "EndTextOffset": 811,
+    "Text": "power"
+  }
+]

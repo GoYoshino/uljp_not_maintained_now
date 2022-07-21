@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 201,
+    "StartTextOffset": 207,
+    "EndTextOffset": 214,
+    "Text": "caltrops"
+  },
+  {
+    "HeaderOffset": 215,
+    "StartTextOffset": 221,
+    "EndTextOffset": 228,
+    "Text": "まきびし／Caltrops"
+  },
+  {
+    "HeaderOffset": 264,
+    "StartTextOffset": 270,
+    "EndTextOffset": 493,
+    "Text": "鋭い釘や金属のトゲを尖った面が上を向くよう組み合わせて作られた対人罠。踏んだ敵はダメージを受け、動きが遅くなる。"
+  },
+  {
+    "HeaderOffset": 494,
+    "StartTextOffset": 500,
+    "EndTextOffset": 509,
+    "Text": "Devices.60"
+  },
+  {
+    "HeaderOffset": 698,
+    "StartTextOffset": 704,
+    "EndTextOffset": 723,
+    "Text": "RegularCaltropsThrow"
+  }
+]

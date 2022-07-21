@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 305,
+    "Text": "empMineCase"
+  },
+  {
+    "HeaderOffset": 306,
+    "StartTextOffset": 312,
+    "EndTextOffset": 324,
+    "Text": "EMP Mine Case"
+  },
+  {
+    "HeaderOffset": 360,
+    "StartTextOffset": 366,
+    "EndTextOffset": 415,
+    "Text": "A special case used in creation of EMP land mines."
+  },
+  {
+    "HeaderOffset": 416,
+    "StartTextOffset": 422,
+    "EndTextOffset": 434,
+    "Text": "Explosives.75"
+  },
+  {
+    "HeaderOffset": 690,
+    "StartTextOffset": 696,
+    "EndTextOffset": 704,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 718,
+    "StartTextOffset": 724,
+    "EndTextOffset": 734,
+    "Text": "Electronics"
+  }
+]

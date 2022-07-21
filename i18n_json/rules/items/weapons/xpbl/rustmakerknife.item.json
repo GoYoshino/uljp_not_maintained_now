@@ -1,0 +1,104 @@
+[
+  {
+    "HeaderOffset": 764,
+    "StartTextOffset": 770,
+    "EndTextOffset": 773,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 832,
+    "StartTextOffset": 838,
+    "EndTextOffset": 851,
+    "Text": "rustMakerKnife"
+  },
+  {
+    "HeaderOffset": 852,
+    "StartTextOffset": 858,
+    "EndTextOffset": 867,
+    "Text": "Rust Maker"
+  },
+  {
+    "HeaderOffset": 903,
+    "StartTextOffset": 909,
+    "EndTextOffset": 1094,
+    "Text": "This spear tip seems to have spent enough time lodged inside a Sea Wyrm to get infused with it's rusting acid. It might serve as a rather unwieldy knife, or you could try and repair it."
+  },
+  {
+    "HeaderOffset": 1095,
+    "StartTextOffset": 1101,
+    "EndTextOffset": 1116,
+    "Text": "xpbl_Weapons.223"
+  },
+  {
+    "HeaderOffset": 1702,
+    "StartTextOffset": 1708,
+    "EndTextOffset": 1715,
+    "Text": "AcidFizz"
+  },
+  {
+    "HeaderOffset": 1929,
+    "StartTextOffset": 1935,
+    "EndTextOffset": 1950,
+    "Text": "startInterfacing"
+  },
+  {
+    "HeaderOffset": 2000,
+    "StartTextOffset": 2006,
+    "EndTextOffset": 2022,
+    "Text": "rustingAcidSplash"
+  },
+  {
+    "HeaderOffset": 2146,
+    "StartTextOffset": 2152,
+    "EndTextOffset": 2167,
+    "Text": "InterfaceActorId"
+  },
+  {
+    "HeaderOffset": 2168,
+    "StartTextOffset": 2174,
+    "EndTextOffset": 2182,
+    "Text": "interface"
+  },
+  {
+    "HeaderOffset": 2192,
+    "StartTextOffset": 2198,
+    "EndTextOffset": 2215,
+    "Text": "InterfaceActorName"
+  },
+  {
+    "HeaderOffset": 2216,
+    "StartTextOffset": 2222,
+    "EndTextOffset": 2231,
+    "Text": "Rust Maker"
+  },
+  {
+    "HeaderOffset": 2241,
+    "StartTextOffset": 2247,
+    "EndTextOffset": 2266,
+    "Text": "InterfaceCommandText"
+  },
+  {
+    "HeaderOffset": 2267,
+    "StartTextOffset": 2273,
+    "EndTextOffset": 2291,
+    "Text": "Examine the weapon."
+  },
+  {
+    "HeaderOffset": 2301,
+    "StartTextOffset": 2307,
+    "EndTextOffset": 2321,
+    "Text": "InterfaceDialog"
+  },
+  {
+    "HeaderOffset": 2322,
+    "StartTextOffset": 2328,
+    "EndTextOffset": 2353,
+    "Text": "interfacing\\xpbl\\rustMaker"
+  },
+  {
+    "HeaderOffset": 2363,
+    "StartTextOffset": 2369,
+    "EndTextOffset": 2378,
+    "Text": "AcidSplash"
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 275,
+    "StartTextOffset": 281,
+    "EndTextOffset": 286,
+    "Text": "huxkey"
+  },
+  {
+    "HeaderOffset": 287,
+    "StartTextOffset": 293,
+    "EndTextOffset": 298,
+    "Text": "Huxkey"
+  },
+  {
+    "HeaderOffset": 334,
+    "StartTextOffset": 340,
+    "EndTextOffset": 396,
+    "Text": "A set of lockpicks combined with high end hacking device."
+  },
+  {
+    "HeaderOffset": 397,
+    "StartTextOffset": 403,
+    "EndTextOffset": 412,
+    "Text": "Devices.45"
+  },
+  {
+    "HeaderOffset": 661,
+    "StartTextOffset": 667,
+    "EndTextOffset": 681,
+    "Text": "LockpickUtility"
+  },
+  {
+    "HeaderOffset": 691,
+    "StartTextOffset": 697,
+    "EndTextOffset": 707,
+    "Text": "HackUtility"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 730,
+    "Text": "openVent"
+  },
+  {
+    "HeaderOffset": 740,
+    "StartTextOffset": 746,
+    "EndTextOffset": 754,
+    "Text": "closeVent"
+  },
+  {
+    "HeaderOffset": 781,
+    "StartTextOffset": 787,
+    "EndTextOffset": 798,
+    "Text": "HackingBonus"
+  },
+  {
+    "HeaderOffset": 812,
+    "StartTextOffset": 818,
+    "EndTextOffset": 830,
+    "Text": "LockpickBonus"
+  }
+]

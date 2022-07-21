@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 245,
+    "StartTextOffset": 251,
+    "EndTextOffset": 273,
+    "Text": "blueprint.nervosomnifer"
+  },
+  {
+    "HeaderOffset": 274,
+    "StartTextOffset": 280,
+    "EndTextOffset": 303,
+    "Text": "Blueprint: Nervosomnifer"
+  },
+  {
+    "HeaderOffset": 339,
+    "StartTextOffset": 345,
+    "EndTextOffset": 416,
+    "Text": "Contains instructions on how to create something called \"Nervosomnifer\"."
+  },
+  {
+    "HeaderOffset": 340,
+    "StartTextOffset": 346,
+    "EndTextOffset": 412,
+    "Text": "ontains instructions on how to create something called \"Nervosomnif"
+  },
+  {
+    "HeaderOffset": 417,
+    "StartTextOffset": 423,
+    "EndTextOffset": 431,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 567,
+    "StartTextOffset": 573,
+    "EndTextOffset": 585,
+    "Text": "nervosomnifer"
+  },
+  {
+    "HeaderOffset": 644,
+    "StartTextOffset": 650,
+    "EndTextOffset": 669,
+    "Text": "blueprintconsumation"
+  }
+]

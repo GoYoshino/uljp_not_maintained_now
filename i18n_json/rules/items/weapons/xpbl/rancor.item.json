@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 727,
+    "StartTextOffset": 733,
+    "EndTextOffset": 736,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 785,
+    "StartTextOffset": 791,
+    "EndTextOffset": 796,
+    "Text": "rancor"
+  },
+  {
+    "HeaderOffset": 797,
+    "StartTextOffset": 803,
+    "EndTextOffset": 808,
+    "Text": "Rancor"
+  },
+  {
+    "HeaderOffset": 844,
+    "StartTextOffset": 850,
+    "EndTextOffset": 915,
+    "Text": "Unusually designed combat shotgun with a large cylindric magazine."
+  },
+  {
+    "HeaderOffset": 916,
+    "StartTextOffset": 922,
+    "EndTextOffset": 937,
+    "Text": "xpbl_Weapons.183"
+  },
+  {
+    "HeaderOffset": 1313,
+    "StartTextOffset": 1319,
+    "EndTextOffset": 1324,
+    "Text": "xpblsa"
+  },
+  {
+    "HeaderOffset": 1526,
+    "StartTextOffset": 1532,
+    "EndTextOffset": 1538,
+    "Text": "shotgun"
+  },
+  {
+    "HeaderOffset": 1638,
+    "StartTextOffset": 1644,
+    "EndTextOffset": 1647,
+    "Text": "uwep"
+  },
+  {
+    "HeaderOffset": 1657,
+    "StartTextOffset": 1663,
+    "EndTextOffset": 1674,
+    "Text": "shotgunBurst"
+  }
+]

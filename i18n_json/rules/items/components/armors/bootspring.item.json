@@ -1,0 +1,92 @@
+[
+  {
+    "HeaderOffset": 289,
+    "StartTextOffset": 295,
+    "EndTextOffset": 305,
+    "Text": "Boot Spring"
+  },
+  {
+    "HeaderOffset": 341,
+    "StartTextOffset": 347,
+    "EndTextOffset": 404,
+    "Text": "Literally gives a spring to your step, but is quite noisy."
+  },
+  {
+    "HeaderOffset": 405,
+    "StartTextOffset": 411,
+    "EndTextOffset": 423,
+    "Text": "Components.86"
+  },
+  {
+    "HeaderOffset": 805,
+    "StartTextOffset": 811,
+    "EndTextOffset": 819,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 865,
+    "StartTextOffset": 871,
+    "EndTextOffset": 877,
+    "Text": "Stealth"
+  },
+  {
+    "HeaderOffset": 912,
+    "StartTextOffset": 918,
+    "EndTextOffset": 938,
+    "Text": "BaseMovementPointsMod"
+  },
+  {
+    "HeaderOffset": 969,
+    "StartTextOffset": 975,
+    "EndTextOffset": 1001,
+    "Text": "MovementPointsPerQualityMod"
+  },
+  {
+    "HeaderOffset": 1036,
+    "StartTextOffset": 1042,
+    "EndTextOffset": 1061,
+    "Text": "BaseMovementSpeedMod"
+  },
+  {
+    "HeaderOffset": 1096,
+    "StartTextOffset": 1102,
+    "EndTextOffset": 1127,
+    "Text": "MovementSpeedPerQualityMod"
+  },
+  {
+    "HeaderOffset": 1161,
+    "StartTextOffset": 1167,
+    "EndTextOffset": 1181,
+    "Text": "CustomBootsName"
+  },
+  {
+    "HeaderOffset": 1182,
+    "StartTextOffset": 1188,
+    "EndTextOffset": 1195,
+    "Text": "Striders"
+  },
+  {
+    "HeaderOffset": 1221,
+    "StartTextOffset": 1227,
+    "EndTextOffset": 1235,
+    "Text": "BootsDesc"
+  },
+  {
+    "HeaderOffset": 1236,
+    "StartTextOffset": 1242,
+    "EndTextOffset": 1362,
+    "Text": "They are equipped with compact military grade springs that allow the wearer to move faster, but also make a lot of noise."
+  },
+  {
+    "HeaderOffset": 1388,
+    "StartTextOffset": 1394,
+    "EndTextOffset": 1402,
+    "Text": "IconParam"
+  },
+  {
+    "HeaderOffset": 1403,
+    "StartTextOffset": 1409,
+    "EndTextOffset": 1414,
+    "Text": "Spring"
+  }
+]

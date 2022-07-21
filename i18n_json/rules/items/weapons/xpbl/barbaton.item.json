@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 657,
+    "StartTextOffset": 663,
+    "EndTextOffset": 667,
+    "Text": "MSFE1"
+  },
+  {
+    "HeaderOffset": 768,
+    "StartTextOffset": 774,
+    "EndTextOffset": 777,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 826,
+    "StartTextOffset": 832,
+    "EndTextOffset": 839,
+    "Text": "barbaton"
+  },
+  {
+    "HeaderOffset": 840,
+    "StartTextOffset": 846,
+    "EndTextOffset": 853,
+    "Text": "Barbaton"
+  },
+  {
+    "HeaderOffset": 889,
+    "StartTextOffset": 895,
+    "EndTextOffset": 989,
+    "Text": "A giant mace made out of many bones and teeth tied and glued together. It's unreasonably heavy."
+  },
+  {
+    "HeaderOffset": 990,
+    "StartTextOffset": 996,
+    "EndTextOffset": 1011,
+    "Text": "xpbl_Weapons.215"
+  },
+  {
+    "HeaderOffset": 1767,
+    "StartTextOffset": 1773,
+    "EndTextOffset": 1784,
+    "Text": "Intimidation"
+  },
+  {
+    "HeaderOffset": 1864,
+    "StartTextOffset": 1870,
+    "EndTextOffset": 1882,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 1905,
+    "StartTextOffset": 1911,
+    "EndTextOffset": 1923,
+    "Text": "bleedingWound"
+  },
+  {
+    "HeaderOffset": 2029,
+    "StartTextOffset": 2035,
+    "EndTextOffset": 2043,
+    "Text": "CanPoison"
+  }
+]

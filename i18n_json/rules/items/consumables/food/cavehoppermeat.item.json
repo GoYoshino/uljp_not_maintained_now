@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 207,
+    "StartTextOffset": 213,
+    "EndTextOffset": 227,
+    "Text": "food.hopperMeat"
+  },
+  {
+    "HeaderOffset": 228,
+    "StartTextOffset": 234,
+    "EndTextOffset": 249,
+    "Text": "Cave Hopper Meat"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 382,
+    "Text": "Cave hopper meat should not be consumed raw. It's much tastier in the form of a cooked meal."
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 358,
+    "Text": "ave hopper meat should not be consumed raw. It's much tastier in th"
+  },
+  {
+    "HeaderOffset": 383,
+    "StartTextOffset": 389,
+    "EndTextOffset": 394,
+    "Text": "Food.0"
+  }
+]

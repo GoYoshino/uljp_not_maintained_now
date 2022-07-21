@@ -1,0 +1,56 @@
+[
+  {
+    "HeaderOffset": 379,
+    "StartTextOffset": 385,
+    "EndTextOffset": 415,
+    "Text": "High Frequency Shield Modulator"
+  },
+  {
+    "HeaderOffset": 451,
+    "StartTextOffset": 457,
+    "EndTextOffset": 571,
+    "Text": "This modulator can be used when crafting energy shield emitters that focus on deflecting high impact speed attacks."
+  },
+  {
+    "HeaderOffset": 572,
+    "StartTextOffset": 578,
+    "EndTextOffset": 591,
+    "Text": "Components.233"
+  },
+  {
+    "HeaderOffset": 1125,
+    "StartTextOffset": 1131,
+    "EndTextOffset": 1141,
+    "Text": "Electronics"
+  },
+  {
+    "HeaderOffset": 1172,
+    "StartTextOffset": 1178,
+    "EndTextOffset": 1191,
+    "Text": "ModulatorIndex"
+  },
+  {
+    "HeaderOffset": 1221,
+    "StartTextOffset": 1227,
+    "EndTextOffset": 1243,
+    "Text": "ShieldVisualModel"
+  },
+  {
+    "HeaderOffset": 1244,
+    "StartTextOffset": 1250,
+    "EndTextOffset": 1259,
+    "Text": "HighShield"
+  },
+  {
+    "HeaderOffset": 1285,
+    "StartTextOffset": 1291,
+    "EndTextOffset": 1296,
+    "Text": "Prefix"
+  },
+  {
+    "HeaderOffset": 1297,
+    "StartTextOffset": 1303,
+    "EndTextOffset": 1316,
+    "Text": "High Frequency"
+  }
+]

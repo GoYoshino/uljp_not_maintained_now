@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 244,
+    "StartTextOffset": 250,
+    "EndTextOffset": 285,
+    "Text": "psiMentor.MotorCognitiveTransference"
+  },
+  {
+    "HeaderOffset": 286,
+    "StartTextOffset": 292,
+    "EndTextOffset": 335,
+    "Text": "Psionic Mentor: Motor-cognitive Transference"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 501,
+    "Text": "This device can be used to automatically teach yourself Motor-cognitive Transference psi ability through cerebral imprinting."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 461,
+    "Text": "his device can be used to automatically teach yourself Motor-cognitive Transference "
+  },
+  {
+    "HeaderOffset": 502,
+    "StartTextOffset": 508,
+    "EndTextOffset": 526,
+    "Text": "Items.PsionicMentor"
+  },
+  {
+    "HeaderOffset": 662,
+    "StartTextOffset": 668,
+    "EndTextOffset": 693,
+    "Text": "MotorCognitiveTransference"
+  },
+  {
+    "HeaderOffset": 752,
+    "StartTextOffset": 758,
+    "EndTextOffset": 777,
+    "Text": "PsiMentorConsumation"
+  }
+]

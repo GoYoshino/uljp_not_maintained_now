@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 229,
+    "StartTextOffset": 235,
+    "EndTextOffset": 253,
+    "Text": "psiBeetleBrainInJar"
+  },
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 284,
+    "Text": "Psi Beetle Brain in a Jar"
+  },
+  {
+    "HeaderOffset": 320,
+    "StartTextOffset": 326,
+    "EndTextOffset": 412,
+    "Text": "A psi beetle brain suspended in liquid and connected to some sort of electronic device."
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 391,
+    "Text": " psi beetle brain suspended in liquid and connected to some sort "
+  },
+  {
+    "HeaderOffset": 413,
+    "StartTextOffset": 419,
+    "EndTextOffset": 444,
+    "Text": "Items.PsiBeetleBrainInAJar"
+  },
+  {
+    "HeaderOffset": 659,
+    "StartTextOffset": 665,
+    "EndTextOffset": 681,
+    "Text": "psiBeetleBrainPsi"
+  },
+  {
+    "HeaderOffset": 708,
+    "StartTextOffset": 714,
+    "EndTextOffset": 734,
+    "Text": "PsiSkillLevelOverride"
+  }
+]

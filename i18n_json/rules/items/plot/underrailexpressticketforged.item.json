@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 221,
+    "StartTextOffset": 227,
+    "EndTextOffset": 255,
+    "Text": "underrailExpressTicket_forged"
+  },
+  {
+    "HeaderOffset": 256,
+    "StartTextOffset": 262,
+    "EndTextOffset": 292,
+    "Text": "Forged Underrail Express Ticket"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 569,
+    "Text": "A forged Underrail Express ticket, valid for a single journey in both Lower and Upper Underrail trains, regardless of destination. The forged security hologram should be indistinguishable from the original, but one can never be sure..."
+  },
+  {
+    "HeaderOffset": 570,
+    "StartTextOffset": 576,
+    "EndTextOffset": 582,
+    "Text": "Plot.46"
+  }
+]

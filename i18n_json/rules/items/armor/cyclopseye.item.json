@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 430,
+    "StartTextOffset": 436,
+    "EndTextOffset": 440,
+    "Text": "MCDPE"
+  },
+  {
+    "HeaderOffset": 539,
+    "StartTextOffset": 545,
+    "EndTextOffset": 554,
+    "Text": "cyclopsEye"
+  },
+  {
+    "HeaderOffset": 555,
+    "StartTextOffset": 561,
+    "EndTextOffset": 572,
+    "Text": "Cyclop's Eye"
+  },
+  {
+    "HeaderOffset": 608,
+    "StartTextOffset": 614,
+    "EndTextOffset": 703,
+    "Text": "A helmet engineered specifically to amplify one psi ability at the expense of versatility."
+  },
+  {
+    "HeaderOffset": 609,
+    "StartTextOffset": 615,
+    "EndTextOffset": 679,
+    "Text": " helmet engineered specifically to amplify one psi ability at the"
+  },
+  {
+    "HeaderOffset": 704,
+    "StartTextOffset": 710,
+    "EndTextOffset": 725,
+    "Text": "Armor.CyclopsEye"
+  },
+  {
+    "HeaderOffset": 1140,
+    "StartTextOffset": 1146,
+    "EndTextOffset": 1155,
+    "Text": "PlasmaBeam"
+  },
+  {
+    "HeaderOffset": 1380,
+    "StartTextOffset": 1386,
+    "EndTextOffset": 1395,
+    "Text": "Perception"
+  }
+]

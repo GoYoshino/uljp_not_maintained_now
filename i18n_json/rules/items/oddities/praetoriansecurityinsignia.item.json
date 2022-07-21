@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 214,
+    "StartTextOffset": 220,
+    "EndTextOffset": 252,
+    "Text": "Oddity.PraetorianSecurityInsignia"
+  },
+  {
+    "HeaderOffset": 253,
+    "StartTextOffset": 259,
+    "EndTextOffset": 286,
+    "Text": "Praetorian Security Insignia"
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 392,
+    "Text": "Insignia worn by the members of Praetorian Security of Core City."
+  },
+  {
+    "HeaderOffset": 393,
+    "StartTextOffset": 399,
+    "EndTextOffset": 431,
+    "Text": "Oddity.PraetorianSecurityInsignia"
+  }
+]

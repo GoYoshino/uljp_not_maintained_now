@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 284,
+    "Text": "Battery.GreaterFusionCell"
+  },
+  {
+    "HeaderOffset": 285,
+    "StartTextOffset": 291,
+    "EndTextOffset": 309,
+    "Text": "Greater Fusion Cell"
+  },
+  {
+    "HeaderOffset": 345,
+    "StartTextOffset": 351,
+    "EndTextOffset": 498,
+    "Text": "This nuclear fusion battery houses a much bigger core than a regular fusion cell. Typically only used to charge vehicles and large field machinery."
+  },
+  {
+    "HeaderOffset": 499,
+    "StartTextOffset": 505,
+    "EndTextOffset": 514,
+    "Text": "Devices.33"
+  },
+  {
+    "HeaderOffset": 771,
+    "StartTextOffset": 777,
+    "EndTextOffset": 790,
+    "Text": "RechargeObject"
+  },
+  {
+    "HeaderOffset": 817,
+    "StartTextOffset": 823,
+    "EndTextOffset": 827,
+    "Text": "Power"
+  }
+]

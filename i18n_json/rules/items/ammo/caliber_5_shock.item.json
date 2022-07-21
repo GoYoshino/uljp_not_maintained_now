@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 344,
+    "StartTextOffset": 350,
+    "EndTextOffset": 369,
+    "Text": "Ammo.Caliber_5_Shock"
+  },
+  {
+    "HeaderOffset": 370,
+    "StartTextOffset": 376,
+    "EndTextOffset": 390,
+    "Text": "5mm Shock Round"
+  },
+  {
+    "HeaderOffset": 426,
+    "StartTextOffset": 432,
+    "EndTextOffset": 515,
+    "Text": "This cartridge contains a 5mm charged round that delivers an electroshock on impact."
+  },
+  {
+    "HeaderOffset": 516,
+    "StartTextOffset": 522,
+    "EndTextOffset": 541,
+    "Text": "Ammo.Caliber_5_Shock"
+  },
+  {
+    "HeaderOffset": 794,
+    "StartTextOffset": 800,
+    "EndTextOffset": 803,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 813,
+    "StartTextOffset": 819,
+    "EndTextOffset": 825,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 835,
+    "StartTextOffset": 841,
+    "EndTextOffset": 846,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 856,
+    "StartTextOffset": 862,
+    "EndTextOffset": 870,
+    "Text": "ldsingcur"
+  },
+  {
+    "HeaderOffset": 920,
+    "StartTextOffset": 926,
+    "EndTextOffset": 937,
+    "Text": "electroshock"
+  },
+  {
+    "HeaderOffset": 960,
+    "StartTextOffset": 966,
+    "EndTextOffset": 969,
+    "Text": "daze"
+  }
+]

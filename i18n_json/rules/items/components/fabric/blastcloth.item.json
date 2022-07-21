@@ -1,0 +1,164 @@
+[
+  {
+    "HeaderOffset": 355,
+    "StartTextOffset": 361,
+    "EndTextOffset": 370,
+    "Text": "blastCloth"
+  },
+  {
+    "HeaderOffset": 371,
+    "StartTextOffset": 377,
+    "EndTextOffset": 387,
+    "Text": "Blast Cloth"
+  },
+  {
+    "HeaderOffset": 423,
+    "StartTextOffset": 429,
+    "EndTextOffset": 524,
+    "Text": "It's a bolt of \"blast cloth\" which can be used to enhance protection from impacts of explosions."
+  },
+  {
+    "HeaderOffset": 424,
+    "StartTextOffset": 430,
+    "EndTextOffset": 502,
+    "Text": "t's a bolt of \"blast cloth\" which can be used to enhance protection from "
+  },
+  {
+    "HeaderOffset": 525,
+    "StartTextOffset": 531,
+    "EndTextOffset": 543,
+    "Text": "Components.13"
+  },
+  {
+    "HeaderOffset": 1045,
+    "StartTextOffset": 1051,
+    "EndTextOffset": 1059,
+    "Text": "Tailoring"
+  },
+  {
+    "HeaderOffset": 1089,
+    "StartTextOffset": 1095,
+    "EndTextOffset": 1110,
+    "Text": "ArmorDescription"
+  },
+  {
+    "HeaderOffset": 1111,
+    "StartTextOffset": 1117,
+    "EndTextOffset": 1212,
+    "Text": "Its outer layer is made from \"blast cloth\" which enhances protection from impacts of explosions."
+  },
+  {
+    "HeaderOffset": 1222,
+    "StartTextOffset": 1228,
+    "EndTextOffset": 1239,
+    "Text": "OvercoatType"
+  },
+  {
+    "HeaderOffset": 1240,
+    "StartTextOffset": 1246,
+    "EndTextOffset": 1250,
+    "Text": "Blast"
+  },
+  {
+    "HeaderOffset": 1260,
+    "StartTextOffset": 1266,
+    "EndTextOffset": 1276,
+    "Text": "ArmorPrefix"
+  },
+  {
+    "HeaderOffset": 1277,
+    "StartTextOffset": 1283,
+    "EndTextOffset": 1287,
+    "Text": "Blast"
+  },
+  {
+    "HeaderOffset": 1297,
+    "StartTextOffset": 1303,
+    "EndTextOffset": 1319,
+    "Text": "ArmorDescription2"
+  },
+  {
+    "HeaderOffset": 1320,
+    "StartTextOffset": 1326,
+    "EndTextOffset": 1411,
+    "Text": "It comes with a \"blast\" overcoat which enhances protection from impacts of explosions."
+  },
+  {
+    "HeaderOffset": 1421,
+    "StartTextOffset": 1427,
+    "EndTextOffset": 1436,
+    "Text": "HelmetDesc"
+  },
+  {
+    "HeaderOffset": 1437,
+    "StartTextOffset": 1443,
+    "EndTextOffset": 1533,
+    "Text": "It also comes with a \"blast\" overcoat which enhances protection from impacts of explosions."
+  },
+  {
+    "HeaderOffset": 1543,
+    "StartTextOffset": 1549,
+    "EndTextOffset": 1573,
+    "Text": "LeatherArmorVisualVariant"
+  },
+  {
+    "HeaderOffset": 1591,
+    "StartTextOffset": 1597,
+    "EndTextOffset": 1621,
+    "Text": "TacticalVestVisualVariant"
+  },
+  {
+    "HeaderOffset": 1657,
+    "StartTextOffset": 1663,
+    "EndTextOffset": 1670,
+    "Text": "MatIndex"
+  },
+  {
+    "HeaderOffset": 1684,
+    "StartTextOffset": 1690,
+    "EndTextOffset": 1704,
+    "Text": "BalaclavaPrefix"
+  },
+  {
+    "HeaderOffset": 1705,
+    "StartTextOffset": 1711,
+    "EndTextOffset": 1715,
+    "Text": "Blast"
+  },
+  {
+    "HeaderOffset": 1725,
+    "StartTextOffset": 1731,
+    "EndTextOffset": 1743,
+    "Text": "BalaclavaDesc"
+  },
+  {
+    "HeaderOffset": 1744,
+    "StartTextOffset": 1750,
+    "EndTextOffset": 1857,
+    "Text": "This is a three-hole balaclava made from \"blast cloth\" which enhances protection from impacts of explosions."
+  },
+  {
+    "HeaderOffset": 1867,
+    "StartTextOffset": 1873,
+    "EndTextOffset": 1882,
+    "Text": "BootPrefix"
+  },
+  {
+    "HeaderOffset": 1883,
+    "StartTextOffset": 1889,
+    "EndTextOffset": 1893,
+    "Text": "Blast"
+  },
+  {
+    "HeaderOffset": 1903,
+    "StartTextOffset": 1909,
+    "EndTextOffset": 1921,
+    "Text": "TabiBootsDesc"
+  },
+  {
+    "HeaderOffset": 1922,
+    "StartTextOffset": 1928,
+    "EndTextOffset": 2023,
+    "Text": "These tabi boots are made of \"blast cloth\" which enhances protection from impacts of explosions."
+  }
+]

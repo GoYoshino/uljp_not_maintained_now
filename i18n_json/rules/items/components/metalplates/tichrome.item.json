@@ -1,0 +1,80 @@
+[
+  {
+    "HeaderOffset": 435,
+    "StartTextOffset": 441,
+    "EndTextOffset": 449,
+    "Text": "triChrome"
+  },
+  {
+    "HeaderOffset": 450,
+    "StartTextOffset": 456,
+    "EndTextOffset": 468,
+    "Text": "TiChrome Bars"
+  },
+  {
+    "HeaderOffset": 504,
+    "StartTextOffset": 510,
+    "EndTextOffset": 666,
+    "Text": "It's a set of bars of TiChrome, a metal alloy primarily made from titanium and chromium. It's particularly known for its reflectiveness and heat resistance."
+  },
+  {
+    "HeaderOffset": 667,
+    "StartTextOffset": 673,
+    "EndTextOffset": 686,
+    "Text": "Components.122"
+  },
+  {
+    "HeaderOffset": 1330,
+    "StartTextOffset": 1336,
+    "EndTextOffset": 1344,
+    "Text": "Mechanics"
+  },
+  {
+    "HeaderOffset": 1374,
+    "StartTextOffset": 1380,
+    "EndTextOffset": 1387,
+    "Text": "Material"
+  },
+  {
+    "HeaderOffset": 1388,
+    "StartTextOffset": 1394,
+    "EndTextOffset": 1401,
+    "Text": "TiChrome"
+  },
+  {
+    "HeaderOffset": 1428,
+    "StartTextOffset": 1434,
+    "EndTextOffset": 1445,
+    "Text": "IsMetalPlate"
+  },
+  {
+    "HeaderOffset": 1473,
+    "StartTextOffset": 1479,
+    "EndTextOffset": 1491,
+    "Text": "MaterialIndex"
+  },
+  {
+    "HeaderOffset": 1522,
+    "StartTextOffset": 1528,
+    "EndTextOffset": 1545,
+    "Text": "HelmetCritModifier"
+  },
+  {
+    "HeaderOffset": 1580,
+    "StartTextOffset": 1586,
+    "EndTextOffset": 1599,
+    "Text": "ShieldMatIndex"
+  },
+  {
+    "HeaderOffset": 1630,
+    "StartTextOffset": 1636,
+    "EndTextOffset": 1648,
+    "Text": "GloveMatIndex"
+  },
+  {
+    "HeaderOffset": 1679,
+    "StartTextOffset": 1685,
+    "EndTextOffset": 1697,
+    "Text": "GloveEnhIndex"
+  }
+]

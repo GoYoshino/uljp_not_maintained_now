@@ -1,0 +1,62 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 261,
+    "Text": "trap.caveEarPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 262,
+    "StartTextOffset": 268,
+    "EndTextOffset": 292,
+    "Text": "Cave Ear Poison Bear Trap"
+  },
+  {
+    "HeaderOffset": 328,
+    "StartTextOffset": 334,
+    "EndTextOffset": 545,
+    "Text": "A simple mechanical trap designed to wound and ensnare the victim. As if the excruciating pain of having your foot caught in one of these wasn't enough, the metal jaws have also been coated with cave ear poison."
+  },
+  {
+    "HeaderOffset": 546,
+    "StartTextOffset": 552,
+    "EndTextOffset": 564,
+    "Text": "Explosives.92"
+  },
+  {
+    "HeaderOffset": 824,
+    "StartTextOffset": 830,
+    "EndTextOffset": 855,
+    "Text": "PlaceCaveEarPoisonBearTrap"
+  },
+  {
+    "HeaderOffset": 882,
+    "StartTextOffset": 888,
+    "EndTextOffset": 901,
+    "Text": "PoisonDuration"
+  },
+  {
+    "HeaderOffset": 931,
+    "StartTextOffset": 937,
+    "EndTextOffset": 946,
+    "Text": "PoisonCode"
+  },
+  {
+    "HeaderOffset": 947,
+    "StartTextOffset": 953,
+    "EndTextOffset": 965,
+    "Text": "CaveEarPoison"
+  },
+  {
+    "HeaderOffset": 991,
+    "StartTextOffset": 997,
+    "EndTextOffset": 1006,
+    "Text": "PoisonName"
+  },
+  {
+    "HeaderOffset": 1007,
+    "StartTextOffset": 1013,
+    "EndTextOffset": 1027,
+    "Text": "Cave Ear Poison"
+  }
+]

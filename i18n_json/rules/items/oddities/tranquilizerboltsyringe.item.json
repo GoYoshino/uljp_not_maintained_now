@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 234,
+    "StartTextOffset": 240,
+    "EndTextOffset": 269,
+    "Text": "Oddity.TranquilizerBoltSyringe"
+  },
+  {
+    "HeaderOffset": 270,
+    "StartTextOffset": 276,
+    "EndTextOffset": 300,
+    "Text": "Tranquilizer Bolt Syringe"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 570,
+    "Text": "This ballistic syringe was a part of what must've been a heavy duty tranquilizer bolt. It was stuck in a part of the carapace where two thoracic segments meet, just barely having missed the actual gap and the softer bits within."
+  },
+  {
+    "HeaderOffset": 571,
+    "StartTextOffset": 577,
+    "EndTextOffset": 606,
+    "Text": "Oddity.TranquilizerBoltSyringe"
+  }
+]

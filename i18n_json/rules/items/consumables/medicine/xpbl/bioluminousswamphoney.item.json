@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 230,
+    "StartTextOffset": 236,
+    "EndTextOffset": 256,
+    "Text": "bioluminousSwampHoney"
+  },
+  {
+    "HeaderOffset": 257,
+    "StartTextOffset": 263,
+    "EndTextOffset": 285,
+    "Text": "Bioluminous Marsh Honey"
+  },
+  {
+    "HeaderOffset": 321,
+    "StartTextOffset": 327,
+    "EndTextOffset": 418,
+    "Text": "A glowing pink clay-like nugget drenched in a honey-like substance. Looks weirdly delicious."
+  },
+  {
+    "HeaderOffset": 322,
+    "StartTextOffset": 328,
+    "EndTextOffset": 392,
+    "Text": " glowing pink clay-like nugget drenched in a honey-like substance"
+  },
+  {
+    "HeaderOffset": 419,
+    "StartTextOffset": 425,
+    "EndTextOffset": 445,
+    "Text": "bioluminousSwampHoney"
+  },
+  {
+    "HeaderOffset": 638,
+    "StartTextOffset": 644,
+    "EndTextOffset": 675,
+    "Text": "BioluminousSwampHoneyConsumption"
+  }
+]

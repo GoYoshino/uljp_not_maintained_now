@@ -1,0 +1,44 @@
+[
+  {
+    "HeaderOffset": 750,
+    "StartTextOffset": 756,
+    "EndTextOffset": 759,
+    "Text": "eWUE"
+  },
+  {
+    "HeaderOffset": 808,
+    "StartTextOffset": 814,
+    "EndTextOffset": 822,
+    "Text": "wep.quake"
+  },
+  {
+    "HeaderOffset": 823,
+    "StartTextOffset": 829,
+    "EndTextOffset": 833,
+    "Text": "Quake"
+  },
+  {
+    "HeaderOffset": 869,
+    "StartTextOffset": 875,
+    "EndTextOffset": 1068,
+    "Text": "The head of this hammer vibrates forcefully when swung, yet luckily little of it can be felt through the handle. Were it otherwise, the wielder would quickly develop vibration-induced injuries."
+  },
+  {
+    "HeaderOffset": 1069,
+    "StartTextOffset": 1075,
+    "EndTextOffset": 1086,
+    "Text": "Weapon.Quake"
+  },
+  {
+    "HeaderOffset": 1799,
+    "StartTextOffset": 1805,
+    "EndTextOffset": 1808,
+    "Text": "daze"
+  },
+  {
+    "HeaderOffset": 1861,
+    "StartTextOffset": 1867,
+    "EndTextOffset": 1875,
+    "Text": "shockwave"
+  }
+]

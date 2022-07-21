@@ -1,0 +1,32 @@
+[
+  {
+    "HeaderOffset": 218,
+    "StartTextOffset": 224,
+    "EndTextOffset": 239,
+    "Text": "grenadeBlueprint"
+  },
+  {
+    "HeaderOffset": 240,
+    "StartTextOffset": 246,
+    "EndTextOffset": 268,
+    "Text": "Blueprint: Hand Grenade"
+  },
+  {
+    "HeaderOffset": 304,
+    "StartTextOffset": 310,
+    "EndTextOffset": 374,
+    "Text": "Contains instructions on how to create an explosive hand grenade."
+  },
+  {
+    "HeaderOffset": 375,
+    "StartTextOffset": 381,
+    "EndTextOffset": 389,
+    "Text": "Devices.0"
+  },
+  {
+    "HeaderOffset": 587,
+    "StartTextOffset": 593,
+    "EndTextOffset": 612,
+    "Text": "blueprintconsumation"
+  }
+]

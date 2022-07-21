@@ -1,0 +1,50 @@
+[
+  {
+    "HeaderOffset": 303,
+    "StartTextOffset": 309,
+    "EndTextOffset": 332,
+    "Text": "Ammo.Vial_Acid_Corrosive"
+  },
+  {
+    "HeaderOffset": 333,
+    "StartTextOffset": 339,
+    "EndTextOffset": 357,
+    "Text": "Corrosive Acid Vial"
+  },
+  {
+    "HeaderOffset": 393,
+    "StartTextOffset": 399,
+    "EndTextOffset": 447,
+    "Text": "Can be loaded into an acid based chemical weapon."
+  },
+  {
+    "HeaderOffset": 448,
+    "StartTextOffset": 454,
+    "EndTextOffset": 475,
+    "Text": "Ammo.CorrosiveAcidVial"
+  },
+  {
+    "HeaderOffset": 717,
+    "StartTextOffset": 723,
+    "EndTextOffset": 726,
+    "Text": "rwep"
+  },
+  {
+    "HeaderOffset": 736,
+    "StartTextOffset": 742,
+    "EndTextOffset": 748,
+    "Text": "rcurwep"
+  },
+  {
+    "HeaderOffset": 758,
+    "StartTextOffset": 764,
+    "EndTextOffset": 769,
+    "Text": "ldsing"
+  },
+  {
+    "HeaderOffset": 779,
+    "StartTextOffset": 785,
+    "EndTextOffset": 793,
+    "Text": "ldsingcur"
+  }
+]

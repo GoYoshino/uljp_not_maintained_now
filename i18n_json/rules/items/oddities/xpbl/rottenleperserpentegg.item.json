@@ -1,0 +1,26 @@
+[
+  {
+    "HeaderOffset": 220,
+    "StartTextOffset": 226,
+    "EndTextOffset": 253,
+    "Text": "Oddity.RottenLeperSerpentEgg"
+  },
+  {
+    "HeaderOffset": 254,
+    "StartTextOffset": 260,
+    "EndTextOffset": 283,
+    "Text": "Rotten Leper Serpent Egg"
+  },
+  {
+    "HeaderOffset": 319,
+    "StartTextOffset": 325,
+    "EndTextOffset": 371,
+    "Text": "The stench of this thing is all but unbearable."
+  },
+  {
+    "HeaderOffset": 372,
+    "StartTextOffset": 378,
+    "EndTextOffset": 405,
+    "Text": "Oddity.RottenLeperSerpentEgg"
+  }
+]

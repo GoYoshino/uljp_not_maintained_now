@@ -1,0 +1,38 @@
+[
+  {
+    "HeaderOffset": 248,
+    "StartTextOffset": 254,
+    "EndTextOffset": 269,
+    "Text": "Battery.ScLiCell"
+  },
+  {
+    "HeaderOffset": 270,
+    "StartTextOffset": 276,
+    "EndTextOffset": 300,
+    "Text": "Supercharged Lithium Cell"
+  },
+  {
+    "HeaderOffset": 336,
+    "StartTextOffset": 342,
+    "EndTextOffset": 518,
+    "Text": "The pinnacle of lithium energy storage technology. This cell discharges energy many orders of magnitude faster than a conventional lithium-ion battery, but cannot be recharged."
+  },
+  {
+    "HeaderOffset": 519,
+    "StartTextOffset": 525,
+    "EndTextOffset": 534,
+    "Text": "Devices.30"
+  },
+  {
+    "HeaderOffset": 790,
+    "StartTextOffset": 796,
+    "EndTextOffset": 809,
+    "Text": "RechargeObject"
+  },
+  {
+    "HeaderOffset": 836,
+    "StartTextOffset": 842,
+    "EndTextOffset": 846,
+    "Text": "Power"
+  }
+]
